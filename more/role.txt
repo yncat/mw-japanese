@@ -1,0 +1,3944 @@
+Warrior
+Warrior
+
+Orc
+Orc
+
+Assassin
+Assassin
+
+Hunter
+Hunter
+
+Mage
+Mage
+
+Elf
+Elf
+
+Priest
+Priest
+
+Sorcerer
+Sorcerer
+
+Sorceress
+Sorceress
+
+Frog
+Frog
+
+Beetle
+Beetle
+
+Golden Rooster
+Golden Rooster
+
+Duck
+Duck
+
+Donkey
+Donkey
+
+Goat
+Goat
+
+Steed
+Steed
+
+Cattle
+Cattle
+
+Shorthair Cat
+Shorthair Cat
+
+Hound
+Hound
+
+Curly Cat
+Curly Cat
+
+Shepard Dog
+Shepard Dog
+
+Parrot
+Parrot
+
+Lizard
+Lizard
+
+Monkey
+Monkey
+
+Wild Eagle
+Wild Eagle
+
+Hippo
+Hippo
+
+Boar
+Boar
+
+Elephant
+Elephant
+
+Brown Bear
+Brown Bear
+
+Snow Wolf
+Snow Wolf
+
+Lion
+Lion
+
+Cheetah
+Cheetah
+
+Tiger
+Tiger
+
+Pixie
+Pixie
+
+Sprite
+Sprite
+
+Goblin
+Goblin
+
+Slime
+Slime
+
+Wild Frog
+Wild Frog
+
+Wild Beetle
+Wild Beetle
+
+Wild Golden Rooster
+Wild Golden Rooster
+
+Wild Duck
+Wild Duck
+
+Wild Donkey
+Wild Donkey
+
+Wild Goat
+Wild Goat
+
+Wild Steed
+Wild Steed
+
+Wild Cattle
+Wild Cattle
+
+Wild Shorthair Cat
+Wild Shorthair Cat
+
+Wild Hound
+Wild Hound
+
+Wild Curly Cat
+Wild Curly Cat
+
+Wild Shepard Dog
+Wild Shepard Dog
+
+Wild Parrot
+Wild Parrot
+
+Wild Lizard
+Wild Lizard
+
+Wild Monkey
+Wild Monkey
+
+Wild Hippo
+Wild Hippo
+
+Wild Boar
+Wild Boar
+
+Wild Elephant
+Wild Elephant
+
+Wild Brown Bear
+Wild Brown Bear
+
+Wild Snow Wolf
+Wild Snow Wolf
+
+Wild Lion
+Wild Lion
+
+Wild Cheetah
+Wild Cheetah
+
+Wild Tiger
+Wild Tiger
+
+Ice Tiger
+Ice Tiger
+
+Night Cat
+Night Cat
+
+Cherub
+Cherub
+
+portal
+portal
+
+Totem
+Totem
+
+treasure chest
+treasure chest
+
+village chief Radome
+village chief Radome
+
+Master Arthur
+Master Arthur
+
+Blacksmith Oak
+Blacksmith Oak
+
+Apothecary Mia
+Apothecary Mia
+
+Celestial Elder
+Celestial Elder
+
+guide villager
+guide villager
+
+Master Katherine
+Master Katherine
+
+Master Taufan
+Master Taufan
+
+Blacksmith Zalachi
+Blacksmith Zalachi
+
+Pharmacist Dani
+Pharmacist Dani
+
+Shard Marketplace
+Shard Marketplace
+
+Master Drunk
+Master Drunk
+
+Witch Saffy
+Witch Saffy
+
+Guard Captain Martin
+Guard Captain Martin
+
+Mayor Maureen
+Mayor Maureen
+
+Citizen Kirk
+Citizen Kirk
+
+Chef Lee
+Chef Lee
+
+Artificer Milena
+Artificer Milena
+
+Girl hostage
+Girl hostage
+
+Priest Michelle
+Priest Michelle
+
+Angie
+Angie
+
+Chancellor Bren
+Chancellor Bren
+
+citizen Jasmine
+citizen Jasmine
+
+Citizen Fanny
+Citizen Fanny
+
+Granny Skycloth
+Granny Skycloth
+
+Natasha
+Natasha
+
+Chun Li
+Chun Li
+
+Blacksmith Ou Yezi
+Blacksmith Ou Yezi
+
+Grocer John
+Grocer John
+
+Master Kakarotto
+Master Kakarotto
+
+Master Elizabeth
+Master Elizabeth
+
+Master Pepper
+Master Pepper
+
+Weapon Merchant Gordon
+Weapon Merchant Gordon
+
+Bank receptionist Tamara
+Bank receptionist Tamara
+
+Pet Trainer Granny Shen
+Pet Trainer Granny Shen
+
+Potion Merchant Zoma
+Potion Merchant Zoma
+
+Camp Administrator Sudon
+Camp Administrator Sudon
+
+Orc Dyson
+Orc Dyson
+
+Master Macghee
+Master Macghee
+
+Lord Garcina
+Lord Garcina
+
+Bank receptionist teleju
+Bank receptionist teleju
+
+Blacksmith Marisol
+Blacksmith Marisol
+
+Grocer Lana
+Grocer Lana
+
+Weapon Merchant Claire
+Weapon Merchant Claire
+
+Jewelry Merchant Yuna
+Jewelry Merchant Yuna
+
+Artificer ilana
+Artificer ilana
+
+Pet Trainer Isabella
+Pet Trainer Isabella
+
+Blacksmith Malcolm
+Blacksmith Malcolm
+
+Elder Johanna
+Elder Johanna
+
+Blacksmith Senbei Norimaki
+Blacksmith Senbei Norimaki
+
+Armor Merchant Akizuki
+Armor Merchant Akizuki
+
+Master Federo
+Master Federo
+
+Pope Saxon
+Pope Saxon
+
+Jewelry Merchant alpana
+Jewelry Merchant alpana
+
+Potion Merchant Magnus
+Potion Merchant Magnus
+
+Weapon Merchant Monchia
+Weapon Merchant Monchia
+
+Grocer Sam
+Grocer Sam
+
+Artificer Ami
+Artificer Ami
+
+Chef Kaguya Granny
+Chef Kaguya Granny
+
+Bank receptionist Kaito
+Bank receptionist Kaito
+
+Master Galaxia
+Master Galaxia
+
+Ecilian
+Ecilian
+
+Blacksmith Zosia
+Blacksmith Zosia
+
+Chef Aunt Sun
+Chef Aunt Sun
+
+Sister Mary
+Sister Mary
+
+Master Shadow Killer
+Master Shadow Killer
+
+Lord Barakhe
+Lord Barakhe
+
+Potion Mona Lisa
+Potion Mona Lisa
+
+Blacksmith Sanchi
+Blacksmith Sanchi
+
+lazy sheep
+lazy sheep
+
+Bartender
+Bartender
+
+Nina
+Nina
+
+Traveling Merchant
+Traveling Merchant
+
+Hen
+Hen
+
+Rooster
+Rooster
+
+chick
+chick
+
+Grass Snake
+Grass Snake
+
+Giant Snake
+Giant Snake
+
+porcupine
+porcupine
+
+steel tooth pig
+steel tooth pig
+
+iron head pig
+iron head pig
+
+Iron Paw Bear
+Iron Paw Bear
+
+Iron Armor Bear
+Iron Armor Bear
+
+guinea pig
+guinea pig
+
+chipmunk
+chipmunk
+
+mole
+mole
+
+man-eating rat
+man-eating rat
+
+black bat
+black bat
+
+blood bat
+blood bat
+
+Pig-Face Bat King
+Pig-Face Bat King
+
+green snake
+green snake
+
+White Snake
+White Snake
+
+Anaconda
+Anaconda
+
+Black Rat
+Black Rat
+
+White Rat
+White Rat
+
+blowfly
+blowfly
+
+Five-colored deer
+Five-colored deer
+
+maroon horse
+maroon horse
+
+Bullfinch
+Bullfinch
+
+Silver ring snake
+Silver ring snake
+
+Bactrian camel
+Bactrian camel
+
+Alpaca
+Alpaca
+
+vulture
+vulture
+
+Golden eagle
+Golden eagle
+
+sand snake
+sand snake
+
+Death Worm
+Death Worm
+
+red armor Cattle
+red armor Cattle
+
+seducing fox
+seducing fox
+
+black jackal
+black jackal
+
+Bloodfang Wolf
+Bloodfang Wolf
+
+Sabertooth wolf
+Sabertooth wolf
+
+white giant wolf
+white giant wolf
+
+Man-wolf Caesar
+Man-wolf Caesar
+
+Piebald mosquito
+Piebald mosquito
+
+slobber
+slobber
+
+black leech
+black leech
+
+Purple Toad
+Purple Toad
+
+green bullfrog
+green bullfrog
+
+Mud Slime
+Mud Slime
+
+Shapeshifting Slime
+Shapeshifting Slime
+
+Crested Penguin
+Crested Penguin
+
+Ring Seal
+Ring Seal
+
+Sea Lion
+Sea Lion
+
+Snow Leopard
+Snow Leopard
+
+White Bear
+White Bear
+
+Ice Lizard
+Ice Lizard
+
+Ice Queen Los
+Ice Queen Los
+
+Blood Claw Cat
+Blood Claw Cat
+
+Lynx
+Lynx
+
+Leopard
+Leopard
+
+striped tiger
+striped tiger
+
+golden lion
+golden lion
+
+Wildcat Warrior
+Wildcat Warrior
+
+wildcat shooter
+wildcat shooter
+
+Cat King Carter
+Cat King Carter
+
+zombie
+zombie
+
+mummy
+mummy
+
+little zombie
+little zombie
+
+ghoul
+ghoul
+
+three-headed dog
+three-headed dog
+
+Pharaoh Tar
+Pharaoh Tar
+
+frog
+frog
+
+water snake
+water snake
+
+Piranha
+Piranha
+
+Inland sea monster
+Inland sea monster
+
+Giant Crocodile
+Giant Crocodile
+
+sea monster
+sea monster
+
+Gnome
+Gnome
+
+Dwarf elf
+Dwarf elf
+
+Dark elf
+Dark elf
+
+Dwarf
+Dwarf
+
+Gnome Leader
+Gnome Leader
+
+Goblin Leader
+Goblin Leader
+
+Dwarf elf elder
+Dwarf elf elder
+
+Dark Elf Leader
+Dark Elf Leader
+
+dwarf leader
+dwarf leader
+
+Elven King Erth
+Elven King Erth
+
+flame chicken
+flame chicken
+
+Flame Fox
+Flame Fox
+
+Flaming Wolf
+Flaming Wolf
+
+Chasing Leopard
+Chasing Leopard
+
+Thunder Tiger
+Thunder Tiger
+
+Dark Flame Dragon
+Dark Flame Dragon
+
+Giant Fire Dog
+Giant Fire Dog
+
+Fire Lord Balrog
+Fire Lord Balrog
+
+Gophers
+Gophers
+
+miner zombie
+miner zombie
+
+Split Slime
+Split Slime
+
+Maid Leliya
+Maid Leliya
+
+maid mohani
+maid mohani
+
+Zombie Priest
+Zombie Priest
+
+green-winged fly
+green-winged fly
+
+Bumblebee
+Bumblebee
+
+plum sparrow
+plum sparrow
+
+rattlesnake
+rattlesnake
+
+golden monkey
+golden monkey
+
+Dryad
+Dryad
+
+cannibal tree
+cannibal tree
+
+Millennium Dryad King
+Millennium Dryad King
+
+cactus
+cactus
+
+depravedPinocchio
+depravedPinocchio
+
+gargoyle
+gargoyle
+
+Slime chunks
+Slime chunks
+
+spotted seal
+spotted seal
+
+black fur seal
+black fur seal
+
+grey sea lion
+grey sea lion
+
+plesiosaur
+plesiosaur
+
+green turtle
+green turtle
+
+killer whale
+killer whale
+
+Hydra
+Hydra
+
+Whale Monster Bigger
+Whale Monster Bigger
+
+flame researcher
+flame researcher
+
+Bomb Researcher
+Bomb Researcher
+
+Doctor Meow Meow
+Doctor Meow Meow
+
+Doctor's Robot
+Doctor's Robot
+
+black centipede
+black centipede
+
+blood spider
+blood spider
+
+Crimson Scorpion
+Crimson Scorpion
+
+red-faced monkey
+red-faced monkey
+
+Ghost Faced Monkey
+Ghost Faced Monkey
+
+King beetle
+King beetle
+
+great ape
+great ape
+
+Monkey King Wukong
+Monkey King Wukong
+
+little monkey
+little monkey
+
+Tauren Warrior
+Tauren Warrior
+
+werewolf killer
+werewolf killer
+
+Centaur Archer
+Centaur Archer
+
+Lizardman Shaman
+Lizardman Shaman
+
+Raven Man Warlock
+Raven Man Warlock
+
+Orc Commander
+Orc Commander
+
+Orc Priest
+Orc Priest
+
+Elder Orc
+Elder Orc
+
+barbarian tyrant
+barbarian tyrant
+
+Cannibal
+Cannibal
+
+Bloodthirsty Demon
+Bloodthirsty Demon
+
+little devil
+little devil
+
+Lightning Spirit
+Lightning Spirit
+
+Thunder Beast
+Thunder Beast
+
+Two-Faced Demon
+Two-Faced Demon
+
+Succubus
+Succubus
+
+Thunder Lord
+Thunder Lord
+
+evil spirit
+evil spirit
+
+Masked Knifeman
+Masked Knifeman
+
+Masked Thrower
+Masked Thrower
+
+Aqua Witch
+Aqua Witch
+
+Fire Witch
+Fire Witch
+
+Temptress
+Temptress
+
+Nightmare
+Nightmare
+
+Meteor Witch
+Meteor Witch
+
+Meteor Queen Elsa
+Meteor Queen Elsa
+
+ghost jellyfish
+ghost jellyfish
+
+beak shark
+beak shark
+
+Pineapple Sea Urchin
+Pineapple Sea Urchin
+
+sun starfish
+sun starfish
+
+bubble fish
+bubble fish
+
+giant octopus
+giant octopus
+
+Water elf
+Water elf
+
+gyro sea urchin
+gyro sea urchin
+
+water demon
+water demon
+
+demonized Water Elf
+demonized Water Elf
+
+bear merman
+bear merman
+
+Mermaid Princess
+Mermaid Princess
+
+Apostle
+Apostle
+
+Harpy
+Harpy
+
+Hag
+Hag
+
+Black Witcher
+Black Witcher
+
+Death Knight
+Death Knight
+
+Dark Messenger
+Dark Messenger
+
+Altar Guard
+Altar Guard
+
+Dark Priest
+Dark Priest
+
+Skeleton Knifeman
+Skeleton Knifeman
+
+Skeleton Archer
+Skeleton Archer
+
+Blood Skull
+Blood Skull
+
+golden skull
+golden skull
+
+Skeleton Knight
+Skeleton Knight
+
+statue guard
+statue guard
+
+black skull
+black skull
+
+Lich King
+Lich King
+
+Jack-O'-Lantern
+Jack-O'-Lantern
+
+ghost
+ghost
+
+dark soul
+dark soul
+
+Undead
+Undead
+
+Necro
+Necro
+
+Wraith
+Wraith
+
+temptress
+temptress
+
+Robot Fly
+Robot Fly
+
+Robot Bird
+Robot Bird
+
+Robot Dog
+Robot Dog
+
+Robot Cat
+Robot Cat
+
+Robot Dinosaur
+Robot Dinosaur
+
+Robot guard
+Robot guard
+
+vampire child
+vampire child
+
+vampire girl
+vampire girl
+
+vampire boy
+vampire boy
+
+vampire Lady
+vampire Lady
+
+Vampire Knight
+Vampire Knight
+
+Vampire Earl
+Vampire Earl
+
+Vampire Elder
+Vampire Elder
+
+vampire lord dracula
+vampire lord dracula
+
+locust
+locust
+
+black bear
+black bear
+
+black bear king
+black bear king
+
+Leo
+Leo
+
+cow
+cow
+
+Gadfly
+Gadfly
+
+sheep
+sheep
+
+goat
+goat
+
+ox
+ox
+
+Marshall
+Marshall
+
+demonized Blood Bat
+demonized Blood Bat
+
+demonized cannibal tree
+demonized cannibal tree
+
+demonized white wolf
+demonized white wolf
+
+Mud King
+Mud King
+
+Wildcat leader
+Wildcat leader
+
+hell's three-headed dog
+hell's three-headed dog
+
+demonized Fire-breathing Beast
+demonized Fire-breathing Beast
+
+demonized killer whale
+demonized killer whale
+
+demonized Sand Snake
+demonized Sand Snake
+
+Ice blue lizard
+Ice blue lizard
+
+Robot Sergeant
+Robot Sergeant
+
+Two-headed Demon
+Two-headed Demon
+
+Elf Prince
+Elf Prince
+
+Guard
+Guard
+
+Rick
+Rick
+
+Santa Claus
+Santa Claus
+
+Man-eating Flower
+Man-eating Flower
+
+Demonized Man-eating Tree
+Demonized Man-eating Tree
+
+rat
+rat
+
+Demonized man-eating rat
+Demonized man-eating rat
+
+bat
+bat
+
+Snake
+Snake
+
+Demonized Colorful Boa
+Demonized Colorful Boa
+
+millipede
+millipede
+
+Demonized centipede
+Demonized centipede
+
+boar
+boar
+
+boar leader
+boar leader
+
+bear
+bear
+
+Giant Bear Leader
+Giant Bear Leader
+
+Dog
+Dog
+
+Vicious Dog leader
+Vicious Dog leader
+
+wolf
+wolf
+
+Vicious Wolf Leader
+Vicious Wolf Leader
+
+Cat
+Cat
+
+Demonized Cat
+Demonized Cat
+
+Demon Cheetah Leader
+Demon Cheetah Leader
+
+Demon Tiger Leader
+Demon Tiger Leader
+
+Demon Lion Leader
+Demon Lion Leader
+
+Crypt Demon Ape
+Crypt Demon Ape
+
+dragon
+dragon
+
+Black T-Rex
+Black T-Rex
+
+stone monster
+stone monster
+
+Stone Troll
+Stone Troll
+
+little demon
+little demon
+
+Imp
+Imp
+
+demon zomby
+demon zomby
+
+Skeleton
+Skeleton
+
+Bone Demon
+Bone Demon
+
+Ghost
+Ghost
+
+Demonized Insect King
+Demonized Insect King
+
+demonized cat king
+demonized cat king
+
+Hellfire Dragon
+Hellfire Dragon
+
+Mountain Thief
+Mountain Thief
+
+Mountain Thief Leader
+Mountain Thief Leader
+
+Mountain Bandit
+Mountain Bandit
+
+Mountain Bandit Leader
+Mountain Bandit Leader
+
+Bandit Leader Akana
+Bandit Leader Akana
+
+demonized Boar king
+demonized Boar king
+
+Gnome Thrower
+Gnome Thrower
+
+Gnome Guard
+Gnome Guard
+
+Goblin Shooter
+Goblin Shooter
+
+Goblin Guard
+Goblin Guard
+
+Giant Pig-faced bat
+Giant Pig-faced bat
+
+Giant Dryad
+Giant Dryad
+
+blood red worm
+blood red worm
+
+Brutal Man-Wolf
+Brutal Man-Wolf
+
+Evil Cat King
+Evil Cat King
+
+Demon Sentinel
+Demon Sentinel
+
+Demon Lieutenant
+Demon Lieutenant
+
+Bigmouth
+Bigmouth
+
+Sparrow
+Sparrow
+
+jackal
+jackal
+
+Blood Demon Wolf
+Blood Demon Wolf
+
+Demon Wolf General
+Demon Wolf General
+
+Demon Fox Soldier
+Demon Fox Soldier
+
+slime worm
+slime worm
+
+blood-sucking earthworm
+blood-sucking earthworm
+
+angry big mouth
+angry big mouth
+
+poisonous spider
+poisonous spider
+
+giant spider
+giant spider
+
+demonized Boar
+demonized Boar
+
+Color slime
+Color slime
+
+Emperor Slime
+Emperor Slime
+
+Mad Bull
+Mad Bull
+
+Red-eyed Mad Bull
+Red-eyed Mad Bull
+
+Demon Bull Warrior
+Demon Bull Warrior
+
+Demon goat Sentry
+Demon goat Sentry
+
+Bull King
+Bull King
+
+Demonized Lyria
+Demonized Lyria
+
+Demonized Mohani
+Demonized Mohani
+
+Magic Swordsman
+Magic Swordsman
+
+Black Mage
+Black Mage
+
+Demon warrior
+Demon warrior
+
+Executioner
+Executioner
+
+Pilgrim
+Pilgrim
+
+black bishop
+black bishop
+
+Black Blade Guard
+Black Blade Guard
+
+dark magic Guard
+dark magic Guard
+
+Tsundere Demon Cat
+Tsundere Demon Cat
+
+Elite demon Cat
+Elite demon Cat
+
+Golden Tiger Guard
+Golden Tiger Guard
+
+Princess Cathy
+Princess Cathy
+
+ black bear
+ black bear
+
+white bear
+white bear
+
+demonized black bear
+demonized black bear
+
+demonized white bear
+demonized white bear
+
+Grizzly King
+Grizzly King
+
+zombie warrior
+zombie warrior
+
+Zombie Mage
+Zombie Mage
+
+Zombie general
+Zombie general
+
+Zombie Archmage
+Zombie Archmage
+
+Zombie King
+Zombie King
+
+Demonized Pinocchio
+Demonized Pinocchio
+
+experimental form
+experimental form
+
+mutant form
+mutant form
+
+Demonist
+Demonist
+
+Elemental Elf
+Elemental Elf
+
+Dream Elf Avril
+Dream Elf Avril
+
+Bamu beast
+Bamu beast
+
+Humanoid Bach
+Humanoid Bach
+
+demon Balu
+demon Balu
+
+Invincible Bamu beast
+Invincible Bamu beast
+
+toothed sea lion
+toothed sea lion
+
+crampon snow leopard
+crampon snow leopard
+
+Swallowtail Penguin
+Swallowtail Penguin
+
+ice seal
+ice seal
+
+hostaged soldier
+hostaged soldier
+
+hostaged resident
+hostaged resident
+
+Mud Monster
+Mud Monster
+
+small slime
+small slime
+
+Big Slime
+Big Slime
+
+apostate 
+apostate 
+
+rioting prisoner
+rioting prisoner
+
+prison head
+prison head
+
+water monster
+water monster
+
+water monster elite
+water monster elite
+
+water monster king
+water monster king
+
+piranha
+piranha
+
+tree puppet
+tree puppet
+
+Guardian
+Guardian
+
+mine spider
+mine spider
+
+mine fly
+mine fly
+
+Aham
+Aham
+
+Mutant Cactus
+Mutant Cactus
+
+vampire
+vampire
+
+Zombie Lord
+Zombie Lord
+
+Guardian Shadick
+Guardian Shadick
+
+sand eagle
+sand eagle
+
+Scorpion
+Scorpion
+
+little bat putra
+little bat putra
+
+note sprite
+note sprite
+
+note monster
+note monster
+
+Naughty Elf
+Naughty Elf
+
+Electro ball
+Electro ball
+
+laser transmitter
+laser transmitter
+
+Tyrannosaurus
+Tyrannosaurus
+
+Chief Robot
+Chief Robot
+
+Potato
+Potato
+
+tomato
+tomato
+
+Chestnut
+Chestnut
+
+food processor
+food processor
+
+black snake king
+black snake king
+
+Zombie Guard
+Zombie Guard
+
+single skull
+single skull
+
+Fragrant Konjac
+Fragrant Konjac
+
+goblin miner
+goblin miner
+
+Goblin Sapper
+Goblin Sapper
+
+Goblin overseer
+Goblin overseer
+
+white rat
+white rat
+
+mechanic
+mechanic
+
+Large tube wheel (two tube wheel, three tube wheel)
+Large tube wheel (two tube wheel, three tube wheel)
+
+chief engineer
+chief engineer
+
+sailor
+sailor
+
+Boatswain
+Boatswain
+
+First Mate (Second and Third Mate)
+First Mate (Second and Third Mate)
+
+captain
+captain
+
+Yeti
+Yeti
+
+Yeti Guard
+Yeti Guard
+
+Yeti King
+Yeti King
+
+Crimson boar
+Crimson boar
+
+boar Leader
+boar Leader
+
+demon boar king
+demon boar king
+
+super mechanic
+super mechanic
+
+Patroling Robot Bird
+Patroling Robot Bird
+
+robot dog
+robot dog
+
+robot cat
+robot cat
+
+robot guard
+robot guard
+
+fire cat
+fire cat
+
+bomb cat
+bomb cat
+
+super mech
+super mech
+
+little devil guard
+little devil guard
+
+demon Gatekeeper
+demon Gatekeeper
+
+demon servant
+demon servant
+
+Giant demon
+Giant demon
+
+Giant Patrol demon
+Giant Patrol demon
+
+magpie
+magpie
+
+wolf leader
+wolf leader
+
+moth
+moth
+
+zombie dog
+zombie dog
+
+Demon Samael
+Demon Samael
+
+little sea monster
+little sea monster
+
+sea ??monster
+sea ??monster
+
+space fighter
+space fighter
+
+Demon princess
+Demon princess
+
+Demon sentinel
+Demon sentinel
+
+Rampage demon
+Rampage demon
+
+Demon Guard
+Demon Guard
+
+alien
+alien
+
+alien warlord
+alien warlord
+
+Super Fire Lord
+Super Fire Lord
+
+Super Whale Monster
+Super Whale Monster
+
+apprentice knight
+apprentice knight
+
+wooden man
+wooden man
+
+truck
+truck
+
+Stone Guard
+Stone Guard
+
+Mechanical Guard
+Mechanical Guard
+
+super Pinocchio
+super Pinocchio
+
+Gnome captain
+Gnome captain
+
+Goblin Captain
+Goblin Captain
+
+super elf king
+super elf king
+
+Undead Wraith
+Undead Wraith
+
+Trick Pumpkin
+Trick Pumpkin
+
+dragon man
+dragon man
+
+Dragon man Guard
+Dragon man Guard
+
+Frozen Snake King
+Frozen Snake King
+
+prehistoric dragon
+prehistoric dragon
+
+Little Evilclaw
+Little Evilclaw
+
+Evilclaw
+Evilclaw
+
+Frozen Snake
+Frozen Snake
+
+Evilclaw Elite
+Evilclaw Elite
+
+Frozen Snake Elite
+Frozen Snake Elite
+
+little Frozen Snake
+little Frozen Snake
+
+demonized Pig-Face Bat King
+demonized Pig-Face Bat King
+
+Demonized Millennium Dryad King
+Demonized Millennium Dryad King
+
+Demonized Death Worm
+Demonized Death Worm
+
+Demonized Man-wolf Caesar
+Demonized Man-wolf Caesar
+
+Demonized Shapeshifting Slime
+Demonized Shapeshifting Slime
+
+Demonized Ice Queen Los
+Demonized Ice Queen Los
+
+Demonized Cat King Carter
+Demonized Cat King Carter
+
+Demonized Pharaoh Tar
+Demonized Pharaoh Tar
+
+Demonized Elven King Erth
+Demonized Elven King Erth
+
+Demonized Fire Lord Balrog
+Demonized Fire Lord Balrog
+
+Demonized Whale Monster Bigger
+Demonized Whale Monster Bigger
+
+Doctor's Super Robot
+Doctor's Super Robot
+
+Demonized Monkey King
+Demonized Monkey King
+
+Demonized barbarian tyrant
+Demonized barbarian tyrant
+
+Demonized Thunder Lord
+Demonized Thunder Lord
+
+Demonized Lich King
+Demonized Lich King
+
+Demonized evil spirit
+Demonized evil spirit
+
+Dragon Guard
+Dragon Guard
+
+Guardian Sky
+Guardian Sky
+
+guardian earth
+guardian earth
+
+Guardian Wind
+Guardian Wind
+
+Guardian thunder
+Guardian thunder
+
+Guardian Water
+Guardian Water
+
+Guardian Fire
+Guardian Fire
+
+Guardian Mountain
+Guardian Mountain
+
+Guardian River
+Guardian River
+
+statue
+statue
+
+Wild Dragon
+Wild Dragon
+
+Iron eater
+Iron eater
+
+Iron eater king
+Iron eater king
+
+Guard Captain
+Guard Captain
+
+Black
+Black
+
+Year Beast
+Year Beast
+
+King of Year Beasts
+King of Year Beasts
+
+mouse
+mouse
+
+bull
+bull
+
+Rabbit
+Rabbit
+
+snake
+snake
+
+horse
+horse
+
+Dragon
+Dragon
+
+monkey
+monkey
+
+chicken
+chicken
+
+dog
+dog
+
+pig
+pig
+
+Tiger King
+Tiger King
+
+dark killer
+dark killer
+
+Dark Mage
+Dark Mage
+
+dark warrior
+dark warrior
+
+dark commander
+dark commander
+
+Demonized Mermaid Princess
+Demonized Mermaid Princess
+
+Death knight
+Death knight
+
+termite
+termite
+
+shark
+shark
+
+blaster
+blaster
+
+treasure thief
+treasure thief
+
+Mutant Skeleton
+Mutant Skeleton
+
+Dark Veteran
+Dark Veteran
+
+dark hero
+dark hero
+
+dark missionary
+dark missionary
+
+Brann
+Brann
+
+Kungler
+Kungler
+
+hound
+hound
+
+prank clown
+prank clown
+
+Dark Spiritist
+Dark Spiritist
+
+Dark Servant
+Dark Servant
+
+defender
+defender
+
+Elite Crusader
+Elite Crusader
+
+Dark Defender
+Dark Defender
+
+Harlan
+Harlan
+
+Dark Centurion
+Dark Centurion
+
+Witcher
+Witcher
+
+monk
+monk
+
+Kolov
+Kolov
+
+Mograine
+Mograine
+
+whitemane
+whitemane
+
+dark Crusader
+dark Crusader
+
+dark archer
+dark archer
+
+Bandage Freak
+Bandage Freak
+
+zombie waiter
+zombie waiter
+
+zombie commander
+zombie commander
+
+zombie King
+zombie King
+
+stone lion
+stone lion
+
+bomb-man
+bomb-man
+
+lightsaber warrior
+lightsaber warrior
+
+crazy gear
+crazy gear
+
+giant fruit
+giant fruit
+
+huge drumstick
+huge drumstick
+
+Demon Warrior
+Demon Warrior
+
+Demon soldier
+Demon soldier
+
+Devil Totem
+Devil Totem
+
+masked killer
+masked killer
+
+killer officer
+killer officer
+
+twins killer
+twins killer
+
+pig man
+pig man
+
+Orc demon
+Orc demon
+
+Demon Archer
+Demon Archer
+
+Demon General
+Demon General
+
+Yeti monster
+Yeti monster
+
+Cave Yeti
+Cave Yeti
+
+Yeti girl
+Yeti girl
+
+Demon Bear
+Demon Bear
+
+Demon Bear Chief
+Demon Bear Chief
+
+Bearman Commander
+Bearman Commander
+
+Lord of the Undead
+Lord of the Undead
+
+earth wall
+earth wall
+
+Plague Monster
+Plague Monster
+
+Plague Behemoth
+Plague Behemoth
+
+dead soul
+dead soul
+
+Lord of the dead soul
+Lord of the dead soul
+
+mummy pharaoh
+mummy pharaoh
+
+Ancestral Zombie
+Ancestral Zombie
+
+Elsa of the dream
+Elsa of the dream
+
+dream eater
+dream eater
+
+Skeleton Soldier
+Skeleton Soldier
+
+Skeleton general
+Skeleton general
+
+hairy crab
+hairy crab
+
+Maggie
+Maggie
+
+Miyuki
+Miyuki
+
+Yan Lili
+Yan Lili
+
+Satsuki
+Satsuki
+
+black queen bee
+black queen bee
+
+black bee
+black bee
+
+earth eater
+earth eater
+
+Kodo
+Kodo
+
+red eye beast
+red eye beast
+
+blue faced beast
+blue faced beast
+
+green head beast
+green head beast
+
+believer in white
+believer in white
+
+believer in black
+believer in black
+
+Ethos bishop
+Ethos bishop
+
+male gangster
+male gangster
+
+female gangster
+female gangster
+
+Bandit Kunshan
+Bandit Kunshan
+
+Bandit Natasha
+Bandit Natasha
+
+Scout
+Scout
+
+guard
+guard
+
+Berserker
+Berserker
+
+Garlic Loofah
+Garlic Loofah
+
+crusty zombie
+crusty zombie
+
+Super Pharaoh
+Super Pharaoh
+
+zombie ghost
+zombie ghost
+
+captain of the guard
+captain of the guard
+
+base guard
+base guard
+
+devil Gomez
+devil Gomez
+
+little warrior
+little warrior
+
+sentry tower
+sentry tower
+
+Crystal Tower
+Crystal Tower
+
+Wall barricade
+Wall barricade
+
+Magnetic car
+Magnetic car
+
+root package
+root package
+
+fish reef
+fish reef
+
+wedding float
+wedding float
+
+barricade
+barricade
+
+tempered glass
+tempered glass
+
+tree stump
+tree stump
+
+Door
+Door
+
+railing
+railing
+
+cabinet
+cabinet
+
+show window
+show window
+
+wooden container
+wooden container
+
+fence
+fence
+
+cfence
+cfence
+
+low wall
+low wall
+
+rickshaw
+rickshaw
+
+barrier
+barrier
+
+fruit tree
+fruit tree
+
+cbarrier
+cbarrier
+
+rock
+rock
+
+machine
+machine
+
+Spirit Crystal
+Spirit Crystal
+
+Bonfire
+Bonfire
+
+board
+board
+
+torch
+torch
+
+button
+button
+
+broom
+broom
+
+scarf
+scarf
+
+hat
+hat
+
+snowball
+snowball
+
+stone
+stone
+
+iron wall
+iron wall
+
+wall
+wall
+
+Exquisite gift box
+Exquisite gift box
+
+crystal trophy
+crystal trophy
+
+arnebia
+arnebia
+
+wooden box
+wooden box
+
+clown box
+clown box
+
+warehouse
+warehouse
+
+Level {d} supply camp
+Level $1 supply camp
+
+Level {d} Magic Cannon
+Level $1 Magic Cannon
+
+Magic Cannon
+Magic Cannon
+
+wood warrior
+wood warrior
+
+wood shooter
+wood shooter
+
+Catapult
+Catapult
+
+mech warrior
+mech warrior
+
+Iron Warrior
+Iron Warrior
+
+wooden stake
+wooden stake
+
+cannon
+cannon
+
+Core Electronics
+Core Electronics
+
+withered crops
+withered crops
+
+Clay pig
+Clay pig
+
+silver pig
+silver pig
+
+Golden Pig
+Golden Pig
+
+Wolf King Crystal
+Wolf King Crystal
+
+Electronic lock
+Electronic lock
+
+phantom Lyria
+phantom Lyria
+
+Phantom Mohani
+Phantom Mohani
+
+ice wall
+ice wall
+
+puppet soldier
+puppet soldier
+
+Iron Guard
+Iron Guard
+
+monster maker
+monster maker
+
+105 smoothbore gun
+105 smoothbore gun
+
+cannonball
+cannonball
+
+150 antiaircraft gun
+150 antiaircraft gun
+
+Cannon
+Cannon
+
+time bomb
+time bomb
+
+Camera
+Camera
+
+hunting net
+hunting net
+
+hunting chest
+hunting chest
+
+miniature chariot
+miniature chariot
+
+mini fighter
+mini fighter
+
+barrel
+barrel
+
+supercomputer
+supercomputer
+
+magma polymerisation
+magma polymerisation
+
+dragon power stone
+dragon power stone
+
+remote control bomb
+remote control bomb
+
+smoothbore gun
+smoothbore gun
+
+Black Heavy Armor
+Black Heavy Armor
+
+fireworks
+fireworks
+
+stone gate
+stone gate
+
+Rolling Stone
+Rolling Stone
+
+toy car
+toy car
+
+balloon
+balloon
+
+halo
+halo
+
+automatic crossbow
+automatic crossbow
+
+Mirror of Soul
+Mirror of Soul
+
+avalanche
+avalanche
+
+concealed arrow
+concealed arrow
+
+black hole
+black hole
+
+prison door
+prison door
+
+Sharp Claw Cat
+Sharp Claw Cat
+
+Shadow Assassin
+Shadow Assassin
+
+Forger Nagano kawa
+Forger Nagano kawa
+
+Angry Bigmouth
+Angry Bigmouth
+
+Macaque
+Macaque
+
+Blacksmith Zarachi
+Blacksmith Zarachi
+
+dungeon north gate
+dungeon north gate
+
+Demonized Man-wolf
+Demonized Man-wolf
+
+Mirage Fairy
+Mirage Fairy
+
+Medicine Storage Construction
+Medicine Storage Construction
+
+Alien base {d}
+Alien base {d}
+
+Back Door
+Back Door
+
+Red Mane Lion
+Red Mane Lion
+
+Hunting Chest
+Hunting Chest
+
+Jewelry Merchant Clara
+Jewelry Merchant Clara
+
+Blue Slime
+Blue Slime
+
+Fleeing Rattlesnake
+Fleeing Rattlesnake
+
+The door lock is open
+The door lock is open
+
+Civilian Puppy
+Civilian Puppy
+
+secret roomsouth gate
+secret roomsouth gate
+
+Man-eating Rat Duplicate
+Man-eating Rat Duplicate
+
+juicer
+juicer
+
+ghost vacuum cleaner
+ghost vacuum cleaner
+
+Damaged Artillery stand
+Damaged Artillery stand
+
+Level {d} Magic Cannon Construction
+Level {d} Magic Cannon Construction
+
+Armory Construction
+Armory Construction
+
+Bubble barrier
+Bubble barrier
+
+Ansible Space-time marketplace; Press G to check the product details.
+Ansible Space-time marketplace; Press G to check the product details.
+
+Laser cannon {d}
+Laser cannon {d}
+
+Fleeing lion
+Fleeing lion
+
+Demons' Base
+Demons' Base
+
+Do
+Do
+
+Mountain gate
+Mountain gate
+
+Demonized Cat King
+Demonized Cat King
+
+Christmas tree
+Christmas tree
+
+Carnivorous Bat
+Carnivorous Bat
+
+Mutant Hen
+Mutant Hen
+
+Pirate Ship Teleportation Circle
+Pirate Ship Teleportation Circle
+
+Colorful Boa Duplicate
+Colorful Boa Duplicate
+
+Armor Merchant Jonny
+Armor Merchant Jonny
+
+Wisdom Tree
+Wisdom Tree
+
+Fa
+Fa
+
+Hell Wraith
+Hell Wraith
+
+Weaver Girl
+Weaver Girl
+
+Luke
+Luke
+
+Highland Entrance
+Highland Entrance
+
+Gem Craftsman Sarah
+Gem Craftsman Sarah
+
+fence gate
+fence gate
+
+Wraith duplicate
+Wraith duplicate
+
+Beautiful Gift Box
+Beautiful Gift Box
+
+Exploding Ship
+Exploding Ship
+
+Jewelry Merchant Red
+Jewelry Merchant Red
+
+Mysterious Elder
+Mysterious Elder
+
+Fleeing Living Dead
+Fleeing Living Dead
+
+Tana
+Tana
+
+Hexagram Platform
+Hexagram Platform
+
+Black Stone Monster
+Black Stone Monster
+
+Ghost vacuum cleaner
+Ghost vacuum cleaner
+
+Caravan grocer Adam
+Caravan grocer Adam
+
+Millipede
+Millipede
+
+Recycle Station
+Recycle Station
+
+dungeon south gate
+dungeon south gate
+
+East encampment reinforced construction
+East encampment reinforced construction
+
+Civilian Batty
+Civilian Batty
+
+Tusk Rat
+Tusk Rat
+
+Button on the stone gate
+Button on the stone gate
+
+potato
+potato
+
+Rattlesnake
+Rattlesnake
+
+Material Storage
+Material Storage
+
+Black Boar
+Black Boar
+
+Civilian Yasmin
+Civilian Yasmin
+
+Townsfolk Rachee
+Townsfolk Rachee
+
+Civilian Gadane
+Civilian Gadane
+
+Lock
+Lock
+
+movable stake
+movable stake
+
+Rampage Bear
+Rampage Bear
+
+Villager Kevin
+Villager Kevin
+
+Grain basket
+Grain basket
+
+Galaxy
+Galaxy
+
+Emcee
+Emcee
+
+Loki Union Envoy Claire
+Loki Union Envoy Claire
+
+Bank receptionist Gin
+Bank receptionist Gin
+
+Marbles
+Marbles
+
+Stegosaurus
+Stegosaurus
+
+Primordial Iron
+Primordial Iron
+
+God of Love
+God of Love
+
+Herbal Mountain Teleportation Circle
+Herbal Mountain Teleportation Circle
+
+Cockroaches
+Cockroaches
+
+Fleeing Strong Bear
+Fleeing Strong Bear
+
+Head of Outer hall
+Head of Outer hall
+
+Level {d} Supply Camp Construction
+Level $1 Supply Camp Construction
+
+Maintenance of ancient buildings
+Maintenance of ancient buildings
+
+Fleeing Man-eating Rat
+Fleeing Man-eating Rat
+
+Vicious Dog leader Duplicate
+Vicious Dog leader Duplicate
+
+Monica
+Monica
+
+Chef Kouno
+Chef Kouno
+
+Piano
+Piano
+
+Ceratops
+Ceratops
+
+Mi
+Mi
+
+Fisherman Poseidon
+Fisherman Poseidon
+
+Blacksmith
+Blacksmith
+
+Audio Player
+Audio Player
+
+Gem Craftsman Jim
+Gem Craftsman Jim
+
+Gang Tournament Messenger Gouken
+Gang Tournament Messenger Gouken
+
+Village Chief Lorenzo
+Village Chief Lorenzo
+
+Mage Aratta
+Mage Aratta
+
+Villager Ginger Head
+Villager Ginger Head
+
+Townsfolk
+Townsfolk
+
+Maze Guard
+Maze Guard
+
+Village Chief Datin
+Village Chief Datin
+
+Fleeing Demon Skeleton
+Fleeing Demon Skeleton
+
+Almost-ripe rice spikelet
+Almost-ripe rice spikelet
+
+Blood-Red Worm
+Blood-Red Worm
+
+Mountain Stronghold Sentry
+Mountain Stronghold Sentry
+
+Drummer
+Drummer
+
+General Paul
+General Paul
+
+Living Dead
+Living Dead
+
+Fleeing Boar Leader
+Fleeing Boar Leader
+
+Village Chief Melon Head
+Village Chief Melon Head
+
+Jewelry Merchant Mimi
+Jewelry Merchant Mimi
+
+confession room south gate
+confession room south gate
+
+Inner hall Guard
+Inner hall Guard
+
+Civilian Fanny
+Civilian Fanny
+
+Captain Cassi
+Captain Cassi
+
+Nether Cave
+Nether Cave
+
+Breeding room Construction
+Breeding room Construction
+
+mixer
+mixer
+
+Village Chief Konanna
+Village Chief Konanna
+
+Iron Claw Cat
+Iron Claw Cat
+
+ctrl
+ctrl
+
+Blue Stone Monster
+Blue Stone Monster
+
+Garth Empire Envoy Sanmu
+Garth Empire Envoy Sanmu
+
+Potion Merchant
+Potion Merchant
+
+Re
+Re
+
+Locked door
+Locked door
+
+Fleeing White Skeleton
+Fleeing White Skeleton
+
+Sophie
+Sophie
+
+Sentry Tower
+Sentry Tower
+
+courtyard gate
+courtyard gate
+
+pudding
+pudding
+
+Villager Mrs. Shen
+Villager Mrs. Shen
+
+CTRL
+CTRL
+
+stone slate
+stone slate
+
+Strong Bear
+Strong Bear
+
+Electronic Console
+Electronic Console
+
+Black Tiger
+Black Tiger
+
+Commander Aydar
+Commander Aydar
+
+Ice maze Teleportation Circle
+Ice maze Teleportation Circle
+
+Fleeing Man-eating Tree
+Fleeing Man-eating Tree
+
+Demon Tiger duplicate
+Demon Tiger duplicate
+
+Rain of Arnebia
+Rain of Arnebia
+
+Gem Craftsman Narissa
+Gem Craftsman Narissa
+
+Vicious Wolf Leader  duplicate
+Vicious Wolf Leader  duplicate
+
+Highland Construction
+Highland Construction
+
+Flute Player
+Flute Player
+
+Chef Hasegawa
+Chef Hasegawa
+
+Ore Buyer Jordan
+Ore Buyer Jordan
+
+Red Boar
+Red Boar
+
+Fleeing Pointy Mouth Rat
+Fleeing Pointy Mouth Rat
+
+electronic lock
+electronic lock
+
+Wandering Villager
+Wandering Villager
+
+Fleeing giant Bear Leader
+Fleeing giant Bear Leader
+
+Lake Construction
+Lake Construction
+
+Monami
+Monami
+
+Ripe rice spikelet
+Ripe rice spikelet
+
+Demon Skeleton duplicate
+Demon Skeleton duplicate
+
+Grinder
+Grinder
+
+Path Keeper
+Path Keeper
+
+war zone shop
+war zone shop
+
+Seed Keeper
+Seed Keeper
+
+Villager
+Villager
+
+Hell Fire Dragon
+Hell Fire Dragon
+
+Civilian Zachary
+Civilian Zachary
+
+Pharmacy room Construction
+Pharmacy room Construction
+
+Grand Duke Trini, lord of the city
+Grand Duke Trini, lord of the city
+
+Messenger
+Messenger
+
+Chimney
+Chimney
+
+Artillery stand
+Artillery stand
+
+Civilian Aesop
+Civilian Aesop
+
+Car door
+Car door
+
+Crystal Turret
+Crystal Turret
+
+Mechanism
+Mechanism
+
+Crystal Slime
+Crystal Slime
+
+Villager Zodafir
+Villager Zodafir
+
+Circular groove
+Circular groove
+
+Soldier
+Soldier
+
+Villager Rice
+Villager Rice
+
+Old Villager
+Old Villager
+
+Militiaman Ulan
+Militiaman Ulan
+
+Demonized Death worm
+Demonized Death worm
+
+Animal Shed
+Animal Shed
+
+Grocer Henry
+Grocer Henry
+
+Mutant Duck
+Mutant Duck
+
+Herbal Garden Entrance
+Herbal Garden Entrance
+
+River water
+River water
+
+Test room south gate
+Test room south gate
+
+Lake Entrance
+Lake Entrance
+
+Ice Stone
+Ice Stone
+
+door
+door
+
+Elemental Crystal
+Elemental Crystal
+
+Instructor Hargard
+Instructor Hargard
+
+Forger Ganjiang
+Forger Ganjiang
+
+Grass carp
+Grass carp
+
+Demon Ape duplicate
+Demon Ape duplicate
+
+Smelting room Construction
+Smelting room Construction
+
+Heaven Jade
+Heaven Jade
+
+secret  room north door
+secret  room north door
+
+Guard Jack
+Guard Jack
+
+Keyboard Player
+Keyboard Player
+
+Sharp Fang Wolf
+Sharp Fang Wolf
+
+Townsfolk Mike
+Townsfolk Mike
+
+Villager Merlin
+Villager Merlin
+
+Senior Huntress
+Senior Huntress
+
+Villager Mattes
+Villager Mattes
+
+Lucadan
+Lucadan
+
+Forger
+Forger
+
+Kidnapped girl
+Kidnapped girl
+
+Undersea treasure hunt
+Undersea treasure hunt
+
+A letter
+A letter
+
+Black Witch
+Black Witch
+
+Little Girl
+Little Girl
+
+Ansible Space-Time Storehouse
+Ansible Space-Time Storehouse
+
+Mining Area Construction
+Mining Area Construction
+
+Mutant Rooster
+Mutant Rooster
+
+Strange Stone Ball
+Strange Stone Ball
+
+Cable Car manager
+Cable Car manager
+
+Villager Charlene
+Villager Charlene
+
+Demonized Cat  Duplicate
+Demonized Cat  Duplicate
+
+Locked Stone Door
+Locked Stone Door
+
+Wormhole teleportation Circle
+Wormhole teleportation Circle
+
+Information Board
+Information Board
+
+Combat Trainer Billy
+Combat Trainer Billy
+
+Head of inner hall
+Head of inner hall
+
+Civilian Jasmine
+Civilian Jasmine
+
+Energy barrier
+Energy barrier
+
+Saxophone Player
+Saxophone Player
+
+Button
+Button
+
+Seven Treasures
+Seven Treasures
+
+Old Mage
+Old Mage
+
+Fleeing bat
+Fleeing bat
+
+Gang Entrance
+Gang Entrance
+
+Mail custodian Starmark
+Mail custodian Starmark
+
+Sound
+Sound
+
+Red Skeleton
+Red Skeleton
+
+Civilian Bohr
+Civilian Bohr
+
+Orc Chief
+Orc Chief
+
+Demon Cheetah duplicate
+Demon Cheetah duplicate
+
+Fleeing Colorful Boa
+Fleeing Colorful Boa
+
+Soul-Draining Evil Spirit
+Soul-Draining Evil Spirit
+
+Villager Old Jack
+Villager Old Jack
+
+Fleeing Stone Troll
+Fleeing Stone Troll
+
+Villager Lucian
+Villager Lucian
+
+Stone walls
+Stone walls
+
+Gold Ring Snake
+Gold Ring Snake
+
+Master's assistant
+Master's assistant
+
+Big Iron Lock
+Big Iron Lock
+
+Stone Door
+Stone Door
+
+Trumpeter
+Trumpeter
+
+Bass Player
+Bass Player
+
+Gem Craftsman
+Gem Craftsman
+
+Secret door
+Secret door
+
+chestnut
+chestnut
+
+Villager Little Jack
+Villager Little Jack
+
+Sentry Tower Construction
+Sentry Tower Construction
+
+Man-eating Tree Duplicate
+Man-eating Tree Duplicate
+
+Yellow key
+Yellow key
+
+Soul-Snatching Evil Spirit
+Soul-Snatching Evil Spirit
+
+blood bat Duplicate
+blood bat Duplicate
+
+Ghost Monkey
+Ghost Monkey
+
+Black Panther
+Black Panther
+
+Guard Barr
+Guard Barr
+
+Blue pearl
+Blue pearl
+
+Study Construction
+Study Construction
+
+Black Slime
+Black Slime
+
+Fleeing blood bat
+Fleeing blood bat
+
+Bat King Incarnate
+Bat King Incarnate
+
+Locked gate
+Locked gate
+
+Centipede
+Centipede
+
+Material Storage Construction
+Material Storage Construction
+
+Yellow pearl
+Yellow pearl
+
+Elf Elder
+Elf Elder
+
+Stone Button
+Stone Button
+
+Graceful Mountain Teleportation circle
+Graceful Mountain Teleportation circle
+
+Cat-eating Rat
+Cat-eating Rat
+
+Apothecary Zoma
+Apothecary Zoma
+
+Fisherman Paul
+Fisherman Paul
+
+Test room north door
+Test room north door
+
+research room south gate
+research room south gate
+
+Henry
+Henry
+
+Artificer Kania
+Artificer Kania
+
+Young Man fetching water
+Young Man fetching water
+
+Forger Yelda
+Forger Yelda
+
+hole
+hole
+
+Living Dead duplicate
+Living Dead duplicate
+
+Civilian Wald
+Civilian Wald
+
+Locked courtyard gate
+Locked courtyard gate
+
+Fleeing Demon Ape
+Fleeing Demon Ape
+
+Growing wheat head
+Growing wheat head
+
+Chest
+Chest
+
+Apothecary Phillips
+Apothecary Phillips
+
+West encampment reinforced construction
+West encampment reinforced construction
+
+Arnebia
+Arnebia
+
+Jame
+Jame
+
+Vampire Vine
+Vampire Vine
+
+Armor Merchant Varney
+Armor Merchant Varney
+
+Artificer
+Artificer
+
+Uncle Wang
+Uncle Wang
+
+Red Slime
+Red Slime
+
+Demon Cave
+Demon Cave
+
+Fleeing Man-eating Grass
+Fleeing Man-eating Grass
+
+Competition Host Chun Li
+Competition Host Chun Li
+
+Instructor
+Instructor
+
+Fleeing Cheetah
+Fleeing Cheetah
+
+Man-eating Dog
+Man-eating Dog
+
+Fleeing Soul-Draining Evil Spirit
+Fleeing Soul-Draining Evil Spirit
+
+dungeon  north door
+dungeon  north door
+
+Polypod
+Polypod
+
+Armor Merchant Jara
+Armor Merchant Jara
+
+Fleeing Demon Cheetah
+Fleeing Demon Cheetah
+
+Alien
+Alien
+
+Guru Elder
+Guru Elder
+
+Walking Dead
+Walking Dead
+
+Sliver Ring Snake
+Sliver Ring Snake
+
+Herb Buyer Benson
+Herb Buyer Benson
+
+Sol
+Sol
+
+Panel
+Panel
+
+Listen to notes
+Listen to notes
+
+Sheriff Ralph
+Sheriff Ralph
+
+Medicine Storage
+Medicine Storage
+
+Seed of the Wisdom Tree
+Seed of the Wisdom Tree
+
+Bounty Warrior Rick
+Bounty Warrior Rick
+
+Caravan Master Solitury
+Caravan Master Solitury
+
+Grumpy
+Grumpy
+
+Hawk
+Hawk
+
+Dodge shells
+Dodge shells
+
+Fleeing Black Tiger
+Fleeing Black Tiger
+
+Mining Area Entrance
+Mining Area Entrance
+
+Cyan Slime
+Cyan Slime
+
+Grey Stone Monster
+Grey Stone Monster
+
+Zombie
+Zombie
+
+Steel Fang Wolf
+Steel Fang Wolf
+
+White Boar
+White Boar
+
+Bloodthirsty Bat
+Bloodthirsty Bat
+
+Civilian Kitazawa
+Civilian Kitazawa
+
+Fleeing Zombie
+Fleeing Zombie
+
+Almost-ripe wheat head
+Almost-ripe wheat head
+
+Demon Lion duplicate
+Demon Lion duplicate
+
+Hero List
+Hero List
+
+Civilian Rancy
+Civilian Rancy
+
+control
+control
+
+Stove
+Stove
+
+Fleeing Blood Fang Wolf
+Fleeing Blood Fang Wolf
+
+Clay Pig
+Clay Pig
+
+Weapon Merchant Selmore
+Weapon Merchant Selmore
+
+Opened Chest
+Opened Chest
+
+Guitar Player
+Guitar Player
+
+Ankylosaurus
+Ankylosaurus
+
+Green pearl
+Green pearl
+
+Artificer Daisy
+Artificer Daisy
+
+Fleeing macaque
+Fleeing macaque
+
+Bubble Cube Teleportation Circle
+Bubble Cube Teleportation Circle
+
+White Tiger
+White Tiger
+
+Shopkeeper Mappa
+Shopkeeper Mappa
+
+Blue Skeleton
+Blue Skeleton
+
+Wooden block
+Wooden block
+
+Herbal Garden Construction
+Herbal Garden Construction
+
+Blacksmith Orisun
+Blacksmith Orisun
+
+Fleeing vicious dog leader
+Fleeing vicious dog leader
+
+training room  north door
+training room  north door
+
+Weapon Merchant Tony
+Weapon Merchant Tony
+
+Fence gate
+Fence gate
+
+Forest ranger
+Forest ranger
+
+Silver Pig
+Silver Pig
+
+Spider cave
+Spider cave
+
+Village Chief Matsubi
+Village Chief Matsubi
+
+Baker
+Baker
+
+Civilian Kirk
+Civilian Kirk
+
+Armory
+Armory
+
+dumpling
+dumpling
+
+cTRL
+cTRL
+
+Accounting desk
+Accounting desk
+
+Kitchen Construction
+Kitchen Construction
+
+Washing and grinding room Construction
+Washing and grinding room Construction
+
+Green Slime
+Green Slime
+
+Golden Mane Lion
+Golden Mane Lion
+
+Demonized Worm King
+Demonized Worm King
+
+Purple Slime
+Purple Slime
+
+Chaos Stone
+Chaos Stone
+
+militia captain Nusan
+militia captain Nusan
+
+Fruit tree
+Fruit tree
+
+Magic keyboard player
+Magic keyboard player
+
+Girl
+Girl
+
+Space invaders
+Space invaders
+
+Anxious man
+Anxious man
+
+Ctrl
+Ctrl
+
+Fleeing Man-eating Dog
+Fleeing Man-eating Dog
+
+Demon Bat
+Demon Bat
+
+Black T-Rex duplicate
+Black T-Rex duplicate
+
+Bloodthirsty Evil Spirit
+Bloodthirsty Evil Spirit
+
+Peach
+Peach
+
+Door Bolt
+Door Bolt
+
+Ghoul Dog
+Ghoul Dog
+
+Control
+Control
+
+Mountain Stronghold Gate
+Mountain Stronghold Gate
+
+Branch
+Branch
+
+Alexia
+Alexia
+
+Veteran Tom
+Veteran Tom
+
+Road Sign
+Road Sign
+
+Mok
+Mok
+
+Civilian Virik
+Civilian Virik
+
+Silver Mane Lion
+Silver Mane Lion
+
+Scholar Eric
+Scholar Eric
+
+Growing rice spikelet
+Growing rice spikelet
+
+Gate Guard
+Gate Guard
+
+Teleportation Portal
+Teleportation Portal
+
+Villager Marilyn
+Villager Marilyn
+
+Master Kakarot
+Master Kakarot
+
+Insecticide
+Insecticide
+
+Roots
+Roots
+
+Wolf head mountain teleportation circle
+Wolf head mountain teleportation circle
+
+East-pointing Arrow
+East-pointing Arrow
+
+Teleportation circle
+Teleportation circle
+
+Villager Marge
+Villager Marge
+
+Violent Bear
+Violent Bear
+
+Giant puppets
+Giant puppets
+
+Blacksmith Orc Dyson
+Blacksmith Orc Dyson
+
+Caravan Leader Fantine
+Caravan Leader Fantine
+
+Honor Guard {d}
+Honor Guard {d}
+
+Master Catherine
+Master Catherine
+
+Stone Troll duplicate
+Stone Troll duplicate
+
+Colonel Demar
+Colonel Demar
+
+Pentagram Circle
+Pentagram Circle
+
+Civilian Slarry
+Civilian Slarry
+
+training room south gate
+training room south gate
+
+Gate; The key needs to be passed on to the tutor to open the door
+Gate; The key needs to be passed on to the tutor to open the door
+
+Barrier Magic circle
+Barrier Magic circle
+
+Imp duplicate
+Imp duplicate
+
+Caravan Crew Eva
+Caravan Crew Eva
+
+Giant Bear Leader Duplicate
+Giant Bear Leader Duplicate
+
+Blood Fang Wolf
+Blood Fang Wolf
+
+Pointy Mouth Rat
+Pointy Mouth Rat
+
+Artificer Mirena
+Artificer Mirena
+
+Scavenger dog
+Scavenger dog
+
+Gang Upgrading Construction
+Gang Upgrading Construction
+
+Speed potion
+Speed potion
+
+Fleeing vicious wolf Leader 
+Fleeing vicious wolf Leader 
+
+research room north door
+research room north door
+
+Civilian Lissandra
+Civilian Lissandra
+
+King William III
+King William III
+
+Fleeing Red Boar
+Fleeing Red Boar
+
+Pharmacist
+Pharmacist
+
+Dummy
+Dummy
+
+Mulberry tree
+Mulberry tree
+
+Pharmacist Mia
+Pharmacist Mia
+
+Kiki
+Kiki
+
+Temple gate
+Temple gate
+
+Combat Trainer Jimmy
+Combat Trainer Jimmy
+
+Aquaculture Buyer Luffy
+Aquaculture Buyer Luffy
+
+Fleeing Imp
+Fleeing Imp
+
+Pet Trainer Lacey
+Pet Trainer Lacey
+
+Bubble
+Bubble
+
+Tree
+Tree
+
+Stake
+Stake
+
+centipede Duplicate
+centipede Duplicate
+
+Airship Administrator
+Airship Administrator
+
+The Wraith Cave
+The Wraith Cave
+
+confession room north door
+confession room north door
+
+Cowherd
+Cowherd
+
+Villager Jyaria
+Villager Jyaria
+
+Fleeing demon lion
+Fleeing demon lion
+
+Man-eating Grass
+Man-eating Grass
+
+Golden Tiger
+Golden Tiger
+
+Usherette {d}
+Usherette {d}
+
+Civilian Cindy
+Civilian Cindy
+
+Yellow Slime
+Yellow Slime
+
+Fleeing Blue Stone Monster
+Fleeing Blue Stone Monster
+
+Fleeing Demon Tiger
+Fleeing Demon Tiger
+
+Chef
+Chef
+
+Equipment Maker
+Equipment Maker
+
+Blue key
+Blue key
+
+Seabed Cloud Iron
+Seabed Cloud Iron
+
+Leaf Monkey
+Leaf Monkey
+
+Soul Storehouse
+Soul Storehouse
+
+Shells
+Shells
+
+Grocer Vic
+Grocer Vic
+
+Marquis Sami, Lord of the City
+Marquis Sami, Lord of the City
+
+White Skeleton
+White Skeleton
+
+Central Kingdom Envoy Daniel
+Central Kingdom Envoy Daniel
+
+Civilian Mei
+Civilian Mei

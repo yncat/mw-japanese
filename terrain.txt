@@ -1,0 +1,5663 @@
+lawn
+lawn
+
+grass
+grass
+
+weed
+weed
+
+fallen leaves
+fallen leaves
+
+land
+land
+
+sand
+sand
+
+beach
+beach
+
+wetlands
+wetlands
+
+mud
+mud
+
+shore
+shore
+
+stream
+stream
+
+river underground
+river underground
+
+snow
+snow
+
+snow road
+snow road
+
+river
+river
+
+lake
+lake
+
+cliff
+cliff
+
+cave
+cave
+
+cave
+cave
+
+path
+path
+
+steps
+steps
+
+inside the house
+inside the house
+
+stairs
+stairs
+
+bridge
+bridge
+
+iron plate
+iron plate
+
+pipeline
+pipeline
+
+ruins
+ruins
+
+seabed
+seabed
+
+Ice
+Ice
+
+cavern
+cavern
+
+silent
+silent
+
+edge
+edge
+
+wall
+wall
+
+plank
+plank
+
+obstacle
+obstacle
+
+reef
+reef
+
+fence
+fence
+
+Door
+Door
+
+railing
+railing
+
+Pillar
+Pillar
+
+Tree
+Tree
+
+board
+board
+
+ironware
+ironware
+
+iron pillar
+iron pillar
+
+wooden box
+wooden box
+
+fence
+fence
+
+crystal wall
+crystal wall
+
+cabinet
+cabinet
+
+mountain wall
+mountain wall
+
+ 
+ 
+
+nameless
+nameless
+
+high platform 
+high platform 
+
+pool
+pool
+
+intersection
+intersection
+
+bank
+bank
+
+up the waterfall
+up the waterfall
+
+fall
+fall
+
+downward
+downward
+
+teleportation point
+teleportation point
+
+la
+la
+
+mi
+mi
+
+do
+do
+
+sol
+sol
+
+Enchantment
+Enchantment
+
+slide
+slide
+
+mountain
+mountain
+
+barrack
+barrack
+
+test room
+test room
+
+camp
+camp
+
+doorway
+doorway
+
+rock
+rock
+
+southwest turn
+southwest turn
+
+mountain road
+mountain road
+
+hole
+hole
+
+northeast turn
+northeast turn
+
+south door of the test room
+south door of the test room
+
+rear door of the barracks
+rear door of the barracks
+
+outside the village
+outside the village
+
+village
+village
+
+center of the village
+center of the village
+
+South Street of the village
+South Street of the village
+
+North Street of the village
+North Street of the village
+
+West Street of the village
+West Street of the village
+
+East Street of the village
+East Street of the village
+
+gate
+gate
+
+Grove
+Grove
+
+road outside the village
+road outside the village
+
+pharmacy
+pharmacy
+
+blacksmith shop
+blacksmith shop
+
+chalet
+chalet
+
+granary
+granary
+
+end of the path
+end of the path
+
+mountains
+mountains
+
+house
+house
+
+courtyard wall
+courtyard wall
+
+courtyard gate
+courtyard gate
+
+courtyard doorway
+courtyard doorway
+
+well
+well
+
+stone ladder
+stone ladder
+
+stone ladder entrance
+stone ladder entrance
+
+crossing
+crossing
+
+barn door
+barn door
+
+courtyard
+courtyard
+
+door
+door
+
+wall
+wall
+
+bottom
+bottom
+
+aisle
+aisle
+
+bottom center
+bottom center
+
+deep water
+deep water
+
+wall
+wall
+
+wall of the cave
+wall of the cave
+
+wall
+wall
+
+slope, northeast turn
+slope, northeast turn
+
+slope
+slope
+
+Slope, Southwest turn
+Slope, Southwest turn
+
+Cave entrance, northeast turn
+Cave entrance, northeast turn
+
+west entrance
+west entrance
+
+snake cave
+snake cave
+
+side road
+side road
+
+slope, southeast turn
+slope, southeast turn
+
+slope, northwest turn
+slope, northwest turn
+
+path, southeast turn
+path, southeast turn
+
+Outside the cave, southwest turn
+Outside the cave, southwest turn
+
+Outer road
+Outer road
+
+north entrance
+north entrance
+
+well entrance
+well entrance
+
+snake cave
+snake cave
+
+Dirt road in the cave
+Dirt road in the cave
+
+dirt road crossing
+dirt road crossing
+
+path, southwest turn
+path, southwest turn
+
+Southwest turn
+Southwest turn
+
+Northeast turn
+Northeast turn
+
+southeast turn
+southeast turn
+
+Northwest turn
+Northwest turn
+
+well steps
+well steps
+
+well steps
+well steps
+
+water
+water
+
+lower stairs
+lower stairs
+
+upper stairs
+upper stairs
+
+Abandoned pipeline
+Abandoned pipeline
+
+dirt road
+dirt road
+
+Snake Cave Center
+Snake Cave Center
+
+pipe wall
+pipe wall
+
+outskirts
+outskirts
+
+In the city
+In the city
+
+wall
+wall
+
+dragon mountain
+dragon mountain
+
+green mountain
+green mountain
+
+crest  mountain
+crest  mountain
+
+squama mountain
+squama mountain
+
+canyon
+canyon
+
+cottage
+cottage
+
+floor
+floor
+
+west gate
+west gate
+
+north gate
+north gate
+
+east gate
+east gate
+
+south gate
+south gate
+
+fence
+fence
+
+north highroad
+north highroad
+
+East T-shaped
+East T-shaped
+
+west Street
+west Street
+
+east Street
+east Street
+
+north Street
+north Street
+
+south Street
+south Street
+
+farmland
+farmland
+
+field ridge
+field ridge
+
+woods
+woods
+
+road in the woods
+road in the woods
+
+bush
+bush
+
+grove
+grove
+
+south highroad
+south highroad
+
+North T-shaped
+North T-shaped
+
+young tree
+young tree
+
+scarecrow
+scarecrow
+
+lane
+lane
+
+Chalet
+Chalet
+
+entrance of the village
+entrance of the village
+
+town
+town
+
+market
+market
+
+courtyard
+courtyard
+
+Sunset Square
+Sunset Square
+
+Town centre
+Town centre
+
+City Lord's Mansion
+City Lord's Mansion
+
+master's Mansion
+master's Mansion
+
+breeding garden
+breeding garden
+
+Royal Bank
+Royal Bank
+
+Restaurant
+Restaurant
+
+Jewelry shop
+Jewelry shop
+
+Armor shop
+Armor shop
+
+weapon shop
+weapon shop
+
+gang unions
+gang unions
+
+gem room
+gem room
+
+grocery store
+grocery store
+
+west Entrance of the town
+west Entrance of the town
+
+east Entrance of the town
+east Entrance of the town
+
+house
+house
+
+Shrine
+Shrine
+
+main hall
+main hall
+
+west of the front hall
+west of the front hall
+
+aisle
+aisle
+
+East of the front hall
+East of the front hall
+
+wasteland
+wasteland
+
+boulder
+boulder
+
+airship
+airship
+
+Wilderness
+Wilderness
+
+rushing River
+rushing River
+
+crisp stream
+crisp stream
+
+smoke stream
+smoke stream
+
+east of the city
+east of the city
+
+Rock Square
+Rock Square
+
+palace of Central kingdom
+palace of Central kingdom
+
+Holy Light Cathedral
+Holy Light Cathedral
+
+Cathedral Square
+Cathedral Square
+
+Railing
+Railing
+
+stairway
+stairway
+
+square road
+square road
+
+front hall
+front hall
+
+palace doorway
+palace doorway
+
+flower bed
+flower bed
+
+meadow
+meadow
+
+wooden bridge
+wooden bridge
+
+suspension bridge
+suspension bridge
+
+east highroad
+east highroad
+
+west highroad
+west highroad
+
+sand dune
+sand dune
+
+herby Mountain
+herby Mountain
+
+valley
+valley
+
+mountain forest
+mountain forest
+
+war guild
+war guild
+
+magic guild
+magic guild
+
+profession guild
+profession guild
+
+front street
+front street
+
+corridor
+corridor
+
+guardrail
+guardrail
+
+stone beam
+stone beam
+
+cable car
+cable car
+
+southeast turn
+southeast turn
+
+car
+car
+
+in the car
+in the car
+
+car door
+car door
+
+outpost
+outpost
+
+Room
+Room
+
+Northwest turn
+Northwest turn
+
+exterior wall
+exterior wall
+
+forecourt
+forecourt
+
+barren mountain
+barren mountain
+
+dimensional wall
+dimensional wall
+
+doorway of the outpost
+doorway of the outpost
+
+Tiger Mountain
+Tiger Mountain
+
+North T-shaped; the tutor goes west, the pupil goes east
+North T-shaped; the tutor goes west, the pupil goes east
+
+Bandit Village on the Peak
+Bandit Village on the Peak
+
+Loyalty Hall
+Loyalty Hall
+
+backyard
+backyard
+
+gazebo
+gazebo
+
+gate
+gate
+
+tunnel
+tunnel
+
+end of the tunnel
+end of the tunnel
+
+West T-shaped
+West T-shaped
+
+South T-shaped
+South T-shaped
+
+South T-shaped; the tutor goes west, the pupil goes east
+South T-shaped; the tutor goes west, the pupil goes east
+
+palace
+palace
+
+Stone Gate
+Stone Gate
+
+Cat king's Castle
+Cat king's Castle
+
+bedroom
+bedroom
+
+enclosure
+enclosure
+
+Fire Pit Upon The Deep
+Fire Pit Upon The Deep
+
+bridgehead
+bridgehead
+
+bridge fence
+bridge fence
+
+Brave Bridge
+Brave Bridge
+
+North T-shaped; pupil continue to go east to get the key
+North T-shaped; pupil continue to go east to get the key
+
+mouth of Valley
+mouth of Valley
+
+orchard
+orchard
+
+incubator
+incubator
+
+Wisdom Bridge
+Wisdom Bridge
+
+Wisdom River
+Wisdom River
+
+stone wall
+stone wall
+
+Precipice
+Precipice
+
+mountain gate
+mountain gate
+
+training ground
+training ground
+
+lounge
+lounge
+
+Lookout
+Lookout
+
+offstage
+offstage
+
+arena
+arena
+
+White Sand square
+White Sand square
+
+north of the city
+north of the city
+
+south of the city
+south of the city
+
+west of the city
+west of the city
+
+Path outside the city
+Path outside the city
+
+Gravel road
+Gravel road
+
+west entrance of the village
+west entrance of the village
+
+house
+house
+
+Tari Village
+Tari Village
+
+ridge
+ridge
+
+main road
+main road
+
+road outside the Camp
+road outside the Camp
+
+north door of the Camp
+north door of the Camp
+
+east door of the Camp
+east door of the Camp
+
+traveller camp
+traveller camp
+
+road in the camp
+road in the camp
+
+Camp Center
+Camp Center
+
+grass
+grass
+
+dirt road
+dirt road
+
+paddy field
+paddy field
+
+ancient mountain
+ancient mountain
+
+mountain pass
+mountain pass
+
+diversion channels
+diversion channels
+
+bank of the channels
+bank of the channels
+
+master's Guild
+master's Guild
+
+east entrance of the village
+east entrance of the village
+
+Howling Mountain
+Howling Mountain
+
+Gale  Mountain
+Gale  Mountain
+
+forest
+forest
+
+forest path
+forest path
+
+forest wetland
+forest wetland
+
+Mountain road
+Mountain road
+
+slate
+slate
+
+canal
+canal
+
+estuary
+estuary
+
+river course
+river course
+
+beach
+beach
+
+uphill
+uphill
+
+Snow beside the cave
+Snow beside the cave
+
+stagnant water
+stagnant water
+
+crushed ice
+crushed ice
+
+End of passage
+End of passage
+
+doorway of secret room
+doorway of secret room
+
+Secret passages
+Secret passages
+
+secret room
+secret room
+
+doorway of secret room
+doorway of secret room
+
+base
+base
+
+Insulated corridor
+Insulated corridor
+
+warning corridor
+warning corridor
+
+outer corridor
+outer corridor
+
+top
+top
+
+bottom
+bottom
+
+porch
+porch
+
+live wire channel
+live wire channel
+
+neutral wire channel
+neutral wire channel
+
+sideway
+sideway
+
+square
+square
+
+explosive barracks
+explosive barracks
+
+West Control Room
+West Control Room
+
+East Control Room
+East Control Room
+
+Lead Wire Channel
+Lead Wire Channel
+
+air duct
+air duct
+
+Secret passage
+Secret passage
+
+iron gate
+iron gate
+
+cellar
+cellar
+
+vegetable cellar
+vegetable cellar
+
+wine cellar
+wine cellar
+
+end of aisle
+end of aisle
+
+stone wall
+stone wall
+
+Bandit Camp
+Bandit Camp
+
+Bandit Camp
+Bandit Camp
+
+snowfield
+snowfield
+
+battery
+battery
+
+flagpole
+flagpole
+
+colorful river
+colorful river
+
+graceful mountain
+graceful mountain
+
+iris
+iris
+
+water pine forest
+water pine forest
+
+water pine
+water pine
+
+reeds
+reeds
+
+pond
+pond
+
+quagmire
+quagmire
+
+slab bridge
+slab bridge
+
+tulip square
+tulip square
+
+parliament hall
+parliament hall
+
+tulip
+tulip
+
+backstreet
+backstreet
+
+capsule toy house
+capsule toy house
+
+lucky house
+lucky house
+
+union bank
+union bank
+
+training ground
+training ground
+
+wooden ladder
+wooden ladder
+
+tree house
+tree house
+
+training room
+training room
+
+boulevard
+boulevard
+
+South Gate of the Training Room
+South Gate of the Training Room
+
+wooden door
+wooden door
+
+grassland
+grassland
+
+official road
+official road
+
+Moon Square
+Moon Square
+
+moonlight Pool
+moonlight Pool
+
+wood fence
+wood fence
+
+south gate of plantation
+south gate of plantation
+
+plantation
+plantation
+
+Flagstone Road
+Flagstone Road
+
+plantation center
+plantation center
+
+north gate of plantation
+north gate of plantation
+
+pond
+pond
+
+pasture
+pasture
+
+tent
+tent
+
+rolling mountain
+rolling mountain
+
+east gate of plantation
+east gate of plantation
+
+west gate of plantation
+west gate of plantation
+
+city hall
+city hall
+
+sacrifice house
+sacrifice house
+
+ranch doorway 
+ranch doorway 
+
+stone bench
+stone bench
+
+steep slope
+steep slope
+
+stone chamber
+stone chamber
+
+soil slope
+soil slope
+
+steep wall
+steep wall
+
+green grass
+green grass
+
+bullpen
+bullpen
+
+stable
+stable
+
+sheep pen
+sheep pen
+
+Artemisia bushe
+Artemisia bushe
+
+orange blossom bush
+orange blossom bush
+
+in the courtyard
+in the courtyard
+
+doorway of tent
+doorway of tent
+
+tent
+tent
+
+Yurt
+Yurt
+
+stone house
+stone house
+
+emperor square
+emperor square
+
+platform
+platform
+
+stone steps
+stone steps
+
+The Holy See of Sarantu
+The Holy See of Sarantu
+
+Antechamber of the Holy See
+Antechamber of the Holy See
+
+upper floor of the Holy See
+upper floor of the Holy See
+
+cloister
+cloister
+
+Stair handrail
+Stair handrail
+
+stairs
+stairs
+
+foot of the mountain
+foot of the mountain
+
+empire bank
+empire bank
+
+employment union
+employment union
+
+skull  mountain
+skull  mountain
+
+religious academy
+religious academy
+
+Secret training room
+Secret training room
+
+Silver gate
+Silver gate
+
+darkroom
+darkroom
+
+Proving Ground
+Proving Ground
+
+hillside
+hillside
+
+fruit tree
+fruit tree
+
+hill
+hill
+
+riverside
+riverside
+
+river surface
+river surface
+
+doorway of the outpost
+doorway of the outpost
+
+east street of the city
+east street of the city
+
+Gouging knife square
+Gouging knife square
+
+city doorway
+city doorway
+
+Not yet open
+Not yet open
+
+Magnet Hill
+Magnet Hill
+
+Inquisition
+Inquisition
+
+barrier
+barrier
+
+cell
+cell
+
+prison door
+prison door
+
+warehouse
+warehouse
+
+workshop
+workshop
+
+Defensive line
+Defensive line
+
+clay block
+clay block
+
+secluded mountain
+secluded mountain
+
+gravel pile
+gravel pile
+
+north mouth of Valley
+north mouth of Valley
+
+north entrance of the village
+north entrance of the village
+
+south entrance of the village
+south entrance of the village
+
+south mouth of Valley
+south mouth of Valley
+
+east of village
+east of village
+
+north of village
+north of village
+
+west of village
+west of village
+
+south of village
+south of village
+
+field road
+field road
+
+Southern Flowering Shrub
+Southern Flowering Shrub
+
+western  Flowering Shrub
+western  Flowering Shrub
+
+northern  Flowering Shrub
+northern  Flowering Shrub
+
+outside the city
+outside the city
+
+Violet Square
+Violet Square
+
+quiet  river
+quiet  river
+
+quiet   Lake
+quiet   Lake
+
+lakeside
+lakeside
+
+hall
+hall
+
+gate
+gate
+
+riverbed
+riverbed
+
+wilderness
+wilderness
+
+weeds
+weeds
+
+dead leaves
+dead leaves
+
+fallen leaves path
+fallen leaves path
+
+dead tree
+dead tree
+
+strange rock
+strange rock
+
+dark night square
+dark night square
+
+dark temple
+dark temple
+
+lobby
+lobby
+
+main temple
+main temple
+
+idol
+idol
+
+magic circle
+magic circle
+
+eye of magic circle
+eye of magic circle
+
+Scorched earth
+Scorched earth
+
+church
+church
+
+prayer room
+prayer room
+
+confession room
+confession room
+
+South Gate of the Confession Room
+South Gate of the Confession Room
+
+back door of the church
+back door of the church
+
+Research room
+Research room
+
+South Gate of the Research room
+South Gate of the Research room
+
+side of the rushing river
+side of the rushing river
+
+side of the colorful river
+side of the colorful river
+
+golden river
+golden river
+
+side of the golden river
+side of the golden river
+
+north lake
+north lake
+
+middle lake
+middle lake
+
+South Lake
+South Lake
+
+reservoir
+reservoir
+
+side of the north lake
+side of the north lake
+
+side of the south lake
+side of the south lake
+
+waterfall
+waterfall
+
+Hive nest
+Hive nest
+
+Northwest corner
+Northwest corner
+
+northeast corner
+northeast corner
+
+southeast corner
+southeast corner
+
+southwest corner
+southwest corner
+
+west exit
+west exit
+
+East Exit
+East Exit
+
+North Exit
+North Exit
+
+South Exit
+South Exit
+
+mountain stream
+mountain stream
+
+abyss
+abyss
+
+South T-shaped; creek
+South T-shaped; creek
+
+creek
+creek
+
+pool
+pool
+
+fissure
+fissure
+
+Tranquil River
+Tranquil River
+
+Three River Mouth
+Three River Mouth
+
+Imbrication River
+Imbrication River
+
+peace and tranquility under heaven
+peace and tranquility under heaven
+
+crossing of waterway
+crossing of waterway
+
+west waterway
+west waterway
+
+East Waterway
+East Waterway
+
+West Sea
+West Sea
+
+Middle Sea
+Middle Sea
+
+East Sea
+East Sea
+
+estuary
+estuary
+
+goon mountain
+goon mountain
+
+sea dam
+sea dam
+
+side of Tranquil River
+side of Tranquil River
+
+side of Imbrication River
+side of Imbrication River
+
+ancestral temple
+ancestral temple
+
+backyard of the ancestral temple
+backyard of the ancestral temple
+
+doorway
+doorway
+
+firewood room
+firewood room
+
+Sundries room
+Sundries room
+
+coffin
+coffin
+
+altar
+altar
+
+plank road
+plank road
+
+West Cave
+West Cave
+
+East Cave
+East Cave
+
+mountain spring
+mountain spring
+
+Platform mouth
+Platform mouth
+
+swirl
+swirl
+
+villa
+villa
+
+west yard
+west yard
+
+east yard
+east yard
+
+concierge
+concierge
+
+South Corridor
+South Corridor
+
+front hall
+front hall
+
+West Corridor
+West Corridor
+
+East Corridor
+East Corridor
+
+main hall
+main hall
+
+East bedroom
+East bedroom
+
+West bedroom
+West bedroom
+
+windowsill
+windowsill
+
+crossroad
+crossroad
+
+secret door
+secret door
+
+stone road
+stone road
+
+grotto
+grotto
+
+edge of the abyss
+edge of the abyss
+
+abyss
+abyss
+
+Stone Hall
+Stone Hall
+
+hall door
+hall door
+
+grottoe
+grottoe
+
+shoal
+shoal
+
+Turbulence
+Turbulence
+
+South Exit 1
+South Exit 1
+
+South Exit 2
+South Exit 2
+
+South Exit 3
+South Exit 3
+
+South Exit 4
+South Exit 4
+
+North Exit 4
+North Exit 4
+
+north exit 3
+north exit 3
+
+North Exit 2
+North Exit 2
+
+North Exit 1
+North Exit 1
+
+West Exit 1
+West Exit 1
+
+West Exit 2
+West Exit 2
+
+desert island
+desert island
+
+gravel road
+gravel road
+
+sparrow  mountain
+sparrow  mountain
+
+Bo Sea
+Bo Sea
+
+South Sea
+South Sea
+
+temple
+temple
+
+broken wall
+broken wall
+
+shattered pedestal
+shattered pedestal
+
+collapsed statue
+collapsed statue
+
+cargo ship
+cargo ship
+
+reef
+reef
+
+workshop
+workshop
+
+guillotine
+guillotine
+
+courtyard
+courtyard
+
+Tusk stone
+Tusk stone
+
+Pig nose slope
+Pig nose slope
+
+Stone slope
+Stone slope
+
+bunker
+bunker
+
+sea surface
+sea surface
+
+Langley Dam
+Langley Dam
+
+Pillar
+Pillar
+
+mast
+mast
+
+battleship
+battleship
+
+bulkhead
+bulkhead
+
+barrel
+barrel
+
+crumbs
+crumbs
+
+cabin
+cabin
+
+ladder
+ladder
+
+storage cabinet
+storage cabinet
+
+Showroom
+Showroom
+
+safe
+safe
+
+Beast Mountain
+Beast Mountain
+
+gravel
+gravel
+
+pit
+pit
+
+treetop
+treetop
+
+wilderness
+wilderness
+
+command room
+command room
+
+Camp Gate
+Camp Gate
+
+forest path
+forest path
+
+jungle
+jungle
+
+old tree
+old tree
+
+flower bush
+flower bush
+
+flower path
+flower path
+
+crisp woods
+crisp woods
+
+sea of flowers
+sea of flowers
+
+jade river
+jade river
+
+Exit
+Exit
+
+Secret practice room
+Secret practice room
+
+bubble barrier
+bubble barrier
+
+green area
+green area
+
+blue area
+blue area
+
+purple area
+purple area
+
+yellow area
+yellow area
+
+Central region
+Central region
+
+cyan area
+cyan area
+
+black area
+black area
+
+red area
+red area
+
+white area
+white area
+
+ice wall
+ice wall
+
+ice gate
+ice gate
+
+fence wall
+fence wall
+
+village
+village
+
+trail
+trail
+
+ox demon cave
+ox demon cave
+
+inner room
+inner room
+
+wok
+wok
+
+Artemisia annua
+Artemisia annua
+
+Center of the Forest
+Center of the Forest
+
+temple gate
+temple gate
+
+ridge
+ridge
+
+root
+root
+
+trunk
+trunk
+
+tree hole
+tree hole
+
+inner road
+inner road
+
+Center of the Tree Hole
+Center of the Tree Hole
+
+dead wood
+dead wood
+
+Zagrama Mountain
+Zagrama Mountain
+
+cliff
+cliff
+
+cliff
+cliff
+
+neck
+neck
+
+Fingerboard
+Fingerboard
+
+nut
+nut
+
+frets
+frets
+
+Sound board
+Sound board
+
+fortress
+fortress
+
+control room
+control room
+
+armory
+armory
+
+Wall barricade
+Wall barricade
+
+front gate
+front gate
+
+southeast exit
+southeast exit
+
+Southwest Exit
+Southwest Exit
+
+Northwest Exit
+Northwest Exit
+
+Northeast Exit
+Northeast Exit
+
+mountain peak
+mountain peak
+
+ramp
+ramp
+
+Escarpment
+Escarpment
+
+peak
+peak
+
+jungle
+jungle
+
+big tree
+big tree
+
+Platoon room
+Platoon room
+
+corridor
+corridor
+
+compound
+compound
+
+blockhouse
+blockhouse
+
+broken box
+broken box
+
+broken door
+broken door
+
+small door
+small door
+
+Side door
+Side door
+
+inner hall
+inner hall
+
+Outer hall
+Outer hall
+
+Reception
+Reception
+
+Room 101
+Room 101
+
+Room 102
+Room 102
+
+Room 103
+Room 103
+
+Room 104
+Room 104
+
+Room 105
+Room 105
+
+Room 106
+Room 106
+
+Room 107
+Room 107
+
+Room 108
+Room 108
+
+stair case
+stair case
+
+Room 201
+Room 201
+
+Room 202
+Room 202
+
+Room 203
+Room 203
+
+Room 204
+Room 204
+
+Room 205
+Room 205
+
+Room 206
+Room 206
+
+Room 207
+Room 207
+
+Room 208
+Room 208
+
+Room 301
+Room 301
+
+Room 302
+Room 302
+
+Room 303
+Room 303
+
+Room 304
+Room 304
+
+Room 305
+Room 305
+
+Room 306
+Room 306
+
+Room 307
+Room 307
+
+Room 308
+Room 308
+
+Room 401
+Room 401
+
+Room 402
+Room 402
+
+Room 403
+Room 403
+
+Room 404
+Room 404
+
+Room 405
+Room 405
+
+Room 406
+Room 406
+
+Room 407
+Room 407
+
+Room 408
+Room 408
+
+Room 501
+Room 501
+
+Room 502
+Room 502
+
+Room 503
+Room 503
+
+Room 504
+Room 504
+
+Room 505
+Room 505
+
+Room 506
+Room 506
+
+Room 507
+Room 507
+
+Room 508
+Room 508
+
+rooftop
+rooftop
+
+Broken wooden case
+Broken wooden case
+
+Haystack
+Haystack
+
+South mining area
+South mining area
+
+West mining area
+West mining area
+
+Central mining area
+Central mining area
+
+East mining area
+East mining area
+
+vein
+vein
+
+mine
+mine
+
+mine heart
+mine heart
+
+mine road
+mine road
+
+Vein turn
+Vein turn
+
+rock
+rock
+
+mine Well
+mine Well
+
+Cross Well
+Cross Well
+
+West T-Well
+West T-Well
+
+Lifts
+Lifts
+
+Wraith Portal
+Wraith Portal
+
+Wraith Cave
+Wraith Cave
+
+Nether Portal
+Nether Portal
+
+Nether Cave
+Nether Cave
+
+Demon  Portal
+Demon  Portal
+
+Demon  Cave
+Demon  Cave
+
+boarding  Gate 1
+boarding  Gate 1
+
+North T-Well
+North T-Well
+
+boarding  Gate 2
+boarding  Gate 2
+
+boarding  Gate 3
+boarding  Gate 3
+
+black gate
+black gate
+
+space
+space
+
+Guard room
+Guard room
+
+indoor
+indoor
+
+Black Gate Road
+Black Gate Road
+
+tower
+tower
+
+west ground
+west ground
+
+east ground
+east ground
+
+West of the Detention Area
+West of the Detention Area
+
+West of the Severe punishment area
+West of the Severe punishment area
+
+Cell 1
+Cell 1
+
+Cell 2
+Cell 2
+
+Cell 3
+Cell 3
+
+Cell 4
+Cell 4
+
+Warden's Office
+Warden's Office
+
+East of the Detention Area
+East of the Detention Area
+
+East of the Severe punishment area
+East of the Severe punishment area
+
+Front prison door
+Front prison door
+
+back prison door
+back prison door
+
+prison gate
+prison gate
+
+Tomb passage
+Tomb passage
+
+main burial chamber
+main burial chamber
+
+ear chamber
+ear chamber
+
+Stone Hall Center
+Stone Hall Center
+
+sarcophagus
+sarcophagus
+
+freight corridor
+freight corridor
+
+Energy room
+Energy room
+
+Radiant corridor
+Radiant corridor
+
+Radiant Wall
+Radiant Wall
+
+energy room
+energy room
+
+storage room
+storage room
+
+black sand
+black sand
+
+grottoe
+grottoe
+
+fault zone
+fault zone
+
+black cemetery
+black cemetery
+
+sedimentary rock
+sedimentary rock
+
+deep pit
+deep pit
+
+inclined pit
+inclined pit
+
+crack
+crack
+
+Bevel
+Bevel
+
+pit edge
+pit edge
+
+lower steps
+lower steps
+
+Abyssal cliffs
+Abyssal cliffs
+
+cemetery
+cemetery
+
+burial chamber
+burial chamber
+
+Cross lawn
+Cross lawn
+
+Tower of Babel
+Tower of Babel
+
+Magic gate
+Magic gate
+
+Tower base
+Tower base
+
+Northwest of the city
+Northwest of the city
+
+Southwest of the city
+Southwest of the city
+
+southeast of the city
+southeast of the city
+
+Northeast of the city
+Northeast of the city
+
+upper layer
+upper layer
+
+lower layer
+lower layer
+
+fracture layer
+fracture layer
+
+Plague Abyss
+Plague Abyss
+
+quagmire
+quagmire
+
+Guardian Temple
+Guardian Temple
+
+North Corridor
+North Corridor
+
+Ring corridor
+Ring corridor
+
+West Guard Hall
+West Guard Hall
+
+East Guard Hall
+East Guard Hall
+
+explosive path
+explosive path
+
+stone fort
+stone fort
+
+inner fort
+inner fort
+
+outer fort
+outer fort
+
+explosive track
+explosive track
+
+sinkhole
+sinkhole
+
+underground palace
+underground palace
+
+throne
+throne
+
+burial pit
+burial pit
+
+mountainside
+mountainside
+
+stone beam edge
+stone beam edge
+
+Ghost Cave
+Ghost Cave
+
+earth pit
+earth pit
+
+Mine cave
+Mine cave
+
+position
+position
+
+guard room
+guard room
+
+South battery Entrance
+South battery Entrance
+
+South battery
+South battery
+
+Entrance to the Central Battery
+Entrance to the Central Battery
+
+Middle battery
+Middle battery
+
+aisle
+aisle
+
+North battery entrance
+North battery entrance
+
+North battery
+North battery
+
+warehouse
+warehouse
+
+conveyor belt
+conveyor belt
+
+ammo compartment
+ammo compartment
+
+base
+base
+
+corridor
+corridor
+
+side road
+side road
+
+main road
+main road
+
+Stealth artillery area
+Stealth artillery area
+
+sedimentary rock
+sedimentary rock
+
+Conductive plate
+Conductive plate
+
+cab
+cab
+
+hatch
+hatch
+
+High wall
+High wall
+
+jail
+jail
+
+Shock Room 13
+Shock Room 13
+
+electric chair
+electric chair
+
+South Watchtower
+South Watchtower
+
+North Watchtower
+North Watchtower
+
+demon cave
+demon cave
+
+hotel
+hotel
+
+shop
+shop
+
+School
+School
+
+Hospital
+Hospital
+
+hotel lobby
+hotel lobby
+
+school hall
+school hall
+
+classroom
+classroom
+
+office
+office
+
+Ward
+Ward
+
+altar
+altar
+
+burn  platform
+burn  platform
+
+stake
+stake
+
+waterway
+waterway
+
+central waterhole
+central waterhole
+
+whirlpool center
+whirlpool center
+
+magma pool
+magma pool
+
+rock wall
+rock wall
+
+pub
+pub
+
+wine barrel
+wine barrel
+
+stove
+stove
+
+tower wall
+tower wall
+
+Tiankeng
+Tiankeng
+
+pedestal
+pedestal
+
+broken wall
+broken wall
+
+statue
+statue
+
+giant gate
+giant gate
+
+spa
+spa
+
+blackstone
+blackstone
+
+pit
+pit
+
+stone
+stone
+
+Dragon Barrier
+Dragon Barrier
+
+dragon scale tree
+dragon scale tree
+
+dragon Village
+dragon Village
+
+Iron Stone Mountain
+Iron Stone Mountain
+
+wild cave
+wild cave
+
+brick wall
+brick wall
+
+collapse channel
+collapse channel
+
+Dragon's Nest
+Dragon's Nest
+
+Dragon Mire
+Dragon Mire
+
+jungle road
+jungle road
+
+glade
+glade
+
+south entrance of the village
+south entrance of the village
+
+entrance of the Open space
+entrance of the Open space
+
+collapsed brick wall
+collapsed brick wall
+
+pass of the iron stone mountain
+pass of the iron stone mountain
+
+Northwest Cave
+Northwest Cave
+
+Northeast Cave
+Northeast Cave
+
+Southeast Cave
+Southeast Cave
+
+Southwest Cave
+Southwest Cave
+
+central cave
+central cave
+
+Road in the cave
+Road in the cave
+
+mysterious space
+mysterious space
+
+Desolate Dragon's Nest
+Desolate Dragon's Nest
+
+Right channel
+Right channel
+
+center channel
+center channel
+
+Left channel
+Left channel
+
+doorway of the Garden
+doorway of the Garden
+
+doorway of the Library
+doorway of the Library
+
+Dirt road
+Dirt road
+
+garden path
+garden path
+
+doorway of the courtyard, southwest turn
+doorway of the courtyard, southwest turn
+
+Entrance of jewelry exhibition room
+Entrance of jewelry exhibition room
+
+wet soil
+wet soil
+
+pondside
+pondside
+
+pond wall
+pond wall
+
+pond gap
+pond gap
+
+altar side
+altar side
+
+Ruined soil
+Ruined soil
+
+gazebo steps
+gazebo steps
+
+pavilion column
+pavilion column
+
+Rockery fissure
+Rockery fissure
+
+Rockery
+Rockery
+
+Inside Rockery
+Inside Rockery
+
+doorway of the courtyard
+doorway of the courtyard
+
+kennel fence
+kennel fence
+
+kennel
+kennel
+
+courtyard center
+courtyard center
+
+stone table
+stone table
+
+central aisle
+central aisle
+
+aisle; Southwest Color
+aisle; Southwest Color
+
+Jewelry Showroom
+Jewelry Showroom
+
+showcase
+showcase
+
+gallery
+gallery
+
+Passage West Fork Road
+Passage West Fork Road
+
+Passage southeast turn
+Passage southeast turn
+
+red carpet
+red carpet
+
+library
+library
+
+bookshelf
+bookshelf
+
+library secret room
+library secret room
+
+deep in the secret room
+deep in the secret room
+
+doorway of the Arsenal
+doorway of the Arsenal
+
+doorway of the warehouse
+doorway of the warehouse
+
+Warehouse entrance, southwest turn
+Warehouse entrance, southwest turn
+
+dark passage
+dark passage
+
+basement
+basement
+
+underground chamber
+underground chamber
+
+Armory
+Armory
+
+Armor library
+Armor library
+
+Church entrance
+Church entrance
+
+Church entrance, southwest turn
+Church entrance, southwest turn
+
+pool entrance
+pool entrance
+
+Pool entrance, Three fork road
+Pool entrance, Three fork road
+
+pool
+pool
+
+waterway
+waterway
+
+Pool core, Three fork road
+Pool core, Three fork road
+
+upper waterway
+upper waterway
+
+silt
+silt
+
+square entrance, east-west passage
+square entrance, east-west passage
+
+front platform
+front platform
+
+front door of the church
+front door of the church
+
+deep in the church
+deep in the church
+
+Crystal Throne
+Crystal Throne
+
+Land of redemption
+Land of redemption
+
+East Fork Road
+East Fork Road
+
+Fork road
+Fork road
+
+West Fork Road
+West Fork Road
+
+Meditation room
+Meditation room
+
+square Entrance
+square Entrance
+
+flower bed gap
+flower bed gap
+
+groove
+groove
+
+gate of the Kennel Fence
+gate of the Kennel Fence
+
+gate of the Jewelry showroom
+gate of the Jewelry showroom
+
+library
+library
+
+arsenal
+arsenal
+
+church gate
+church gate
+
+library gate
+library gate
+
+Arsenal gate
+Arsenal gate
+
+Rolling Stone Storage
+Rolling Stone Storage
+
+Rolling Stones Launch
+Rolling Stones Launch
+
+doorway of the church
+doorway of the church
+
+main entrance
+main entrance
+
+open space behind camp
+open space behind camp
+
+open space in front of camp
+open space in front of camp
+
+path in front of camp
+path in front of camp
+
+watchtower
+watchtower
+
+path in the Camp
+path in the Camp
+
+moat
+moat
+
+Mystery Room
+Mystery Room
+
+three fork road
+three fork road
+
+living room
+living room
+
+canopy
+canopy
+
+southeast turn; stone steps
+southeast turn; stone steps
+
+Northwest turn; stone steps
+Northwest turn; stone steps
+
+broken wall
+broken wall
+
+Southwest turn; stone steps
+Southwest turn; stone steps
+
+stone table
+stone table
+
+edge of stone table
+edge of stone table
+
+dungeon
+dungeon
+
+back door of the cave
+back door of the cave
+
+fault
+fault
+
+balcony
+balcony
+
+secret test room
+secret test room
+
+South Gate of the Secret Room
+South Gate of the Secret Room
+
+snow mountain
+snow mountain
+
+Gorge passage
+Gorge passage
+
+Gorge
+Gorge
+
+cave
+cave
+
+glacier
+glacier
+
+meditation room
+meditation room
+
+extinguished torch
+extinguished torch
+
+energy barrier
+energy barrier
+
+null
+null
+
+avenue
+avenue
+
+green land
+green land
+
+seaside
+seaside
+
+lava island
+lava island
+
+Magma
+Magma
+
+rock
+rock
+
+Martial Arts Hall
+Martial Arts Hall
+
+martial arts field
+martial arts field
+
+mud pond
+mud pond
+
+Reeds
+Reeds
+
+the sea
+the sea
+
+island
+island
+
+North Road
+North Road
+
+South Road
+South Road
+
+East Street
+East Street
+
+West Street
+West Street
+
+desert
+desert
+
+rock formation
+rock formation
+
+dune
+dune
+
+in the tower
+in the tower
+
+wind magic circle
+wind magic circle
+
+Earth Magic circle
+Earth Magic circle
+
+water magic circle
+water magic circle
+
+fire magic circle
+fire magic circle
+
+mountainside
+mountainside
+
+Ice layer
+Ice layer
+
+snowdrift
+snowdrift
+
+inside the cave
+inside the cave
+
+Trench
+Trench
+
+Undersea Garden
+Undersea Garden
+
+sea flower bush
+sea flower bush
+
+seaweed
+seaweed
+
+South Gate of the Dungeon
+South Gate of the Dungeon
+
+lakeshore
+lakeshore
+
+West coast
+West coast
+
+east coast
+east coast
+
+red camp
+red camp
+
+blue camp
+blue camp
+
+center bridge
+center bridge
+
+main road in front of camp
+main road in front of camp
+
+center Island
+center Island
+
+bench
+bench
+
+small bridge
+small bridge
+
+north branch road
+north branch road
+
+playground
+playground
+
+south branch road
+south branch road
+
+gap
+gap
+
+ramp entrance
+ramp entrance
+
+ruins
+ruins
+
+Flying sand alley
+Flying sand alley
+
+collapsed wall
+collapsed wall
+
+north hillside
+north hillside
+
+mountaintop
+mountaintop
+
+south hillside
+south hillside
+
+east hillside
+east hillside
+
+west hillside
+west hillside
+
+north foothill
+north foothill
+
+east foothill
+east foothill
+
+west foothill
+west foothill
+
+south foothill
+south foothill
+
+roots
+roots
+
+Cross Mountain
+Cross Mountain
+
+North Pit 1
+North Pit 1
+
+North Pit 2
+North Pit 2
+
+North Pit 3
+North Pit 3
+
+North Pit 4
+North Pit 4
+
+middle  platform 1
+middle  platform 1
+
+middle pit 2
+middle pit 2
+
+middle pit 3
+middle pit 3
+
+middle  platform 4
+middle  platform 4
+
+South Pit 1
+South Pit 1
+
+South Pit 2
+South Pit 2
+
+South Pit 3
+South Pit 3
+
+South Pit 4
+South Pit 4
+
+corridor
+corridor
+
+terrace
+terrace
+
+ground
+ground
+
+SouthWest of the Highland
+SouthWest of the Highland
+
+SouthEast of the Highland
+SouthEast of the Highland
+
+ground fence
+ground fence
+
+canteen
+canteen
+
+bathroom
+bathroom
+
+Guardian room
+Guardian room
+
+step bottom
+step bottom
+
+middle path
+middle path
+
+Walking stage
+Walking stage
+
+front door of the ground
+front door of the ground
+
+back door of the ground
+back door of the ground
+
+safe door
+safe door
+
+ice cave
+ice cave
+
+hidden grid
+hidden grid
+
+Snow Cave
+Snow Cave
+
+Ice Cave Center
+Ice Cave Center
+
+orizontal Road 1
+orizontal Road 1
+
+orizontal Road 2
+orizontal Road 2
+
+orizontal Road 3
+orizontal Road 3
+
+orizontal Road 4
+orizontal Road 4
+
+Vertical Road No. 1
+Vertical Road No. 1
+
+vertical road 2
+vertical road 2
+
+vertical road 3
+vertical road 3
+
+vertical road 4
+vertical road 4
+
+end of orizontal road
+end of orizontal road
+
+end of vertical road
+end of vertical road
+
+ship's rail
+ship's rail
+
+deck
+deck
+
+stern
+stern
+
+bow
+bow
+
+captain's room
+captain's room
+
+cargo hold
+cargo hold
+
+cargo box
+cargo box
+
+gangway
+gangway
+
+Towering Mountain
+Towering Mountain
+
+farm warehouse
+farm warehouse
+
+mountainside
+mountainside
+
+villa road
+villa road
+
+back room
+back room
+
+middle room
+middle room
+
+front room
+front room
+
+grass
+grass
+
+gravel slope
+gravel slope
+
+willow
+willow
+
+Heaven Pool
+Heaven Pool
+
+Villa gate
+Villa gate
+
+inner wall
+inner wall
+
+transmission shaft
+transmission shaft
+
+Turbine cabin
+Turbine cabin
+
+switch
+switch
+
+Power cabin
+Power cabin
+
+pothole
+pothole
+
+kitchen
+kitchen
+
+pharmacy room
+pharmacy room
+
+study
+study
+
+Breeding room
+Breeding room
+
+Smelting room
+Smelting room
+
+Washing and grinding room
+Washing and grinding room
+
+Storage Room
+Storage Room
+
+exercise room
+exercise room
+
+main mansion
+main mansion
+
+inner hall
+inner hall
+
+backyard west
+backyard west
+
+backyard east
+backyard east
+
+front yard west
+front yard west
+
+front yard east
+front yard east
+
+west grass
+west grass
+
+east flower bush
+east flower bush
+
+road in front of mansion
+road in front of mansion
+
+west side road
+west side road
+
+east side road
+east side road
+
+road behind mansion
+road behind mansion
+
+inner door
+inner door
+
+lake
+lake
+
+West Lake
+West Lake
+
+East Lake
+East Lake
+
+water platform
+water platform
+
+west platform
+west platform
+
+east platform
+east platform
+
+South Bridge
+South Bridge
+
+North Bridge
+North Bridge
+
+west side bridge
+west side bridge
+
+east side bridge
+east side bridge
+
+Southwest Platform
+Southwest Platform
+
+Southeast Platform
+Southeast Platform
+
+East side platform
+East side platform
+
+west side platform
+west side platform
+
+Northwest Platform
+Northwest Platform
+
+Northeast Platform
+Northeast Platform
+
+courtyard
+courtyard
+
+East side courtyard
+East side courtyard
+
+West side courtyard
+West side courtyard
+
+front avenue of the mansion
+front avenue of the mansion
+
+back avenue of the mansion
+back avenue of the mansion
+
+west side snowfield
+west side snowfield
+
+east side snowfield
+east side snowfield
+
+steel platform
+steel platform
+
+fortress
+fortress
+
+Steel Avenue
+Steel Avenue
+
+west side passage
+west side passage
+
+East side  Passage
+East side  Passage
+
+center
+center
+
+northwest
+northwest
+
+north
+north
+
+northeast
+northeast
+
+West
+West
+
+East
+East
+
+southwest
+southwest
+
+South
+South
+
+southeast
+southeast
+
+Northwest of the pit
+Northwest of the pit
+
+North of the pit
+North of the pit
+
+Northeast of the Pit
+Northeast of the Pit
+
+East of the pit
+East of the pit
+
+Center of the pit
+Center of the pit
+
+West of the pit
+West of the pit
+
+Southwest of the pit
+Southwest of the pit
+
+south of the pit
+south of the pit
+
+southeast of the pit
+southeast of the pit
+
+stone maze
+stone maze
+
+center stone room
+center stone room
+
+end of the maze
+end of the maze
+
+Entrance
+Entrance
+
+west mouth of Valley
+west mouth of Valley
+
+east mouth of Valley
+east mouth of Valley
+
+maze entrance
+maze entrance
+
+Herb field
+Herb field
+
+curly tree
+curly tree
+
+Outer ring of tree hole
+Outer ring of tree hole
+
+annual ring wall
+annual ring wall
+
+Inner ring of tree hole
+Inner ring of tree hole
+
+tree heart
+tree heart
+
+turn southeast
+turn southeast
+
+turn northwest
+turn northwest
+
+turn southwest
+turn southwest
+
+turn northeast
+turn northeast
+
+turn east
+turn east
+
+turn south
+turn south
+
+turn north
+turn north
+
+turn west
+turn west
+
+water lily
+water lily
+
+North Shore
+North Shore
+
+South Shore
+South Shore
+
+northern waters
+northern waters
+
+Northeast waters
+Northeast waters
+
+Eastern Waters
+Eastern Waters
+
+Southeast waters
+Southeast waters
+
+southern waters
+southern waters
+
+Southwest waters
+Southwest waters
+
+western waters
+western waters
+
+Northwest Waters
+Northwest Waters
+
+central waters
+central waters
+
+west river estuary
+west river estuary
+
+west river
+west river
+
+East River Estuary
+East River Estuary
+
+east river
+east river
+
+giant snail reef
+giant snail reef
+
+snail heart
+snail heart
+
+hall
+hall
+
+Red carpet
+Red carpet
+
+stage
+stage
+
+pink petals
+pink petals
+
+curtain wall
+curtain wall
+
+river
+river
+
+love Bridge
+love Bridge
+
+pontoon
+pontoon
+
+floating platform
+floating platform
+
+storehouse
+storehouse
+
+stone lion
+stone lion
+
+North Street
+North Street
+
+South Street
+South Street
+
+wish alley
+wish alley
+
+peace alley
+peace alley
+
+Outer teleportation room
+Outer teleportation room
+
+episcopal room
+episcopal room
+
+Inner teleportation room
+Inner teleportation room
+
+dais
+dais
+
+baptismal room
+baptismal room
+
+fjord river
+fjord river
+
+upper river
+upper river
+
+lower river
+lower river
+
+Iron railing
+Iron railing
+
+central  camp
+central  camp
+
+west camp
+west camp
+
+east camp
+east camp
+
+south camp
+south camp
+
+demonization Cabin
+demonization Cabin
+
+north camp
+north camp
+
+starting point
+starting point
+
+end
+end
+
+artillery array
+artillery array
+
+piano
+piano
+
+Do
+Do
+
+Re
+Re
+
+Mi
+Mi
+
+Fa
+Fa
+
+Sol
+Sol
+
+floor 5
+floor 5
+
+floor 4
+floor 4
+
+floor 3
+floor 3
+
+floor 2
+floor 2
+
+floor 1
+floor 1
+
+up the ladder
+up the ladder
+
+down the ladder
+down the ladder
+
+sea ​​floor
+sea ​​floor
+
+beach
+beach
+
+Sea
+Sea
+
+Evil Temple
+Evil Temple
+
+blood pool
+blood pool
+
+front road of the Village
+front road of the Village
+
+Grocery store
+Grocery store
+
+paddy
+paddy
+
+wheat field
+wheat field
+
+Orchard
+Orchard
+
+Sapphire River
+Sapphire River
+
+Hearth
+Hearth
+
+laundry tub
+laundry tub
+
+fish tank
+fish tank
+
+oven
+oven
+
+fish basket
+fish basket
+
+table
+table
+
+clothesline
+clothesline
+
+cliff
+cliff
+
+central platform
+central platform
+
+north platform
+north platform
+
+East Platform
+East Platform
+
+South platform
+South platform
+
+West Platform
+West Platform
+
+edge of the platform
+edge of the platform
+
+black purgatory
+black purgatory
+
+magma hell
+magma hell
+
+Abyss Demon realm
+Abyss Demon realm
+
+magnolia tree
+magnolia tree
+
+Garden under the Moon
+Garden under the Moon
+
+galaxy
+galaxy
+
+Magpie Bridge
+Magpie Bridge
+
+cattles Mountain
+cattles Mountain
+
+house
+house
+
+West Wing
+West Wing
+
+main room
+main room
+
+East wing
+East wing
+
+Downside Room
+Downside Room
+
+doorway
+doorway
+
+Lancang River
+Lancang River
+
+tree stump
+tree stump
+
+igloo
+igloo
+
+auditorium
+auditorium
+
+Dining room
+Dining room
+
+dining table
+dining table
+
+Chair
+Chair
+
+hill bag
+hill bag
+
+rock pile
+rock pile
+
+stalagmite
+stalagmite
+
+channel
+channel
+
+forest exit
+forest exit
+
+ancient tree
+ancient tree
+
+tree heart entrance
+tree heart entrance
+
+grass
+grass
+
+wolf head mountain
+wolf head mountain
+
+swamp
+swamp
+
+puddle
+puddle
+
+swamp tree
+swamp tree
+
+sea river
+sea river
+
+east sea Bridge
+east sea Bridge
+
+big quagmire
+big quagmire
+
+quagmire entrance
+quagmire entrance
+
+mud slope
+mud slope
+
+port
+port
+
+West Port
+West Port
+
+east port
+east port
+
+Dock Bridge
+Dock Bridge
+
+coconut tree
+coconut tree
+
+Nepeta bush
+Nepeta bush
+
+bunker
+bunker
+
+Villa of the cat king
+Villa of the cat king
+
+villa gate
+villa gate
+
+staircase
+staircase
+
+side yard
+side yard
+
+side door
+side door
+
+Sand Holly
+Sand Holly
+
+aloe vera
+aloe vera
+
+Collapsed courtyard wall
+Collapsed courtyard wall
+
+workshop
+workshop
+
+collapsed gate
+collapsed gate
+
+main hallway
+main hallway
+
+broken window
+broken window
+
+south side corridor
+south side corridor
+
+North side Corridor
+North side Corridor
+
+dirt road in the courtyard
+dirt road in the courtyard
+
+production workshop
+production workshop
+
+single conveyor belt
+single conveyor belt
+
+workshop channel
+workshop channel
+
+conveyor belt entrance
+conveyor belt entrance
+
+conveyor belt exit
+conveyor belt exit
+
+doorway of the control room
+doorway of the control room
+
+connecting corridor
+connecting corridor
+
+Stone Hall in the center
+Stone Hall in the center
+
+stone steps of the secret path
+stone steps of the secret path
+
+abrupt gravel
+abrupt gravel
+
+stone ladder of the secret path
+stone ladder of the secret path
+
+stone ladder  entrance
+stone ladder  entrance
+
+Circling Stone Ladder
+Circling Stone Ladder
+
+Tomb of the Pharaoh
+Tomb of the Pharaoh
+
+hillside road
+hillside road
+
+crater
+crater
+
+torch tree
+torch tree
+
+flame flower bush
+flame flower bush
+
+hot spring pool
+hot spring pool
+
+Flaming Mountain
+Flaming Mountain
+
+stone bridge
+stone bridge
+
+lava lake
+lava lake
+
+cabin
+cabin
+
+artificial island
+artificial island
+
+lighthouse
+lighthouse
+
+doorway of the Captain's room
+doorway of the Captain's room
+
+finger hill
+finger hill
+
+Basalt
+Basalt
+
+cave in the sea
+cave in the sea
+
+Cave mouth
+Cave mouth
+
+river
+river
+
+large  eucalyptus
+large  eucalyptus
+
+root of the large eucalyptus
+root of the large eucalyptus
+
+tree hole tunnel
+tree hole tunnel
+
+tree hole mouth
+tree hole mouth
+
+Hovering Wooden Ladder
+Hovering Wooden Ladder
+
+lacquer tree
+lacquer tree
+
+Parasitic vine
+Parasitic vine
+
+parasitic root
+parasitic root
+
+banyan trunk
+banyan trunk
+
+banyan root
+banyan root
+
+Poison Swamp
+Poison Swamp
+
+mud
+mud
+
+tree top
+tree top
+
+tree branch
+tree branch
+
+turkey mountain
+turkey mountain
+
+weathered rock
+weathered rock
+
+halfway up the mountain
+halfway up the mountain
+
+mountain fissure
+mountain fissure
+
+narrow road
+narrow road
+
+earth wall
+earth wall
+
+house
+house
+
+collapsed earth wall
+collapsed earth wall
+
+collapsed wooden wall
+collapsed wooden wall
+
+dry well
+dry well
+
+back hallway
+back hallway
+
+bed
+bed
+
+ancient clock
+ancient clock
+
+closet
+closet
+
+ocean
+ocean
+
+Great Trench
+Great Trench
+
+Crystal Palace
+Crystal Palace
+
+cobblestone path
+cobblestone path
+
+Coral island
+Coral island
+
+back hall
+back hall
+
+central hall
+central hall
+
+side hall
+side hall
+
+Blood sucking tree
+Blood sucking tree
+
+broken sand
+broken sand
+
+bloodstone
+bloodstone
+
+weeds
+weeds
+
+Burial Ground
+Burial Ground
+
+grave bag
+grave bag
+
+dead woods
+dead woods
+
+dead leaf forest
+dead leaf forest
+
+gravel
+gravel
+
+doorway of the blood red castle
+doorway of the blood red castle
+
+blood red castle
+blood red castle
+
+main hall
+main hall
+
+Gobi
+Gobi
+
+desert
+desert
+
+oasis
+oasis
+
+Populus euphratica
+Populus euphratica
+
+desert exit
+desert exit
+
+quicksand whirlpool
+quicksand whirlpool
+
+ice pine
+ice pine
+
+iceberg
+iceberg
+
+ice wall
+ice wall
+
+Ice Palace
+Ice Palace
+
+side hall
+side hall
+
+mirrored hallway
+mirrored hallway
+
+ice brick steps
+ice brick steps
+
+central cave
+central cave
+
+center pit
+center pit
+
+Entrance to the pool
+Entrance to the pool
+
+torch
+torch
+
+hallway
+hallway
+
+central fortress
+central fortress
+
+steps handrail
+steps handrail
+
+laboratory
+laboratory
+
+energy storage room
+energy storage room
+
+power room
+power room
+
+energy delivery pipe
+energy delivery pipe
+
+Magic Research Laboratory
+Magic Research Laboratory
+
+Magic Item Storage Room
+Magic Item Storage Room
+
+Liaison Room
+Liaison Room
+
+monitoring room
+monitoring room
+
+Robot warehouse
+Robot warehouse
+
+monster training room
+monster training room
+
+showroom
+showroom
+
+guard house
+guard house
+
+Machine production room
+Machine production room
+
+exhibition room
+exhibition room
+
+escalator
+escalator
+
+platform of the escalator
+platform of the escalator
+
+escalator entrance
+escalator entrance
+
+machine training ground
+machine training ground
+
+Machine production room
+Machine production room
+
+energy reaction pit
+energy reaction pit
+
+energy delivery port
+energy delivery port
+
+energy delivery table
+energy delivery table
+
+petri dish
+petri dish
+
+parts making machine
+parts making machine
+
+main control room
+main control room
+
+Thunder Mountain
+Thunder Mountain
+
+Monster Mountain
+Monster Mountain
+
+Thunder Dragon Mountain
+Thunder Dragon Mountain
+
+wilderness
+wilderness
+
+Crescent Moon Spring
+Crescent Moon Spring
+
+attic
+attic
+
+dark shrine
+dark shrine
+
+ancient well
+ancient well
+
+Pure Land Temple
+Pure Land Temple
+
+Dead Water Temple
+Dead Water Temple
+
+Dark Flame Temple
+Dark Flame Temple
+
+Evil Wind Temple
+Evil Wind Temple
+
+stone pillar
+stone pillar
+
+bonfire
+bonfire
+
+black quagmire
+black quagmire
+
+turning place
+turning place
+
+sacrificial hall
+sacrificial hall
+
+south gate of the cell
+south gate of the cell
+
+barrack
+barrack
+
+Brute Valley Entrance
+Brute Valley Entrance
+
+Stone Ladder of the well
+Stone Ladder of the well
+
+ Granary doorway
+ Granary doorway
+
+northern town
+northern town
+
+breezy Village
+breezy Village
+
+Entrance to Takama Desert
+Entrance to Takama Desert
+
+Entrance to Karst cave
+Entrance to Karst cave
+
+Entrance to Fred  Forest
+Entrance to Fred  Forest
+
+main entrance of the shrine
+main entrance of the shrine
+
+south entrance  of the town
+south entrance  of the town
+
+north entrance  of the town
+north entrance  of the town
+
+main hall entrance
+main hall entrance
+
+Butterfly Valley
+Butterfly Valley
+
+entrance to beauty of river and mountain
+entrance to beauty of river and mountain
+
+Entrance to Wolfe Prairie
+Entrance to Wolfe Prairie
+
+underground entrance
+underground entrance
+
+Entrance to Abundant green hills
+Entrance to Abundant green hills
+
+back to the ground
+back to the ground
+
+Cable Car; to Lifting Platform No. 1
+Cable Car; to Lifting Platform No. 1
+
+Cable car; to Tulip City
+Cable car; to Tulip City
+
+Cable car; to holy blood city
+Cable car; to holy blood city
+
+spy base
+spy base
+
+doorway of room
+doorway of room
+
+Demon Banner
+Demon Banner
+
+brave Valley
+brave Valley
+
+Wisdom Forest
+Wisdom Forest
+
+Wisdom Cabin; Wisdom Forest
+Wisdom Cabin; Wisdom Forest
+
+Stone maze: Wisdom Forest
+Stone maze: Wisdom Forest
+
+Wisdom Cabin
+Wisdom Cabin
+
+deep in the diversion channel
+deep in the diversion channel
+
+Entrance to Polson Wetland
+Entrance to Polson Wetland
+
+uphill road
+uphill road
+
+Gale   Cave
+Gale   Cave
+
+Wolf Prairie
+Wolf Prairie
+
+underground cave
+underground cave
+
+stone gate of cave
+stone gate of cave
+
+west stairwell
+west stairwell
+
+east stairwell
+east stairwell
+
+Stairwell No. 1
+Stairwell No. 1
+
+Stairwell No. 2
+Stairwell No. 2
+
+Stairwell No. 3
+Stairwell No. 3
+
+Stairwell No. 4
+Stairwell No. 4
+
+Stairwell No. 5
+Stairwell No. 5
+
+Stairwell No. 6
+Stairwell No. 6
+
+Stairwell No. 7
+Stairwell No. 7
+
+Stairwell No. 8
+Stairwell No. 8
+
+Stairwell No. 9
+Stairwell No. 9
+
+Stairwell No. 10
+Stairwell No. 10
+
+Stairwell 11
+Stairwell 11
+
+Stairwell No. 12
+Stairwell No. 12
+
+Stairwell 13
+Stairwell 13
+
+Stairwell No. 14
+Stairwell No. 14
+
+Stairwell No. 15
+Stairwell No. 15
+
+Stairwell 16
+Stairwell 16
+
+Stairwell No. 17
+Stairwell No. 17
+
+Stairwell No. 18
+Stairwell No. 18
+
+Stairwell No. 19
+Stairwell No. 19
+
+Stairwell No. 20
+Stairwell No. 20
+
+Passage doorway
+Passage doorway
+
+cellar exit
+cellar exit
+
+doorway of vegetable cellar
+doorway of vegetable cellar
+
+doorway of wine cellar
+doorway of wine cellar
+
+doorway of barracks
+doorway of barracks
+
+doorway of parliament hall
+doorway of parliament hall
+
+Domi Wasteland
+Domi Wasteland
+
+Entrance to Margit Rainforest
+Entrance to Margit Rainforest
+
+Oaks Tribe
+Oaks Tribe
+
+Cable Car; to lifting platform No. 2
+Cable Car; to lifting platform No. 2
+
+Cable car; to Giant Rock City
+Cable car; to Giant Rock City
+
+North Mountain Plantation
+North Mountain Plantation
+
+deep in the cave
+deep in the cave
+
+entrance to Domi wasteland
+entrance to Domi wasteland
+
+ranch gate
+ranch gate
+
+Entrance to Glorious Grassland
+Entrance to Glorious Grassland
+
+Entrance to Dark pit City
+Entrance to Dark pit City
+
+Stone Cliff Village
+Stone Cliff Village
+
+Rogue Camp
+Rogue Camp
+
+doorway of Holy See
+doorway of Holy See
+
+Entrance to Flaming Mountain
+Entrance to Flaming Mountain
+
+Entrance to skeleton Basin
+Entrance to skeleton Basin
+
+Cable Car; to lifting platform No. 3
+Cable Car; to lifting platform No. 3
+
+Stonehelm Outpost
+Stonehelm Outpost
+
+gouging knife city
+gouging knife city
+
+Outpost North Gate
+Outpost North Gate
+
+Outpost West Gate
+Outpost West Gate
+
+Entrance to Magnet Hill
+Entrance to Magnet Hill
+
+Outpost South Gate
+Outpost South Gate
+
+Outpost East Gate
+Outpost East Gate
+
+Entrance to Devil's Valley
+Entrance to Devil's Valley
+
+Camp South Gate
+Camp South Gate
+
+Camp West Gate
+Camp West Gate
+
+Camp North Gate
+Camp North Gate
+
+Camp East Gate
+Camp East Gate
+
+doorway of temple
+doorway of temple
+
+night sky plain
+night sky plain
+
+black forest
+black forest
+
+secret room underground
+secret room underground
+
+crystal ball
+crystal ball
+
+graceful Lake
+graceful Lake
+
+Tranquil River estuary
+Tranquil River estuary
+
+Entrance to Central Plains
+Entrance to Central Plains
+
+Entrance to Tuneful Wetland
+Entrance to Tuneful Wetland
+
+water curtain cave
+water curtain cave
+
+inland sea
+inland sea
+
+river bend
+river bend
+
+Hanging bell
+Hanging bell
+
+entrance to graceful Lake
+entrance to graceful Lake
+
+entrance to open sea
+entrance to open sea
+
+Entrance to the dark river cave
+Entrance to the dark river cave
+
+upper floor of Villa
+upper floor of Villa
+
+Lower floor  of villa
+Lower floor  of villa
+
+Nepeta
+Nepeta
+
+gear 1
+gear 1
+
+earth array
+earth array
+
+water array
+water array
+
+fire array
+fire array
+
+wind array
+wind array
+
+center maze
+center maze
+
+Baru Stone Room
+Baru Stone Room
+
+Inland Sea entrance
+Inland Sea entrance
+
+hay cutter
+hay cutter
+
+golf villa
+golf villa
+
+pig head stone
+pig head stone
+
+Evergreen Valley
+Evergreen Valley
+
+tree Valley
+tree Valley
+
+flower Valley
+flower Valley
+
+grass Valley
+grass Valley
+
+North of Colorful Valley
+North of Colorful Valley
+
+South of Colorful Valley
+South of Colorful Valley
+
+hidden water cave
+hidden water cave
+
+Entrance to High climbing grassland
+Entrance to High climbing grassland
+
+Entrance  of hidden water cave
+Entrance  of hidden water cave
+
+Entrance to Valley of Luxuriant forests
+Entrance to Valley of Luxuriant forests
+
+Herbs Village
+Herbs Village
+
+Verdant Valley
+Verdant Valley
+
+Sapphire Valley
+Sapphire Valley
+
+branch
+branch
+
+floor 1
+floor 1
+
+floor 2
+floor 2
+
+floor 3
+floor 3
+
+floor 4
+floor 4
+
+floor 5
+floor 5
+
+to Lifting No. 1
+to Lifting No. 1
+
+to Lifting No. 2
+to Lifting No. 2
+
+to Lifting No. 3
+to Lifting No. 3
+
+Entrance to Ancient Ruins
+Entrance to Ancient Ruins
+
+Entrance to South mining area
+Entrance to South mining area
+
+Cable Car No. 1
+Cable Car No. 1
+
+Cable Car No. 2
+Cable Car No. 2
+
+Entrance to West mining area
+Entrance to West mining area
+
+Cable Car No. 3
+Cable Car No. 3
+
+doorway of main cemetery
+doorway of main cemetery
+
+doorway of the ear room
+doorway of the ear room
+
+doorway of Energy room
+doorway of Energy room
+
+doorway of the research room
+doorway of the research room
+
+doorway of storage room
+doorway of storage room
+
+slump zone
+slump zone
+
+City of the Ancient tower
+City of the Ancient tower
+
+entrance to underground mine
+entrance to underground mine
+
+doorway of West Guard Hall
+doorway of West Guard Hall
+
+doorway of East Guard Hall
+doorway of East Guard Hall
+
+doorway of Guardian Temple
+doorway of Guardian Temple
+
+fortress gate
+fortress gate
+
+Sarcophagus under stone beams
+Sarcophagus under stone beams
+
+Ghost Cave; die instantly; When falling to death, do not use the resurrection crystal to revive in situ
+Ghost Cave; die instantly; When falling to death, do not use the resurrection crystal to revive in situ
+
+prison gate
+prison gate
+
+Pentagram Altar
+Pentagram Altar
+
+East Gate of the Hospital
+East Gate of the Hospital
+
+West Gate of the Hospital
+West Gate of the Hospital
+
+East gate of the school
+East gate of the school
+
+West gate of the school
+West gate of the school
+
+doorway of the house
+doorway of the house
+
+Hotel entrance
+Hotel entrance
+
+store entrance
+store entrance
+
+East Sealing Tower
+East Sealing Tower
+
+West Sealing Tower
+West Sealing Tower
+
+stone pier
+stone pier
+
+collapse channel
+collapse channel
+
+jungle road
+jungle road
+
+Cathedral of Darkness
+Cathedral of Darkness
+
+dark library
+dark library
+
+Dark Arsenal
+Dark Arsenal
+
+dark monastery
+dark monastery
+
+gate of the monastery
+gate of the monastery
+
+Orc Cave
+Orc Cave
+
+Legacy Chamber of Secrets
+Legacy Chamber of Secrets
+
+red banner
+red banner
+
+blue banner
+blue banner
+
+railing gap
+railing gap
+
+North Gate of Cabin No.1
+North Gate of Cabin No.1
+
+South Gate of Cabin No.1
+South Gate of Cabin No.1
+
+South Gate of Cabin No.2
+South Gate of Cabin No.2
+
+North Gate of Cabin No.2
+North Gate of Cabin No.2
+
+North Gate of Cabin No.3
+North Gate of Cabin No.3
+
+South Gate of Cabin No.3
+South Gate of Cabin No.3
+
+doorway of the cabin
+doorway of the cabin
+
+mountains
+mountains
+
+Willows Villa
+Willows Villa
+
+bright peak
+bright peak
+
+back to map 1
+back to map 1
+
+inner hall
+inner hall
+
+Outer hall
+Outer hall
+
+Northwest of Herbal Garden
+Northwest of Herbal Garden
+
+Northeast of Herbal  Garden
+Northeast of Herbal  Garden
+
+East of Herbal  Garden
+East of Herbal  Garden
+
+central of Herbal  Garden
+central of Herbal  Garden
+
+West of Herbal  Garden
+West of Herbal  Garden
+
+Southwest of Herbal   Garden
+Southwest of Herbal   Garden
+
+South of Herbal  Garden
+South of Herbal  Garden
+
+Southeast of Herbal   Garden
+Southeast of Herbal   Garden
+
+North of Herbal  Garden
+North of Herbal  Garden
+
+tree hole 1
+tree hole 1
+
+tree hole 2
+tree hole 2
+
+tree hole 3
+tree hole 3
+
+tree hole 4
+tree hole 4
+
+tree hole 5
+tree hole 5
+
+tree hole 6
+tree hole 6
+
+tree hole 7
+tree hole 7
+
+tree hole 8
+tree hole 8
+
+grass and insects
+grass and insects
+
+church hall
+church hall
+
+garden
+garden
+
+ancient building
+ancient building
+
+Ghost Canyon
+Ghost Canyon
+
+cave
+cave
+
+peach orchard Village
+peach orchard Village
+
+doorway of Grocery store
+doorway of Grocery store
+
+North of the Blackwater
+North of the Blackwater
+
+East of the Blackwater
+East of the Blackwater
+
+South of the Blackwater
+South of the Blackwater
+
+West of the Blackwater
+West of the Blackwater
+
+north of the magma field
+north of the magma field
+
+east of the magma field
+east of the magma field
+
+south of the magma field
+south of the magma field
+
+west of the magma field
+west of the magma field
+
+Abyss Domain
+Abyss Domain
+
+Northwest of the Blackwater
+Northwest of the Blackwater
+
+Northeast of the Blackwater
+Northeast of the Blackwater
+
+Southeast of the Blackwater
+Southeast of the Blackwater
+
+Southwest of the Blackwater
+Southwest of the Blackwater
+
+Southwest of the magma field
+Southwest of the magma field
+
+Southeast of the magma field
+Southeast of the magma field
+
+Northwest of the magma field
+Northwest of the magma field
+
+Northwest
+Northwest
+
+north
+north
+
+northeast
+northeast
+
+west
+west
+
+Central
+Central
+
+east
+east
+
+Southwest
+Southwest
+
+south
+south
+
+Southeast
+Southeast
+
+entrance to corpse cave
+entrance to corpse cave
+
+Bruder Cave
+Bruder Cave
+
+Mario Basin
+Mario Basin
+
+cannibal cave
+cannibal cave
+
+central plains
+central plains
+
+Fertile Wilds
+Fertile Wilds
+
+Entrance to Carter Plain
+Entrance to Carter Plain
+
+Entrance to Fertile Wilds
+Entrance to Fertile Wilds
+
+sailing port
+sailing port
+
+Entrance to Marion Sea
+Entrance to Marion Sea
+
+center
+center
+
+Entrance to Carter tribe
+Entrance to Carter tribe
+
+abandoned factory
+abandoned factory
+
+Entrance to Tuneful Wetland
+Entrance to Tuneful Wetland
+
+upper stairs
+upper stairs
+
+second floor of the factory
+second floor of the factory
+
+broken window
+broken window
+
+lower stairs
+lower stairs
+
+top floor of the factory
+top floor of the factory
+
+mysterious tomb
+mysterious tomb
+
+second floor underground
+second floor underground
+
+upper floor of the tomb
+upper floor of the tomb
+
+third floor underground
+third floor underground
+
+Entrance to hilly terrain
+Entrance to hilly terrain
+
+Entrance to Flame Cave
+Entrance to Flame Cave
+
+entrance to volcanic cave
+entrance to volcanic cave
+
+finger Cave
+finger Cave
+
+Reef Cave
+Reef Cave
+
+deep in the cave
+deep in the cave
+
+sailing port
+sailing port
+
+reef cave
+reef cave
+
+entrance to secluded valley
+entrance to secluded valley
+
+Entrance to the cave
+Entrance to the cave
+
+upper exit
+upper exit
+
+Lower exit
+Lower exit
+
+old tree under mountain
+old tree under mountain
+
+entrance to black wasteland
+entrance to black wasteland
+
+old house
+old house
+
+High climbing grassland
+High climbing grassland
+
+Blood Wasteland
+Blood Wasteland
+
+western gobi
+western gobi
+
+central desert
+central desert
+
+Eastern desert
+Eastern desert
+
+Entrance to Mario Basin
+Entrance to Mario Basin
+
+Underground Wormhole
+Underground Wormhole
+
+ice cave entrance
+ice cave entrance
+
+Earles Palace
+Earles Palace
+
+lower palace
+lower palace
+
+doorway of the palace
+doorway of the palace
+
+rolling mountain cave
+rolling mountain cave
+
+upper palace
+upper palace
+
+Throne Gem
+Throne Gem
+
+torche on the wall
+torche on the wall
+
+west gate of the fortress
+west gate of the fortress
+
+East Gate of the fortress
+East Gate of the fortress
+
+North Gate of the fortress
+North Gate of the fortress
+
+South Gate of the fortress
+South Gate of the fortress
+
+go to the upper level
+go to the upper level
+
+return to lower level
+return to lower level
+
+Thunder Cave
+Thunder Cave
+
+upper entrance
+upper entrance
+
+Entrance to secluded valley
+Entrance to secluded valley
+
+black wasteland
+black wasteland
+
+Chasing Star Pavilion
+Chasing Star Pavilion
+
+down stairs
+down stairs
+
+Temple Dungeon
+Temple Dungeon
+
+lower of the temple
+lower of the temple
+
+up stairs
+up stairs
+
+mist gods Ruins
+mist gods Ruins
+
+Dream Barrier
+Dream Barrier
+
+Dream Palace
+Dream Palace
+
+Broken Idol
+Broken Idol
+
+Control Monster C1 of 4
+Control Monster C1 of 4
+
+Southwest turn; slope
+Southwest turn; slope
+
+Northwest turn; slope
+Northwest turn; slope
+
+Southeast turn; slope
+Southeast turn; slope
+
+Northeast turn; slope
+Northeast turn; slope
+
+Dark Demon Tower
+Dark Demon Tower
+
+Wasteland
+Wasteland
+
+Side wall
+Side wall
+
+spectre wilderness
+spectre wilderness
+
+Sunset City
+Sunset City
+
+Giant Rock City
+Giant Rock City
+
+mettle village
+mettle village
+
+starlight Village
+starlight Village
+
+White Sand City
+White Sand City
+
+Tulip City
+Tulip City
+
+Aria Village
+Aria Village
+
+Tucana Village
+Tucana Village
+
+Moon City
+Moon City
+
+holy blood city
+holy blood city
+
+Gouging knife City
+Gouging knife City
+
+East Lake Village
+East Lake Village
+
+Violet City
+Violet City
+
+dark night City
+dark night City
+
+sunless camp
+sunless camp
+
+Soul Burial Village
+Soul Burial Village
+
+Orchid woods Village
+Orchid woods Village
+
+Hermit Camp
+Hermit Camp
+
+Garlic Village
+Garlic Village

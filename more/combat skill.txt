@@ -1,0 +1,1673 @@
+Bash
+Bash
+
+Cleave
+Cleave
+
+Execute
+Execute
+
+Sweep Attack
+Sweep Attack
+
+Whirlwind Slash
+Whirlwind Slash
+
+Wind Step
+Wind Step
+
+Swallow Dance
+Swallow Dance
+
+Formless
+Formless
+
+Leap Slash
+Leap Slash
+
+Rip and Tear
+Rip and Tear
+
+Suppress
+Suppress
+
+Hamstring
+Hamstring
+
+Armor Break
+Armor Break
+
+Rupture
+Rupture
+
+Battle Cry
+Battle Cry
+
+Command Cry
+Command Cry
+
+Taunt Attack
+Taunt Attack
+
+Challenge Cry
+Challenge Cry
+
+Lethal Strike
+Lethal Strike
+
+Valiant Strike
+Valiant Strike
+
+Reckless Strike
+Reckless Strike
+
+Bloodthirsty
+Bloodthirsty
+
+Flesh Cleave
+Flesh Cleave
+
+Rampage Hack
+Rampage Hack
+
+Haste
+Haste
+
+Ignore the Pain
+Ignore the Pain
+
+Furious Recovery
+Furious Recovery
+
+Ancestral Hammer
+Ancestral Hammer
+
+Earthshaking Stomp
+Earthshaking Stomp
+
+Vengeance
+Vengeance
+
+Thunderous Blow
+Thunderous Blow
+
+Giant Strike
+Giant Strike
+
+Berserk Roar
+Berserk Roar
+
+Battle Roar
+Battle Roar
+
+Taunt
+Taunt
+
+Reckless
+Reckless
+
+Blade Strike
+Blade Strike
+
+Rapid Sting
+Rapid Sting
+
+Fan of Knives
+Fan of Knives
+
+Blade Fury Dance
+Blade Fury Dance
+
+Shadow Steps
+Shadow Steps
+
+Leap Gouge
+Leap Gouge
+
+Relentless Slash
+Relentless Slash
+
+Sap
+Sap
+
+Puncture
+Puncture
+
+Piercing Shriek
+Piercing Shriek
+
+Void Shift
+Void Shift
+
+Scorn
+Scorn
+
+Dark Quake
+Dark Quake
+
+Kidney Strike
+Kidney Strike
+
+Shadow Cloak
+Shadow Cloak
+
+Shattering Moon
+Shattering Moon
+
+Slit Throat
+Slit Throat
+
+Poison Blade
+Poison Blade
+
+Arcane Shot
+Arcane Shot
+
+Aimed Shot
+Aimed Shot
+
+Multi Shot
+Multi Shot
+
+Rapid Arrows
+Rapid Arrows
+
+Marked Shot
+Marked Shot
+
+Burst Shot
+Burst Shot
+
+Bull's Eye
+Bull's Eye
+
+Concussive Shot
+Concussive Shot
+
+Throw Hunting Net
+Throw Hunting Net
+
+Tar Trap
+Tar Trap
+
+Vine Trap
+Vine Trap
+
+Turtle Guardian
+Turtle Guardian
+
+Strong-Arm Aura
+Strong-Arm Aura
+
+Tranquility Aura
+Tranquility Aura
+
+Viper Sting
+Viper Sting
+
+Adder Sting
+Adder Sting
+
+Scorpion Sting
+Scorpion Sting
+
+Escape
+Escape
+
+Magic Sphere
+Magic Sphere
+
+Ice Lance
+Ice Lance
+
+Ice Storm
+Ice Storm
+
+Ice Orb
+Ice Orb
+
+Aqua Jet
+Aqua Jet
+
+Blizzard
+Blizzard
+
+Ice Arrow
+Ice Arrow
+
+Icicle
+Icicle
+
+Frost Nova
+Frost Nova
+
+Cold Winter
+Cold Winter
+
+Ice Barrier
+Ice Barrier
+
+Ice Shield
+Ice Shield
+
+Winter Horn
+Winter Horn
+
+Crushed Ice Fetters
+Crushed Ice Fetters
+
+Chilling Frost
+Chilling Frost
+
+Dispel Magic
+Dispel Magic
+
+Teleportation
+Teleportation
+
+Teleportation Portal
+Teleportation Portal
+
+Retract the Barrier
+Retract the Barrier
+
+Fireball
+Fireball
+
+Fire Impact
+Fire Impact
+
+Fire Surge
+Fire Surge
+
+Sear
+Sear
+
+Pyroblast
+Pyroblast
+
+Blazing Storm
+Blazing Storm
+
+Magma
+Magma
+
+Dragon's Breath
+Dragon's Breath
+
+Elven Ascension
+Elven Ascension
+
+Lava Armor
+Lava Armor
+
+Scorch
+Scorch
+
+Purification
+Purification
+
+Ignition
+Ignition
+
+Magic Shield
+Magic Shield
+
+Invisibility
+Invisibility
+
+Critical Blaze
+Critical Blaze
+
+Elven Teleportation
+Elven Teleportation
+
+Elven Teleportation Portal
+Elven Teleportation Portal
+
+Retribution
+Retribution
+
+Holy Light Wave
+Holy Light Wave
+
+Divine Nova
+Divine Nova
+
+Concentrated Will
+Concentrated Will
+
+Divine Fire
+Divine Fire
+
+Heal
+Heal
+
+Recover
+Recover
+
+Healing Prayers
+Healing Prayers
+
+Light of Miracles
+Light of Miracles
+
+Divine Anthem
+Divine Anthem
+
+Resurrection
+Resurrection
+
+Holy Light
+Holy Light
+
+Group Dispel
+Group Dispel
+
+Spiral Blast
+Spiral Blast
+
+Divine Protection
+Divine Protection
+
+Soul of Redemption
+Soul of Redemption
+
+Requiem
+Requiem
+
+Mind Whip
+Mind Whip
+
+Shadow Arrow
+Shadow Arrow
+
+Skeleton Explosion
+Skeleton Explosion
+
+Dead Toxin
+Dead Toxin
+
+Corrosion Spell
+Corrosion Spell
+
+Incessant Pain
+Incessant Pain
+
+Healing Wave
+Healing Wave
+
+Healing Surge
+Healing Surge
+
+Healing Fountain Totem
+Healing Fountain Totem
+
+Healing Chain
+Healing Chain
+
+Healing Tide Totem
+Healing Tide Totem
+
+Soul Returnal
+Soul Returnal
+
+Soul Purify
+Soul Purify
+
+Summon Spirit
+Summon Spirit
+
+Undead Grip
+Undead Grip
+
+Break the Chain
+Break the Chain
+
+Undying Resolve
+Undying Resolve
+
+Spiritual Totem
+Spiritual Totem
+
+Undead Ensnare
+Undead Ensnare
+
+Transfix
+Transfix
+
+Crystal Cannonball
+Crystal Cannonball
+
+Crystal Light Wave
+Crystal Light Wave
+
+Cannon
+Cannon
+
+Fire Breath
+Fire Breath
+
+Bomb
+Bomb
+
+Rolling Stone
+Rolling Stone
+
+C4 Explosive
+C4 Explosive
+
+Abyss
+Abyss
+
+Summon Robots
+Summon Robots
+
+Dialog Control
+Dialog Control
+
+Magic Cannon
+Magic Cannon
+
+Transform
+Transform
+
+Throw water monster egg
+Throw water monster egg
+
+Mine Explosion
+Mine Explosion
+
+Tear and Bite
+Tear and Bite
+
+Full-Note Attack
+Full-Note Attack
+
+Semitone Attack
+Semitone Attack
+
+Fire Cannon
+Fire Cannon
+
+Load Ammunition
+Load Ammunition
+
+Self Repair
+Self Repair
+
+Crash
+Crash
+
+Summon Zombie Guard
+Summon Zombie Guard
+
+Preparing Anti-Aircraft Cannon
+Preparing Anti-Aircraft Cannon
+
+Invisible Cannon
+Invisible Cannon
+
+Super Taunt
+Super Taunt
+
+Explosion
+Explosion
+
+Pig Push Rolling Stones
+Pig Push Rolling Stones
+
+Electric Current
+Electric Current
+
+Throw Bomb
+Throw Bomb
+
+Alarm
+Alarm
+
+Thunder
+Thunder
+
+Deceleration Net
+Deceleration Net
+
+Vortex
+Vortex
+
+Surrender
+Surrender
+
+Attract
+Attract
+
+Flash Bomb
+Flash Bomb
+
+Summon Undead
+Summon Undead
+
+Knock on Window
+Knock on Window
+
+Slam
+Slam
+
+Channeling Stone Rampage
+Channeling Stone Rampage
+
+Stone Rampage
+Stone Rampage
+
+Strong Throw
+Strong Throw
+
+Teleport Bomb
+Teleport Bomb
+
+Throw Grenade
+Throw Grenade
+
+Catapult
+Catapult
+
+Laser Cannon
+Laser Cannon
+
+Laser
+Laser
+
+Roll
+Roll
+
+Boulder Smash
+Boulder Smash
+
+Shooting
+Shooting
+
+Hay Cutter
+Hay Cutter
+
+Summon Demon
+Summon Demon
+
+Dark Heal
+Dark Heal
+
+Soul Drain
+Soul Drain
+
+Avalanche
+Avalanche
+
+Kick
+Kick
+
+Piercing Kick
+Piercing Kick
+
+Ram
+Ram
+
+Croissant Knife
+Croissant Knife
+
+Elusive Kick
+Elusive Kick
+
+Horn Knife
+Horn Knife
+
+Magic Marbles
+Magic Marbles
+
+Magic Beam
+Magic Beam
+
+Bark
+Bark
+
+Angry Bite
+Angry Bite
+
+Scratch
+Scratch
+
+Meow Punch
+Meow Punch
+
+Swoop
+Swoop
+
+Stab
+Stab
+
+Whip
+Whip
+
+Spank
+Spank
+
+Whirlwind Palm
+Whirlwind Palm
+
+Intimidate
+Intimidate
+
+Ice and Snow
+Ice and Snow
+
+Scarlet Flame
+Scarlet Flame
+
+Tiger Tail Whip
+Tiger Tail Whip
+
+Spray Water
+Spray Water
+
+Ice Sword
+Ice Sword
+
+Breath
+Breath
+
+Chilling Breath
+Chilling Breath
+
+Throw
+Throw
+
+Blow Dart
+Blow Dart
+
+Iron Scissors
+Iron Scissors
+
+Arm Knife
+Arm Knife
+
+Leave Boomerang
+Leave Boomerang
+
+Nut Bomb
+Nut Bomb
+
+Sandstorm
+Sandstorm
+
+Peck
+Peck
+
+Claw Hook
+Claw Hook
+
+Slap
+Slap
+
+Magic Flames
+Magic Flames
+
+Elven Magic
+Elven Magic
+
+Elven Song
+Elven Song
+
+Spit Bubbles
+Spit Bubbles
+
+Water Bomb
+Water Bomb
+
+Ice Ball
+Ice Ball
+
+Crescent Crystal Boomerang
+Crescent Crystal Boomerang
+
+Moonlight Crystal Retribution
+Moonlight Crystal Retribution
+
+Punch of Heaven
+Punch of Heaven
+
+Divine Arrow
+Divine Arrow
+
+Base Attack
+Base Attack
+
+Pounce and Bite
+Pounce and Bite
+
+Poisonous Fang
+Poisonous Fang
+
+Poisonous Fog
+Poisonous Fog
+
+Hit
+Hit
+
+Doom Beam
+Doom Beam
+
+Hack
+Hack
+
+Blow Nose
+Blow Nose
+
+Swooping Peck
+Swooping Peck
+
+Swooping Claw
+Swooping Claw
+
+Great Waves
+Great Waves
+
+Water Arrow
+Water Arrow
+
+Undercurrent Impact
+Undercurrent Impact
+
+Undercurrent Surge
+Undercurrent Surge
+
+Venom
+Venom
+
+Spit
+Spit
+
+Wind Blade
+Wind Blade
+
+Collide
+Collide
+
+Meteor Shower
+Meteor Shower
+
+Falling Meteor
+Falling Meteor
+
+Silvermoon Machete
+Silvermoon Machete
+
+Crescent Boomerang
+Crescent Boomerang
+
+Meteor Hammer
+Meteor Hammer
+
+Repel
+Repel
+
+Dark Invasion
+Dark Invasion
+
+Dark Baptism
+Dark Baptism
+
+Dark Explosion
+Dark Explosion
+
+Electric Arc
+Electric Arc
+
+Electric Shock
+Electric Shock
+
+Throw Boulder
+Throw Boulder
+
+Dark Judgment
+Dark Judgment
+
+Needle Sting
+Needle Sting
+
+Electro Needle
+Electro Needle
+
+Flame Cage
+Flame Cage
+
+Tornado Blade
+Tornado Blade
+
+Electric Cage
+Electric Cage
+
+Devastating Thunder
+Devastating Thunder
+
+Elemental Bomb
+Elemental Bomb
+
+Bite
+Bite
+
+Suck Blood
+Suck Blood
+
+Poke
+Poke
+
+Scare
+Scare
+
+Incandescent Fireball
+Incandescent Fireball
+
+Black Storm
+Black Storm
+
+Storm Cage
+Storm Cage
+
+Dark Flame Blast
+Dark Flame Blast
+
+Dark Flame Storm
+Dark Flame Storm
+
+Dark Flame Cage
+Dark Flame Cage
+
+Sigh of Death
+Sigh of Death
+
+Discharge
+Discharge
+
+Lightning Hurricane
+Lightning Hurricane
+
+Electric Armor
+Electric Armor
+
+Heavy Hammer
+Heavy Hammer
+
+Vomit Attack
+Vomit Attack
+
+Fire Needles
+Fire Needles
+
+Flying Feathers
+Flying Feathers
+
+Act Cute
+Act Cute
+
+Nature's Grace
+Nature's Grace
+
+Demonic Hellfire
+Demonic Hellfire
+
+Bondage Serpent
+Bondage Serpent
+
+Life Plunder
+Life Plunder
+
+Hydrotherapy
+Hydrotherapy
+
+Blinding Dart
+Blinding Dart
+
+Sprint
+Sprint
+
+Cleave-Sword
+Cleave-Sword
+
+Fire Blade
+Fire Blade
+
+Black Fireball
+Black Fireball
+
+Verdict
+Verdict
+
+Shock Wave
+Shock Wave
+
+Dark Holy Light
+Dark Holy Light
+
+Dark Barrier
+Dark Barrier
+
+Bloody Roar
+Bloody Roar
+
+Frenzy
+Frenzy
+
+Cleave-Knife
+Cleave-Knife
+
+Holy Light Slash
+Holy Light Slash
+
+Cross Slash
+Cross Slash
+
+Holy Light Heal
+Holy Light Heal
+
+Cleave-Sword (increase attack speed)
+Cleave-Sword (increase attack speed)
+
+Thunder Slash
+Thunder Slash
+
+Snowy Purgatory
+Snowy Purgatory
+
+Blade of Judgment
+Blade of Judgment
+
+Roar
+Roar
+
+Dark Prayer
+Dark Prayer
+
+Dark Blood Curse
+Dark Blood Curse
+
+Fire Blast
+Fire Blast
+
+Burn Books
+Burn Books
+
+Breath of Dragon
+Breath of Dragon
+
+Sharp Mind
+Sharp Mind
+
+Fireball Bombardment
+Fireball Bombardment
+
+Puncture Throw
+Puncture Throw
+
+Lightning Throwing Knife
+Lightning Throwing Knife
+
+Flower of Death
+Flower of Death
+
+Bloody Wrath
+Bloody Wrath
+
+Rising Dragon Punch·昏迷
+Rising Dragon Punch·昏迷
+
+Rising Dragon Punch-Normal
+Rising Dragon Punch-Normal
+
+Scorching Flame Fist-1
+Scorching Flame Fist-1
+
+Scorching Flame Fist-2
+Scorching Flame Fist-2
+
+Scorching Flame Fist-3
+Scorching Flame Fist-3
+
+Scorching Flame Fist-4
+Scorching Flame Fist-4
+
+Scorching Flame Fist-5
+Scorching Flame Fist-5
+
+Scorching Flame Fist-Over
+Scorching Flame Fist-Over
+
+Flying Kick
+Flying Kick
+
+Firestorm Kick
+Firestorm Kick
+
+Burning Flame-{d}%
+Burning Flame-$1%
+
+Scorching Earth
+Scorching Earth
+
+Cross Light Slash
+Cross Light Slash
+
+Dragon Slash
+Dragon Slash
+
+Valiant Leap
+Valiant Leap
+
+Blade of Light-{d}
+Blade of Light-$1
+
+Gravity Aura
+Gravity Aura
+
+Nine-Headed Dragon Slash
+Nine-Headed Dragon Slash
+
+Nine-Headed Dragon Slash-{d}
+Nine-Headed Dragon Slash-$1
+
+Nine-Headed Dragon Slash-over
+Nine-Headed Dragon Slash-over
+
+Arc Slash
+Arc Slash
+
+Dash Strike
+Dash Strike
+
+Shining Steel
+Shining Steel
+
+Punishment
+Punishment
+
+Divine Retribution
+Divine Retribution
+
+Holy Sword Light Cannon
+Holy Sword Light Cannon
+
+Healing
+Healing
+
+True Word-Shield
+True Word-Shield
+
+Punishment Aura
+Punishment Aura
+
+Golden Fortitude
+Golden Fortitude
+
+Summon Hound
+Summon Hound
+
+Call for Help
+Call for Help
+
+Wish-Ice Cave
+Wish-Ice Cave
+
+Yin-Yang Sword
+Yin-Yang Sword
+
+Yin-Yang Sword-Ensnare
+Yin-Yang Sword-Ensnare
+
+See-Through Light
+See-Through Light
+
+Karate Chop
+Karate Chop
+
+Made of Steel
+Made of Steel
+
+Overwhelm
+Overwhelm
+
+Crashing Thunderclap
+Crashing Thunderclap
+
+Magic Gourd Attack
+Magic Gourd Attack
+
+Magic Gourd-Heartbreak Spell
+Magic Gourd-Heartbreak Spell
+
+Scorpion Tail
+Scorpion Tail
+
+Iron Pliers
+Iron Pliers
+
+Steel Chop
+Steel Chop
+
+Throw Weapons
+Throw Weapons
+
+Mold-Stinky Five Poison Soup
+Mold-Stinky Five Poison Soup
+
+Black Sand Fan
+Black Sand Fan
+
+Poisonous Shot
+Poisonous Shot
+
+Ultrasonic Attack
+Ultrasonic Attack
+
+Knock
+Knock
+
+Charm Beam
+Charm Beam
+
+Death Shock
+Death Shock
+
+King's Verdict
+King's Verdict
+
+Sticky Bubble Gum
+Sticky Bubble Gum
+
+Fish Hook Boomerang
+Fish Hook Boomerang
+
+Throw Harpoon
+Throw Harpoon
+
+Whirlwind Claw
+Whirlwind Claw
+
+Throw Sand
+Throw Sand
+
+Dark Seal
+Dark Seal
+
+Explosive Hammer
+Explosive Hammer
+
+Crumbs Fetters
+Crumbs Fetters
+
+Might of the Pharaoh
+Might of the Pharaoh
+
+Pharaoh's Curse
+Pharaoh's Curse
+
+Spray Poison
+Spray Poison
+
+Chaos Phantom Coin
+Chaos Phantom Coin
+
+Magic Weakening Beam
+Magic Weakening Beam
+
+Healing Flame
+Healing Flame
+
+Claw Strike
+Claw Strike
+
+Shoting
+Shoting
+
+Energy Sphere
+Energy Sphere
+
+Spinning Air
+Spinning Air
+
+Arcane Missiles
+Arcane Missiles
+
+Mini Fireball
+Mini Fireball
+
+Shadow Sphere
+Shadow Sphere
+
+Ground Thorns
+Ground Thorns
+
+Air Cannon
+Air Cannon
+
+Water Dragon Wave
+Water Dragon Wave
+
+Dark Curse
+Dark Curse
+
+Phantom Meteor Hammer
+Phantom Meteor Hammer
+
+Hammer Strike
+Hammer Strike
+
+Throw Gum
+Throw Gum
+
+Throw Mud Ball
+Throw Mud Ball
+
+Inject HP Potion
+Inject HP Potion
+
+Super Bubbles
+Super Bubbles
+
+Deep sea Vortex
+Deep sea Vortex
+
+Vine Ensnare
+Vine Ensnare
+
+Long Jump
+Long Jump
+
+Earth Shatter
+Earth Shatter
+
+Deadly Crescent Javelin
+Deadly Crescent Javelin
+
+Life Resurgence (Fallen)
+Life Resurgence (Fallen)
+
+Throw Snowball
+Throw Snowball
+
+Ice Blade
+Ice Blade
+
+Demon Ray
+Demon Ray
+
+Machine-Gun Burst
+Machine-Gun Burst
+
+Snipe
+Snipe
+
+Bondage Ensnare
+Bondage Ensnare
+
+Lightsaber
+Lightsaber
+
+Spinning Cut
+Spinning Cut
+
+Place Bomb
+Place Bomb
+
+Throw Butter
+Throw Butter
+
+Blood Curse
+Blood Curse
+
+Death Rays
+Death Rays
+
+True-Dark Invasion
+True-Dark Invasion
+
+Tree Gouge
+Tree Gouge
+
+Rolling Green Wave
+Rolling Green Wave
+
+Scorpion Stinger
+Scorpion Stinger
+
+Flying Head Attack
+Flying Head Attack
+
+Devour
+Devour
+
+Joker Magic Tricks
+Joker Magic Tricks
+
+Joker Throwing Knife
+Joker Throwing Knife
+
+Banshee's Kiss
+Banshee's Kiss
+
+Cannibalism
+Cannibalism
+
+Suck
+Suck
+
+Throw Stone
+Throw Stone
+
+Gravel Scatter
+Gravel Scatter
+
+Catch Insect
+Catch Insect
+
+Pester
+Pester
+
+Spray Spores
+Spray Spores
+
+Wooden cross Boomerang
+Wooden cross Boomerang
+
+Rapier Nose
+Rapier Nose
+
+Strong Claw
+Strong Claw
+
+Elusive
+Elusive
+
+Flying Notes
+Flying Notes
+
+Hellfire
+Hellfire
+
+Strong laser cannon
+Strong laser cannon
+
+Endless Chill
+Endless Chill
+
+Puppetry
+Puppetry
+
+Binding Chain
+Binding Chain
+
+Shrinking Turtle
+Shrinking Turtle
+
+Spore bullet
+Spore bullet
+
+Run Mo Run
+Run Mo Run
+
+Caesar's Claw
+Caesar's Claw
+
+Ancient Toxin
+Ancient Toxin
+
+Raining Arrows
+Raining Arrows
+
+Gravity Arrow
+Gravity Arrow
+
+Concussive Arrow
+Concussive Arrow
+
+Pouring Arrows
+Pouring Arrows
+
+Black Flame Bomb
+Black Flame Bomb
+
+B Field
+B Field
+
+Energy Blade
+Energy Blade
+
+Divine Guard
+Divine Guard
+
+Fang Stab
+Fang Stab
+
+Red Eye Ray
+Red Eye Ray
+
+Preparing Summon Demon
+Preparing Summon Demon
+
+Stomp
+Stomp
+
+Horn Stab
+Horn Stab
+
+Electric Barrier
+Electric Barrier
+
+Spiral Water Arrow
+Spiral Water Arrow
+
+Laser Sword
+Laser Sword
+
+Lethal Canon
+Lethal Canon
+
+AT Field
+AT Field
+
+Ultimate Electric Current
+Ultimate Electric Current
+
+Electric Storm
+Electric Storm
+
+Bar Sweep
+Bar Sweep
+
+Mighty Ocean-Quieting Bar
+Mighty Ocean-Quieting Bar
+
+Protection Charm
+Protection Charm
+
+Mighty Monkey King
+Mighty Monkey King
+
+Pyre
+Pyre
+
+72 Forms
+72 Forms
+
+Fire Laser
+Fire Laser
+
+Sleeping Incense
+Sleeping Incense
+
+Ghost Kill
+Ghost Kill
+
+Gallows
+Gallows
+
+Void Blade
+Void Blade
+
+Heart-Piercing Tooth
+Heart-Piercing Tooth
+
+Blade Spiral
+Blade Spiral
+
+Thunder Blast Strike
+Thunder Blast Strike
+
+Thunderbolt Slash
+Thunderbolt Slash
+
+Thunder Star Strike
+Thunder Star Strike
+
+Axe Sweep
+Axe Sweep
+
+Nets Above and Snares Below
+Nets Above and Snares Below
+
+Barbaric Intimidation
+Barbaric Intimidation
+
+Toxic Shot
+Toxic Shot
+
+Electric Shots
+Electric Shots
+
+Rolling Thunder
+Rolling Thunder
+
+Paralyzing Thunderbolt
+Paralyzing Thunderbolt
+
+Wrath of Thunder
+Wrath of Thunder
+
+Thunderous Firestorm
+Thunderous Firestorm
+
+Sneaky Counterattack
+Sneaky Counterattack
+
+Rake Sweep
+Rake Sweep
+
+Meaty Trampoline
+Meaty Trampoline
+
+Captive Moment
+Captive Moment
+
+Chain Frost
+Chain Frost
+
+Frost Star
+Frost Star
+
+Frost Armor
+Frost Armor
+
+Black Meteor
+Black Meteor
+
+Starburst Blast
+Starburst Blast
+
+Meteor Firestorm
+Meteor Firestorm
+
+Death Ray
+Death Ray
+
+Hell Howl
+Hell Howl
+
+Hell Blood Curse
+Hell Blood Curse
+
+Object Shift
+Object Shift
+
+Life Resurgence
+Life Resurgence
+
+Ghost Shield
+Ghost Shield
+
+Dragon Claw Rip
+Dragon Claw Rip
+
+Dragon Tail
+Dragon Tail
+
+Cataclysm
+Cataclysm
+
+Might of the Beast
+Might of the Beast
+
+Dragon Roar
+Dragon Roar
+
+Aegis Protection
+Aegis Protection
+
+Ice Fog
+Ice Fog
+
+Polar Ice Spirit
+Polar Ice Spirit
+
+Snake King Roar
+Snake King Roar
+
+Ice Mist Dragon
+Ice Mist Dragon
+
+Summon Ancient Dragon Guards
+Summon Ancient Dragon Guards
+
+Ultimate-Dragon Soar
+Ultimate-Dragon Soar
+
+Ancient Dragon Tide
+Ancient Dragon Tide
+
+Primordial Power
+Primordial Power
+
+Trident
+Trident
+
+Summon Guards
+Summon Guards
+
+Binding
+Binding
+
+Dark Realm
+Dark Realm
+
+Leaping Bash
+Leaping Bash
+
+Crescent Slash
+Crescent Slash
+
+Black Meteor-Magic
+Black Meteor-Magic
+
+Falling Meteor-magic
+Falling Meteor-magic
+
+Meteor Firestorm-Magic
+Meteor Firestorm-Magic
+
+Fire
+Fire

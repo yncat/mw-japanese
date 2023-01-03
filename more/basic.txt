@@ -1,0 +1,176 @@
+{d}秒后可重新发送
+May resend in $1 seconds
+
+请输入要丢弃的{s}数量
+Please enter the quantity of $1 to discard
+
+您确定要丢掉装备({s})吗？
+Are you sure you want to throw away Equipment ($1)?
+
+您确定要丢掉融合兽({s})吗？
+Are you sure you want to throw away Fusion Beast ($1)?
+
+您确定要放生宠物({s})吗？
+Are you sure you want to release Pet ($1)?
+
+{s}消息
+$1 Message
+
+请选择{s}消息朗读方式
+Please select $1 message reading method
+
+请选择{s}消息快捷显示方式
+Please select $1 message shortcut display method
+
+短语{d}
+Phrase $1
+
+{s}战报
+$1 Battle Report
+
+{s}队伍{s}战报
+$2 Battle Report of $1 Team
+
+己方;{s}帮派
+your side; $1 Gang
+
+敌方;{s}帮派
+Enemy; $1 Gang
+
+己方;{s}队伍
+your side; $1 Team
+
+敌方;{s}队伍
+Enemy; $1 Team
+
+等级{d}
+Level $1
+
+摧毁水晶塔{d}
+Crystal Towers destroyed: $1
+
+摧毁防御塔{d}
+Turrets  destroyed: $1
+
+杀敌{d}
+Enemies Killed: $1
+
+杀怪{d}
+Monsters Killed: $1
+
+最高群伤输出{d}
+Highest Group Damage: $1
+
+最高单伤输出{d}
+Highest Single Damage: $1
+
+最高群疗输出{d}
+Highest Group Healing: $1
+
+最高单疗输出{d}
+Highest Single Healing: $1
+
+总伤害输出{d}
+Total Damage: $1
+
+总疗伤输出{d}
+Total Healing: $1
+
+损益和控制输出{d}
+Debuff and Control: $1
+
+增益输出{d}
+Buff: $1
+
+解损益数{d}
+Debuffs Removed: $1
+
+解增益数{d]
+Buffs Removed: $1
+
+复活人数{d}
+Resurrection Counts: $1
+
+{d}血量
+;$1 HP
+
+{d}血率
+;$1 Health Percentage
+
+;冷却剩余{d}分{d}秒
+; CD $1 min $2 sec remaining
+
+;冷却剩余{d}分
+; CD $1 min remaining
+
+;冷却剩余{d}秒
+; CD $1 sec remaining
+
+{d}码
+;$1 Yard
+
+疗{d}
+Heal $1
+
+增{d}
+ Buff $1
+
+损{d}
+ Debuff $1
+
+服务器爆满，您前边约有{d}人在排队
+The server is full,  $1 players in queue
+
+{d}毫秒
+$1 ms
+
+私聊{s}:
+Private Chat $1:
+
+{s}说:
+$1 says:
+
+角色{d}
+Character $1
+
+{d}最大
+$1 maximum
+
+{d}增大
+$1 increase
+
+{d}最快
+$1 fastest
+
+{d}加快
+$1 faster
+
+{d}最高
+$1 highest
+
+{d}升高
+$1 higher
+
+{d}最小
+$1 minimum
+
+{d}减小
+$1 Decrease
+
+{d}最慢
+$1 slowest
+
+{d}减慢
+$1 slower
+
+{d}最低
+$1 lowest
+
+{d}降低
+$1 lower
+
+{s}后可用
+Available after $1
+
+到期剩余{s}
+$1 remains

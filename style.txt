@@ -1,0 +1,3 @@
+corpse1={name}'s {corpse}
+corpse2={corpse};{name}
+equipment={forge} {name}; {quality}

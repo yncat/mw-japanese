@@ -1,0 +1,428 @@
+Snuggle
+Snuggle
+
+Blood Transfusion
+Blood Transfusion
+
+Mining
+Mining
+
+Collect Herbs
+Collect Herbs
+
+Fishing
+Fishing
+
+Draw Blood
+Draw Blood
+
+Cut Flesh
+Cut Flesh
+
+Skinning
+Skinning
+
+Turtle Breath
+Turtle Breath
+
+Anti-Corrosion
+Anti-Corrosion
+
+Poison Immunity
+Poison Immunity
+
+Combat Stance
+Combat Stance
+
+Cleave Combo
+Cleave Combo
+
+Powerful Leap Attack
+Powerful Leap Attack
+
+Fighting Expert
+Fighting Expert
+
+Defensive Stance
+Defensive Stance
+
+Sturdy Sentry
+Sturdy Sentry
+
+Defensive Barrier
+Defensive Barrier
+
+Precise Block
+Precise Block
+
+Severe Wound
+Severe Wound
+
+Sixth Sense
+Sixth Sense
+
+Rampage Stance
+Rampage Stance
+
+Cruel
+Cruel
+
+Enrage
+Enrage
+
+Unruly Rage
+Unruly Rage
+
+Defensive Stance
+Defensive Stance
+
+Sturdy Sentry
+Sturdy Sentry
+
+Defensive Barrier
+Defensive Barrier
+
+Ancestral Protection
+Ancestral Protection
+
+Ruthless
+Ruthless
+
+Strength of Giant
+Strength of Giant
+
+Assassin's Determination
+Assassin's Determination
+
+Mental Barrier
+Mental Barrier
+
+Seal Fate
+Seal Fate
+
+Executioner
+Executioner
+
+Blind Faith
+Blind Faith
+
+Shadow Blade
+Shadow Blade
+
+Shadow of Erosion
+Shadow of Erosion
+
+Hatred
+Hatred
+
+Deadly Attack
+Deadly Attack
+
+Ruthless Strike
+Ruthless Strike
+
+Aspect of the Wild
+Aspect of the Wild
+
+Survival Expert
+Survival Expert
+
+Wild Rage
+Wild Rage
+
+Call of the Wilderness
+Call of the Wilderness
+
+Aspect of the Monkey
+Aspect of the Monkey
+
+Sniper Training
+Sniper Training
+
+Steady Hands
+Steady Hands
+
+Hunter's Mark
+Hunter's Mark
+
+Aspect of the Cheetah
+Aspect of the Cheetah
+
+Aspect of the Hawk
+Aspect of the Hawk
+
+Ice Lineage
+Ice Lineage
+
+Desolate Winter
+Desolate Winter
+
+Ice Finger
+Ice Finger
+
+Chilling Cold
+Chilling Cold
+
+Cold Lineage
+Cold Lineage
+
+Freezing Cold
+Freezing Cold
+
+Crisp Wisdom
+Crisp Wisdom
+
+Ice Spirit
+Ice Spirit
+
+Frost Armor
+Frost Armor
+
+Frost Lineage
+Frost Lineage
+
+Elven Fire
+Elven Fire
+
+Enhanced Fireworks
+Enhanced Fireworks
+
+Blazing Combo
+Blazing Combo
+
+Blessing of Flame
+Blessing of Flame
+
+Hellfire
+Hellfire
+
+Energized Fireball
+Energized Fireball
+
+Mana Expert
+Mana Expert
+
+Heart of Heat
+Heart of Heat
+
+Elven Dance
+Elven Dance
+
+Flame Combo
+Flame Combo
+
+Justice
+Justice
+
+Holy Light Echo
+Holy Light Echo
+
+Wisdom
+Wisdom
+
+Skilled Healer
+Skilled Healer
+
+Shelter
+Shelter
+
+Divine Whip
+Divine Whip
+
+Confession
+Confession
+
+Divine Reincarnation
+Divine Reincarnation
+
+Holy Light Protection
+Holy Light Protection
+
+Ring of Life
+Ring of Life
+
+Soul Link
+Soul Link
+
+Enhanced Explosion
+Enhanced Explosion
+
+Rushing Tide
+Rushing Tide
+
+Dead Toxin Surge
+Dead Toxin Surge
+
+Soul Harmony
+Soul Harmony
+
+Spiritual Concentration
+Spiritual Concentration
+
+Extensive Heal
+Extensive Heal
+
+Soul Insight
+Soul Insight
+
+Wrath of Wraith
+Wrath of Wraith
+
+Jungle Perseverance
+Jungle Perseverance
+
+Imperious
+Imperious
+
+Focus
+Focus
+
+Ravage
+Ravage
+
+Havoc
+Havoc
+
+Anger
+Anger
+
+Brutal
+Brutal
+
+Shielded
+Shielded
+
+Dexterous
+Dexterous
+
+Tough
+Tough
+
+Tai chi
+Tai chi
+
+Havoc (Aggressive)
+Havoc (Aggressive)
+
+Tough (Aggressive)
+Tough (Aggressive)
+
+Tai chi (Aggressive)
+Tai chi (Aggressive)
+
+Focus (Defensive)
+Focus (Defensive)
+
+Ravage (Defensive)
+Ravage (Defensive)
+
+Havoc (Defensive)
+Havoc (Defensive)
+
+Anger (Defensive)
+Anger (Defensive)
+
+Brutal (Defensive)
+Brutal (Defensive)
+
+Dexterous (Defensive)
+Dexterous (Defensive)
+
+Tough (Defensive)
+Tough (Defensive)
+
+Tai chi (Defensive)
+Tai chi (Defensive)
+
+Focus (Aggressive)
+Focus (Aggressive)
+
+Ravage (Aggressive)
+Ravage (Aggressive)
+
+Brutal (Aggressive)
+Brutal (Aggressive)
+
+Anger (Aggressive)
+Anger (Aggressive)
+
+Tough (Aggressive)-2
+Tough (Aggressive)-2
+
+Ravage (Defensive)-2
+Ravage (Defensive)-2
+
+Havoc (Defensive)-2
+Havoc (Defensive)-2
+
+Brutal (Defensive)-2
+Brutal (Defensive)-2
+
+Dexterous (Defensive)-2
+Dexterous (Defensive)-2
+
+Tough (Defensive)-2
+Tough (Defensive)-2
+
+Tai chi (Defensive)-2
+Tai chi (Defensive)-2
+
+Ravage (Aggressive)-2
+Ravage (Aggressive)-2
+
+Havoc (Aggressive)-3
+Havoc (Aggressive)-3
+
+Anger (Aggressive)
+Anger (Aggressive)
+
+Tough (Aggressive)-3
+Tough (Aggressive)-3
+
+Tai chi (Aggressive)-2
+Tai chi (Aggressive)-2
+
+Ravage (Defensive)-3
+Ravage (Defensive)-3
+
+Havoc (Defensive)-3
+Havoc (Defensive)-3
+
+Anger (Defensive)-2
+Anger (Defensive)-2
+
+Dexterous (Defensive)-3
+Dexterous (Defensive)-3
+
+Tough (Defensive)-3
+Tough (Defensive)-3
+
+Tai chi (Defensive)-3
+Tai chi (Defensive)-3
+
+Focus (Aggressive)-2
+Focus (Aggressive)-2
+
+Ravage (Aggressive)-3
+Ravage (Aggressive)-3
+
+Havoc (Aggressive)-4
+Havoc (Aggressive)-4
+
+Tough (Aggressive)-4
+Tough (Aggressive)-4
+
+Ravage (Defensive)-4
+Ravage (Defensive)-4
+
+Havoc (Defensive)-4
+Havoc (Defensive)-4
+
+Brutal (Defensive)-3
+Brutal (Defensive)-3
+
+Dexterous (Defensive)-4
+Dexterous (Defensive)-4
+
+Tough (Defensive)-4
+Tough (Defensive)-4

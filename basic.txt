@@ -1,0 +1,1265 @@
+yyyy年MM月dd日; HH点mm分ss秒
+MMM dd, HH:mm:ss, yyyy
+
+减小背景音乐音量
+Decreasing background music volume
+
+最小背景音乐音量
+Minimum background music volume
+
+增加背景音乐音量
+Increasing background music volume
+
+最大背景音乐音量
+Maximum background music volume
+
+减小游戏音量
+Decreasing game volume
+
+最小游戏音量
+Minimum game volume
+
+增加游戏音量
+Increasing game volume
+
+最大游戏音量
+Maximum game volume
+
+登录
+Log in
+
+注册
+create account
+
+修改和找回密码
+change and retrieve password
+
+修改密码
+change the password
+
+找回密码
+Retrieve the password
+
+退出游戏
+exit
+
+拷贝
+copied
+
+添加
+added
+
+开启切换实时导航
+Enabled real time Navigation
+
+关闭切换实时导航
+disabled real time Navigation
+
+第一页
+first tab
+
+第二页
+second tab
+
+手机号或邮箱地址
+email address
+
+密码
+password
+
+记住密码(&R)
+remember password (&R)
+
+自动登录(&A)
+Auto login (&A)
+
+确定(&o)
+OK (&o)
+
+取消(&c)
+cancel (&c)
+
+请输入帐号！
+please enter your account!
+
+帐号格式不正确！
+Account format is incorrect!
+
+请输入密码！
+Please enter your password!
+
+密码长度有误！
+Illegal password length!
+
+密码格式不正确！
+Password  format is incorrect!
+
+连接出错;退出游戏
+Connection error; exiting game
+
+发送验证码(&S)
+Send verification code (&S)
+
+请填写收到的验证码
+Please input in the received verification code
+
+下一步(&N)
+next (&N)
+
+返回(&b)
+back (&b)
+
+请填写手机号或邮箱地址！
+Please enter your email address!
+
+手机号或邮箱地址格式不正确！
+Email address format is incorrect!
+
+重新发送验证码
+Resend verification code
+
+请填写帐号！
+Please enter your account!
+
+请先发送验证码！
+Please send the verification code first!
+
+请填写验证码！
+Please enter the verification code!
+
+验证码格式不正确！
+Verification code format is incorrect!
+
+注册成功
+account created!
+
+恭喜您，注册成功！
+Congratulations, your registration is successful!
+
+请输入密码（6-16个字符）
+Please enter a password (6-16 characters)
+
+确认密码
+confirm password
+
+注册(&R)
+register (&R)
+
+请填写密码！
+please enter  a password!
+
+密码长度必须是6到16个字符！
+Password length must be 6 to 16 characters!
+
+请填写确认密码！
+Please enter the confirmation password!
+
+密码和确认密码必须相同！
+Password and Confirm Password must be the same!
+
+该帐号已注册过了！
+This account is already registered!
+
+验证码错误！
+Verification code error!
+
+禁止注册！
+Registration is prohibited!
+
+验证码超时！
+The verification code has timed out!
+
+非法操作！
+Illegal operation!
+
+IP注册太频繁了！
+IP registration is too frequent!
+
+服务器错误！
+Server error!
+
+删除角色
+delet caracter
+
+发送邮箱验证码(&S)
+Send Email Verification Code (&S)
+
+发送手机验证码(&S)
+Send Mobile Verification Code (&S)
+
+邮箱验证码
+Email verification code
+
+手机验证码
+Mobile verification code
+
+删除(&N)
+Delete (&N)
+
+重新发送邮箱验证码
+Resend Email Verification Code
+
+重新发送手机验证码
+Resend mobile verification code
+
+请先发送邮箱验证码！
+Please send email verification code first!
+
+请先发送手机验证码！
+Please send the mobile verification code first!
+
+请填写邮箱验证码！
+Please enter the email verification code!
+
+请填写手机验证码！
+Please enter the mobile  verification code!
+
+验证码已失效！
+Verification code has expired!
+
+角色删除成功
+character deleted successfully
+
+帐号
+Account
+
+旧密码
+Old Password
+
+填写验证码
+enter the verification code
+
+请填写收到的验证码！
+Please enter the received verification code!
+
+密码修改成功
+Password reset complete
+
+恭喜，新的密码已生效！
+Congratulations, the new password is now in effect!
+
+填写新密码
+Enter a  new password
+
+请输入新密码（6-16个字符）
+Please enter a new password (6-16 characters)
+
+确认新密码
+confirm the new password
+
+确定(&R)
+OK (&R)
+
+帐号不存在！
+account does not exist!
+
+密码错误！
+password is incorrect!
+
+您刚找回过密码，请不要在短时间内多次找回！
+You have just retrieved your password, please do not retrieve it multiple times in a short period of time!
+
+修改绑定邮箱/手机
+Change bound email
+
+填写原邮箱收到的验证码
+Enter the verification code received by the original email
+
+填写原手机收到的验证码
+Enter the verification code received by the original mobile phone
+
+验证绑定新帐号
+Verify and bind the new account
+
+新手机号或邮箱地址
+New email address
+
+系统错误！
+system error!
+
+请输入数量！
+Please enter the quantity!
+
+请正确输入数量！
+Please enter the quantity correctly!
+
+短语不能为空！
+Phrase cannot be empty!
+
+不能含有非法字符！
+Cannot contain illegal characters!
+
+频道聊天
+channel chat
+
+消息
+information
+
+输入
+input
+
+频道
+channel
+
+发送(&S)
+send (&S)
+
+发送消息后关闭聊天窗口(&X)
+Close the chat window after sending the message (&X)
+
+显示
+show
+
+所有消息
+all messages
+
+系统消息和广播
+System messages and broadcasts
+
+系统广播
+broadcasts
+
+消息过长！
+Message is too long!
+
+好友聊天
+private chat
+
+对象(&O)
+object (&O)
+
+查看信息(&I)
+View Information (&I)
+
+会话记录(&L)
+Session record (&L)
+
+选择(&C)
+select (&C)
+
+删除(&D)
+delete (&D)
+
+加入黑名单(&J)
+Add to Blacklist (&J)
+
+黑名单
+Blacklist
+
+移出黑名单(&R)
+Remove from blacklist (&R)
+
+请填写玩家ID或在会话记录选择发送对象
+Please input in the player ID or select the object in the session record
+
+物品
+items
+
+装备
+equipments
+
+融合兽
+fusion beasts
+
+宠物
+pets
+
+战斗技能
+combat skills
+
+天赋技能
+Talent skills
+
+生活技能
+Profession skills
+
+所有物品
+All items
+
+日常物品
+Commonly used
+
+药品和食物
+Potion and Food
+
+采集物品
+collections
+
+材料物品
+materials
+
+宝石和强化物品
+Gem and enhance items
+
+已选中
+selected
+
+未选中
+Unselected
+
+确定
+Confirm
+
+取消
+cancel
+
+已屏蔽
+blocked
+
+已解除
+unlocked
+
+设置菜单
+setting menu
+
+朗读切换目标序号
+Read the target ID
+
+距离在后
+distance behind
+
+距离在前
+distance ahead
+
+距离朗读方式
+Distance reading mode
+
+请选择目标距离朗读方式
+Please select the target distance reading method
+
+切目标时读出玩家职业
+Read out the player's class when switching targets
+
+不朗读目标生命状态
+Do not read the target's health status
+
+朗读生命描述
+Read the Health description
+
+朗读生命值
+Read the Health points
+
+朗读生命百分比
+Read the Health percentage
+
+切换目标时
+When switching targets
+
+请选择目标生命状态朗读方式
+Please select   the target health status  reading method
+
+前置朗读尸体状态
+Read the corpse status first
+
+查看目标数值时前置朗读增损益信息
+Read buff and debuff information first when viewing the target value. 
+
+使用物品时朗读数量和名称
+Read quantity and name when using items
+
+朗读输出数值
+Read damage dealt
+
+朗读输入数值
+Read damage taken
+
+切己方目标时跳过尸体
+Skip corpses when switching at ally targets
+
+切敌方目标时跳过尸体
+Skip corpses when switching at enemy targets
+
+对调跟随攻击和站桩攻击的热键
+Swap hot keys for follow enemy  attack and stationary attack
+
+混合显示聊天消息
+show mixed chat messages from various types of channels
+
+按攻击技能时在面对的方向上自动锁定新目标
+Automatically lock a new target in the direction you are facing when pressing an attack skill
+
+用副语音库朗读聊天消息
+Read chat messages with secondary voice library
+
+用副语音库朗读系统提示消息
+Read system prompt messages with secondary voice library
+
+播放暴击音效
+Play critical hit sound
+
+消息屏蔽管理
+Message Blocking Management
+
+启用NVDA朗读主语音库(需要开启NVDA)
+Enable NVDA to be the main voice library (need to enable NVDA)
+
+启用NVDA朗读副语音库(需要开启NVDA)
+Enable NVDA to be the secondary voice library (need to enable NVDA)
+
+更换帐号
+change account
+
+退出
+quit
+
+帮助
+help
+
+帮助与反馈
+help and feedback
+
+频道消息朗读和快捷显示设置菜单
+Channel message reading and quick view settings
+
+全部朗读
+reading all
+
+只读系统消息
+reading only system messages
+
+禁止朗读
+not allow reading
+
+全部显示
+showing all
+
+只显示系统消息
+showing only system messages
+
+禁止显示
+not allow showing
+
+快捷短语设置菜单
+Shortcut phrase setting
+
+请输入短语
+Please enter a phrase
+
+战报
+battle report
+
+公告
+announcement
+
+帮派公告
+gang announcement
+
+私信
+private message
+
+,有新
+, with new
+
+上一页
+previous page
+
+下一页
+next page
+
+时间;
+time;
+
+总杀怪数:
+Total Monster Kills: 
+
+杀怪最多玩家:
+Player with the most monsters killed: 
+
+杀怪数;
+number : 
+
+总伤害输出最多玩家:
+Player with the highest total damage output: 
+
+总伤害输出:
+total damage: 
+
+总疗伤输出最多玩家:
+Player with the highest total healing output: 
+
+总疗伤输出:
+total healing: 
+
+最高单伤害输出玩家:
+Player with the highest individual damage output: 
+
+伤害值:
+damage: 
+
+最高群体伤害输出玩家:
+Player with the highest group damage output: 
+
+伤害值:
+damage: 
+
+最高单疗伤输出玩家:
+Player with the highest individual healing output: 
+
+疗伤值:
+healing: 
+
+最高群体疗伤输出玩家:
+Player with the highest group healing output: 
+
+损益输出和控制最多玩家:
+Player with the most Debuff and Control:
+
+影响人次:
+affected numbers: 
+
+增益输出最多玩家:
+Player with the most buff: 
+
+解损益最多玩家:
+Player  removed the Most Debuff: 
+
+解损益数:
+Debuffs Removed: 
+
+解增益最多玩家:
+Player  removed the Most Buff: 
+
+解增益数:
+Buffs Removed: 
+
+复活人次最多玩家:
+Player with the most Resurrections: 
+
+复活数:
+ Resurrection Counts: 
+
+己方:
+your side: 
+
+男
+male
+
+女
+female
+
+,等级
+, level
+
+敌方:
+enemy: 
+
+怪角色
+NPC
+
+己方杀敌数:
+Number of enemies killed by your side: 
+
+敌方杀敌数:
+Number of yours killed by enemies: 
+
+己方杀怪数:
+Number of monsters killed by yours side: 
+
+敌方杀怪数:
+Number of monsters killed by enemies: 
+
+己方伤害总输出:
+yours Total damage output: 
+
+敌方伤害总输出:
+enemy's total damage output: 
+
+己方疗伤总输出:
+yours total healing output: 
+
+敌方疗伤总输出:
+enemy's total healing output: 
+
+己方单次最高伤害:
+yours One-time maximum damage: 
+
+敌方单次最高伤害:
+enemy's One-time maximum damage: 
+
+己方单次最高疗伤:
+yours One-time maximum healing: 
+
+敌方单次最高疗伤:
+enemy's One-time maximum healing: 
+
+己方摧毁水晶塔数:
+number of crystal towers destroyed by your side: 
+
+敌方摧毁水晶塔数:
+number of crystal towers destroyed by enemies: 
+
+己方摧毁防御塔数:
+number of turrets destroyed by your side: 
+
+敌方摧毁防御塔数:
+number of turrets destroyed by enemies: 
+
+己方总杀敌数:
+Number of enemies killed by your side: 
+
+敌方总杀敌数:
+Number of yours killed by enemies: 
+
+己方总杀怪数:
+Number of monsters killed by yours side: 
+
+敌方总杀怪数:
+Number of monsters killed by enemies: 
+
+己方总伤害输出:
+yours Total damage output: 
+
+敌方总伤害输出:
+enemy's total damage output: 
+
+己方总疗伤输出:
+yours total healing output: 
+
+敌方总疗伤输出:
+enemy's total healing output: 
+
+己方总损益输出:
+yours total Debuff output: 
+
+敌方总损益输出:
+enemy's total Debuff output: 
+
+己方总增益输出:
+yours total Buff output: 
+
+敌方总增益输出:
+enemy's total Buff output: 
+
+己方总解损益数:
+yours total Debuff remove count: 
+
+敌方总解损益数:
+enemy's total Debuff remove count: 
+
+己方总解增益数:
+yours total Buff remove count: 
+
+敌方总解增益数:
+enemy's total Buff remove count: 
+
+己方总复活人数:
+The total number of you resurrected:
+
+敌方总复活人数:
+The total number of enemies resurrected:
+
+己方最高单体伤害输出:
+yours highest individual damage output: 
+
+敌方最高单体伤害输出:
+enemy's highest individual damage output: 
+
+己方最高群体伤害输出:
+yours highest group damage output: 
+
+敌方最高群体伤害输出:
+enemy's highest group damage output: 
+
+己方最高单体疗伤输出:
+yours highest individual healing output: 
+
+敌方最高单体疗伤输出:
+enemy's highest individual healing output: 
+
+己方最高群体疗伤输出:
+yours highest group healing output: 
+
+敌方最高群体疗伤输出:
+enemy's highest group healing output: 
+
+拷贝窗口文字
+Copy text from window
+
+己方
+yours 
+
+敌方
+enemy's 
+
+摧毁水晶塔数排名
+ranking of destroyed Crystal Towers
+
+摧毁防御塔数排名
+ranking of destroyed turrets
+
+杀敌数排名
+ranking of killed enemies
+
+杀怪数排名
+ranking of  killed monsters
+
+总伤害输出排名
+ranking of total damage output
+
+总疗伤输出排名
+ranking of total healing output
+
+总控制和损益输出排名
+ranking of Control and Debuff counts
+
+总增益输出排名
+ranking of Buff counts
+
+总解损益数排名
+ranking of remove Debuff counts
+
+总解增益数排名
+ranking of remove Buff counts
+
+总复活人数排名
+Ranking of Resurrection counts
+
+最高单伤输出排名
+ranking of the highest individual damage output
+
+最高群伤输出排名
+ranking of the highest group damage output
+
+最高单疗输出排名
+ranking of the highest individual healing output
+
+最高群疗输出排名
+ranking of the highest group healing output
+
+说明:屏蔽一个角色后，本地客户端将不再接收该角色的任何消息
+Description: When a character is blocked, the local client will no longer receive any messages from that character.
+
+添加新的屏蔽角色
+Add New Blocked Character
+
+请填写角色ID
+Please enter the character ID
+
+已屏蔽的ID
+Blocked IDs
+
+角色ID:
+Character ID: 
+
+备注名称:
+note name: 
+
+解除
+Unblock
+
+确定解除对该ID的屏蔽吗？
+Are you sure you want to unblock this ID?
+
+备注名称
+note name
+
+请填写备注名称
+Please enter a note name
+
+已损坏;无法装备
+Damaged; cannot equip
+
+不能丢弃穿上的装备
+The equipment is Equipped, cannot be discarded
+
+不能丢弃化身中的融合兽
+Fusion Beasts undergoing metamorphosis cannot be discarded
+
+不能抛弃放出的宠物
+Cannot abandon summoned pets
+
+没有物品
+no item
+
+请填写存入数量
+Please enter the deposit amount
+
+没有可存入的物品
+No item available  to deposit
+
+没有装备
+No equipment
+
+没有可存入的装备
+No equipment available  to deposit
+
+没有融合兽
+no fusion beast
+
+没有可存入的融合兽
+No fusion beasts available  to deposit
+
+请填写要出售的数量
+Please enter the quantity to be sold
+
+没有可出售的物品
+No items available for sale
+
+请填写出售价格
+Please enter the selling price
+
+没有可出售的装备
+No equipment available for sale
+
+已设置
+operation completed
+
+全部
+all
+
+己方 
+own side
+
+敌方 
+enemies
+
+NPC
+NPCs
+
+和平模式
+pacifist mode
+
+和平反击模式
+pacifist mode with counterattack
+
+善恶模式
+Moral Mode
+
+帮派模式
+gang mode
+
+团队模式
+team mode
+
+所有模式
+all modes
+
+无法查看自己
+cannot contact yourself
+
+不能私聊自己
+cannot talk to yourself
+
+启动跟随
+starting to follow
+
+停止跟随
+stopping to follow
+
+安全区禁用技能
+Safe zone disabled skills
+
+未设置
+not configured
+
+取消导航
+cancel target navigation
+
+导航
+target navigation
+
+导航;
+target navigation;
+
+导航失败
+Navigation failed
+
+取消环境导航
+cancel location navigation
+
+环境导航;
+location navigation;
+
+拷贝窗口
+copy the window
+
+非法操作;退出游戏
+Illegal operation; exiting game
+
+程序版本过低;退出游戏
+Game version outdated; exiting game
+
+请校准系统时间;退出游戏
+Please calibrate the system time; exiting game
+
+非法登录;退出游戏
+Illegal login; exiting game
+
+该电脑禁止登录;退出游戏
+This computer is prohibited from entering; exiting game
+
+用户名错误;退出游戏
+Wrong username; exiting game
+
+密码错误;退出游戏
+Wrong password; exiting game
+
+保存的密码已失效;退出游戏
+The saved password has expired; exiting game
+
+该用户禁止登录;退出游戏
+This user is prohibited from logging in; exiting game
+
+服务器故障;退出游戏
+Server failure; exiting game
+
+帐号在别处登录;退出游戏
+Account is logging in elsewhere; exiting  game
+
+刷新查看
+Refresh
+
+创建新角色
+create new character
+
+创建新角色，请按，S，和，W，键选择角色种类，选择后回车确定。
+creating a new character, press , S and , W, to select the character type, and press Enter to confirm.
+
+填写您想要的昵称;需要是两到六个汉字
+Enter your nickname; it needs to be between 4 and 12 characters
+
+，请重新填写
+, please enter it again
+
+上次进入：
+last access: 
+
+删除角色
+ delete character
+
+该角色十天内登录过,不能删除!
+This character has been logged in in ten days, and cannot be deleted!
+
+该功能可将已注册的帐号修改成还没注册过的邮箱/手机，修改后的帐号需要重新找回密码后登录，确定继续吗？
+This function can be used to change the registered account to an email that has not been registered. The modified account needs to reset password before login. Are you sure you want to continue?
+
+请选择传送地点
+Please select a location to teleport
+
+即将损坏
+about to damage
+
+已损坏
+is Damaged
+
+提交太快了，消息发送失败。
+message Sent too fast: Failed to submit.
+
+修改成功,退出游戏
+Successfully modified. exiting game
+
+世界
+global 
+
+地图
+map 
+
+附近
+nearby 
+
+帮派
+gang 
+
+队伍
+team 
+
+国际
+international 
+
+私有
+private 
+
+已加入
+joined
+
+已移出
+remuved
+
+系统
+system 
+
+广播
+broadcast 
+
+ - 聊天
+ - chat
+
+我说:
+I said: 
+
+$1到$2
+$1 to $2
+
+音量
+volume
+
+语速
+rate
+
+音调
+pitch
+
+语音
+voice
+
+战士
+warrior;
+
+兽人
+Orc;
+
+猎人
+hunter;
+
+刺客
+assassin;
+
+法师
+mage;
+
+精灵
+elf;
+
+牧师
+priest;
+
+巫师
+sorcerer;
+
+边缘
+ edge 
+
+黑名
+black;
+
+红名
+red;
+
+黄名
+yellow;
+
+尸体
+Corpse
+
+干尸
+Dried Corpse
+
+腐尸
+Rotten Corpse
+
+枯骨
+withered bones
+
+碎屑
+ Scrap 
+
+轻伤
+;minor injuries 
+
+流血
+;bleeding 
+
+伤残
+;Disabled 
+
+吐血
+;vomiting blood 
+
+重伤
+;Seriously injured 
+
+游戏版本过期，请重新下载
+Game version has expired, please download again
+
+版本更新失败，退出游戏
+Version update failed, exiting game
+
+小时
+Hour 
+
+分
+Minute 
+
+秒
+second 
+
+闪开攻击
+Dodged attack 
+
+闪
+Dodge 
+
+破
+Break
+
+暴
+Critical 
+
+疗
+Heal 
+
+;有菜单
+; sub menu
+
+(限制)
+ (restricted) 
+
+(锁定)
+ (locked) 
+
+;可用时间
+;available time 
+
+到
+ to 
+
+粗糙
+crude 
+
+普通
+common 
+
+精良
+sophisticated 
+
+完美
+perfect 
+
+珍奇
+rare 
+
+传说
+legendary 
+
+精品
+Refined 
+
+绝品
+Great 
+
+极品
+Epic 
+
+仙化
+Heavenly 
+
+神佑
+Godbless 
+
+(绑定)
+ (bound) 
+
+更新进度： 
+Update progress: 
+
+版本升级
+Version upgrade
+
+迷雾世界
+Mist World
+
+新转移帐号24小时内不能再次转移！
+The newly changed account cannot be changed again within 24 hours!
+
+未开放功能！
+Function not opened!
