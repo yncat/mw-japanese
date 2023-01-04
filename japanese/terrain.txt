@@ -1,5663 +1,5663 @@
 lawn
-lawn
+芝生
 
 grass
-grass
+草
 
 weed
-weed
+雑草
 
 fallen leaves
-fallen leaves
+落ち葉
 
 land
-land
+陸上
 
 sand
-sand
+砂
 
 beach
-beach
+海辺
 
 wetlands
-wetlands
+湿地
 
 mud
-mud
+泥
 
 shore
-shore
+りくじょう
 
 stream
-stream
+流れ
 
 river underground
-river underground
+地下河川
 
 snow
-snow
+スノー
 
 snow road
-snow road
+雪道
 
 river
-river
+川
 
 lake
-lake
+湖水
 
 cliff
-cliff
+断崖
 
 cave
-cave
+洞窟
 
 cave
-cave
+洞窟
 
 path
-path
+道
 
 steps
-steps
+段階
 
 inside the house
-inside the house
+家屋内
 
 stairs
-stairs
+階段
 
 bridge
-bridge
+橋
 
 iron plate
-iron plate
+鉄板
 
 pipeline
-pipeline
+管路
 
 ruins
-ruins
+廃墟
 
 seabed
-seabed
+かいようてい
 
 Ice
-Ice
+氷
 
 cavern
-cavern
+岩窟
 
 silent
-silent
+無声
 
 edge
-edge
+端
 
 wall
-wall
+壁
 
 plank
-plank
+ボード
 
 obstacle
-obstacle
+障害物
 
 reef
-reef
+リーフ
 
 fence
-fence
+フェンス
 
 Door
-Door
+By
 
 railing
-railing
+手すり
 
 Pillar
-Pillar
+ピラー
 
 Tree
-Tree
+木
 
 board
-board
+ボード
 
 ironware
-ironware
+鉄器
 
 iron pillar
-iron pillar
+鉄柱
 
 wooden box
-wooden box
+木箱
 
 fence
-fence
+フェンス
 
 crystal wall
-crystal wall
+結晶壁
 
 cabinet
-cabinet
+キャビネット
 
 mountain wall
-mountain wall
+山壁
 
  
- 
+
 
 nameless
-nameless
+名無し
 
 high platform 
-high platform 
+高座
 
 pool
-pool
+溜まり
 
 intersection
-intersection
+交差点
 
 bank
-bank
+銀行
 
 up the waterfall
-up the waterfall
+滝壺に
 
 fall
-fall
+場合
 
 downward
-downward
+下降
 
 teleportation point
-teleportation point
+テレポートポイント
 
 la
-la
+ラ
 
 mi
-mi
+ミ
 
 do
-do
+為さる
 
 sol
-sol
+ゾル
 
 Enchantment
-Enchantment
+エンチャント
 
 slide
-slide
+スライド
 
 mountain
-mountain
+山
 
 barrack
-barrack
+バラック
 
 test room
-test room
+しけんしつ
 
 camp
-camp
+キャンプ
 
 doorway
-doorway
+とびらぐち
 
 rock
-rock
+岩
 
 southwest turn
-southwest turn
+サウスウエストターン
 
 mountain road
-mountain road
+山道
 
 hole
-hole
+穴
 
 northeast turn
-northeast turn
+ほくとうせつ
 
 south door of the test room
-south door of the test room
+試験室南側扉
 
 rear door of the barracks
-rear door of the barracks
+兵舎裏口
 
 outside the village
-outside the village
+村外
 
 village
-village
+村
 
 center of the village
-center of the village
+里心
 
 South Street of the village
-South Street of the village
+村の南側通り
 
 North Street of the village
-North Street of the village
+村の北側通り
 
 West Street of the village
-West Street of the village
+村の西通り
 
 East Street of the village
-East Street of the village
+村の東側通り
 
 gate
-gate
+ゲート
 
 Grove
-Grove
+グローブ
 
 road outside the village
-road outside the village
+外道
 
 pharmacy
-pharmacy
+薬局
 
 blacksmith shop
-blacksmith shop
+鍛冶屋
 
 chalet
-chalet
+シャレー
 
 granary
-granary
+穀倉
 
 end of the path
-end of the path
+行当り
 
 mountains
-mountains
+山岳
 
 house
-house
+家
 
 courtyard wall
-courtyard wall
+中庭の壁
 
 courtyard gate
-courtyard gate
+中庭の門
 
 courtyard doorway
-courtyard doorway
+中庭の戸口
 
 well
-well
+あの
 
 stone ladder
-stone ladder
+石梯子
 
 stone ladder entrance
-stone ladder entrance
+石梯子口
 
 crossing
-crossing
+交差点
 
 barn door
-barn door
+ついでながら
 
 courtyard
-courtyard
+中庭
 
 door
-door
+で
 
 wall
-wall
+壁
 
 bottom
-bottom
+下
 
 aisle
-aisle
+アイル
 
 bottom center
-bottom center
+ボトムセンター
 
 deep water
-deep water
+潭水
 
 wall
-wall
+壁
 
 wall of the cave
-wall of the cave
+窟の壁
 
 wall
-wall
+壁
 
 slope, northeast turn
-slope, northeast turn
+勾配、北東ターン
 
 slope
-slope
+傾き
 
 Slope, Southwest turn
-Slope, Southwest turn
+スロープ、南西ターン
 
 Cave entrance, northeast turn
-Cave entrance, northeast turn
+洞窟の入り口、北東に曲がる
 
 west entrance
-west entrance
+西口
 
 snake cave
-snake cave
+蛇穴
 
 side road
-side road
+わき道
 
 slope, southeast turn
-slope, southeast turn
+勾配、南東ターン
 
 slope, northwest turn
-slope, northwest turn
+スロープ、北西ターン
 
 path, southeast turn
-path, southeast turn
+道、南東曲り
 
 Outside the cave, southwest turn
-Outside the cave, southwest turn
+洞窟の外、南西に曲がる
 
 Outer road
-Outer road
+外周道路
 
 north entrance
-north entrance
+北口
 
 well entrance
-well entrance
+井戸口
 
 snake cave
-snake cave
+蛇穴
 
 Dirt road in the cave
-Dirt road in the cave
+洞窟の中の土の道
 
 dirt road crossing
-dirt road crossing
+土手道
 
 path, southwest turn
-path, southwest turn
+パス、南西ターン
 
 Southwest turn
-Southwest turn
+サウスウエストターン
 
 Northeast turn
-Northeast turn
+北東ターン
 
 southeast turn
-southeast turn
+サウスイーストターン
 
 Northwest turn
-Northwest turn
+ノースウエストターン
 
 well steps
-well steps
+井戸端会議
 
 well steps
-well steps
+井戸端会議
 
 water
-water
+ウォーター
 
 lower stairs
-lower stairs
+下段
 
 upper stairs
-upper stairs
+上段
 
 Abandoned pipeline
-Abandoned pipeline
+廃棄されたパイプライン
 
 dirt road
-dirt road
+どろんこ道
 
 Snake Cave Center
-Snake Cave Center
+スネークケイブセンター
 
 pipe wall
-pipe wall
+管壁
 
 outskirts
-outskirts
+しゅうへん
 
 In the city
-In the city
+市内で
 
 wall
-wall
+壁
 
 dragon mountain
-dragon mountain
+竜山
 
 green mountain
-green mountain
+せいざん
 
 crest  mountain
-crest  mountain
+山嶺
 
 squama mountain
-squama mountain
+姥捨て山
 
 canyon
-canyon
+キャニオン
 
 cottage
-cottage
+コテージ
 
 floor
-floor
+フロア
 
 west gate
-west gate
+西門
 
 north gate
-north gate
+北門
 
 east gate
-east gate
+東門
 
 south gate
-south gate
+南門
 
 fence
-fence
+フェンス
 
 north highroad
-north highroad
+北上路
 
 East T-shaped
-East T-shaped
+東側T字型
 
 west Street
-west Street
+西通り
 
 east Street
-east Street
+東通り
 
 north Street
-north Street
+北通り
 
 south Street
-south Street
+南街
 
 farmland
-farmland
+畑地
 
 field ridge
-field ridge
+しゅげんれい
 
 woods
-woods
+林
 
 road in the woods
-road in the woods
+林道
 
 bush
-bush
+ブッシュ
 
 grove
-grove
+やぶ
 
 south highroad
-south highroad
+南街道
 
 North T-shaped
-North T-shaped
+北側T字型
 
 young tree
-young tree
+若木
 
 scarecrow
-scarecrow
+そほど
 
 lane
-lane
+小道
 
 Chalet
-Chalet
+シャレー
 
 entrance of the village
-entrance of the village
+村の入り口
 
 town
-town
+町
 
 market
-market
+マーケット
 
 courtyard
-courtyard
+中庭
 
 Sunset Square
-Sunset Square
+サンセットスクエア
 
 Town centre
-Town centre
+市街地
 
 City Lord's Mansion
-City Lord's Mansion
+シティロードマンション
 
 master's Mansion
-master's Mansion
+マスターズマンション
 
 breeding garden
-breeding garden
+たてもの園
 
 Royal Bank
-Royal Bank
+ロイヤルバンク
 
 Restaurant
-Restaurant
+レストラン
 
 Jewelry shop
-Jewelry shop
+ジュエリーショップ
 
 Armor shop
-Armor shop
+アーマーショップ
 
 weapon shop
-weapon shop
+武器屋
 
 gang unions
-gang unions
+ギャングユニオン
 
 gem room
-gem room
+宝石室
 
 grocery store
-grocery store
+食料品店
 
 west Entrance of the town
-west Entrance of the town
+西町口
 
 east Entrance of the town
-east Entrance of the town
+東町口
 
 house
-house
+家
 
 Shrine
-Shrine
+神社
 
 main hall
-main hall
+メインロビー
 
 west of the front hall
-west of the front hall
+表玄関の西
 
 aisle
-aisle
+アイル
 
 East of the front hall
-East of the front hall
+フロントホールの東側
 
 wasteland
-wasteland
+荒れ地
 
 boulder
-boulder
+大石
 
 airship
-airship
+飛行船
 
 Wilderness
-Wilderness
+ウィルダネス
 
 rushing River
-rushing River
+奔流
 
 crisp stream
-crisp stream
+きゅうなながれ
 
 smoke stream
-smoke stream
+けむりのながれ
 
 east of the city
-east of the city
+としひがし
 
 Rock Square
-Rock Square
+ロックスクエア
 
 palace of Central kingdom
-palace of Central kingdom
+しゅろちく
 
 Holy Light Cathedral
-Holy Light Cathedral
+ホーリーライトカテドラル
 
 Cathedral Square
-Cathedral Square
+カテドラル広場
 
 Railing
-Railing
+レーリング
 
 stairway
-stairway
+階段
 
 square road
-square road
+角道
 
 front hall
-front hall
+前廊
 
 palace doorway
-palace doorway
+殿堂入り
 
 flower bed
-flower bed
+花壇
 
 meadow
-meadow
+牧草地
 
 wooden bridge
-wooden bridge
+木橋
 
 suspension bridge
-suspension bridge
+つり橋
 
 east highroad
-east highroad
+東街道
 
 west highroad
-west highroad
+西街道
 
 sand dune
-sand dune
+砂丘
 
 herby Mountain
-herby Mountain
+ハービー山
 
 valley
-valley
+谷あい
 
 mountain forest
-mountain forest
+山林
 
 war guild
-war guild
+軍団
 
 magic guild
-magic guild
+まほうつかい
 
 profession guild
-profession guild
+職業団体
 
 front street
-front street
+表通り
 
 corridor
-corridor
+廊下
 
 guardrail
-guardrail
+ガードレール
 
 stone beam
-stone beam
+いしづき
 
 cable car
-cable car
+ケーブルカー
 
 southeast turn
-southeast turn
+サウスイーストターン
 
 car
-car
+車
 
 in the car
-in the car
+車中
 
 car door
-car door
+乗り切る
 
 outpost
-outpost
+前哨地
 
 Room
-Room
+部屋
 
 Northwest turn
-Northwest turn
+ノースウエストターン
 
 exterior wall
-exterior wall
+外壁
 
 forecourt
-forecourt
+フォアグラウンド
 
 barren mountain
-barren mountain
+やせやま
 
 dimensional wall
-dimensional wall
+次元の壁
 
 doorway of the outpost
-doorway of the outpost
+ぜんろうのとびら
 
 Tiger Mountain
-Tiger Mountain
+タイガー・マウンテン
 
 North T-shaped; the tutor goes west, the pupil goes east
-North T-shaped; the tutor goes west, the pupil goes east
+北のT字型、家庭教師は西へ、生徒たちは東へ
 
 Bandit Village on the Peak
-Bandit Village on the Peak
+山頂にある山賊村
 
 Loyalty Hall
-Loyalty Hall
+ロイアルティ・ホール
 
 backyard
-backyard
+裏庭
 
 gazebo
-gazebo
+りょうてい
 
 gate
-gate
+ゲート
 
 tunnel
-tunnel
+トンネル
 
 end of the tunnel
-end of the tunnel
+トンネルの終わり
 
 West T-shaped
-West T-shaped
+西側T字型
 
 South T-shaped
-South T-shaped
+南側T字型
 
 South T-shaped; the tutor goes west, the pupil goes east
-South T-shaped; the tutor goes west, the pupil goes east
+南側T字型、家庭教師は西へ、生徒たちは東へ
 
 palace
-palace
+宮殿
 
 Stone Gate
-Stone Gate
+ストーンゲート
 
 Cat king's Castle
-Cat king's Castle
+猫の王様のお城
 
 bedroom
-bedroom
+寝室
 
 enclosure
-enclosure
+エンクロージャー
 
 Fire Pit Upon The Deep
-Fire Pit Upon The Deep
+ファイヤーピット・アポン・ザ・ディープ
 
 bridgehead
-bridgehead
+橋頭保
 
 bridge fence
-bridge fence
+橋脚フェンス
 
 Brave Bridge
-Brave Bridge
+ブレイブブリッジ
 
 North T-shaped; pupil continue to go east to get the key
-North T-shaped; pupil continue to go east to get the key
+北のT字型；瞳孔は東に進み、鍵を手に入れる
 
 mouth of Valley
-mouth of Valley
+谷口
 
 orchard
-orchard
+オーチャード
 
 incubator
-incubator
+インキュベータ
 
 Wisdom Bridge
-Wisdom Bridge
+ウィズダム・ブリッジ
 
 Wisdom River
-Wisdom River
+ウィズダム・リバー
 
 stone wall
-stone wall
+石垣
 
 Precipice
-Precipice
+プリピス
 
 mountain gate
-mountain gate
+山門
 
 training ground
-training ground
+れんしゅうじょう
 
 lounge
-lounge
+ラウンジ
 
 Lookout
-Lookout
+ルックアウト
 
 offstage
-offstage
+舞台裏
 
 arena
-arena
+アリーナ
 
 White Sand square
-White Sand square
+ホワイトサンドスクエア
 
 north of the city
-north of the city
+市北
 
 south of the city
-south of the city
+南方
 
 west of the city
-west of the city
+西成
 
 Path outside the city
-Path outside the city
+市外への道
 
 Gravel road
-Gravel road
+砂利道
 
 west entrance of the village
-west entrance of the village
+西口
 
 house
-house
+家
 
 Tari Village
-Tari Village
+タリ村
 
 ridge
-ridge
+リッジ
 
 main road
-main road
+本道
 
 road outside the Camp
-road outside the Camp
+キャンプ場外道路
 
 north door of the Camp
-north door of the Camp
+キャンプ北口
 
 east door of the Camp
-east door of the Camp
+東門
 
 traveller camp
-traveller camp
+トラベラーズキャンプ
 
 road in the camp
-road in the camp
+陣中路
 
 Camp Center
-Camp Center
+キャンプセンター
 
 grass
-grass
+草
 
 dirt road
-dirt road
+どろんこ道
 
 paddy field
-paddy field
+田んぼ
 
 ancient mountain
-ancient mountain
+古山
 
 mountain pass
-mountain pass
+峠
 
 diversion channels
-diversion channels
+分流路
 
 bank of the channels
-bank of the channels
+わたりぎん
 
 master's Guild
-master's Guild
+マスターズギルド
 
 east entrance of the village
-east entrance of the village
+東口
 
 Howling Mountain
-Howling Mountain
+ハウリングマウンテン
 
 Gale  Mountain
-Gale  Mountain
+ゲイルマウンテン
 
 forest
-forest
+森林
 
 forest path
-forest path
+林道
 
 forest wetland
-forest wetland
+森林湿地
 
 Mountain road
-Mountain road
+山道
 
 slate
-slate
+石板
 
 canal
-canal
+チャンネル
 
 estuary
-estuary
+かわぐち
 
 river course
-river course
+かわじ
 
 beach
-beach
+海辺
 
 uphill
-uphill
+上り坂
 
 Snow beside the cave
-Snow beside the cave
+洞窟の横の雪
 
 stagnant water
-stagnant water
+たまり水
 
 crushed ice
-crushed ice
+クラッシュアイス
 
 End of passage
-End of passage
+通路の終端
 
 doorway of secret room
-doorway of secret room
+みっしつのまど
 
 Secret passages
-Secret passages
+秘密の通路
 
 secret room
-secret room
+密室
 
 doorway of secret room
-doorway of secret room
+みっしつのまど
 
 base
-base
+基部
 
 Insulated corridor
-Insulated corridor
+断熱材入り廊下
 
 warning corridor
-warning corridor
+渡り廊下
 
 outer corridor
-outer corridor
+外廊下
 
 top
-top
+トップ
 
 bottom
-bottom
+下
 
 porch
-porch
+ポーチ
 
 live wire channel
-live wire channel
+活眼鏡
 
 neutral wire channel
-neutral wire channel
+中性線チャネル
 
 sideway
-sideway
+横道
 
 square
-square
+正方形
 
 explosive barracks
-explosive barracks
+爆発物置き場
 
 West Control Room
-West Control Room
+西側制御室
 
 East Control Room
-East Control Room
+東制御室
 
 Lead Wire Channel
-Lead Wire Channel
+リード線チャンネル
 
 air duct
-air duct
+エアダクト
 
 Secret passage
-Secret passage
+秘密の通路
 
 iron gate
-iron gate
+鉄門
 
 cellar
-cellar
+地下室
 
 vegetable cellar
-vegetable cellar
+野菜室
 
 wine cellar
-wine cellar
+ワインセラー
 
 end of aisle
-end of aisle
+通路の端
 
 stone wall
-stone wall
+石垣
 
 Bandit Camp
-Bandit Camp
+バンディット・キャンプ
 
 Bandit Camp
-Bandit Camp
+バンディット・キャンプ
 
 snowfield
-snowfield
+スノーフィールド
 
 battery
-battery
+バッテリー
 
 flagpole
-flagpole
+はたざお
 
 colorful river
-colorful river
+きんかわ
 
 graceful mountain
-graceful mountain
+優美な山
 
 iris
-iris
+アイリス
 
 water pine forest
-water pine forest
+すいしょうりん
 
 water pine
-water pine
+ウォーターパイン
 
 reeds
-reeds
+葦
 
 pond
-pond
+池
 
 quagmire
-quagmire
+泥沼
 
 slab bridge
-slab bridge
+弱橋
 
 tulip square
-tulip square
+チューリップ・スクエア
 
 parliament hall
-parliament hall
+ぎいんじょう
 
 tulip
-tulip
+チューリップ
 
 backstreet
-backstreet
+横町
 
 capsule toy house
-capsule toy house
+カプセル・トイ・ハウス
 
 lucky house
-lucky house
+ラッキーハウス
 
 union bank
-union bank
+ユニオンバンク
 
 training ground
-training ground
+れんしゅうじょう
 
 wooden ladder
-wooden ladder
+木梯子
 
 tree house
-tree house
+ツリーハウス
 
 training room
-training room
+トレーニングルーム
 
 boulevard
-boulevard
+ブールバード
 
 South Gate of the Training Room
-South Gate of the Training Room
+トレーニングルームの南門
 
 wooden door
-wooden door
+木造
 
 grassland
-grassland
+草地
 
 official road
-official road
+公道
 
 Moon Square
-Moon Square
+ムーンスクエア
 
 moonlight Pool
-moonlight Pool
+月極
 
 wood fence
-wood fence
+ウッドフェンス
 
 south gate of plantation
-south gate of plantation
+南門
 
 plantation
-plantation
+植え込み
 
 Flagstone Road
-Flagstone Road
+フラッグストーン・ロード
 
 plantation center
-plantation center
+プランテーションセンター
 
 north gate of plantation
-north gate of plantation
+北門
 
 pond
-pond
+池
 
 pasture
-pasture
+牧草地
 
 tent
-tent
+テント
 
 rolling mountain
-rolling mountain
+やまやま
 
 east gate of plantation
-east gate of plantation
+東御苑
 
 west gate of plantation
-west gate of plantation
+西門
 
 city hall
-city hall
+市役所
 
 sacrifice house
-sacrifice house
+いけにえ
 
 ranch doorway 
-ranch doorway 
+牧場の出入り口
 
 stone bench
-stone bench
+いしだい
 
 steep slope
-steep slope
+急斜面
 
 stone chamber
-stone chamber
+石室
 
 soil slope
-soil slope
+土勾配
 
 steep wall
-steep wall
+急壁
 
 green grass
-green grass
+青草
 
 bullpen
-bullpen
+ブルペン
 
 stable
-stable
+厩舎
 
 sheep pen
-sheep pen
+羊小屋
 
 Artemisia bushe
-Artemisia bushe
+蓬莱
 
 orange blossom bush
-orange blossom bush
+橙花
 
 in the courtyard
-in the courtyard
+中庭に
 
 doorway of tent
-doorway of tent
+天幕
 
 tent
-tent
+テント
 
 Yurt
-Yurt
+ドミトリー
 
 stone house
-stone house
+石家屋
 
 emperor square
-emperor square
+天皇広場
 
 platform
-platform
+プラットフォーム
 
 stone steps
-stone steps
+石段
 
 The Holy See of Sarantu
-The Holy See of Sarantu
+サランチュの聖地
 
 Antechamber of the Holy See
-Antechamber of the Holy See
+聖座の控えの間
 
 upper floor of the Holy See
-upper floor of the Holy See
+聖堂の上階
 
 cloister
-cloister
+修道院
 
 Stair handrail
-Stair handrail
+階段用手すり
 
 stairs
-stairs
+階段
 
 foot of the mountain
-foot of the mountain
+すそ野
 
 empire bank
-empire bank
+帝国銀行
 
 employment union
-employment union
+雇用組合
 
 skull  mountain
-skull  mountain
+頭山
 
 religious academy
-religious academy
+しゅうきょういん
 
 Secret training room
-Secret training room
+秘密のトレーニングルーム
 
 Silver gate
-Silver gate
+シルバーゲート
 
 darkroom
-darkroom
+暗室
 
 Proving Ground
-Proving Ground
+プルービング・グラウンド
 
 hillside
-hillside
+山腹
 
 fruit tree
-fruit tree
+果樹
 
 hill
-hill
+丘
 
 riverside
-riverside
+川辺
 
 river surface
-river surface
+川面
 
 doorway of the outpost
-doorway of the outpost
+ぜんろうのとびら
 
 east street of the city
-east street of the city
+東街
 
 Gouging knife square
-Gouging knife square
+ガウジングナイフスクエア
 
 city doorway
-city doorway
+市門
 
 Not yet open
-Not yet open
+未開封
 
 Magnet Hill
-Magnet Hill
+マグネットヒル
 
 Inquisition
-Inquisition
+異端審問
 
 barrier
-barrier
+バリア
 
 cell
-cell
+セル
 
 prison door
-prison door
+囚われ
 
 warehouse
-warehouse
+倉庫
 
 workshop
-workshop
+ワークショップ
 
 Defensive line
-Defensive line
+ディフェンスライン
 
 clay block
-clay block
+ねんどこ
 
 secluded mountain
-secluded mountain
+奥山
 
 gravel pile
-gravel pile
+砂利フリース
 
 north mouth of Valley
-north mouth of Valley
+北谷口
 
 north entrance of the village
-north entrance of the village
+北口
 
 south entrance of the village
-south entrance of the village
+南口
 
 south mouth of Valley
-south mouth of Valley
+南谷口
 
 east of village
-east of village
+東村
 
 north of village
-north of village
+北村
 
 west of village
-west of village
+西村
 
 south of village
-south of village
+南村
 
 field road
-field road
+野路
 
 Southern Flowering Shrub
-Southern Flowering Shrub
+南方系花型低木
 
 western  Flowering Shrub
-western  Flowering Shrub
+洋花低木
 
 northern  Flowering Shrub
-northern  Flowering Shrub
+北方系低木
 
 outside the city
-outside the city
+市外
 
 Violet Square
-Violet Square
+ヴァイオレットスクエア
 
 quiet  river
-quiet  river
+安曇川
 
 quiet   Lake
-quiet   Lake
+閑散湖
 
 lakeside
-lakeside
+レークサイド
 
 hall
-hall
+ホール
 
 gate
-gate
+ゲート
 
 riverbed
-riverbed
+川床
 
 wilderness
-wilderness
+荒れ地
 
 weeds
-weeds
+雑草
 
 dead leaves
-dead leaves
+枯葉
 
 fallen leaves path
-fallen leaves path
+落ち葉道
 
 dead tree
-dead tree
+枯れ木
 
 strange rock
-strange rock
+奇石
 
 dark night square
-dark night square
+暗夜行路
 
 dark temple
-dark temple
+暗黒寺院
 
 lobby
-lobby
+ロビー
 
 main temple
-main temple
+せいでん
 
 idol
-idol
+ご本尊
 
 magic circle
-magic circle
+魔法円
 
 eye of magic circle
-eye of magic circle
+魔方陣の目
 
 Scorched earth
-Scorched earth
+焦土
 
 church
-church
+教会
 
 prayer room
-prayer room
+祈祷室
 
 confession room
-confession room
+告解室
 
 South Gate of the Confession Room
-South Gate of the Confession Room
+告解室の南門
 
 back door of the church
-back door of the church
+裏口入学
 
 Research room
-Research room
+研究室
 
 South Gate of the Research room
-South Gate of the Research room
+研究室南門
 
 side of the rushing river
-side of the rushing river
+川べり
 
 side of the colorful river
-side of the colorful river
+色とりどりの川辺
 
 golden river
-golden river
+金川
 
 side of the golden river
-side of the golden river
+きんせんか
 
 north lake
-north lake
+北湖
 
 middle lake
-middle lake
+中湖
 
 South Lake
-South Lake
+サウスレイク
 
 reservoir
-reservoir
+貯水池
 
 side of the north lake
-side of the north lake
+北湖畔
 
 side of the south lake
-side of the south lake
+南湖畔
 
 waterfall
-waterfall
+ウォーターフォール
 
 Hive nest
-Hive nest
+蜂の巣
 
 Northwest corner
-Northwest corner
+北西角
 
 northeast corner
-northeast corner
+北東角
 
 southeast corner
-southeast corner
+南東角
 
 southwest corner
-southwest corner
+南西角
 
 west exit
-west exit
+西口
 
 East Exit
-East Exit
+東口
 
 North Exit
-North Exit
+北口
 
 South Exit
-South Exit
+南口
 
 mountain stream
-mountain stream
+渓流
 
 abyss
-abyss
+奈落の底
 
 South T-shaped; creek
-South T-shaped; creek
+南側T字型；小川
 
 creek
-creek
+入り江
 
 pool
-pool
+溜まり
 
 fissure
-fissure
+破れ目
 
 Tranquil River
-Tranquil River
+トランクィルリバー
 
 Three River Mouth
-Three River Mouth
+スリーリバーマウス
 
 Imbrication River
-Imbrication River
+インブリケーションリバー
 
 peace and tranquility under heaven
-peace and tranquility under heaven
+天下泰平
 
 crossing of waterway
-crossing of waterway
+水路交差点
 
 west waterway
-west waterway
+西水路
 
 East Waterway
-East Waterway
+東部水路
 
 West Sea
-West Sea
+西海
 
 Middle Sea
-Middle Sea
+中海
 
 East Sea
-East Sea
+東海
 
 estuary
-estuary
+かわぐち
 
 goon mountain
-goon mountain
+ゴーンマウンテン
 
 sea dam
-sea dam
+シーダム
 
 side of Tranquil River
-side of Tranquil River
+トランクィルリバーサイド
 
 side of Imbrication River
-side of Imbrication River
+インビテーションリバーサイド
 
 ancestral temple
-ancestral temple
+祖霊殿
 
 backyard of the ancestral temple
-backyard of the ancestral temple
+裏庭
 
 doorway
-doorway
+とびらぐち
 
 firewood room
-firewood room
+しもやしきしつ
 
 Sundries room
-Sundries room
+雑貨ルーム
 
 coffin
-coffin
+棺桶
 
 altar
-altar
+聖壇
 
 plank road
-plank road
+桟道
 
 West Cave
-West Cave
+西洞院
 
 East Cave
-East Cave
+東の洞窟
 
 mountain spring
-mountain spring
+山泉
 
 Platform mouth
-Platform mouth
+プラットフォーム口
 
 swirl
-swirl
+渦巻く
 
 villa
-villa
+ヴィラ
 
 west yard
-west yard
+西庭
 
 east yard
-east yard
+東庭
 
 concierge
-concierge
+引取人
 
 South Corridor
-South Corridor
+南側コリドー
 
 front hall
-front hall
+前廊
 
 West Corridor
-West Corridor
+西側コリドー
 
 East Corridor
-East Corridor
+東側コリドー
 
 main hall
-main hall
+メインロビー
 
 East bedroom
-East bedroom
+イーストベッドルーム
 
 West bedroom
-West bedroom
+ウエストベッドルーム
 
 windowsill
-windowsill
+窓辺
 
 crossroad
-crossroad
+つじ
 
 secret door
-secret door
+不知火
 
 stone road
-stone road
+石道
 
 grotto
-grotto
+洞窟
 
 edge of the abyss
-edge of the abyss
+しんえんにのぞむ
 
 abyss
-abyss
+奈落の底
 
 Stone Hall
-Stone Hall
+ストーンホール
 
 hall door
-hall door
+どうじょう
 
 grottoe
-grottoe
+洞窟
 
 shoal
-shoal
+浅瀬
 
 Turbulence
-Turbulence
+タービュランス
 
 South Exit 1
-South Exit 1
+南1出口
 
 South Exit 2
-South Exit 2
+南2出口
 
 South Exit 3
-South Exit 3
+南3出口
 
 South Exit 4
-South Exit 4
+南口4番出口
 
 North Exit 4
-North Exit 4
+北口4番
 
 north exit 3
-north exit 3
+北3条口
 
 North Exit 2
-North Exit 2
+北口2番
 
 North Exit 1
-North Exit 1
+北1出口
 
 West Exit 1
-West Exit 1
+西出口1
 
 West Exit 2
-West Exit 2
+西出口2
 
 desert island
-desert island
+無人島
 
 gravel road
-gravel road
+砂利道
 
 sparrow  mountain
-sparrow  mountain
+すずめのやま
 
 Bo Sea
-Bo Sea
+渤海
 
 South Sea
-South Sea
+南海
 
 temple
-temple
+寺院
 
 broken wall
-broken wall
+破壁
 
 shattered pedestal
-shattered pedestal
+粉砕された台座
 
 collapsed statue
-collapsed statue
+倒壊像
 
 cargo ship
-cargo ship
+運搬船
 
 reef
-reef
+リーフ
 
 workshop
-workshop
+ワークショップ
 
 guillotine
-guillotine
+ギロチン
 
 courtyard
-courtyard
+中庭
 
 Tusk stone
-Tusk stone
+牙石
 
 Pig nose slope
-Pig nose slope
+ピッグノーズスロープ
 
 Stone slope
-Stone slope
+石の傾斜
 
 bunker
-bunker
+バンカー
 
 sea surface
-sea surface
+海面
 
 Langley Dam
-Langley Dam
+ラングレーダム
 
 Pillar
-Pillar
+ピラー
 
 mast
-mast
+船檣
 
 battleship
-battleship
+戦艦
 
 bulkhead
-bulkhead
+隔壁
 
 barrel
-barrel
+樽
 
 crumbs
-crumbs
+パン屑
 
 cabin
-cabin
+船室
 
 ladder
-ladder
+はしご
 
 storage cabinet
-storage cabinet
+保管庫
 
 Showroom
-Showroom
+ショールーム
 
 safe
-safe
+金庫
 
 Beast Mountain
-Beast Mountain
+ビーストマウンテン
 
 gravel
-gravel
+グラベル
 
 pit
-pit
+落とし穴
 
 treetop
-treetop
+こずえ
 
 wilderness
-wilderness
+荒れ地
 
 command room
-command room
+司令室
 
 Camp Gate
-Camp Gate
+キャンプゲート
 
 forest path
-forest path
+林道
 
 jungle
-jungle
+ジャングル
 
 old tree
-old tree
+老樹
 
 flower bush
-flower bush
+花櫚
 
 flower path
-flower path
+花道
 
 crisp woods
-crisp woods
+さえざえとしたきも
 
 sea of flowers
-sea of flowers
+はなのうみ
 
 jade river
-jade river
+翡翠川
 
 Exit
-Exit
+退出
 
 Secret practice room
-Secret practice room
+秘密の練習室
 
 bubble barrier
-bubble barrier
+バブルバリア
 
 green area
-green area
+緑地
 
 blue area
-blue area
+青空エリア
 
 purple area
-purple area
+しはんちほう
 
 yellow area
-yellow area
+黄葉地区
 
 Central region
-Central region
+中部地区
 
 cyan area
-cyan area
+シアン領域
 
 black area
-black area
+こくど
 
 red area
-red area
+赤道付近
 
 white area
-white area
+ホワイトエリア
 
 ice wall
-ice wall
+氷壁
 
 ice gate
-ice gate
+氷門
 
 fence wall
-fence wall
+フェンスウォール
 
 village
-village
+村
 
 trail
-trail
+トレール
 
 ox demon cave
-ox demon cave
+うしかいどう
 
 inner room
-inner room
+寝屋
 
 wok
-wok
+中華鍋
 
 Artemisia annua
-Artemisia annua
+ほそばにんじん
 
 Center of the Forest
-Center of the Forest
+森の中心
 
 temple gate
-temple gate
+寺門
 
 ridge
-ridge
+リッジ
 
 root
-root
+根
 
 trunk
-trunk
+からだ
 
 tree hole
-tree hole
+木孔
 
 inner road
-inner road
+インナーロード
 
 Center of the Tree Hole
-Center of the Tree Hole
+ツリーホールの中心
 
 dead wood
-dead wood
+枯れ木
 
 Zagrama Mountain
-Zagrama Mountain
+ザグラマ山
 
 cliff
-cliff
+断崖
 
 cliff
-cliff
+断崖
 
 neck
-neck
+首
 
 Fingerboard
-Fingerboard
+フィンガーボード
 
 nut
-nut
+木の実
 
 frets
-frets
+うんてい
 
 Sound board
-Sound board
+サウンドボード
 
 fortress
-fortress
+城砦
 
 control room
-control room
+制御室
 
 armory
-armory
+武器庫
 
 Wall barricade
-Wall barricade
+ウォールバリケード
 
 front gate
-front gate
+表門
 
 southeast exit
-southeast exit
+東南口
 
 Southwest Exit
-Southwest Exit
+南西出口
 
 Northwest Exit
-Northwest Exit
+北西出口
 
 Northeast Exit
-Northeast Exit
+北東口
 
 mountain peak
-mountain peak
+山嶺
 
 ramp
-ramp
+ランプ
 
 Escarpment
-Escarpment
+断崖絶壁
 
 peak
-peak
+ピーク
 
 jungle
-jungle
+ジャングル
 
 big tree
-big tree
+巨樹
 
 Platoon room
-Platoon room
+小隊の部屋
 
 corridor
-corridor
+廊下
 
 compound
-compound
+化合物
 
 blockhouse
-blockhouse
+丸太小屋
 
 broken box
-broken box
+破箱
 
 broken door
-broken door
+破風
 
 small door
-small door
+小口
 
 Side door
-Side door
+サイドドア
 
 inner hall
-inner hall
+内殿
 
 Outer hall
-Outer hall
+外装ホール
 
 Reception
-Reception
+レセプション
 
 Room 101
-Room 101
+101号室
 
 Room 102
-Room 102
+102号室
 
 Room 103
-Room 103
+103号室
 
 Room 104
-Room 104
+104号室
 
 Room 105
-Room 105
+105号室
 
 Room 106
-Room 106
+106号室
 
 Room 107
-Room 107
+107号室
 
 Room 108
-Room 108
+108号室
 
 stair case
-stair case
+梯子段
 
 Room 201
-Room 201
+201号室
 
 Room 202
-Room 202
+202号室
 
 Room 203
-Room 203
+203号室
 
 Room 204
-Room 204
+204号室
 
 Room 205
-Room 205
+205号室
 
 Room 206
-Room 206
+206号室
 
 Room 207
-Room 207
+207号室
 
 Room 208
-Room 208
+208号室
 
 Room 301
-Room 301
+301号室
 
 Room 302
-Room 302
+302号室
 
 Room 303
-Room 303
+303号室
 
 Room 304
-Room 304
+304号室
 
 Room 305
-Room 305
+305号室
 
 Room 306
-Room 306
+306号室
 
 Room 307
-Room 307
+307号室
 
 Room 308
-Room 308
+308号室
 
 Room 401
-Room 401
+401号室
 
 Room 402
-Room 402
+402号室
 
 Room 403
-Room 403
+403号室
 
 Room 404
-Room 404
+404号室
 
 Room 405
-Room 405
+405号室
 
 Room 406
-Room 406
+406号室
 
 Room 407
-Room 407
+407号室
 
 Room 408
-Room 408
+408号室
 
 Room 501
-Room 501
+501号室
 
 Room 502
-Room 502
+502号室
 
 Room 503
-Room 503
+503号室
 
 Room 504
-Room 504
+504号室
 
 Room 505
-Room 505
+505号室
 
 Room 506
-Room 506
+506号室
 
 Room 507
-Room 507
+507号室
 
 Room 508
-Room 508
+508号室
 
 rooftop
-rooftop
+屋上
 
 Broken wooden case
-Broken wooden case
+割れた木製ケース
 
 Haystack
-Haystack
+ヘイスタック
 
 South mining area
-South mining area
+南鉱区
 
 West mining area
-West mining area
+西側鉱区
 
 Central mining area
-Central mining area
+中央鉱区
 
 East mining area
-East mining area
+東部鉱区
 
 vein
-vein
+静脈
 
 mine
-mine
+マイン
 
 mine heart
-mine heart
+わがこころ
 
 mine road
-mine road
+坑道
 
 Vein turn
-Vein turn
+ベインターン
 
 rock
-rock
+岩
 
 mine Well
-mine Well
+マインウェル
 
 Cross Well
-Cross Well
+クロスウェル
 
 West T-Well
-West T-Well
+ウェストTウェル
 
 Lifts
-Lifts
+リフト
 
 Wraith Portal
-Wraith Portal
+レイスポータル
 
 Wraith Cave
-Wraith Cave
+レイス洞窟
 
 Nether Portal
-Nether Portal
+ネザーポータル
 
 Nether Cave
-Nether Cave
+ネザーケイブ
 
 Demon  Portal
-Demon  Portal
+デーモンポータル
 
 Demon  Cave
-Demon  Cave
+魔窟
 
 boarding  Gate 1
-boarding  Gate 1
+搭乗口1
 
 North T-Well
-North T-Well
+ノースTウェル
 
 boarding  Gate 2
-boarding  Gate 2
+搭乗口2
 
 boarding  Gate 3
-boarding  Gate 3
+搭乗口3
 
 black gate
-black gate
+黒門
 
 space
-space
+空間
 
 Guard room
-Guard room
+ガードルーム
 
 indoor
-indoor
+インドア
 
 Black Gate Road
-Black Gate Road
+ブラックゲートロード
 
 tower
-tower
+タワー
 
 west ground
-west ground
+西地区
 
 east ground
-east ground
+東場
 
 West of the Detention Area
-West of the Detention Area
+留置場西側
 
 West of the Severe punishment area
-West of the Severe punishment area
+厳罰化エリアの西側
 
 Cell 1
-Cell 1
+セル1
 
 Cell 2
-Cell 2
+セル2
 
 Cell 3
-Cell 3
+セル3
 
 Cell 4
-Cell 4
+セル4
 
 Warden's Office
-Warden's Office
+ウォーデン事務所
 
 East of the Detention Area
-East of the Detention Area
+留置場東側
 
 East of the Severe punishment area
-East of the Severe punishment area
+厳罰化エリアの東側
 
 Front prison door
-Front prison door
+刑務所の正面玄関
 
 back prison door
-back prison door
+裏牢屋
 
 prison gate
-prison gate
+獄門
 
 Tomb passage
-Tomb passage
+トゥームパッセージ
 
 main burial chamber
-main burial chamber
+本丸
 
 ear chamber
-ear chamber
+イヤーチェンバー
 
 Stone Hall Center
-Stone Hall Center
+ストーンホールセンター
 
 sarcophagus
-sarcophagus
+石棺
 
 freight corridor
-freight corridor
+貨物回廊
 
 Energy room
-Energy room
+エネルギールーム
 
 Radiant corridor
-Radiant corridor
+輻射式廊下
 
 Radiant Wall
-Radiant Wall
+ラジアントウォール
 
 energy room
-energy room
+エネルギールーム
 
 storage room
-storage room
+物置き
 
 black sand
-black sand
+黒砂
 
 grottoe
-grottoe
+洞窟
 
 fault zone
-fault zone
+断層帯
 
 black cemetery
-black cemetery
+くろぼち
 
 sedimentary rock
-sedimentary rock
+堆積岩
 
 deep pit
-deep pit
+深穴
 
 inclined pit
-inclined pit
+斜坑
 
 crack
-crack
+隙間
 
 Bevel
-Bevel
+ベベル
 
 pit edge
-pit edge
+ピットエッジ
 
 lower steps
-lower steps
+下段
 
 Abyssal cliffs
-Abyssal cliffs
+深海の断崖
 
 cemetery
-cemetery
+墓地
 
 burial chamber
-burial chamber
+玄室
 
 Cross lawn
-Cross lawn
+クロスローン
 
 Tower of Babel
-Tower of Babel
+バベルの塔
 
 Magic gate
-Magic gate
+マジックゲート
 
 Tower base
-Tower base
+タワーベース
 
 Northwest of the city
-Northwest of the city
+市街地北西部
 
 Southwest of the city
-Southwest of the city
+南西部
 
 southeast of the city
-southeast of the city
+南東
 
 Northeast of the city
-Northeast of the city
+北東部
 
 upper layer
-upper layer
+じょういそう
 
 lower layer
-lower layer
+下層
 
 fracture layer
-fracture layer
+破砕層
 
 Plague Abyss
-Plague Abyss
+ペスト・アビス
 
 quagmire
-quagmire
+泥沼
 
 Guardian Temple
-Guardian Temple
+ガーディアン テンプル
 
 North Corridor
-North Corridor
+北側コリドー
 
 Ring corridor
-Ring corridor
+リングコリドー
 
 West Guard Hall
-West Guard Hall
+ウエストガードホール
 
 East Guard Hall
-East Guard Hall
+イーストガードホール
 
 explosive path
-explosive path
+ばくれつれつけいろ
 
 stone fort
-stone fort
+石塁
 
 inner fort
-inner fort
+内砦
 
 outer fort
-outer fort
+外郭
 
 explosive track
-explosive track
+爆音トラック
 
 sinkhole
-sinkhole
+陥没穴
 
 underground palace
-underground palace
+地下宮殿
 
 throne
-throne
+玉座
 
 burial pit
-burial pit
+埋葬地
 
 mountainside
-mountainside
+山腹
 
 stone beam edge
-stone beam edge
+石梁端
 
 Ghost Cave
-Ghost Cave
+ゴーストケイブ
 
 earth pit
-earth pit
+土坑
 
 Mine cave
-Mine cave
+鉱山の洞窟
 
 position
-position
+位置
 
 guard room
-guard room
+守衛室
 
 South battery Entrance
-South battery Entrance
+サウスバッテリー入口
 
 South battery
-South battery
+サウスバッテリー
 
 Entrance to the Central Battery
-Entrance to the Central Battery
+中央砲台の入り口
 
 Middle battery
-Middle battery
+中電池
 
 aisle
-aisle
+アイル
 
 North battery entrance
-North battery entrance
+北側バッテリー入口
 
 North battery
-North battery
+ノースバッテリー
 
 warehouse
-warehouse
+倉庫
 
 conveyor belt
-conveyor belt
+ベルトコンベアー
 
 ammo compartment
-ammo compartment
+弾薬庫
 
 base
-base
+基部
 
 corridor
-corridor
+廊下
 
 side road
-side road
+わき道
 
 main road
-main road
+本道
 
 Stealth artillery area
-Stealth artillery area
+ステルス砲エリア
 
 sedimentary rock
-sedimentary rock
+堆積岩
 
 Conductive plate
-Conductive plate
+導電性プレート
 
 cab
-cab
+キャブ
 
 hatch
-hatch
+ハッチ
 
 High wall
-High wall
+高い壁
 
 jail
-jail
+郵便
 
 Shock Room 13
-Shock Room 13
+ショックルーム13
 
 electric chair
-electric chair
+でんきいす
 
 South Watchtower
-South Watchtower
+サウスウォッチタワー
 
 North Watchtower
-North Watchtower
+北の監視塔
 
 demon cave
-demon cave
+魔窟
 
 hotel
-hotel
+ホテル
 
 shop
-shop
+店
 
 School
-School
+学校
 
 Hospital
-Hospital
+病院
 
 hotel lobby
-hotel lobby
+ホテルロビー
 
 school hall
-school hall
+こうかいしつ
 
 classroom
-classroom
+教室
 
 office
-office
+オフィス
 
 Ward
-Ward
+区
 
 altar
-altar
+聖壇
 
 burn  platform
-burn  platform
+燃焼台
 
 stake
-stake
+賭ける
 
 waterway
-waterway
+水路
 
 central waterhole
-central waterhole
+中央水域
 
 whirlpool center
-whirlpool center
+ワールプールセンター
 
 magma pool
-magma pool
+マグマだまり
 
 rock wall
-rock wall
+岩場
 
 pub
-pub
+パブ
 
 wine barrel
-wine barrel
+ワイン樽
 
 stove
-stove
+煖炉
 
 tower wall
-tower wall
+そびえ立つ壁
 
 Tiankeng
-Tiankeng
+天健
 
 pedestal
-pedestal
+ペデスタル
 
 broken wall
-broken wall
+破壁
 
 statue
-statue
+スタチュー
 
 giant gate
-giant gate
+巨門
 
 spa
-spa
+スパ
 
 blackstone
-blackstone
+ブラックストーン
 
 pit
-pit
+落とし穴
 
 stone
-stone
+石
 
 Dragon Barrier
-Dragon Barrier
+ドラゴンバリア
 
 dragon scale tree
-dragon scale tree
+竜骨の木
 
 dragon Village
-dragon Village
+竜神村
 
 Iron Stone Mountain
-Iron Stone Mountain
+アイアン・ストーン・マウンテン
 
 wild cave
-wild cave
+野生の洞窟
 
 brick wall
-brick wall
+れんがべい
 
 collapse channel
-collapse channel
+崩壊チャネル
 
 Dragon's Nest
-Dragon's Nest
+ドラゴンズ・ネスト
 
 Dragon Mire
-Dragon Mire
+ドラゴンマイル
 
 jungle road
-jungle road
+ジャングルロード
 
 glade
-glade
+うれしい
 
 south entrance of the village
-south entrance of the village
+南口
 
 entrance of the Open space
-entrance of the Open space
+オープンスペースの入り口
 
 collapsed brick wall
-collapsed brick wall
+倒壊したレンガの壁
 
 pass of the iron stone mountain
-pass of the iron stone mountain
+鉄山峠
 
 Northwest Cave
-Northwest Cave
+北西の洞窟
 
 Northeast Cave
-Northeast Cave
+北東部洞窟
 
 Southeast Cave
-Southeast Cave
+東南洞
 
 Southwest Cave
-Southwest Cave
+南西洞窟
 
 central cave
-central cave
+ちゅうおうどう
 
 Road in the cave
-Road in the cave
+洞窟の中の道
 
 mysterious space
-mysterious space
+不可思議な空間
 
 Desolate Dragon's Nest
-Desolate Dragon's Nest
+荒涼としたドラゴンネスト
 
 Right channel
-Right channel
+右チャンネル
 
 center channel
-center channel
+センターチャンネル
 
 Left channel
-Left channel
+左チャンネル
 
 doorway of the Garden
-doorway of the Garden
+庭の戸口
 
 doorway of the Library
-doorway of the Library
+図書館の扉
 
 Dirt road
-Dirt road
+ダートロード
 
 garden path
-garden path
+にわかみち
 
 doorway of the courtyard, southwest turn
-doorway of the courtyard, southwest turn
+中庭の戸口、南西の曲がり角
 
 Entrance of jewelry exhibition room
-Entrance of jewelry exhibition room
+宝飾品展示室入口
 
 wet soil
-wet soil
+湿地
 
 pondside
-pondside
+池畔
 
 pond wall
-pond wall
+池壁
 
 pond gap
-pond gap
+液溜り
 
 altar side
-altar side
+祭壇側
 
 Ruined soil
-Ruined soil
+廃墟と化した土
 
 gazebo steps
-gazebo steps
+ガゼボ・ステップ
 
 pavilion column
-pavilion column
+じんちゅう
 
 Rockery fissure
-Rockery fissure
+岩盤亀裂
 
 Rockery
-Rockery
+ロッカリー
 
 Inside Rockery
-Inside Rockery
+ロッカリー内部
 
 doorway of the courtyard
-doorway of the courtyard
+中庭の戸口
 
 kennel fence
-kennel fence
+犬猫用フェンス
 
 kennel
-kennel
+ケンネル
 
 courtyard center
-courtyard center
+中庭センター
 
 stone table
-stone table
+石板
 
 central aisle
-central aisle
+中央通路
 
 aisle; Southwest Color
-aisle; Southwest Color
+通路; 南西部カラー
 
 Jewelry Showroom
-Jewelry Showroom
+宝飾品ショールーム
 
 showcase
-showcase
+ショーケース
 
 gallery
-gallery
+ギャラリー
 
 Passage West Fork Road
-Passage West Fork Road
+パサージュ・ウェストフォーク・ロード
 
 Passage southeast turn
-Passage southeast turn
+パサージュ南東ターン
 
 red carpet
-red carpet
+レッドカーペット
 
 library
-library
+ライブラリ
 
 bookshelf
-bookshelf
+本棚
 
 library secret room
-library secret room
+図書館の秘密の部屋
 
 deep in the secret room
-deep in the secret room
+奥の手
 
 doorway of the Arsenal
-doorway of the Arsenal
+アーセナルの扉
 
 doorway of the warehouse
-doorway of the warehouse
+蔵の戸口
 
 Warehouse entrance, southwest turn
-Warehouse entrance, southwest turn
+倉庫入口、南西方向
 
 dark passage
-dark passage
+ダークパッセージ
 
 basement
-basement
+地下室
 
 underground chamber
-underground chamber
+地下室
 
 Armory
-Armory
+アーモリー
 
 Armor library
-Armor library
+アーマーライブラリー
 
 Church entrance
-Church entrance
+教会入口
 
 Church entrance, southwest turn
-Church entrance, southwest turn
+教会入口、南西方向
 
 pool entrance
-pool entrance
+プール口
 
 Pool entrance, Three fork road
-Pool entrance, Three fork road
+プール入口、三叉路
 
 pool
-pool
+溜まり
 
 waterway
-waterway
+水路
 
 Pool core, Three fork road
-Pool core, Three fork road
+プールコア、三叉路
 
 upper waterway
-upper waterway
+上水道
 
 silt
-silt
+シルト
 
 square entrance, east-west passage
-square entrance, east-west passage
+枡形入口、東西の通路
 
 front platform
-front platform
+前座
 
 front door of the church
-front door of the church
+教会堂の正面玄関
 
 deep in the church
-deep in the church
+教壇に立つ
 
 Crystal Throne
-Crystal Throne
+クリスタルスローン
 
 Land of redemption
-Land of redemption
+贖罪の地
 
 East Fork Road
-East Fork Road
+イーストフォークロード
 
 Fork road
-Fork road
+フォークロード
 
 West Fork Road
-West Fork Road
+ウエストフォークロード
 
 Meditation room
-Meditation room
+メディテーションルーム
 
 square Entrance
-square Entrance
+スクエアエントランス
 
 flower bed gap
-flower bed gap
+花壇の隙間
 
 groove
-groove
+グルーヴ
 
 gate of the Kennel Fence
-gate of the Kennel Fence
+犬小屋の門
 
 gate of the Jewelry showroom
-gate of the Jewelry showroom
+宝飾品ショールームの門
 
 library
-library
+ライブラリ
 
 arsenal
-arsenal
+アーセナル
 
 church gate
-church gate
+きょうもん
 
 library gate
-library gate
+図書室門
 
 Arsenal gate
-Arsenal gate
+アーセナルゲート
 
 Rolling Stone Storage
-Rolling Stone Storage
+ローリングストーンストレージ
 
 Rolling Stones Launch
-Rolling Stones Launch
+ローリング・ストーンズ発売
 
 doorway of the church
-doorway of the church
+聖堂の扉
 
 main entrance
-main entrance
+正門
 
 open space behind camp
-open space behind camp
+裏庭
 
 open space in front of camp
-open space in front of camp
+陣屋前広場
 
 path in front of camp
-path in front of camp
+裏道
 
 watchtower
-watchtower
+火の見やぐら
 
 path in the Camp
-path in the Camp
+陣中路
 
 moat
-moat
+ほり
 
 Mystery Room
-Mystery Room
+ミステリールーム
 
 three fork road
-three fork road
+三叉路
 
 living room
-living room
+リビングルーム
 
 canopy
-canopy
+キャノピー
 
 southeast turn; stone steps
-southeast turn; stone steps
+南東折り返し、石段
 
 Northwest turn; stone steps
-Northwest turn; stone steps
+北西の曲がり角、石段
 
 broken wall
-broken wall
+破壁
 
 Southwest turn; stone steps
-Southwest turn; stone steps
+南西の曲がり角、石段
 
 stone table
-stone table
+石板
 
 edge of stone table
-edge of stone table
+石のテーブルの縁
 
 dungeon
-dungeon
+ダンジョン
 
 back door of the cave
-back door of the cave
+洞窟の裏口
 
 fault
-fault
+フォルト
 
 balcony
-balcony
+バルコニー
 
 secret test room
-secret test room
+ひみつのしけんしつ
 
 South Gate of the Secret Room
-South Gate of the Secret Room
+秘密の部屋の南門
 
 snow mountain
-snow mountain
+雪山
 
 Gorge passage
-Gorge passage
+ゴージパッセージ
 
 Gorge
-Gorge
+ゴージ
 
 cave
-cave
+洞窟
 
 glacier
-glacier
+氷河
 
 meditation room
-meditation room
+瞑想室
 
 extinguished torch
-extinguished torch
+はいびゃくろう
 
 energy barrier
-energy barrier
+エネルギーの壁
 
 null
-null
+ヌル
 
 avenue
-avenue
+アベニュー
 
 green land
-green land
+りょくち
 
 seaside
-seaside
+かいひん
 
 lava island
-lava island
+溶岩島
 
 Magma
-Magma
+マグマ
 
 rock
-rock
+岩
 
 Martial Arts Hall
-Martial Arts Hall
+武道館
 
 martial arts field
-martial arts field
+武道場
 
 mud pond
-mud pond
+泥池
 
 Reeds
-Reeds
+すでに
 
 the sea
-the sea
+海原
 
 island
-island
+島
 
 North Road
-North Road
+ノースロード
 
 South Road
-South Road
+南道路
 
 East Street
-East Street
+イースト・ストリート
 
 West Street
-West Street
+西通り
 
 desert
-desert
+砂漠
 
 rock formation
-rock formation
+岩層
 
 dune
-dune
+砂山
 
 in the tower
-in the tower
+楼上
 
 wind magic circle
-wind magic circle
+ウィンドマジックサークル
 
 Earth Magic circle
-Earth Magic circle
+アースマジックサークル
 
 water magic circle
-water magic circle
+水魔法輪
 
 fire magic circle
-fire magic circle
+かえんほうしゃ
 
 mountainside
-mountainside
+山腹
 
 Ice layer
-Ice layer
+氷の層
 
 snowdrift
-snowdrift
+ゆきだまり
 
 inside the cave
-inside the cave
+洞窟内
 
 Trench
-Trench
+トレンチ
 
 Undersea Garden
-Undersea Garden
+海中庭園
 
 sea flower bush
-sea flower bush
+うみたまご
 
 seaweed
-seaweed
+海藻類
 
 South Gate of the Dungeon
-South Gate of the Dungeon
+ダンジョン南門
 
 lakeshore
-lakeshore
+湖岸
 
 West coast
-West coast
+西海岸
 
 east coast
-east coast
+東海岸
 
 red camp
-red camp
+レッドキャンプ
 
 blue camp
-blue camp
+ブルーキャンプ
 
 center bridge
-center bridge
+センターブリッジ
 
 main road in front of camp
-main road in front of camp
+表参道
 
 center Island
-center Island
+センターアイランド
 
 bench
-bench
+ベンチ
 
 small bridge
-small bridge
+小橋
 
 north branch road
-north branch road
+北支路
 
 playground
-playground
+うんどうば
 
 south branch road
-south branch road
+南支路
 
 gap
-gap
+隙間
 
 ramp entrance
-ramp entrance
+ランプ口
 
 ruins
-ruins
+廃墟
 
 Flying sand alley
-Flying sand alley
+フライング・サンド・アレイ
 
 collapsed wall
-collapsed wall
+倒壊した壁
 
 north hillside
-north hillside
+きたやま
 
 mountaintop
-mountaintop
+山巓
 
 south hillside
-south hillside
+南面
 
 east hillside
-east hillside
+東山麓
 
 west hillside
-west hillside
+西山麓
 
 north foothill
-north foothill
+北山
 
 east foothill
-east foothill
+ひがしやま
 
 west foothill
-west foothill
+にしあしはら
 
 south foothill
-south foothill
+南面山
 
 roots
-roots
+ルーツ
 
 Cross Mountain
-Cross Mountain
+クロスマウンテン
 
 North Pit 1
-North Pit 1
+ノースピット1
 
 North Pit 2
-North Pit 2
+ノースピット2
 
 North Pit 3
-North Pit 3
+ノースピット3
 
 North Pit 4
-North Pit 4
+ノースピット4
 
 middle  platform 1
-middle  platform 1
+ミドルプラットフォーム1
 
 middle pit 2
-middle pit 2
+ミドルピット2
 
 middle pit 3
-middle pit 3
+中坑3
 
 middle  platform 4
-middle  platform 4
+ミドルプラットフォーム4
 
 South Pit 1
-South Pit 1
+サウスピット1
 
 South Pit 2
-South Pit 2
+サウスピット2
 
 South Pit 3
-South Pit 3
+サウスピット3
 
 South Pit 4
-South Pit 4
+サウスピット4
 
 corridor
-corridor
+廊下
 
 terrace
-terrace
+段丘
 
 ground
-ground
+地
 
 SouthWest of the Highland
-SouthWest of the Highland
+ハイランドの南西
 
 SouthEast of the Highland
-SouthEast of the Highland
+ハイランドのサウスイースト
 
 ground fence
-ground fence
+グラウンドフェンス
 
 canteen
-canteen
+酒保
 
 bathroom
-bathroom
+バスルーム
 
 Guardian room
-Guardian room
+ガーディアンルーム
 
 step bottom
-step bottom
+上底
 
 middle path
-middle path
+中道
 
 Walking stage
-Walking stage
+ウォーキングステージ
 
 front door of the ground
-front door of the ground
+グランド正面玄関
 
 back door of the ground
-back door of the ground
+裏口入学
 
 safe door
-safe door
+安全扉
 
 ice cave
-ice cave
+氷穴
 
 hidden grid
-hidden grid
+隠れ格子
 
 Snow Cave
-Snow Cave
+雪の洞窟
 
 Ice Cave Center
-Ice Cave Center
+氷の洞窟センター
 
 orizontal Road 1
-orizontal Road 1
+横道 1
 
 orizontal Road 2
-orizontal Road 2
+横型道路 2
 
 orizontal Road 3
-orizontal Road 3
+横型道路 3
 
 orizontal Road 4
-orizontal Road 4
+横道 4
 
 Vertical Road No. 1
-Vertical Road No. 1
+バーティカルロードNo.1
 
 vertical road 2
-vertical road 2
+垂直方向道路2
 
 vertical road 3
-vertical road 3
+垂直方向道路3
 
 vertical road 4
-vertical road 4
+垂直方向道路4
 
 end of orizontal road
-end of orizontal road
+横道の果て
 
 end of vertical road
-end of vertical road
+垂直方向の道路の端
 
 ship's rail
-ship's rail
+シップレール
 
 deck
-deck
+山札
 
 stern
-stern
+謹厳
 
 bow
-bow
+蝶結び
 
 captain's room
-captain's room
+船長室
 
 cargo hold
-cargo hold
+貨物倉
 
 cargo box
-cargo box
+カーゴボックス
 
 gangway
-gangway
+舷門
 
 Towering Mountain
-Towering Mountain
+そびえ立つ山
 
 farm warehouse
-farm warehouse
+のうぎょうそうこ
 
 mountainside
-mountainside
+山腹
 
 villa road
-villa road
+別荘地内道路
 
 back room
-back room
+納戸
 
 middle room
-middle room
+なかべや
 
 front room
-front room
+おもてざしき
 
 grass
-grass
+草
 
 gravel slope
-gravel slope
+砂利斜面
 
 willow
-willow
+ウィロー
 
 Heaven Pool
-Heaven Pool
+ヘブン プール
 
 Villa gate
-Villa gate
+ヴィラゲート
 
 inner wall
-inner wall
+内壁
 
 transmission shaft
-transmission shaft
+トランスミッションシャフト
 
 Turbine cabin
-Turbine cabin
+タービンキャビン
 
 switch
-switch
+スイッチ
 
 Power cabin
-Power cabin
+パワーキャビン
 
 pothole
-pothole
+ポットホール
 
 kitchen
-kitchen
+厨房
 
 pharmacy room
-pharmacy room
+調剤室
 
 study
-study
+研究
 
 Breeding room
-Breeding room
+ブリーディングルーム
 
 Smelting room
-Smelting room
+製錬室
 
 Washing and grinding room
-Washing and grinding room
+洗浄・研磨室
 
 Storage Room
-Storage Room
+ストレージルーム
 
 exercise room
-exercise room
+体操場
 
 main mansion
-main mansion
+本邸
 
 inner hall
-inner hall
+内殿
 
 backyard west
-backyard west
+バックヤードウエスト
 
 backyard east
-backyard east
+裏庭東
 
 front yard west
-front yard west
+前庭西
 
 front yard east
-front yard east
+東方前庭
 
 west grass
-west grass
+にしそう
 
 east flower bush
-east flower bush
+あずまや
 
 road in front of mansion
-road in front of mansion
+表通り
 
 west side road
-west side road
+西側道路
 
 east side road
-east side road
+東側道路
 
 road behind mansion
-road behind mansion
+裏道
 
 inner door
-inner door
+ないで
 
 lake
-lake
+湖水
 
 West Lake
-West Lake
+西湖
 
 East Lake
-East Lake
+イーストレイク
 
 water platform
-water platform
+みずのみば
 
 west platform
-west platform
+西遊記
 
 east platform
-east platform
+とうだん
 
 South Bridge
-South Bridge
+サウスブリッジ
 
 North Bridge
-North Bridge
+ノースブリッジ
 
 west side bridge
-west side bridge
+西側橋
 
 east side bridge
-east side bridge
+東側橋
 
 Southwest Platform
-Southwest Platform
+サウスウェスト・プラットフォーム
 
 Southeast Platform
-Southeast Platform
+南東プラットフォーム
 
 East side platform
-East side platform
+東側プラットフォーム
 
 west side platform
-west side platform
+西側プラットホーム
 
 Northwest Platform
-Northwest Platform
+ノースウェスト・プラットフォーム
 
 Northeast Platform
-Northeast Platform
+北東プラットフォーム
 
 courtyard
-courtyard
+中庭
 
 East side courtyard
-East side courtyard
+東側中庭
 
 West side courtyard
-West side courtyard
+西側中庭
 
 front avenue of the mansion
-front avenue of the mansion
+たいかいけつ
 
 back avenue of the mansion
-back avenue of the mansion
+裏通り
 
 west side snowfield
-west side snowfield
+西側雪原
 
 east side snowfield
-east side snowfield
+東側雪原
 
 steel platform
-steel platform
+こうだん
 
 fortress
-fortress
+城砦
 
 Steel Avenue
-Steel Avenue
+スチールアベニュー
 
 west side passage
-west side passage
+西側通路
 
 East side  Passage
-East side  Passage
+東側通路
 
 center
-center
+センター
 
 northwest
-northwest
+北西
 
 north
-north
+ノース
 
 northeast
-northeast
+北東
 
 West
-West
+ウエスト
 
 East
-East
+イースト
 
 southwest
-southwest
+南西
 
 South
-South
+南
 
 southeast
-southeast
+南東
 
 Northwest of the pit
-Northwest of the pit
+ピット北西部
 
 North of the pit
-North of the pit
+ピット北側
 
 Northeast of the Pit
-Northeast of the Pit
+ピット北東部
 
 East of the pit
-East of the pit
+ピット東側
 
 Center of the pit
-Center of the pit
+ピット中央
 
 West of the pit
-West of the pit
+ピットの西側
 
 Southwest of the pit
-Southwest of the pit
+ピットの南西
 
 south of the pit
-south of the pit
+坑南
 
 southeast of the pit
-southeast of the pit
+坑南東
 
 stone maze
-stone maze
+いしだたみ
 
 center stone room
-center stone room
+センターストーンルーム
 
 end of the maze
-end of the maze
+迷路の果て
 
 Entrance
-Entrance
+エントランス
 
 west mouth of Valley
-west mouth of Valley
+西の谷口
 
 east mouth of Valley
-east mouth of Valley
+東谷口
 
 maze entrance
-maze entrance
+迷路口
 
 Herb field
-Herb field
+ハーブ畑
 
 curly tree
-curly tree
+巻き毛の木
 
 Outer ring of tree hole
-Outer ring of tree hole
+ツリーホールの外輪
 
 annual ring wall
-annual ring wall
+ねんりんき
 
 Inner ring of tree hole
-Inner ring of tree hole
+ツリーホールのインナーリング
 
 tree heart
-tree heart
+木ごころ
 
 turn southeast
-turn southeast
+南東に向う
 
 turn northwest
-turn northwest
+北西に向かう
 
 turn southwest
-turn southwest
+南西に向う
 
 turn northeast
-turn northeast
+ほくとうをむく
 
 turn east
-turn east
+東に向う
 
 turn south
-turn south
+みなみする
 
 turn north
-turn north
+北に向う
 
 turn west
-turn west
+西を向く
 
 water lily
-water lily
+睡蓮
 
 North Shore
-North Shore
+ノースショア
 
 South Shore
-South Shore
+サウスショア
 
 northern waters
-northern waters
+ほくよう
 
 Northeast waters
-Northeast waters
+北東海域
 
 Eastern Waters
-Eastern Waters
+イースタンウォーターズ
 
 Southeast waters
-Southeast waters
+南方海域
 
 southern waters
-southern waters
+南方海域
 
 Southwest waters
-Southwest waters
+南西海域
 
 western waters
-western waters
+西海
 
 Northwest Waters
-Northwest Waters
+ノースウエスト海域
 
 central waters
-central waters
+ちゅうぶすいよう
 
 west river estuary
-west river estuary
+西川河口
 
 west river
-west river
+西川
 
 East River Estuary
-East River Estuary
+イーストリバー河口
 
 east river
-east river
+東川
 
 giant snail reef
-giant snail reef
+蝸牛石
 
 snail heart
-snail heart
+カタツムリハート
 
 hall
-hall
+ホール
 
 Red carpet
-Red carpet
+レッドカーペット
 
 stage
-stage
+ステージ
 
 pink petals
-pink petals
+ピンクの花びら
 
 curtain wall
-curtain wall
+カーテンウォール
 
 river
-river
+川
 
 love Bridge
-love Bridge
+ラブ・ブリッジ
 
 pontoon
-pontoon
+ポンツーン
 
 floating platform
-floating platform
+浮き台
 
 storehouse
-storehouse
+倉庫
 
 stone lion
-stone lion
+石獅子
 
 North Street
-North Street
+ノースストリート
 
 South Street
-South Street
+サウスストリート
 
 wish alley
-wish alley
+願い事横丁
 
 peace alley
-peace alley
+平和通り
 
 Outer teleportation room
-Outer teleportation room
+外部テレポートルーム
 
 episcopal room
-episcopal room
+しきょうしつ
 
 Inner teleportation room
-Inner teleportation room
+インナーテレポートルーム
 
 dais
-dais
+上段
 
 baptismal room
-baptismal room
+洗礼室
 
 fjord river
-fjord river
+フィヨルド河
 
 upper river
-upper river
+上流
 
 lower river
-lower river
+下川
 
 Iron railing
-Iron railing
+鉄製手すり
 
 central  camp
-central  camp
+セントラルキャンプ
 
 west camp
-west camp
+ウエストキャンプ
 
 east camp
-east camp
+東軍
 
 south camp
-south camp
+サウスキャンプ
 
 demonization Cabin
-demonization Cabin
+魔改造キャビン
 
 north camp
-north camp
+ノースキャンプ
 
 starting point
-starting point
+出発点
 
 end
-end
+しゅうりょう
 
 artillery array
-artillery array
+砲列
 
 piano
-piano
+企図
 
 Do
-Do
+する
 
 Re
 Re
 
 Mi
-Mi
+ミ
 
 Fa
-Fa
+ファ
 
 Sol
-Sol
+ソル
 
 floor 5
-floor 5
+フロア5
 
 floor 4
-floor 4
+フロア4
 
 floor 3
-floor 3
+フロア3
 
 floor 2
-floor 2
+2階
 
 floor 1
-floor 1
+フロア1
 
 up the ladder
-up the ladder
+梯子の上
 
 down the ladder
-down the ladder
+はしご下
 
 sea ​​floor
-sea ​​floor
+海洋底
 
 beach
-beach
+海辺
 
 Sea
-Sea
+海
 
 Evil Temple
-Evil Temple
+邪教の神殿
 
 blood pool
-blood pool
+血の池
 
 front road of the Village
-front road of the Village
+村の前面道路
 
 Grocery store
-Grocery store
+食料品店
 
 paddy
-paddy
+もみ
 
 wheat field
-wheat field
+むぎばたけ
 
 Orchard
-Orchard
+オーチャード
 
 Sapphire River
-Sapphire River
+サファイア・リバー
 
 Hearth
-Hearth
+ハース
 
 laundry tub
-laundry tub
+洗濯槽
 
 fish tank
-fish tank
+生け簀
 
 oven
-oven
+オーブン
 
 fish basket
-fish basket
+魚籠
 
 table
-table
+テーブル
 
 clothesline
-clothesline
+物干し竿
 
 cliff
-cliff
+断崖
 
 central platform
-central platform
+ちゅうおうえん
 
 north platform
-north platform
+北の台
 
 East Platform
-East Platform
+イースト・プラットフォーム
 
 South platform
-South platform
+サウスプラットフォーム
 
 West Platform
-West Platform
+ウエストプラットフォーム
 
 edge of the platform
-edge of the platform
+演壇の端
 
 black purgatory
-black purgatory
+ブラック・プリンシパル
 
 magma hell
-magma hell
+マグマ地獄
 
 Abyss Demon realm
-Abyss Demon realm
+深淵の魔界
 
 magnolia tree
-magnolia tree
+モクレンの木
 
 Garden under the Moon
-Garden under the Moon
+月下の庭
 
 galaxy
-galaxy
+ギャラクシー
 
 Magpie Bridge
-Magpie Bridge
+カササギの橋
 
 cattles Mountain
-cattles Mountain
+キャトルズ・マウンテン
 
 house
-house
+家
 
 West Wing
-West Wing
+ウエストウイング
 
 main room
-main room
+メインルーム
 
 East wing
-East wing
+東棟
 
 Downside Room
-Downside Room
+ダウンサイドルーム
 
 doorway
-doorway
+とびらぐち
 
 Lancang River
-Lancang River
+瀾滄江（らんそうこう
 
 tree stump
-tree stump
+木株
 
 igloo
-igloo
+イグルー
 
 auditorium
-auditorium
+オーディトリアム
 
 Dining room
-Dining room
+ダイニングルーム
 
 dining table
-dining table
+ダイニングテーブル
 
 Chair
-Chair
+椅子
 
 hill bag
-hill bag
+ヒルズバッグ
 
 rock pile
-rock pile
+岩盤浴
 
 stalagmite
-stalagmite
+石筍
 
 channel
-channel
+チャンネル
 
 forest exit
-forest exit
+林口
 
 ancient tree
-ancient tree
+古木
 
 tree heart entrance
-tree heart entrance
+ツリーハートエントランス
 
 grass
-grass
+草
 
 wolf head mountain
-wolf head mountain
+狼頭山
 
 swamp
-swamp
+沼沢
 
 puddle
-puddle
+水溜り
 
 swamp tree
-swamp tree
+沼の木
 
 sea river
-sea river
+みずのは
 
 east sea Bridge
-east sea Bridge
+東海大橋
 
 big quagmire
-big quagmire
+大沼
 
 quagmire entrance
-quagmire entrance
+泥沼の入り口
 
 mud slope
-mud slope
+でいねい
 
 port
-port
+ポート
 
 West Port
-West Port
+西港
 
 east port
-east port
+東港
 
 Dock Bridge
-Dock Bridge
+ドック・ブリッジ
 
 coconut tree
-coconut tree
+やしの木
 
 Nepeta bush
-Nepeta bush
+ネペタ
 
 bunker
-bunker
+バンカー
 
 Villa of the cat king
-Villa of the cat king
+ネコの王様の別荘
 
 villa gate
-villa gate
+ヴィラゲート
 
 staircase
-staircase
+階段
 
 side yard
-side yard
+側庭
 
 side door
-side door
+くぐり戸
 
 Sand Holly
-Sand Holly
+サンドホーリー
 
 aloe vera
-aloe vera
+アロエベラ
 
 Collapsed courtyard wall
-Collapsed courtyard wall
+崩壊した中庭の壁
 
 workshop
-workshop
+ワークショップ
 
 collapsed gate
-collapsed gate
+倒壊門
 
 main hallway
-main hallway
+本堂
 
 broken window
-broken window
+割れ窓
 
 south side corridor
-south side corridor
+南側廊下
 
 North side Corridor
-North side Corridor
+北側コリドー
 
 dirt road in the courtyard
-dirt road in the courtyard
+中庭の土手道
 
 production workshop
-production workshop
+プロダクションワークショップ
 
 single conveyor belt
-single conveyor belt
+シングルコンベアーベルト
 
 workshop channel
-workshop channel
+ワークショップチャンネル
 
 conveyor belt entrance
-conveyor belt entrance
+コンベアベルトの入り口
 
 conveyor belt exit
-conveyor belt exit
+コンベアベルトの出口
 
 doorway of the control room
-doorway of the control room
+制御室の扉
 
 connecting corridor
-connecting corridor
+連絡通路
 
 Stone Hall in the center
-Stone Hall in the center
+中央がストーンホール
 
 stone steps of the secret path
-stone steps of the secret path
+いしばし
 
 abrupt gravel
-abrupt gravel
+唐突な砂利
 
 stone ladder of the secret path
-stone ladder of the secret path
+いしばしご
 
 stone ladder  entrance
-stone ladder  entrance
+石梯子口
 
 Circling Stone Ladder
-Circling Stone Ladder
+旋回式石梯子
 
 Tomb of the Pharaoh
-Tomb of the Pharaoh
+ファラオの墓
 
 hillside road
-hillside road
+丘陵道路
 
 crater
-crater
+クレーター
 
 torch tree
-torch tree
+トーチノキ
 
 flame flower bush
-flame flower bush
+火焔柴胡
 
 hot spring pool
-hot spring pool
+温泉プール
 
 Flaming Mountain
-Flaming Mountain
+フレーミングマウンテン
 
 stone bridge
-stone bridge
+石橋
 
 lava lake
-lava lake
+溶岩湖
 
 cabin
-cabin
+船室
 
 artificial island
-artificial island
+じんこうとう
 
 lighthouse
-lighthouse
+灯台
 
 doorway of the Captain's room
-doorway of the Captain's room
+大尉の間口
 
 finger hill
-finger hill
+フィンガー・ヒル
 
 Basalt
-Basalt
+バサルト
 
 cave in the sea
-cave in the sea
+うみぼこ
 
 Cave mouth
-Cave mouth
+洞口
 
 river
-river
+川
 
 large  eucalyptus
-large  eucalyptus
+オオユーカリ
 
 root of the large eucalyptus
-root of the large eucalyptus
+独活の根
 
 tree hole tunnel
-tree hole tunnel
+ツリーホールトンネル
 
 tree hole mouth
-tree hole mouth
+木孔口
 
 Hovering Wooden Ladder
-Hovering Wooden Ladder
+ホバリング ウッド ラダー
 
 lacquer tree
-lacquer tree
+漆の木
 
 Parasitic vine
-Parasitic vine
+寄生虫の蔓
 
 parasitic root
-parasitic root
+寄生根
 
 banyan trunk
-banyan trunk
+バンヤン・トランク
 
 banyan root
-banyan root
+榕樹の根
 
 Poison Swamp
-Poison Swamp
+ポイズンスワンプ
 
 mud
-mud
+泥
 
 tree top
-tree top
+樹上
 
 tree branch
-tree branch
+木枝
 
 turkey mountain
-turkey mountain
+ターキー・マウンテン
 
 weathered rock
-weathered rock
+風化岩
 
 halfway up the mountain
-halfway up the mountain
+ちゅうげん
 
 mountain fissure
-mountain fissure
+やまぶき
 
 narrow road
-narrow road
+ほそ道
 
 earth wall
-earth wall
+土壁
 
 house
-house
+家
 
 collapsed earth wall
-collapsed earth wall
+土壁
 
 collapsed wooden wall
-collapsed wooden wall
+倒壊した木造の壁
 
 dry well
-dry well
+乾きやすい
 
 back hallway
-back hallway
+うらがわ
 
 bed
-bed
+ベッド
 
 ancient clock
-ancient clock
+古時計
 
 closet
-closet
+クローゼット
 
 ocean
-ocean
+オーシャン
 
 Great Trench
-Great Trench
+グレートトレンチ
 
 Crystal Palace
-Crystal Palace
+クリスタル・パレス
 
 cobblestone path
-cobblestone path
+石畳の道
 
 Coral island
-Coral island
+コーラルアイランド
 
 back hall
-back hall
+バックホール
 
 central hall
-central hall
+中央ホール
 
 side hall
-side hall
+かいかん
 
 Blood sucking tree
-Blood sucking tree
+吸血樹
 
 broken sand
-broken sand
+砕砂
 
 bloodstone
-bloodstone
+血石
 
 weeds
-weeds
+雑草
 
 Burial Ground
-Burial Ground
+埋葬地
 
 grave bag
-grave bag
+グレイバッグ
 
 dead woods
-dead woods
+古木
 
 dead leaf forest
-dead leaf forest
+枯葉樹林
 
 gravel
-gravel
+グラベル
 
 doorway of the blood red castle
-doorway of the blood red castle
+血塗られた城の扉
 
 blood red castle
-blood red castle
+赤城
 
 main hall
-main hall
+メインロビー
 
 Gobi
-Gobi
+ゴビ
 
 desert
-desert
+砂漠
 
 oasis
-oasis
+オアシス
 
 Populus euphratica
-Populus euphratica
+胡楊樹
 
 desert exit
-desert exit
+砂漠の出口
 
 quicksand whirlpool
-quicksand whirlpool
+スクイーズシャワー
 
 ice pine
-ice pine
+アイスパイン
 
 iceberg
-iceberg
+氷山
 
 ice wall
-ice wall
+氷壁
 
 Ice Palace
-Ice Palace
+氷の宮殿
 
 side hall
-side hall
+かいかん
 
 mirrored hallway
-mirrored hallway
+鏡面廊下
 
 ice brick steps
-ice brick steps
+氷煉瓦階段
 
 central cave
-central cave
+ちゅうおうどう
 
 center pit
-center pit
+センターピット
 
 Entrance to the pool
-Entrance to the pool
+プールへの入り口
 
 torch
-torch
+トーチ
 
 hallway
-hallway
+廊下
 
 central fortress
-central fortress
+てんきょういん
 
 steps handrail
-steps handrail
+階段の手すり
 
 laboratory
-laboratory
+研究室
 
 energy storage room
-energy storage room
+エネルギー貯蔵室
 
 power room
-power room
+パワールーム
 
 energy delivery pipe
-energy delivery pipe
+エネルギー供給パイプ
 
 Magic Research Laboratory
-Magic Research Laboratory
+マジック研究室
 
 Magic Item Storage Room
-Magic Item Storage Room
+マジックアイテム保管室
 
 Liaison Room
-Liaison Room
+リエゾンルーム
 
 monitoring room
-monitoring room
+監視室
 
 Robot warehouse
-Robot warehouse
+ロボット倉庫
 
 monster training room
-monster training room
+怪獣調教室
 
 showroom
-showroom
+ショールーム
 
 guard house
-guard house
+ばんしょ
 
 Machine production room
-Machine production room
+機械製造室
 
 exhibition room
-exhibition room
+展示室
 
 escalator
-escalator
+エスカレーター
 
 platform of the escalator
-platform of the escalator
+エスカレーターのプラットフォーム
 
 escalator entrance
-escalator entrance
+エスカレーター口
 
 machine training ground
-machine training ground
+けいこば
 
 Machine production room
-Machine production room
+機械製造室
 
 energy reaction pit
-energy reaction pit
+エネルギー反応場
 
 energy delivery port
-energy delivery port
+エネルギー供給ポート
 
 energy delivery table
-energy delivery table
+エネルギーデリバリーテーブル
 
 petri dish
-petri dish
+ペトリ皿
 
 parts making machine
-parts making machine
+部品製造機
 
 main control room
-main control room
+中央制御室
 
 Thunder Mountain
-Thunder Mountain
+サンダー・マウンテン
 
 Monster Mountain
-Monster Mountain
+モンスター・マウンテン
 
 Thunder Dragon Mountain
-Thunder Dragon Mountain
+雷龍山
 
 wilderness
-wilderness
+荒れ地
 
 Crescent Moon Spring
-Crescent Moon Spring
+三日月の春
 
 attic
-attic
+屋根裏部屋
 
 dark shrine
-dark shrine
+暗黒街
 
 ancient well
-ancient well
+古井戸
 
 Pure Land Temple
-Pure Land Temple
+浄土宗寺院
 
 Dead Water Temple
-Dead Water Temple
+デッドウォーターテンプル
 
 Dark Flame Temple
-Dark Flame Temple
+ダークフレイムテンプル
 
 Evil Wind Temple
-Evil Wind Temple
+邪宗門寺院
 
 stone pillar
-stone pillar
+石柱
 
 bonfire
-bonfire
+焚き火
 
 black quagmire
-black quagmire
+くろぬま
 
 turning place
-turning place
+紆余曲折
 
 sacrificial hall
-sacrificial hall
+斎場
 
 south gate of the cell
-south gate of the cell
+南門
 
 barrack
-barrack
+バラック
 
 Brute Valley Entrance
-Brute Valley Entrance
+ブルートバレー入口
 
 Stone Ladder of the well
-Stone Ladder of the well
+井戸の石梯子
 
  Granary doorway
- Granary doorway
+穀倉の扉口
 
 northern town
-northern town
+北方都市
 
 breezy Village
-breezy Village
+ブリージービレッジ
 
 Entrance to Takama Desert
-Entrance to Takama Desert
+高間砂漠の入り口
 
 Entrance to Karst cave
-Entrance to Karst cave
+カルスト洞窟の入り口
 
 Entrance to Fred  Forest
-Entrance to Fred  Forest
+フレッド・フォレスト入口
 
 main entrance of the shrine
-main entrance of the shrine
+正門
 
 south entrance  of the town
-south entrance  of the town
+南口
 
 north entrance  of the town
-north entrance  of the town
+北口
 
 main hall entrance
-main hall entrance
+正門
 
 Butterfly Valley
-Butterfly Valley
+バタフライバレー
 
 entrance to beauty of river and mountain
-entrance to beauty of river and mountain
+かわとやまのぶくろ
 
 Entrance to Wolfe Prairie
-Entrance to Wolfe Prairie
+ウォルフ・プレーリーへの入り口
 
 underground entrance
-underground entrance
+地下道
 
 Entrance to Abundant green hills
-Entrance to Abundant green hills
+緑豊かな丘への入り口
 
 back to the ground
-back to the ground
+土に還る
 
 Cable Car; to Lifting Platform No. 1
-Cable Car; to Lifting Platform No. 1
+ケーブルカー、1号昇降機まで
 
 Cable car; to Tulip City
-Cable car; to Tulip City
+ケーブルカー、チューリップシティへ
 
 Cable car; to holy blood city
-Cable car; to holy blood city
+ケーブルカー、聖なる血の街へ
 
 spy base
-spy base
+スパイベース
 
 doorway of room
-doorway of room
+まどぐち
 
 Demon Banner
-Demon Banner
+デモンズバナー
 
 brave Valley
-brave Valley
+ブレイズバレー
 
 Wisdom Forest
-Wisdom Forest
+知恵の森
 
 Wisdom Cabin; Wisdom Forest
-Wisdom Cabin; Wisdom Forest
+ウィズダム・キャビン、ウィズダム・フォレスト
 
 Stone maze: Wisdom Forest
-Stone maze: Wisdom Forest
+石の迷路知恵の森
 
 Wisdom Cabin
-Wisdom Cabin
+ウィズダムキャビン
 
 deep in the diversion channel
-deep in the diversion channel
+よこちょう
 
 Entrance to Polson Wetland
-Entrance to Polson Wetland
+ポルソン湿地への入り口
 
 uphill road
-uphill road
+上り道
 
 Gale   Cave
-Gale   Cave
+ゲイルケイブ
 
 Wolf Prairie
-Wolf Prairie
+ウルフプレーリー
 
 underground cave
-underground cave
+地下洞窟
 
 stone gate of cave
-stone gate of cave
+石門
 
 west stairwell
-west stairwell
+西階段
 
 east stairwell
-east stairwell
+ひがしかいだん
 
 Stairwell No. 1
-Stairwell No. 1
+階段ホールNo.1
 
 Stairwell No. 2
-Stairwell No. 2
+階段ホールNo.2
 
 Stairwell No. 3
-Stairwell No. 3
+階段ホールNo.3
 
 Stairwell No. 4
-Stairwell No. 4
+階段ホールNo.4
 
 Stairwell No. 5
-Stairwell No. 5
+階段ホールNo.5
 
 Stairwell No. 6
-Stairwell No. 6
+第6階段
 
 Stairwell No. 7
-Stairwell No. 7
+階段ホールNo.7
 
 Stairwell No. 8
-Stairwell No. 8
+階段ホールNo.8
 
 Stairwell No. 9
-Stairwell No. 9
+階段ホールNo.9
 
 Stairwell No. 10
-Stairwell No. 10
+階段ホールNo.10
 
 Stairwell 11
-Stairwell 11
+階段室11
 
 Stairwell No. 12
-Stairwell No. 12
+階段ホールNo.12
 
 Stairwell 13
-Stairwell 13
+階段ホール13
 
 Stairwell No. 14
-Stairwell No. 14
+階段室No.14
 
 Stairwell No. 15
-Stairwell No. 15
+階段ホールNo.15
 
 Stairwell 16
-Stairwell 16
+ステアウェル16
 
 Stairwell No. 17
-Stairwell No. 17
+階段ホールNo.17
 
 Stairwell No. 18
-Stairwell No. 18
+階段室No.18
 
 Stairwell No. 19
-Stairwell No. 19
+階段ホールNo.19
 
 Stairwell No. 20
-Stairwell No. 20
+階段室No.20
 
 Passage doorway
-Passage doorway
+パサージュ・バイウェイ
 
 cellar exit
-cellar exit
+裏口
 
 doorway of vegetable cellar
-doorway of vegetable cellar
+藏口
 
 doorway of wine cellar
-doorway of wine cellar
+ワインセラー入口
 
 doorway of barracks
-doorway of barracks
+兵舎門
 
 doorway of parliament hall
-doorway of parliament hall
+議事堂の扉
 
 Domi Wasteland
-Domi Wasteland
+ドミ・ワストランド
 
 Entrance to Margit Rainforest
-Entrance to Margit Rainforest
+マーギット熱帯雨林の入り口
 
 Oaks Tribe
-Oaks Tribe
+オークス・トライブ
 
 Cable Car; to lifting platform No. 2
-Cable Car; to lifting platform No. 2
+ケーブルカー、2号昇降機まで
 
 Cable car; to Giant Rock City
-Cable car; to Giant Rock City
+ケーブルカー：ジャイアント・ロック・シティへ
 
 North Mountain Plantation
-North Mountain Plantation
+ノースマウンテン・プランテーション
 
 deep in the cave
-deep in the cave
+洞窟奥深く
 
 entrance to Domi wasteland
-entrance to Domi wasteland
+ドミトリー荒地入口
 
 ranch gate
-ranch gate
+ランチ・ゲート
 
 Entrance to Glorious Grassland
-Entrance to Glorious Grassland
+グロリアスグラースランドへの入り口
 
 Entrance to Dark pit City
-Entrance to Dark pit City
+ダークピットシティーの入り口
 
 Stone Cliff Village
-Stone Cliff Village
+ストーン・クリフ・ビレッジ
 
 Rogue Camp
-Rogue Camp
+ローグ・キャンプ
 
 doorway of Holy See
-doorway of Holy See
+しょうこくしゅもん
 
 Entrance to Flaming Mountain
-Entrance to Flaming Mountain
+火焔山への入り口
 
 Entrance to skeleton Basin
-Entrance to skeleton Basin
+スケルトンベイスンへの入り口
 
 Cable Car; to lifting platform No. 3
-Cable Car; to lifting platform No. 3
+ケーブルカー、3号昇降機まで
 
 Stonehelm Outpost
-Stonehelm Outpost
+ストーンヘルム前哨基地
 
 gouging knife city
-gouging knife city
+ガウジング・ナイフ・シティ
 
 Outpost North Gate
-Outpost North Gate
+アウトポスト北門
 
 Outpost West Gate
-Outpost West Gate
+アウトポスト西ゲート
 
 Entrance to Magnet Hill
-Entrance to Magnet Hill
+マグネットヒルの入り口
 
 Outpost South Gate
-Outpost South Gate
+アウトポスト南門
 
 Outpost East Gate
-Outpost East Gate
+アウトポスト東ゲート
 
 Entrance to Devil's Valley
-Entrance to Devil's Valley
+デビルズバレーへの入り口
 
 Camp South Gate
-Camp South Gate
+キャンプ・サウスゲート
 
 Camp West Gate
-Camp West Gate
+キャンプ・ウエストゲート
 
 Camp North Gate
-Camp North Gate
+キャンプ・ノースゲート
 
 Camp East Gate
-Camp East Gate
+キャンプ・イーストゲート
 
 doorway of temple
-doorway of temple
+堂塔
 
 night sky plain
-night sky plain
+やけのはら
 
 black forest
-black forest
+黒森峰
 
 secret room underground
-secret room underground
+地下の密室
 
 crystal ball
-crystal ball
+水晶玉
 
 graceful Lake
-graceful Lake
+ゆうすげの湖
 
 Tranquil River estuary
-Tranquil River estuary
+静かな川の河口
 
 Entrance to Central Plains
-Entrance to Central Plains
+中央平原への入り口
 
 Entrance to Tuneful Wetland
-Entrance to Tuneful Wetland
+チューンフルウエットランド入口
 
 water curtain cave
-water curtain cave
+水幕洞
 
 inland sea
-inland sea
+内海
 
 river bend
-river bend
+かわかぜ
 
 Hanging bell
-Hanging bell
+吊り下げ式ベル
 
 entrance to graceful Lake
-entrance to graceful Lake
+優美な湖への入り口
 
 entrance to open sea
-entrance to open sea
+海口
 
 Entrance to the dark river cave
-Entrance to the dark river cave
+暗黒川洞窟の入り口
 
 upper floor of Villa
-upper floor of Villa
+ヴィラの上階
 
 Lower floor  of villa
-Lower floor  of villa
+別荘の下層階
 
 Nepeta
-Nepeta
+ネペタ
 
 gear 1
-gear 1
+ギア1
 
 earth array
-earth array
+アースアレイ
 
 water array
-water array
+ジオラマ
 
 fire array
-fire array
+かえんほうしゃ
 
 wind array
-wind array
+風力発電装置
 
 center maze
-center maze
+センターメイズ
 
 Baru Stone Room
-Baru Stone Room
+バル・ストーン・ルーム
 
 Inland Sea entrance
-Inland Sea entrance
+瀬戸内海の入り口
 
 hay cutter
-hay cutter
+刈り払い機
 
 golf villa
-golf villa
+ゴルフ・ヴィラ
 
 pig head stone
-pig head stone
+天狗石
 
 Evergreen Valley
-Evergreen Valley
+エバーグリーンバレー
 
 tree Valley
-tree Valley
+ツリーバレー
 
 flower Valley
-flower Valley
+フラワーバレー
 
 grass Valley
-grass Valley
+グラスバレー
 
 North of Colorful Valley
-North of Colorful Valley
+カラフルバレーの北側
 
 South of Colorful Valley
-South of Colorful Valley
+カラフルバレーの南側
 
 hidden water cave
-hidden water cave
+穴蔵
 
 Entrance to High climbing grassland
-Entrance to High climbing grassland
+ハイクライミング草原への入り口
 
 Entrance  of hidden water cave
-Entrance  of hidden water cave
+秘湯の洞窟の入り口
 
 Entrance to Valley of Luxuriant forests
-Entrance to Valley of Luxuriant forests
+森の谷の入り口
 
 Herbs Village
-Herbs Village
+ハーブビレッジ
 
 Verdant Valley
-Verdant Valley
+バーダントバレー
 
 Sapphire Valley
-Sapphire Valley
+サファイアバレー
 
 branch
-branch
+枝
 
 floor 1
-floor 1
+フロア1
 
 floor 2
-floor 2
+2階
 
 floor 3
-floor 3
+フロア3
 
 floor 4
-floor 4
+フロア4
 
 floor 5
-floor 5
+フロア5
 
 to Lifting No. 1
-to Lifting No. 1
+をリフティングNo.1へ
 
 to Lifting No. 2
-to Lifting No. 2
+をリフティングNo.2へ
 
 to Lifting No. 3
-to Lifting No. 3
+をリフティングNo.3へ
 
 Entrance to Ancient Ruins
-Entrance to Ancient Ruins
+古代遺跡の入り口
 
 Entrance to South mining area
-Entrance to South mining area
+南鉱区の入り口
 
 Cable Car No. 1
-Cable Car No. 1
+ケーブルカー1号
 
 Cable Car No. 2
-Cable Car No. 2
+ケーブルカーNo.2
 
 Entrance to West mining area
-Entrance to West mining area
+西側鉱区の入り口
 
 Cable Car No. 3
-Cable Car No. 3
+ケーブルカー3号
 
 doorway of main cemetery
-doorway of main cemetery
+本堂口
 
 doorway of the ear room
-doorway of the ear room
+みみのあずまや
 
 doorway of Energy room
-doorway of Energy room
+エネルギールームの扉
 
 doorway of the research room
-doorway of the research room
+研究室の入り口
 
 doorway of storage room
-doorway of storage room
+収納庫の扉
 
 slump zone
-slump zone
+スランプゾーン
 
 City of the Ancient tower
-City of the Ancient tower
+古代の塔の街
 
 entrance to underground mine
-entrance to underground mine
+坑口
 
 doorway of West Guard Hall
-doorway of West Guard Hall
+西衛門の戸口
 
 doorway of East Guard Hall
-doorway of East Guard Hall
+東衛門の戸口
 
 doorway of Guardian Temple
-doorway of Guardian Temple
+守護神殿の扉
 
 fortress gate
-fortress gate
+砦門
 
 Sarcophagus under stone beams
-Sarcophagus under stone beams
+石梁の下の石棺
 
 Ghost Cave; die instantly; When falling to death, do not use the resurrection crystal to revive in situ
-Ghost Cave; die instantly; When falling to death, do not use the resurrection crystal to revive in situ
+ゴーストケイブ、即死、倒れたときに復活のクリスタルでその場で復活させない
 
 prison gate
-prison gate
+獄門
 
 Pentagram Altar
-Pentagram Altar
+五芒星（ごぼうせい）祭壇
 
 East Gate of the Hospital
-East Gate of the Hospital
+病院東門
 
 West Gate of the Hospital
-West Gate of the Hospital
+病院西門
 
 East gate of the school
-East gate of the school
+学校東門
 
 West gate of the school
-West gate of the school
+学校西門
 
 doorway of the house
-doorway of the house
+家の戸口
 
 Hotel entrance
-Hotel entrance
+ホテル入口
 
 store entrance
-store entrance
+店先
 
 East Sealing Tower
-East Sealing Tower
+イースト・シーリング・タワー
 
 West Sealing Tower
-West Sealing Tower
+西側封鎖塔
 
 stone pier
-stone pier
+石桟橋
 
 collapse channel
-collapse channel
+崩壊チャネル
 
 jungle road
-jungle road
+ジャングルロード
 
 Cathedral of Darkness
-Cathedral of Darkness
+カテドラル オブ ダークネス
 
 dark library
-dark library
+ダークライブラリー
 
 Dark Arsenal
-Dark Arsenal
+ダークアーセナル
 
 dark monastery
-dark monastery
+暗黒の僧院
 
 gate of the monastery
-gate of the monastery
+修道院の門
 
 Orc Cave
-Orc Cave
+オークの洞窟
 
 Legacy Chamber of Secrets
-Legacy Chamber of Secrets
+レガシー・チェンバー・オブ・シークレット
 
 red banner
-red banner
+朱印状
 
 blue banner
-blue banner
+ブルーバナー
 
 railing gap
-railing gap
+てんじょうさじき
 
 North Gate of Cabin No.1
-North Gate of Cabin No.1
+1号館北門
 
 South Gate of Cabin No.1
-South Gate of Cabin No.1
+1号館南門
 
 South Gate of Cabin No.2
-South Gate of Cabin No.2
+第2キャビン南門
 
 North Gate of Cabin No.2
-North Gate of Cabin No.2
+2号館北門
 
 North Gate of Cabin No.3
-North Gate of Cabin No.3
+3号館北門
 
 South Gate of Cabin No.3
-South Gate of Cabin No.3
+第3キャビン南門
 
 doorway of the cabin
-doorway of the cabin
+船室の扉
 
 mountains
-mountains
+山岳
 
 Willows Villa
-Willows Villa
+ウィローズ ヴィラ
 
 bright peak
-bright peak
+赫峰
 
 back to map 1
-back to map 1
+1の地図に戻る
 
 inner hall
-inner hall
+内殿
 
 Outer hall
-Outer hall
+外装ホール
 
 Northwest of Herbal Garden
-Northwest of Herbal Garden
+ハーバルガーデン北西部
 
 Northeast of Herbal  Garden
-Northeast of Herbal  Garden
+ハーバルガーデン北東部
 
 East of Herbal  Garden
-East of Herbal  Garden
+ハーバルガーデンの東側
 
 central of Herbal  Garden
-central of Herbal  Garden
+ハーバルガーデン中央
 
 West of Herbal  Garden
-West of Herbal  Garden
+ハーバルガーデンの西側
 
 Southwest of Herbal   Garden
-Southwest of Herbal   Garden
+ハーバルガーデンの南西
 
 South of Herbal  Garden
-South of Herbal  Garden
+ハーバルガーデンの南側
 
 Southeast of Herbal   Garden
-Southeast of Herbal   Garden
+ハーバルガーデンの南東
 
 North of Herbal  Garden
-North of Herbal  Garden
+ハーバルガーデン北側
 
 tree hole 1
-tree hole 1
+ツリーホール1
 
 tree hole 2
-tree hole 2
+ツリーホール2
 
 tree hole 3
-tree hole 3
+ツリーホール3
 
 tree hole 4
-tree hole 4
+ツリーホール4
 
 tree hole 5
-tree hole 5
+ツリーホール5
 
 tree hole 6
-tree hole 6
+ツリーホール6
 
 tree hole 7
-tree hole 7
+ツリーホール7
 
 tree hole 8
-tree hole 8
+ツリーホール8
 
 grass and insects
-grass and insects
+草莽崛起
 
 church hall
-church hall
+教会堂
 
 garden
-garden
+庭園
 
 ancient building
-ancient building
+旧館
 
 Ghost Canyon
-Ghost Canyon
+ゴーストキャニオン
 
 cave
-cave
+洞窟
 
 peach orchard Village
-peach orchard Village
+ピーチ・オーチャード・ヴィレッジ
 
 doorway of Grocery store
-doorway of Grocery store
+八百屋の戸口
 
 North of the Blackwater
-North of the Blackwater
+ブラックウォーターの北
 
 East of the Blackwater
-East of the Blackwater
+ブラックウォーターの東
 
 South of the Blackwater
-South of the Blackwater
+ブラックウォーターの南
 
 West of the Blackwater
-West of the Blackwater
+ブラックウォーターの西
 
 north of the magma field
-north of the magma field
+マグマだちの北
 
 east of the magma field
-east of the magma field
+イースト・オブ・マグマ・フィールド
 
 south of the magma field
-south of the magma field
+マグマ場の南側
 
 west of the magma field
-west of the magma field
+西のマグマだ
 
 Abyss Domain
-Abyss Domain
+アビスドメイン
 
 Northwest of the Blackwater
-Northwest of the Blackwater
+ブラックウォーター北西部
 
 Northeast of the Blackwater
-Northeast of the Blackwater
+ブラックウォーターの北東
 
 Southeast of the Blackwater
-Southeast of the Blackwater
+ブラックウォーターの南東
 
 Southwest of the Blackwater
-Southwest of the Blackwater
+ブラックウォーターの南西
 
 Southwest of the magma field
-Southwest of the magma field
+マグマフィールドの南西部
 
 Southeast of the magma field
-Southeast of the magma field
+マグマフィールドの南東部
 
 Northwest of the magma field
-Northwest of the magma field
+マグマフィールドの北西部
 
 Northwest
-Northwest
+ノースウェスト
 
 north
-north
+ノース
 
 northeast
-northeast
+北東
 
 west
-west
+ウエスト
 
 Central
-Central
+中央
 
 east
-east
+イースト
 
 Southwest
-Southwest
+サウスウェスト
 
 south
-south
+南
 
 Southeast
-Southeast
+南東
 
 entrance to corpse cave
-entrance to corpse cave
+屍窟入口
 
 Bruder Cave
-Bruder Cave
+ブラザーケイブ
 
 Mario Basin
-Mario Basin
+マリオ・ベイスン
 
 cannibal cave
-cannibal cave
+人食い洞窟
 
 central plains
-central plains
+ちゅうふくや
 
 Fertile Wilds
-Fertile Wilds
+肥沃な原野
 
 Entrance to Carter Plain
-Entrance to Carter Plain
+カーター平原への入り口
 
 Entrance to Fertile Wilds
-Entrance to Fertile Wilds
+ファーティルワイルズへの入り口
 
 sailing port
-sailing port
+航行港
 
 Entrance to Marion Sea
-Entrance to Marion Sea
+マリオンの海への入り口
 
 center
-center
+センター
 
 Entrance to Carter tribe
-Entrance to Carter tribe
+カーター部落の入り口
 
 abandoned factory
-abandoned factory
+廃工場
 
 Entrance to Tuneful Wetland
-Entrance to Tuneful Wetland
+チューンフルウエットランド入口
 
 upper stairs
-upper stairs
+上段
 
 second floor of the factory
-second floor of the factory
+工場2階
 
 broken window
-broken window
+割れ窓
 
 lower stairs
-lower stairs
+下段
 
 top floor of the factory
-top floor of the factory
+工場最上階
 
 mysterious tomb
-mysterious tomb
+奇譚
 
 second floor underground
-second floor underground
+地下二階
 
 upper floor of the tomb
-upper floor of the tomb
+陵の上階
 
 third floor underground
-third floor underground
+地下3階
 
 Entrance to hilly terrain
-Entrance to hilly terrain
+丘陵地の入り口
 
 Entrance to Flame Cave
-Entrance to Flame Cave
+フレイムケイブの入り口
 
 entrance to volcanic cave
-entrance to volcanic cave
+火山洞門
 
 finger Cave
-finger Cave
+フィンガーケイブ
 
 Reef Cave
-Reef Cave
+リーフケイブ
 
 deep in the cave
-deep in the cave
+洞窟奥深く
 
 sailing port
-sailing port
+航行港
 
 reef cave
-reef cave
+せっくつ
 
 entrance to secluded valley
-entrance to secluded valley
+幽谷の入り口
 
 Entrance to the cave
-Entrance to the cave
+洞窟の入り口
 
 upper exit
-upper exit
+上口
 
 Lower exit
-Lower exit
+下部出口
 
 old tree under mountain
-old tree under mountain
+山下老木
 
 entrance to black wasteland
-entrance to black wasteland
+ブラックリストへの入り口
 
 old house
-old house
+古家
 
 High climbing grassland
-High climbing grassland
+高登山草原
 
 Blood Wasteland
-Blood Wasteland
+ブラッド・ウェイストランド
 
 western gobi
-western gobi
+西ゴビ
 
 central desert
-central desert
+中原砂漠
 
 Eastern desert
-Eastern desert
+東部砂漠
 
 Entrance to Mario Basin
-Entrance to Mario Basin
+マリオベイスンへの入り口
 
 Underground Wormhole
-Underground Wormhole
+地下のワームホール
 
 ice cave entrance
-ice cave entrance
+氷の洞門
 
 Earles Palace
-Earles Palace
+アールズパレス
 
 lower palace
-lower palace
+下殿
 
 doorway of the palace
-doorway of the palace
+内玄関
 
 rolling mountain cave
-rolling mountain cave
+しょうてんけんどう
 
 upper palace
-upper palace
+大宮殿
 
 Throne Gem
-Throne Gem
+スローンジェム
 
 torche on the wall
-torche on the wall
+壁掛けトーチ
 
 west gate of the fortress
-west gate of the fortress
+西門
 
 East Gate of the fortress
-East Gate of the fortress
+要塞の東門
 
 North Gate of the fortress
-North Gate of the fortress
+要塞の北門
 
 South Gate of the fortress
-South Gate of the fortress
+要塞の南門
 
 go to the upper level
-go to the upper level
+上層に行く
 
 return to lower level
-return to lower level
+低レベルに戻る
 
 Thunder Cave
-Thunder Cave
+雷の洞窟
 
 upper entrance
-upper entrance
+上口
 
 Entrance to secluded valley
-Entrance to secluded valley
+静かな渓谷の入り口
 
 black wasteland
-black wasteland
+黒土
 
 Chasing Star Pavilion
-Chasing Star Pavilion
+チェイシング・スター・パビリオン
 
 down stairs
-down stairs
+かいか
 
 Temple Dungeon
-Temple Dungeon
+テンプルダンジョン
 
 lower of the temple
-lower of the temple
+じしゅ
 
 up stairs
-up stairs
+かいじょう
 
 mist gods Ruins
-mist gods Ruins
+霧の神々の遺跡
 
 Dream Barrier
-Dream Barrier
+ドリームバリア
 
 Dream Palace
-Dream Palace
+ドリームパレス
 
 Broken Idol
-Broken Idol
+ブロークンアイドル
 
 Control Monster C1 of 4
-Control Monster C1 of 4
+コントロールモンスター C1 of 4
 
 Southwest turn; slope
-Southwest turn; slope
+南西ターン、スロープ
 
 Northwest turn; slope
-Northwest turn; slope
+北西ターン、スロープ
 
 Southeast turn; slope
-Southeast turn; slope
+南東ターン、スロープ
 
 Northeast turn; slope
-Northeast turn; slope
+北東ターン、スロープ
 
 Dark Demon Tower
-Dark Demon Tower
+ダーク・デーモン・タワー
 
 Wasteland
-Wasteland
+荒れ地
 
 Side wall
-Side wall
+サイドウォール
 
 spectre wilderness
-spectre wilderness
+魔界の荒野
 
 Sunset City
-Sunset City
+サンセットシティ
 
 Giant Rock City
-Giant Rock City
+ジャイアント・ロック・シティ
 
 mettle village
-mettle village
+肥後村
 
 starlight Village
-starlight Village
+スターライトビレッジ
 
 White Sand City
-White Sand City
+白砂の街
 
 Tulip City
-Tulip City
+チューリップシティ
 
 Aria Village
-Aria Village
+アリアビレッジ
 
 Tucana Village
-Tucana Village
+トゥカナ・ビレッジ
 
 Moon City
-Moon City
+ムーンシティ
 
 holy blood city
-holy blood city
+血の都
 
 Gouging knife City
-Gouging knife City
+ガウジングナイフシティ
 
 East Lake Village
-East Lake Village
+イーストレイクビレッジ
 
 Violet City
-Violet City
+バイオレットシティ
 
 dark night City
-dark night City
+暗夜都市
 
 sunless camp
-sunless camp
+サンレスキャンプ
 
 Soul Burial Village
-Soul Burial Village
+魂魄村
 
 Orchid woods Village
-Orchid woods Village
+オーキッドウッド村
 
 Hermit Camp
-Hermit Camp
+ハーミット・キャンプ
 
 Garlic Village
-Garlic Village
+ニンニクの里
