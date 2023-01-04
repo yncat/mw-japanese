@@ -1,3944 +1,3944 @@
 Warrior
-Warrior
+戦士
 
 Orc
-Orc
+オーク
 
 Assassin
-Assassin
+アサシン
 
 Hunter
-Hunter
+ハンター
 
 Mage
-Mage
+メイジ
 
 Elf
-Elf
+エルフ
 
 Priest
-Priest
+プリースト
 
 Sorcerer
-Sorcerer
+ソーサラー
 
 Sorceress
-Sorceress
+ソーサレス
 
 Frog
-Frog
+カエル
 
 Beetle
-Beetle
+カブトムシ
 
 Golden Rooster
-Golden Rooster
+ゴールデンルースター
 
 Duck
-Duck
+ダック
 
 Donkey
-Donkey
+ドンキー
 
 Goat
-Goat
+ヤギ
 
 Steed
-Steed
+スティード
 
 Cattle
-Cattle
+牛
 
 Shorthair Cat
-Shorthair Cat
+短毛猫
 
 Hound
-Hound
+ハウンド
 
 Curly Cat
-Curly Cat
+カーリーキャット
 
 Shepard Dog
-Shepard Dog
+シェパード・ドッグ
 
 Parrot
-Parrot
+オウム
 
 Lizard
-Lizard
+リザード
 
 Monkey
-Monkey
+モンキー
 
 Wild Eagle
-Wild Eagle
+ワイルドイーグル
 
 Hippo
-Hippo
+ヒッポ
 
 Boar
-Boar
+ボア
 
 Elephant
-Elephant
+エレファント
 
 Brown Bear
-Brown Bear
+ブラウン・ベア
 
 Snow Wolf
-Snow Wolf
+スノーウルフ
 
 Lion
-Lion
+ライオン
 
 Cheetah
-Cheetah
+チーター
 
 Tiger
-Tiger
+タイガー
 
 Pixie
-Pixie
+ピクシー
 
 Sprite
-Sprite
+スプライト
 
 Goblin
-Goblin
+ゴブリン
 
 Slime
-Slime
+スライム
 
 Wild Frog
-Wild Frog
+ワイルドフロッグ
 
 Wild Beetle
-Wild Beetle
+野生のカブトムシ
 
 Wild Golden Rooster
-Wild Golden Rooster
+ワイルド・ゴールデン・ルースター
 
 Wild Duck
-Wild Duck
+ワイルドダック
 
 Wild Donkey
-Wild Donkey
+ワイルド・ドンキー
 
 Wild Goat
-Wild Goat
+ワイルドゴート
 
 Wild Steed
-Wild Steed
+ワイルドスティード
 
 Wild Cattle
-Wild Cattle
+ワイルドキャトル
 
 Wild Shorthair Cat
-Wild Shorthair Cat
+ワイルドショートヘアキャット
 
 Wild Hound
-Wild Hound
+ワイルドハウンド
 
 Wild Curly Cat
-Wild Curly Cat
+ワイルドカーリーキャット
 
 Wild Shepard Dog
-Wild Shepard Dog
+ワイルド・シェパード・ドッグ
 
 Wild Parrot
-Wild Parrot
+ワイルドパロット
 
 Wild Lizard
-Wild Lizard
+ワイルド・リザード
 
 Wild Monkey
-Wild Monkey
+ワイルドモンキー
 
 Wild Hippo
-Wild Hippo
+ワイルドヒッポ
 
 Wild Boar
-Wild Boar
+イノシシ
 
 Wild Elephant
-Wild Elephant
+ワイルド・エレファント
 
 Wild Brown Bear
-Wild Brown Bear
+野生のヒグマ
 
 Wild Snow Wolf
-Wild Snow Wolf
+ワイルド・スノー・ウルフ
 
 Wild Lion
-Wild Lion
+ワイルドライオン
 
 Wild Cheetah
-Wild Cheetah
+ワイルドチーター
 
 Wild Tiger
-Wild Tiger
+ワイルドタイガー
 
 Ice Tiger
-Ice Tiger
+アイスタイガー
 
 Night Cat
-Night Cat
+ナイトキャット
 
 Cherub
-Cherub
+ケルビム
 
 portal
-portal
+ポータル
 
 Totem
-Totem
+トーテム
 
 treasure chest
-treasure chest
+宝箱
 
 village chief Radome
-village chief Radome
+ラドーム村長
 
 Master Arthur
-Master Arthur
+マスター・アーサー
 
 Blacksmith Oak
-Blacksmith Oak
+ブラックスミス・オーク
 
 Apothecary Mia
-Apothecary Mia
+アポセカリー ミア
 
 Celestial Elder
-Celestial Elder
+天空の長老
 
 guide villager
-guide villager
+村の案内人
 
 Master Katherine
-Master Katherine
+マスターキャサリン
 
 Master Taufan
-Master Taufan
+マスタータウファン
 
 Blacksmith Zalachi
-Blacksmith Zalachi
+鍛冶屋ザラチ
 
 Pharmacist Dani
-Pharmacist Dani
+薬剤師ダニ
 
 Shard Marketplace
-Shard Marketplace
+シャードマーケットプレイス
 
 Master Drunk
-Master Drunk
+マスタードランク
 
 Witch Saffy
-Witch Saffy
+ウィッチサフィー
 
 Guard Captain Martin
-Guard Captain Martin
+マーティン警備隊長
 
 Mayor Maureen
-Mayor Maureen
+モーリン少佐
 
 Citizen Kirk
-Citizen Kirk
+シチズン・カーク
 
 Chef Lee
-Chef Lee
+李シェフ
 
 Artificer Milena
-Artificer Milena
+アーティフィサー ミレーナ
 
 Girl hostage
-Girl hostage
+少女人質
 
 Priest Michelle
-Priest Michelle
+プリースト ミッシェル
 
 Angie
-Angie
+アンジー
 
 Chancellor Bren
-Chancellor Bren
+ブレン理事長
 
 citizen Jasmine
-citizen Jasmine
+市民ジャスミン
 
 Citizen Fanny
-Citizen Fanny
+シチズン・ファニー
 
 Granny Skycloth
-Granny Skycloth
+グラニースカイクロス
 
 Natasha
-Natasha
+ナターシャ
 
 Chun Li
-Chun Li
+チュン・リー
 
 Blacksmith Ou Yezi
-Blacksmith Ou Yezi
+鍛冶屋・翁家治
 
 Grocer John
-Grocer John
+食料品店ジョン
 
 Master Kakarotto
-Master Kakarotto
+マスターカカロット
 
 Master Elizabeth
-Master Elizabeth
+マスターエリザベス
 
 Master Pepper
-Master Pepper
+マスターペッパー
 
 Weapon Merchant Gordon
-Weapon Merchant Gordon
+武器商人ゴードン
 
 Bank receptionist Tamara
-Bank receptionist Tamara
+銀行受付のタマラ
 
 Pet Trainer Granny Shen
-Pet Trainer Granny Shen
+ペットトレーナー・グラニー・シェン
 
 Potion Merchant Zoma
-Potion Merchant Zoma
+商人ゾーマポーション
 
 Camp Administrator Sudon
-Camp Administrator Sudon
+キャンプ管理者スドン
 
 Orc Dyson
-Orc Dyson
+オーク・ダイソン
 
 Master Macghee
-Master Macghee
+マスターマクギー
 
 Lord Garcina
-Lord Garcina
+ガルシナ卿
 
 Bank receptionist teleju
-Bank receptionist teleju
+銀行受付テレジュ
 
 Blacksmith Marisol
-Blacksmith Marisol
+鍛冶屋マリソル
 
 Grocer Lana
-Grocer Lana
+食料品店ラナ
 
 Weapon Merchant Claire
-Weapon Merchant Claire
+武器商人クレア
 
 Jewelry Merchant Yuna
-Jewelry Merchant Yuna
+ジュエリーマーチャント「ユナ
 
 Artificer ilana
-Artificer ilana
+アーティフィサー イラナ
 
 Pet Trainer Isabella
-Pet Trainer Isabella
+ペットトレーナー イザベラ
 
 Blacksmith Malcolm
-Blacksmith Malcolm
+鍛冶屋マルコム
 
 Elder Johanna
-Elder Johanna
+エルダー・ヨハンナ
 
 Blacksmith Senbei Norimaki
-Blacksmith Senbei Norimaki
+鍛冶屋仙兵衛則巻
 
 Armor Merchant Akizuki
-Armor Merchant Akizuki
+甲冑商人 秋月
 
 Master Federo
-Master Federo
+フェデロ様
 
 Pope Saxon
-Pope Saxon
+ポープサクソン
 
 Jewelry Merchant alpana
-Jewelry Merchant alpana
+ジュエリーマーチャント alpana
 
 Potion Merchant Magnus
-Potion Merchant Magnus
+マーチャントマグナスポーション
 
 Weapon Merchant Monchia
-Weapon Merchant Monchia
+武器商人モンチア
 
 Grocer Sam
-Grocer Sam
+グローサー・サム
 
 Artificer Ami
-Artificer Ami
+アーティフィサー・アミ
 
 Chef Kaguya Granny
-Chef Kaguya Granny
+シェフかぐやのおばあちゃん
 
 Bank receptionist Kaito
-Bank receptionist Kaito
+銀行受付嬢・海藤
 
 Master Galaxia
-Master Galaxia
+マスターギャラクシア
 
 Ecilian
-Ecilian
+エシリアン
 
 Blacksmith Zosia
-Blacksmith Zosia
+鍛冶屋ゾーシア
 
 Chef Aunt Sun
-Chef Aunt Sun
+サンおばさんシェフ
 
 Sister Mary
-Sister Mary
+シスターメアリー
 
 Master Shadow Killer
-Master Shadow Killer
+マスターシャドウキラー
 
 Lord Barakhe
-Lord Barakhe
+バラケ卿
 
 Potion Mona Lisa
-Potion Mona Lisa
+ポーションモナリザ
 
 Blacksmith Sanchi
-Blacksmith Sanchi
+鍛冶屋さんち
 
 lazy sheep
-lazy sheep
+懶惰な羊
 
 Bartender
-Bartender
+バーテンダー
 
 Nina
-Nina
+ニーナ
 
 Traveling Merchant
-Traveling Merchant
+旅する商人
 
 Hen
-Hen
+ヘン
 
 Rooster
-Rooster
+グリッド
 
 chick
-chick
+チック
 
 Grass Snake
-Grass Snake
+グラススネーク
 
 Giant Snake
-Giant Snake
+ジャイアントスネーク
 
 porcupine
-porcupine
+ヤマアラシ
 
 steel tooth pig
-steel tooth pig
+牙猪
 
 iron head pig
-iron head pig
+鉄頭巾
 
 Iron Paw Bear
-Iron Paw Bear
+アイアンポー・ベア
 
 Iron Armor Bear
-Iron Armor Bear
+アイアンアーマーベア
 
 guinea pig
-guinea pig
+ギニーピッグ
 
 chipmunk
-chipmunk
+シマリス
 
 mole
-mole
+モル
 
 man-eating rat
-man-eating rat
+たかりねずみ
 
 black bat
-black bat
+ブラックバット
 
 blood bat
-blood bat
+ブラッドバット
 
 Pig-Face Bat King
-Pig-Face Bat King
+ピッグフェイスバットキング
 
 green snake
-green snake
+翠蛇
 
 White Snake
-White Snake
+ホワイトスネーク
 
 Anaconda
-Anaconda
+アナコンダ
 
 Black Rat
-Black Rat
+ブラックラット
 
 White Rat
-White Rat
+ホワイトラット
 
 blowfly
-blowfly
+ふゆう
 
 Five-colored deer
-Five-colored deer
+五色鹿
 
 maroon horse
-maroon horse
+猩々緋
 
 Bullfinch
-Bullfinch
+ブルフィンチ
 
 Silver ring snake
-Silver ring snake
+シルバーリングスネーク
 
 Bactrian camel
-Bactrian camel
+双峰駱駝
 
 Alpaca
-Alpaca
+アルパカ
 
 vulture
-vulture
+ハゲタカ
 
 Golden eagle
-Golden eagle
+イヌワシ
 
 sand snake
-sand snake
+サンドスネーク
 
 Death Worm
-Death Worm
+デスワーム
 
 red armor Cattle
-red armor Cattle
+赤い鎧の牛
 
 seducing fox
-seducing fox
+貍
 
 black jackal
-black jackal
+くろへび
 
 Bloodfang Wolf
-Bloodfang Wolf
+ブラッドファング・ウルフ
 
 Sabertooth wolf
-Sabertooth wolf
+セイバートゥースウルフ
 
 white giant wolf
-white giant wolf
+しろおおかみ
 
 Man-wolf Caesar
-Man-wolf Caesar
+人狼シーザー
 
 Piebald mosquito
-Piebald mosquito
+パイバルト蚊
 
 slobber
-slobber
+涎を垂らす
 
 black leech
-black leech
+黒蛭
 
 Purple Toad
-Purple Toad
+パープルトード
 
 green bullfrog
-green bullfrog
+あおうみうし
 
 Mud Slime
-Mud Slime
+マッドスライム
 
 Shapeshifting Slime
-Shapeshifting Slime
+変身スライム
 
 Crested Penguin
-Crested Penguin
+クレステッドペンギン
 
 Ring Seal
-Ring Seal
+リングシール
 
 Sea Lion
-Sea Lion
+シーライオン
 
 Snow Leopard
-Snow Leopard
+スノーレパード
 
 White Bear
-White Bear
+ホワイト・ベア
 
 Ice Lizard
-Ice Lizard
+アイス・リザード
 
 Ice Queen Los
-Ice Queen Los
+アイスクイーン・ロス
 
 Blood Claw Cat
-Blood Claw Cat
+ブラッドクローキャット
 
 Lynx
-Lynx
+リンクス
 
 Leopard
-Leopard
+レオパード
 
 striped tiger
-striped tiger
+縞虎
 
 golden lion
-golden lion
+金獅子
 
 Wildcat Warrior
-Wildcat Warrior
+山猫の戦士
 
 wildcat shooter
-wildcat shooter
+やまねこシューター
 
 Cat King Carter
-Cat King Carter
+キャットキング・カーター
 
 zombie
-zombie
+ゾンビ
 
 mummy
-mummy
+ミイラ
 
 little zombie
-little zombie
+ゾンビちゃん
 
 ghoul
-ghoul
+グール
 
 three-headed dog
-three-headed dog
+三頭犬
 
 Pharaoh Tar
-Pharaoh Tar
+ファラオ・タール
 
 frog
-frog
+カエル
 
 water snake
-water snake
+ゆうだち
 
 Piranha
-Piranha
+ピラニア
 
 Inland sea monster
-Inland sea monster
+インランド・シー・モンスター
 
 Giant Crocodile
-Giant Crocodile
+ジャイアントクロコダイル
 
 sea monster
-sea monster
+海坊主
 
 Gnome
-Gnome
+ノーム
 
 Dwarf elf
-Dwarf elf
+ドワーフエルフ
 
 Dark elf
-Dark elf
+ダークエルフ
 
 Dwarf
-Dwarf
+ドワーフ
 
 Gnome Leader
-Gnome Leader
+ノームリーダー
 
 Goblin Leader
-Goblin Leader
+ゴブリンリーダー
 
 Dwarf elf elder
-Dwarf elf elder
+ドワーフ・エルフ長老
 
 Dark Elf Leader
-Dark Elf Leader
+ダークエルフリーダー
 
 dwarf leader
-dwarf leader
+小首領
 
 Elven King Erth
-Elven King Erth
+エルフの王エルス
 
 flame chicken
-flame chicken
+フラムチキン
 
 Flame Fox
-Flame Fox
+フレイムフォックス
 
 Flaming Wolf
-Flaming Wolf
+フレイムウルフ
 
 Chasing Leopard
-Chasing Leopard
+ヒョウを追って
 
 Thunder Tiger
-Thunder Tiger
+サンダー・タイガー
 
 Dark Flame Dragon
-Dark Flame Dragon
+ダークフレイムドラゴン
 
 Giant Fire Dog
-Giant Fire Dog
+ジャイアント・ファイヤー・ドッグ
 
 Fire Lord Balrog
-Fire Lord Balrog
+ファイヤーロードバルログ
 
 Gophers
-Gophers
+ゴーファーズ
 
 miner zombie
-miner zombie
+ミネラルゾンビ
 
 Split Slime
-Split Slime
+スプリットスライム
 
 Maid Leliya
-Maid Leliya
+メイドレリーヤ
 
 maid mohani
-maid mohani
+メイドモハーニ
 
 Zombie Priest
-Zombie Priest
+ゾンビプリースト
 
 green-winged fly
-green-winged fly
+緑蠅
 
 Bumblebee
-Bumblebee
+バンブルビー
 
 plum sparrow
-plum sparrow
+梅雀
 
 rattlesnake
-rattlesnake
+ガラガラヘビ
 
 golden monkey
-golden monkey
+ゴールデンモンキー
 
 Dryad
-Dryad
+ドライアッド
 
 cannibal tree
-cannibal tree
+人喰い木
 
 Millennium Dryad King
-Millennium Dryad King
+ミレニアム・ドライアド・キング
 
 cactus
-cactus
+サボテン
 
 depravedPinocchio
-depravedPinocchio
+堕落したピノキオ
 
 gargoyle
-gargoyle
+ガーゴイル
 
 Slime chunks
-Slime chunks
+スライムチャンク
 
 spotted seal
-spotted seal
+斑紋海豹
 
 black fur seal
-black fur seal
+黒毛和種
 
 grey sea lion
-grey sea lion
+トド
 
 plesiosaur
-plesiosaur
+くびながりゅう
 
 green turtle
-green turtle
+うみぼうず
 
 killer whale
-killer whale
+シャチ
 
 Hydra
-Hydra
+ヒドラ
 
 Whale Monster Bigger
-Whale Monster Bigger
+クジラ怪獣の大型化
 
 flame researcher
-flame researcher
+フレームリサーチャー
 
 Bomb Researcher
-Bomb Researcher
+爆弾研究員
 
 Doctor Meow Meow
-Doctor Meow Meow
+ドクターニャーニャー
 
 Doctor's Robot
-Doctor's Robot
+ドクターズロボット
 
 black centipede
-black centipede
+まんげつ
 
 blood spider
-blood spider
+血蜘蛛
 
 Crimson Scorpion
-Crimson Scorpion
+クリムゾンスコーピオン
 
 red-faced monkey
-red-faced monkey
+あかざる
 
 Ghost Faced Monkey
-Ghost Faced Monkey
+ゴースト・フェイス・モンキー
 
 King beetle
-King beetle
+キングビートル
 
 great ape
-great ape
+大猿
 
 Monkey King Wukong
-Monkey King Wukong
+孫悟空
 
 little monkey
-little monkey
+小猿
 
 Tauren Warrior
-Tauren Warrior
+タウレンウォーリア
 
 werewolf killer
-werewolf killer
+ウェアウルフキラー
 
 Centaur Archer
-Centaur Archer
+ケンタウルス・アーチャー
 
 Lizardman Shaman
-Lizardman Shaman
+リザードマンシャーマン
 
 Raven Man Warlock
-Raven Man Warlock
+レイブンマンウォーロック
 
 Orc Commander
-Orc Commander
+オークコマンダー
 
 Orc Priest
-Orc Priest
+オークプリースト
 
 Elder Orc
-Elder Orc
+エルダーオーク
 
 barbarian tyrant
-barbarian tyrant
+蛮族専制君主
 
 Cannibal
-Cannibal
+カニバル
 
 Bloodthirsty Demon
-Bloodthirsty Demon
+血に飢えた悪魔
 
 little devil
-little devil
+小悪魔
 
 Lightning Spirit
-Lightning Spirit
+ライトニングスピリット
 
 Thunder Beast
-Thunder Beast
+サンダー ビースト
 
 Two-Faced Demon
-Two-Faced Demon
+二面性のあるデーモン
 
 Succubus
-Succubus
+サキュバス
 
 Thunder Lord
-Thunder Lord
+サンダーロード
 
 evil spirit
-evil spirit
+悪霊
 
 Masked Knifeman
-Masked Knifeman
+マスクド・ナイフマン
 
 Masked Thrower
-Masked Thrower
+マスクド・スローワー
 
 Aqua Witch
-Aqua Witch
+アクアウィッチ
 
 Fire Witch
-Fire Witch
+ファイヤーウィッチ
 
 Temptress
-Temptress
+テンプトレス
 
 Nightmare
-Nightmare
+ナイトメア
 
 Meteor Witch
-Meteor Witch
+メテオウィッチ
 
 Meteor Queen Elsa
-Meteor Queen Elsa
+メテオクイーン エルサ
 
 ghost jellyfish
-ghost jellyfish
+くらげ
 
 beak shark
-beak shark
+ダルマザメ
 
 Pineapple Sea Urchin
-Pineapple Sea Urchin
+パイナップルウミウシ
 
 sun starfish
-sun starfish
+てっぽうだま
 
 bubble fish
-bubble fish
+ふぐの子
 
 giant octopus
-giant octopus
+ジャイアントオクトパス
 
 Water elf
-Water elf
+ウォーターエルフ
 
 gyro sea urchin
-gyro sea urchin
+ジャイロウニ
 
 water demon
-water demon
+水魔
 
 demonized Water Elf
-demonized Water Elf
+魔界ウォータエルフ
 
 bear merman
-bear merman
+くまこうはちこう
 
 Mermaid Princess
-Mermaid Princess
+マーメイドプリンセス
 
 Apostle
-Apostle
+使徒
 
 Harpy
-Harpy
+ハーピー
 
 Hag
-Hag
+ハグ
 
 Black Witcher
-Black Witcher
+ブラックウィッチャー
 
 Death Knight
-Death Knight
+デスナイト
 
 Dark Messenger
-Dark Messenger
+ダークメッセンジャー
 
 Altar Guard
-Altar Guard
+祭壇守
 
 Dark Priest
-Dark Priest
+ダークプリースト
 
 Skeleton Knifeman
-Skeleton Knifeman
+スケルトンナイフマン
 
 Skeleton Archer
-Skeleton Archer
+スケルトンアーチャー
 
 Blood Skull
-Blood Skull
+ブラッドスカル
 
 golden skull
-golden skull
+ゴールデンスカル
 
 Skeleton Knight
-Skeleton Knight
+スケルトンナイト
 
 statue guard
-statue guard
+彫像衛兵
 
 black skull
-black skull
+黒頭骨
 
 Lich King
-Lich King
+リッチキング
 
 Jack-O'-Lantern
-Jack-O'-Lantern
+ジャックオーランタン
 
 ghost
-ghost
+幽霊
 
 dark soul
-dark soul
+暗愚な人人
 
 Undead
-Undead
+アンデッド
 
 Necro
-Necro
+ネクロ
 
 Wraith
-Wraith
+レイス
 
 temptress
-temptress
+おとこごろし
 
 Robot Fly
-Robot Fly
+ロボットフライ
 
 Robot Bird
-Robot Bird
+ロボットバード
 
 Robot Dog
-Robot Dog
+ロボット犬
 
 Robot Cat
-Robot Cat
+ロボットキャット
 
 Robot Dinosaur
-Robot Dinosaur
+ロボット・ダイナソー
 
 Robot guard
-Robot guard
+ロボットガード
 
 vampire child
-vampire child
+キョンシー
 
 vampire girl
-vampire girl
+ヴァンパイア・ガール
 
 vampire boy
-vampire boy
+ヴァンパイアボーイ
 
 vampire Lady
-vampire Lady
+ヴァンパイアレディ
 
 Vampire Knight
-Vampire Knight
+ヴァンパイア・ナイト
 
 Vampire Earl
-Vampire Earl
+ヴァンパイアの伯爵
 
 Vampire Elder
-Vampire Elder
+ヴァンパイア・エルダー
 
 vampire lord dracula
-vampire lord dracula
+吸血鬼の主ドラキュラ
 
 locust
-locust
+せみ
 
 black bear
-black bear
+くろくま
 
 black bear king
-black bear king
+熊王
 
 Leo
-Leo
+レオ
 
 cow
-cow
+牛
 
 Gadfly
-Gadfly
+ガジェット
 
 sheep
-sheep
+シープ
 
 goat
-goat
+ヤギ
 
 ox
-ox
+牛
 
 Marshall
-Marshall
+マーシャル
 
 demonized Blood Bat
-demonized Blood Bat
+魔性のブラッドバット
 
 demonized cannibal tree
-demonized cannibal tree
+人喰い木
 
 demonized white wolf
-demonized white wolf
+亢進する白狼
 
 Mud King
-Mud King
+マッドキング
 
 Wildcat leader
-Wildcat leader
+山猫リーダー
 
 hell's three-headed dog
-hell's three-headed dog
+三毛猫
 
 demonized Fire-breathing Beast
-demonized Fire-breathing Beast
+魔界の火吹き獣
 
 demonized killer whale
-demonized killer whale
+シャチホコ
 
 demonized Sand Snake
-demonized Sand Snake
+魔性のサンドスネーク
 
 Ice blue lizard
-Ice blue lizard
+アイスブルーリザード
 
 Robot Sergeant
-Robot Sergeant
+ロボット軍曹
 
 Two-headed Demon
-Two-headed Demon
+双頭の魔物
 
 Elf Prince
-Elf Prince
+エルフの王子様
 
 Guard
-Guard
+ガード
 
 Rick
-Rick
+リック
 
 Santa Claus
-Santa Claus
+サンタクロース
 
 Man-eating Flower
-Man-eating Flower
+人喰い花
 
 Demonized Man-eating Tree
-Demonized Man-eating Tree
+魔界の人喰い木
 
 rat
-rat
+ネズミ
 
 Demonized man-eating rat
-Demonized man-eating rat
+悪魔の人食いネズミ
 
 bat
-bat
+バット
 
 Snake
-Snake
+スネーク
 
 Demonized Colorful Boa
-Demonized Colorful Boa
+悪魔のようなカラフルボア
 
 millipede
-millipede
+ヤスデ
 
 Demonized centipede
-Demonized centipede
+悪魔のようなムカデ
 
 boar
-boar
+ボア
 
 boar leader
-boar leader
+猪武者
 
 bear
-bear
+ベア
 
 Giant Bear Leader
-Giant Bear Leader
+ジャイアント・ベア・リーダー
 
 Dog
-Dog
+犬
 
 Vicious Dog leader
-Vicious Dog leader
+ヴィシャスドッグリーダー
 
 wolf
-wolf
+ウルフ
 
 Vicious Wolf Leader
-Vicious Wolf Leader
+凶暴な狼のリーダー
 
 Cat
-Cat
+猫
 
 Demonized Cat
-Demonized Cat
+悪魔のような猫
 
 Demon Cheetah Leader
-Demon Cheetah Leader
+悪魔のチーターリーダー
 
 Demon Tiger Leader
-Demon Tiger Leader
+デーモン・タイガー・リーダー
 
 Demon Lion Leader
-Demon Lion Leader
+デーモン・ライオン・リーダー
 
 Crypt Demon Ape
-Crypt Demon Ape
+クリプトデモンエイプ
 
 dragon
-dragon
+龍
 
 Black T-Rex
-Black T-Rex
+ブラックT-REX
 
 stone monster
-stone monster
+ストーンモンスター
 
 Stone Troll
-Stone Troll
+ストーントロール
 
 little demon
-little demon
+小鬼
 
 Imp
-Imp
+インプ
 
 demon zomby
-demon zomby
+デビルズオンビー
 
 Skeleton
-Skeleton
+スケルトン
 
 Bone Demon
-Bone Demon
+ボーン・デーモン
 
 Ghost
-Ghost
+ゴースト
 
 Demonized Insect King
-Demonized Insect King
+悪魔のような昆虫王
 
 demonized cat king
-demonized cat king
+魔性の猫王
 
 Hellfire Dragon
-Hellfire Dragon
+ヘルファイヤー ドラゴン
 
 Mountain Thief
-Mountain Thief
+山賊
 
 Mountain Thief Leader
-Mountain Thief Leader
+山賊のリーダー
 
 Mountain Bandit
-Mountain Bandit
+山賊
 
 Mountain Bandit Leader
-Mountain Bandit Leader
+山賊団団長
 
 Bandit Leader Akana
-Bandit Leader Akana
+山賊の首領アカナ
 
 demonized Boar king
-demonized Boar king
+鬼亥の王
 
 Gnome Thrower
-Gnome Thrower
+ノーム投擲機
 
 Gnome Guard
-Gnome Guard
+ノームガード
 
 Goblin Shooter
-Goblin Shooter
+ゴブリンシューター
 
 Goblin Guard
-Goblin Guard
+ゴブリンガード
 
 Giant Pig-faced bat
-Giant Pig-faced bat
+ジャイアントピッグフェイスバット
 
 Giant Dryad
-Giant Dryad
+ジャイアント・ドライヤード
 
 blood red worm
-blood red worm
+赤虫
 
 Brutal Man-Wolf
-Brutal Man-Wolf
+残忍な男・狼
 
 Evil Cat King
-Evil Cat King
+邪悪な猫王
 
 Demon Sentinel
-Demon Sentinel
+デーモンセンチネル
 
 Demon Lieutenant
-Demon Lieutenant
+悪魔の中尉
 
 Bigmouth
-Bigmouth
+ビッグマウス
 
 Sparrow
-Sparrow
+スズメ
 
 jackal
-jackal
+ジャッカル
 
 Blood Demon Wolf
-Blood Demon Wolf
+ブラッドデーモンウルフ
 
 Demon Wolf General
-Demon Wolf General
+デーモン・ウルフ将軍
 
 Demon Fox Soldier
-Demon Fox Soldier
+デーモン・フォックス・ソルジャー
 
 slime worm
-slime worm
+せんたくむし
 
 blood-sucking earthworm
-blood-sucking earthworm
+吸血蚯蚓
 
 angry big mouth
-angry big mouth
+怒号大口
 
 poisonous spider
-poisonous spider
+毒蜘蛛
 
 giant spider
-giant spider
+大蜘蛛
 
 demonized Boar
-demonized Boar
+鬼亥
 
 Color slime
-Color slime
+カラースライム
 
 Emperor Slime
-Emperor Slime
+エンペラー・スライム
 
 Mad Bull
-Mad Bull
+マッドブル
 
 Red-eyed Mad Bull
-Red-eyed Mad Bull
+赤目マッドブル
 
 Demon Bull Warrior
-Demon Bull Warrior
+デーモンブル ウォーリアー
 
 Demon goat Sentry
-Demon goat Sentry
+デーモンゴートセントリー
 
 Bull King
-Bull King
+ブル・キング
 
 Demonized Lyria
-Demonized Lyria
+悪魔のようなリリア
 
 Demonized Mohani
-Demonized Mohani
+悪魔のようなモハニ
 
 Magic Swordsman
-Magic Swordsman
+魔法剣士
 
 Black Mage
-Black Mage
+黒魔道士
 
 Demon warrior
-Demon warrior
+鬼武者
 
 Executioner
-Executioner
+エグゼキューショナー
 
 Pilgrim
-Pilgrim
+ピルグリム
 
 black bishop
-black bishop
+くろだたみ
 
 Black Blade Guard
-Black Blade Guard
+ブラックブレードガード
 
 dark magic Guard
-dark magic Guard
+ダークマジックガード
 
 Tsundere Demon Cat
-Tsundere Demon Cat
+ツンデレ魔性の猫
 
 Elite demon Cat
-Elite demon Cat
+エリート鬼猫
 
 Golden Tiger Guard
-Golden Tiger Guard
+ゴールデンタイガーガード
 
 Princess Cathy
-Princess Cathy
+キャシー王女
 
  black bear
- black bear
+くろくま
 
 white bear
-white bear
+白熊
 
 demonized black bear
-demonized black bear
+魔性の黒熊
 
 demonized white bear
-demonized white bear
+魔性の白熊
 
 Grizzly King
-Grizzly King
+グリズリーキング
 
 zombie warrior
-zombie warrior
+ゾンビ戦士
 
 Zombie Mage
-Zombie Mage
+ゾンビメイジ
 
 Zombie general
-Zombie general
+ゾンビ将軍
 
 Zombie Archmage
-Zombie Archmage
+ゾンビ大魔導士
 
 Zombie King
-Zombie King
+ゾンビキング
 
 Demonized Pinocchio
-Demonized Pinocchio
+悪魔のようなピノキオ
 
 experimental form
-experimental form
+実験体
 
 mutant form
-mutant form
+変異型
 
 Demonist
-Demonist
+デーモニスト
 
 Elemental Elf
-Elemental Elf
+エレメンタルエルフ
 
 Dream Elf Avril
-Dream Elf Avril
+ドリームエルフ・アヴリル
 
 Bamu beast
-Bamu beast
+バムー獣
 
 Humanoid Bach
-Humanoid Bach
+ヒューマノイドバッハ
 
 demon Balu
-demon Balu
+デーモン・バルー
 
 Invincible Bamu beast
-Invincible Bamu beast
+無敵のバムー獣
 
 toothed sea lion
-toothed sea lion
+歯牙竜
 
 crampon snow leopard
-crampon snow leopard
+クランポン・スノーレオパード
 
 Swallowtail Penguin
-Swallowtail Penguin
+スワロウテイル・ペンギン
 
 ice seal
-ice seal
+アイスシール
 
 hostaged soldier
-hostaged soldier
+篭城兵
 
 hostaged resident
-hostaged resident
+ホステッドレジデント
 
 Mud Monster
-Mud Monster
+マッドモンスター
 
 small slime
-small slime
+プチスライム
 
 Big Slime
-Big Slime
+ビッグスライム
 
 apostate 
-apostate 
+背教者
 
 rioting prisoner
-rioting prisoner
+暴れ者
 
 prison head
-prison head
+刑徒長
 
 water monster
-water monster
+水妖怪
 
 water monster elite
-water monster elite
+ウォーターモンスターエリート
 
 water monster king
-water monster king
+水魔王
 
 piranha
-piranha
+ピラニア
 
 tree puppet
-tree puppet
+木偶の坊
 
 Guardian
-Guardian
+ガーディアン
 
 mine spider
-mine spider
+スパイダーマン
 
 mine fly
-mine fly
+マイン
 
 Aham
-Aham
+アハム
 
 Mutant Cactus
-Mutant Cactus
+ミュータントカクタス
 
 vampire
-vampire
+バンパイア
 
 Zombie Lord
-Zombie Lord
+ゾンビ・ロード
 
 Guardian Shadick
-Guardian Shadick
+ガーディアン・シャディック
 
 sand eagle
-sand eagle
+イヌワシ
 
 Scorpion
-Scorpion
+スコーピオン
 
 little bat putra
-little bat putra
+小蝙蝠
 
 note sprite
-note sprite
+ノートスプライト
 
 note monster
-note monster
+ノートモンスター
 
 Naughty Elf
-Naughty Elf
+ノーティ・エルフ
 
 Electro ball
-Electro ball
+エレクトロボール
 
 laser transmitter
-laser transmitter
+レーザートランスミッター
 
 Tyrannosaurus
-Tyrannosaurus
+ティラノサウルス
 
 Chief Robot
-Chief Robot
+チーフロボット
 
 Potato
-Potato
+ポテト
 
 tomato
-tomato
+トマト
 
 Chestnut
-Chestnut
+チェスナット
 
 food processor
-food processor
+フードプロセッサー
 
 black snake king
-black snake king
+烏賊王
 
 Zombie Guard
-Zombie Guard
+ゾンビガード
 
 single skull
-single skull
+シングルスカル
 
 Fragrant Konjac
-Fragrant Konjac
+香ばしいこんにゃく
 
 goblin miner
-goblin miner
+ゴブリンマイナー
 
 Goblin Sapper
-Goblin Sapper
+ゴブリンサッパー
 
 Goblin overseer
-Goblin overseer
+ゴブリン監督
 
 white rat
-white rat
+ダイコクネズミ
 
 mechanic
-mechanic
+メカニック
 
 Large tube wheel (two tube wheel, three tube wheel)
-Large tube wheel (two tube wheel, three tube wheel)
+大型チューブホイール（2チューブホイール、3チューブホイール）
 
 chief engineer
-chief engineer
+技師長
 
 sailor
-sailor
+船員
 
 Boatswain
-Boatswain
+ボースウェイン
 
 First Mate (Second and Third Mate)
-First Mate (Second and Third Mate)
+一等航海士（二等航海士、三等航海士）
 
 captain
-captain
+キャプテン
 
 Yeti
-Yeti
+イエティ
 
 Yeti Guard
-Yeti Guard
+イエティガード
 
 Yeti King
-Yeti King
+イエティキング
 
 Crimson boar
-Crimson boar
+クリムゾンボア
 
 boar Leader
-boar Leader
+ボアリーダー
 
 demon boar king
-demon boar king
+鬼猪の王
 
 super mechanic
-super mechanic
+スーパーメカニック
 
 Patroling Robot Bird
-Patroling Robot Bird
+パトロールロボットバード
 
 robot dog
-robot dog
+ロボット犬
 
 robot cat
-robot cat
+ロボット猫
 
 robot guard
-robot guard
+ロボットガード
 
 fire cat
-fire cat
+火猫
 
 bomb cat
-bomb cat
+ばくだんねこ
 
 super mech
-super mech
+スーパーメカ
 
 little devil guard
-little devil guard
+小悪魔番長
 
 demon Gatekeeper
-demon Gatekeeper
+デーモンゲートキーパー
 
 demon servant
-demon servant
+魔除け
 
 Giant demon
-Giant demon
+巨大な悪魔
 
 Giant Patrol demon
-Giant Patrol demon
+巨大なパトロールの悪魔
 
 magpie
-magpie
+カササギ
 
 wolf leader
-wolf leader
+とね
 
 moth
-moth
+蛾
 
 zombie dog
-zombie dog
+ゾンビ犬
 
 Demon Samael
-Demon Samael
+デーモン・サマエル
 
 little sea monster
-little sea monster
+海坊主
 
 sea ??monster
-sea ??monster
+海坊主
 
 space fighter
-space fighter
+宇宙戦闘機
 
 Demon princess
-Demon princess
+鬼姫
 
 Demon sentinel
-Demon sentinel
+デーモンセンチネル
 
 Rampage demon
-Rampage demon
+暴れん坊将軍
 
 Demon Guard
-Demon Guard
+デーモン・ガード
 
 alien
-alien
+異国人
 
 alien warlord
-alien warlord
+異能者
 
 Super Fire Lord
-Super Fire Lord
+スーパーファイヤーロード
 
 Super Whale Monster
-Super Whale Monster
+スーパーホエールモンスター
 
 apprentice knight
-apprentice knight
+弟子入り騎士
 
 wooden man
-wooden man
+木人
 
 truck
-truck
+トラック
 
 Stone Guard
-Stone Guard
+ストーンガード
 
 Mechanical Guard
-Mechanical Guard
+メカニカルガード
 
 super Pinocchio
-super Pinocchio
+スーパーピノキオ
 
 Gnome captain
-Gnome captain
+ノーム隊長
 
 Goblin Captain
-Goblin Captain
+ゴブリン・キャプテン
 
 super elf king
-super elf king
+スーパーエルフキング
 
 Undead Wraith
-Undead Wraith
+アンデッドレイス
 
 Trick Pumpkin
-Trick Pumpkin
+トリックパンプキン
 
 dragon man
-dragon man
+龍人
 
 Dragon man Guard
-Dragon man Guard
+ドラゴンマンガード
 
 Frozen Snake King
-Frozen Snake King
+フローズン・スネーク・キング
 
 prehistoric dragon
-prehistoric dragon
+先史時代の竜
 
 Little Evilclaw
-Little Evilclaw
+リトルイーブルクロー
 
 Evilclaw
-Evilclaw
+イービルクロー
 
 Frozen Snake
-Frozen Snake
+フローズン・スネーク
 
 Evilclaw Elite
-Evilclaw Elite
+イービルクローエリート
 
 Frozen Snake Elite
-Frozen Snake Elite
+フローズン・スネーク・エリート
 
 little Frozen Snake
-little Frozen Snake
+リトルフローズンスネーク
 
 demonized Pig-Face Bat King
-demonized Pig-Face Bat King
+鬼畜豚面蝙蝠王
 
 Demonized Millennium Dryad King
-Demonized Millennium Dryad King
+悪魔のようなミレニアム・ドライアド・キング
 
 Demonized Death Worm
-Demonized Death Worm
+悪魔のようなデスワーム
 
 Demonized Man-wolf Caesar
-Demonized Man-wolf Caesar
+魔性の人狼シーザー
 
 Demonized Shapeshifting Slime
-Demonized Shapeshifting Slime
+魔界転生スライム
 
 Demonized Ice Queen Los
-Demonized Ice Queen Los
+悪魔のような氷の女王ロス
 
 Demonized Cat King Carter
-Demonized Cat King Carter
+悪魔のような猫王カーター
 
 Demonized Pharaoh Tar
-Demonized Pharaoh Tar
+悪魔になったファラオ・タール
 
 Demonized Elven King Erth
-Demonized Elven King Erth
+悪魔のようなエルフの王エルス
 
 Demonized Fire Lord Balrog
-Demonized Fire Lord Balrog
+魔神化したファイヤーロードバルログ
 
 Demonized Whale Monster Bigger
-Demonized Whale Monster Bigger
+悪魔のようなクジラ怪獣が大きくなった
 
 Doctor's Super Robot
-Doctor's Super Robot
+ドクターズ・スーパー・ロボット
 
 Demonized Monkey King
-Demonized Monkey King
+魔界の孫悟空
 
 Demonized barbarian tyrant
-Demonized barbarian tyrant
+悪魔のような野蛮な暴君
 
 Demonized Thunder Lord
-Demonized Thunder Lord
+魔神化したサンダーロード
 
 Demonized Lich King
-Demonized Lich King
+魔界のリッチキング
 
 Demonized evil spirit
-Demonized evil spirit
+悪魔のような悪霊
 
 Dragon Guard
-Dragon Guard
+ドラゴンガード
 
 Guardian Sky
-Guardian Sky
+ガーディアン・スカイ
 
 guardian earth
-guardian earth
+ほごしゅ
 
 Guardian Wind
-Guardian Wind
+ガーディアン・ウィンド
 
 Guardian thunder
-Guardian thunder
+守護神の雷
 
 Guardian Water
-Guardian Water
+ガーディアン・ウォーター
 
 Guardian Fire
-Guardian Fire
+ガーディアン・ファイア
 
 Guardian Mountain
-Guardian Mountain
+ガーディアンマウンテン
 
 Guardian River
-Guardian River
+ガーディアン・リバー
 
 statue
-statue
+スタチュー
 
 Wild Dragon
-Wild Dragon
+ワイルド・ドラゴン
 
 Iron eater
-Iron eater
+アイアンイーター
 
 Iron eater king
-Iron eater king
+アイアンイーターキング
 
 Guard Captain
-Guard Captain
+警備隊長
 
 Black
-Black
+ブラック
 
 Year Beast
-Year Beast
+イヤー ビースト
 
 King of Year Beasts
-King of Year Beasts
+年獣の王
 
 mouse
-mouse
+マウス
 
 bull
-bull
+ブル
 
 Rabbit
-Rabbit
+ラビット
 
 snake
-snake
+スネーク
 
 horse
-horse
+馬
 
 Dragon
-Dragon
+ドラゴン
 
 monkey
-monkey
+モンキー
 
 chicken
-chicken
+チキン
 
 dog
-dog
+ドッグ
 
 pig
-pig
+豚
 
 Tiger King
-Tiger King
+タイガー・キング
 
 dark killer
-dark killer
+ダークキラー
 
 Dark Mage
-Dark Mage
+ダークメイジ
 
 dark warrior
-dark warrior
+闇戦士
 
 dark commander
-dark commander
+少佐
 
 Demonized Mermaid Princess
-Demonized Mermaid Princess
+悪魔のような人魚姫
 
 Death knight
-Death knight
+デスナイト
 
 termite
-termite
+白蟻
 
 shark
-shark
+シャーク
 
 blaster
-blaster
+ブラスター
 
 treasure thief
-treasure thief
+こそ泥
 
 Mutant Skeleton
-Mutant Skeleton
+ミュータントスケルトン
 
 Dark Veteran
-Dark Veteran
+ダークベテラン
 
 dark hero
-dark hero
+ダークヒーロー
 
 dark missionary
-dark missionary
+闇宣教師
 
 Brann
-Brann
+ブラン
 
 Kungler
-Kungler
+クングラー
 
 hound
-hound
+食い下がる
 
 prank clown
-prank clown
+戯れ言遣い
 
 Dark Spiritist
-Dark Spiritist
+闇の精霊術師
 
 Dark Servant
-Dark Servant
+ダークサーバント
 
 defender
-defender
+擁護者
 
 Elite Crusader
-Elite Crusader
+エリート・クルセイダー
 
 Dark Defender
-Dark Defender
+ダークディフェンダー
 
 Harlan
-Harlan
+ハーラン
 
 Dark Centurion
-Dark Centurion
+ダークセンチュリオン
 
 Witcher
-Witcher
+ウィッチャー
 
 monk
-monk
+お坊さん
 
 Kolov
-Kolov
+コロフ
 
 Mograine
-Mograine
+モーグル
 
 whitemane
-whitemane
+ホワイトメーン
 
 dark Crusader
-dark Crusader
+ダーククルーセーダー
 
 dark archer
-dark archer
+ダークアーチャー
 
 Bandage Freak
-Bandage Freak
+バンデージフリーク
 
 zombie waiter
-zombie waiter
+ゾンビ・ウェイター
 
 zombie commander
-zombie commander
+ゾンビ司令官
 
 zombie King
-zombie King
+ゾンビ・キング
 
 stone lion
-stone lion
+石獅子
 
 bomb-man
-bomb-man
+爆弾魔
 
 lightsaber warrior
-lightsaber warrior
+ライトセーバーの戦士
 
 crazy gear
-crazy gear
+クレイジーギア
 
 giant fruit
-giant fruit
+巨大果実
 
 huge drumstick
-huge drumstick
+大太鼓
 
 Demon Warrior
-Demon Warrior
+悪魔の戦士
 
 Demon soldier
-Demon soldier
+魔神兵
 
 Devil Totem
-Devil Totem
+デビルトーテム
 
 masked killer
-masked killer
+覆面捜査官
 
 killer officer
-killer officer
+さつじんはん
 
 twins killer
-twins killer
+ツインズキラー
 
 pig man
-pig man
+豚児
 
 Orc demon
-Orc demon
+オークの悪魔
 
 Demon Archer
-Demon Archer
+デーモンアーチャー
 
 Demon General
-Demon General
+悪魔の将軍
 
 Yeti monster
-Yeti monster
+イエティモンスター
 
 Cave Yeti
-Cave Yeti
+ケイブイエティ
 
 Yeti girl
-Yeti girl
+イエティガール
 
 Demon Bear
-Demon Bear
+デーモン・ベア
 
 Demon Bear Chief
-Demon Bear Chief
+デーモン・ベア・チーフ
 
 Bearman Commander
-Bearman Commander
+ベアマンコマンダー
 
 Lord of the Undead
-Lord of the Undead
+ロード・オブ・ザ・アンデッド
 
 earth wall
-earth wall
+土壁
 
 Plague Monster
-Plague Monster
+ペスト・モンスター
 
 Plague Behemoth
-Plague Behemoth
+ペスト・ベヒーモス
 
 dead soul
-dead soul
+死人
 
 Lord of the dead soul
-Lord of the dead soul
+死者の魂の主
 
 mummy pharaoh
-mummy pharaoh
+ミイラファラオ
 
 Ancestral Zombie
-Ancestral Zombie
+アンセストラル・ゾンビ
 
 Elsa of the dream
-Elsa of the dream
+夢のエルザ
 
 dream eater
-dream eater
+ドリームイーター
 
 Skeleton Soldier
-Skeleton Soldier
+スケルトン・ソルジャー
 
 Skeleton general
-Skeleton general
+スケルトン一般
 
 hairy crab
-hairy crab
+毛ガニ
 
 Maggie
-Maggie
+マギー
 
 Miyuki
-Miyuki
+みゆき
 
 Yan Lili
-Yan Lili
+イェン・リリ
 
 Satsuki
-Satsuki
+さつき
 
 black queen bee
-black queen bee
+黒蜜蜂
 
 black bee
-black bee
+くろばち
 
 earth eater
-earth eater
+アースイーター
 
 Kodo
-Kodo
+鼓童
 
 red eye beast
-red eye beast
+赤眼獣
 
 blue faced beast
-blue faced beast
+青面獣
 
 green head beast
-green head beast
+青首獣
 
 believer in white
-believer in white
+白信徒
 
 believer in black
-believer in black
+くろだぬき
 
 Ethos bishop
-Ethos bishop
+エトスビショップ
 
 male gangster
-male gangster
+男伊達
 
 female gangster
-female gangster
+女ヤクザ
 
 Bandit Kunshan
-Bandit Kunshan
+バンディット・クンサン
 
 Bandit Natasha
-Bandit Natasha
+バンディット・ナターシャ
 
 Scout
-Scout
+スカウト
 
 guard
-guard
+警備員
 
 Berserker
-Berserker
+バーサーカー
 
 Garlic Loofah
-Garlic Loofah
+ニンニクヘチマ
 
 crusty zombie
-crusty zombie
+クラストゾンビ
 
 Super Pharaoh
-Super Pharaoh
+スーパーファラオ
 
 zombie ghost
-zombie ghost
+ゾンビゴースト
 
 captain of the guard
-captain of the guard
+じえいちょう
 
 base guard
-base guard
+ベースガード
 
 devil Gomez
-devil Gomez
+デビルゴメス
 
 little warrior
-little warrior
+小武士
 
 sentry tower
-sentry tower
+見張り台
 
 Crystal Tower
-Crystal Tower
+クリスタルタワー
 
 Wall barricade
-Wall barricade
+ウォールバリケード
 
 Magnetic car
-Magnetic car
+マグネットカー
 
 root package
-root package
+ルートパッケージ
 
 fish reef
-fish reef
+魚礁
 
 wedding float
-wedding float
+ウェディングフロート
 
 barricade
-barricade
+バリケイド
 
 tempered glass
-tempered glass
+強化ガラス
 
 tree stump
-tree stump
+木株
 
 Door
-Door
+By
 
 railing
-railing
+手すり
 
 cabinet
-cabinet
+キャビネット
 
 show window
-show window
+かざりまど
 
 wooden container
-wooden container
+木箱
 
 fence
-fence
+フェンス
 
 cfence
-cfence
+窩主
 
 low wall
-low wall
+低壁
 
 rickshaw
-rickshaw
+人力車
 
 barrier
-barrier
+バリア
 
 fruit tree
-fruit tree
+果樹
 
 cbarrier
-cbarrier
+バリアー
 
 rock
-rock
+岩
 
 machine
-machine
+マシン
 
 Spirit Crystal
-Spirit Crystal
+スピリットクリスタル
 
 Bonfire
-Bonfire
+焚き火
 
 board
-board
+ボード
 
 torch
-torch
+トーチ
 
 button
-button
+ボタン
 
 broom
-broom
+ブロム
 
 scarf
-scarf
+スカーフ
 
 hat
-hat
+帽子
 
 snowball
-snowball
+雪玉
 
 stone
-stone
+石
 
 iron wall
-iron wall
+鉄壁
 
 wall
-wall
+壁
 
 Exquisite gift box
-Exquisite gift box
+高級感あふれるギフトボックス
 
 crystal trophy
-crystal trophy
+クリスタル・トロフィー
 
 arnebia
-arnebia
+アルネビア
 
 wooden box
-wooden box
+木箱
 
 clown box
-clown box
+クラウンボックス
 
 warehouse
-warehouse
+倉庫
 
 Level {d} supply camp
-Level $1 supply camp
+レベル{d}の補給キャンプ
 
 Level {d} Magic Cannon
-Level $1 Magic Cannon
+レベル{d}のマジックキャノン
 
 Magic Cannon
-Magic Cannon
+マジックキャノン
 
 wood warrior
-wood warrior
+木偶の坊
 
 wood shooter
-wood shooter
+ウッドシューター
 
 Catapult
-Catapult
+カタパルト
 
 mech warrior
-mech warrior
+メクラ戦士
 
 Iron Warrior
-Iron Warrior
+アイアンウォーリア
 
 wooden stake
-wooden stake
+木杭
 
 cannon
-cannon
+キャノン
 
 Core Electronics
-Core Electronics
+コアエレクトロニクス
 
 withered crops
-withered crops
+枯れ木も山の賑わい
 
 Clay pig
-Clay pig
+土豚
 
 silver pig
-silver pig
+銀豚
 
 Golden Pig
-Golden Pig
+ゴールデンピッグ
 
 Wolf King Crystal
-Wolf King Crystal
+ウルフキングクリスタル
 
 Electronic lock
-Electronic lock
+電子ロック
 
 phantom Lyria
-phantom Lyria
+ファントムリリア
 
 Phantom Mohani
-Phantom Mohani
+ファントムモハニ
 
 ice wall
-ice wall
+氷壁
 
 puppet soldier
-puppet soldier
+操り人形師
 
 Iron Guard
-Iron Guard
+アイアンガード
 
 monster maker
-monster maker
+モンスターメーカー
 
 105 smoothbore gun
-105 smoothbore gun
+105口径の滑腔砲
 
 cannonball
-cannonball
+キャノンボール
 
 150 antiaircraft gun
-150 antiaircraft gun
+150対空砲
 
 Cannon
-Cannon
+キャノン
 
 time bomb
-time bomb
+時限爆弾
 
 Camera
-Camera
+カメラ
 
 hunting net
-hunting net
+猟網
 
 hunting chest
-hunting chest
+狩猟箪笥
 
 miniature chariot
-miniature chariot
+ミニチュアチャリオッツ
 
 mini fighter
-mini fighter
+ミニファイター
 
 barrel
-barrel
+樽
 
 supercomputer
-supercomputer
+スーパーコンピュータ
 
 magma polymerisation
-magma polymerisation
+マグマ重合
 
 dragon power stone
-dragon power stone
+龍力石
 
 remote control bomb
-remote control bomb
+遠隔操作爆弾
 
 smoothbore gun
-smoothbore gun
+滑腔砲
 
 Black Heavy Armor
-Black Heavy Armor
+ブラックヘビーアーマー
 
 fireworks
-fireworks
+花火
 
 stone gate
-stone gate
+石門
 
 Rolling Stone
-Rolling Stone
+ローリングストーン
 
 toy car
-toy car
+トイカー
 
 balloon
-balloon
+バルーン
 
 halo
-halo
+ハロー
 
 automatic crossbow
-automatic crossbow
+オートクロスボウ
 
 Mirror of Soul
-Mirror of Soul
+ミラーオブソウル
 
 avalanche
-avalanche
+アバランシュ
 
 concealed arrow
-concealed arrow
+かくれや
 
 black hole
-black hole
+ブラックホール
 
 prison door
-prison door
+囚われ
 
 Sharp Claw Cat
-Sharp Claw Cat
+シャープクローキャット
 
 Shadow Assassin
-Shadow Assassin
+シャドーアサシン
 
 Forger Nagano kawa
-Forger Nagano kawa
+フォルジャーナノコーヒー
 
 Angry Bigmouth
-Angry Bigmouth
+アングリービッグマウス
 
 Macaque
-Macaque
+マカク
 
 Blacksmith Zarachi
-Blacksmith Zarachi
+鍛冶屋ザラチ
 
 dungeon north gate
-dungeon north gate
+ダンジョン北門
 
 Demonized Man-wolf
-Demonized Man-wolf
+悪魔のような人狼
 
 Mirage Fairy
-Mirage Fairy
+ミラージュ・フェアリー
 
 Medicine Storage Construction
-Medicine Storage Construction
+薬品庫の建設
 
 Alien base {d}
-Alien base {d}
+エイリアン・ベース{d}
 
 Back Door
-Back Door
+バックドア
 
 Red Mane Lion
-Red Mane Lion
+赤たてがみライオン
 
 Hunting Chest
-Hunting Chest
+ハンティングチェスト
 
 Jewelry Merchant Clara
-Jewelry Merchant Clara
+ジュエリーマーチャント・クララ
 
 Blue Slime
-Blue Slime
+ブルースライム
 
 Fleeing Rattlesnake
-Fleeing Rattlesnake
+逃亡中のガラガラヘビ
 
 The door lock is open
-The door lock is open
+ドアロックが開いている
 
 Civilian Puppy
-Civilian Puppy
+シビリアン パピー
 
 secret roomsouth gate
-secret roomsouth gate
+シークレットルーム南門
 
 Man-eating Rat Duplicate
-Man-eating Rat Duplicate
+人喰いネズミの複製
 
 juicer
-juicer
+ジューサー
 
 ghost vacuum cleaner
-ghost vacuum cleaner
+お化け掃除機
 
 Damaged Artillery stand
-Damaged Artillery stand
+損傷した砲兵台
 
 Level {d} Magic Cannon Construction
-Level {d} Magic Cannon Construction
+レベル{d}の魔法砲の建設マジックキャノン建設
 
 Armory Construction
-Armory Construction
+アーモリー建設
 
 Bubble barrier
-Bubble barrier
+バブルバリア
 
 Ansible Space-time marketplace; Press G to check the product details.
-Ansible Space-time marketplace; Press G to check the product details.
+Ansible Space-time marketplace; Gを押して商品の詳細を確認する。
 
 Laser cannon {d}
-Laser cannon {d}
+レーザーキャノン{d}
 
 Fleeing lion
-Fleeing lion
+逃げ惑うライオン
 
 Demons' Base
-Demons' Base
+デーモンズベース
 
 Do
-Do
+する
 
 Mountain gate
-Mountain gate
+山門
 
 Demonized Cat King
-Demonized Cat King
+悪魔のような猫王
 
 Christmas tree
-Christmas tree
+クリスマスツリー
 
 Carnivorous Bat
-Carnivorous Bat
+肉食コウモリ
 
 Mutant Hen
-Mutant Hen
+ミュータントヘン
 
 Pirate Ship Teleportation Circle
-Pirate Ship Teleportation Circle
+海賊船テレポーテーションサークル
 
 Colorful Boa Duplicate
-Colorful Boa Duplicate
+カラフルボア複製品
 
 Armor Merchant Jonny
-Armor Merchant Jonny
+アーマー・マーチャント・ジョニー
 
 Wisdom Tree
-Wisdom Tree
+ウィズダム・ツリー
 
 Fa
-Fa
+ファ
 
 Hell Wraith
-Hell Wraith
+ヘルレイス
 
 Weaver Girl
-Weaver Girl
+ウィーバーガール
 
 Luke
-Luke
+ルーク
 
 Highland Entrance
-Highland Entrance
+ハイランドエントランス
 
 Gem Craftsman Sarah
-Gem Craftsman Sarah
+ジェムクラフトマン サラ
 
 fence gate
-fence gate
+柵門
 
 Wraith duplicate
-Wraith duplicate
+レイス複製
 
 Beautiful Gift Box
-Beautiful Gift Box
+美しいギフトボックス
 
 Exploding Ship
-Exploding Ship
+爆発する船
 
 Jewelry Merchant Red
-Jewelry Merchant Red
+ジュエリー・マーチャント レッド
 
 Mysterious Elder
-Mysterious Elder
+ミステリアスエルダー
 
 Fleeing Living Dead
-Fleeing Living Dead
+フライング・リビング・デッド
 
 Tana
-Tana
+タナ
 
 Hexagram Platform
-Hexagram Platform
+六芒星プラットフォーム
 
 Black Stone Monster
-Black Stone Monster
+ブラックストーンモンスター
 
 Ghost vacuum cleaner
-Ghost vacuum cleaner
+ゴースト掃除機
 
 Caravan grocer Adam
-Caravan grocer Adam
+キャラバン雑貨店アダム
 
 Millipede
-Millipede
+ミリプード
 
 Recycle Station
-Recycle Station
+リサイクルステーション
 
 dungeon south gate
-dungeon south gate
+ダンジョン南門
 
 East encampment reinforced construction
-East encampment reinforced construction
+東部野営地補強工事
 
 Civilian Batty
-Civilian Batty
+シビリアン バティ
 
 Tusk Rat
-Tusk Rat
+タスク会議
 
 Button on the stone gate
-Button on the stone gate
+石門ボタン
 
 potato
-potato
+ポテト
 
 Rattlesnake
-Rattlesnake
+ガラガラヘビ
 
 Material Storage
-Material Storage
+素材保管
 
 Black Boar
-Black Boar
+ブラックボア
 
 Civilian Yasmin
-Civilian Yasmin
+民間人 ヤスミン
 
 Townsfolk Rachee
-Townsfolk Rachee
+町人ラシェ
 
 Civilian Gadane
-Civilian Gadane
+シビリアン ガダネ
 
 Lock
-Lock
+ロック
 
 movable stake
-movable stake
+動杭
 
 Rampage Bear
-Rampage Bear
+ランペイジベア
 
 Villager Kevin
-Villager Kevin
+村人ケビン
 
 Grain basket
-Grain basket
+穀物かご
 
 Galaxy
-Galaxy
+ギャラクシー
 
 Emcee
-Emcee
+司会進行
 
 Loki Union Envoy Claire
-Loki Union Envoy Claire
+ロキユニオン特使クレア
 
 Bank receptionist Gin
-Bank receptionist Gin
+銀行受付嬢Gin
 
 Marbles
-Marbles
+ビー玉
 
 Stegosaurus
-Stegosaurus
+ステゴザウルス
 
 Primordial Iron
-Primordial Iron
+原始鉄
 
 God of Love
-God of Love
+愛の神
 
 Herbal Mountain Teleportation Circle
-Herbal Mountain Teleportation Circle
+ハーバルマウンテン テレポーテーションサークル
 
 Cockroaches
-Cockroaches
+ゴキブリ
 
 Fleeing Strong Bear
-Fleeing Strong Bear
+逃げ惑うストロングベア
 
 Head of Outer hall
-Head of Outer hall
+アウターホールの責任者
 
 Level {d} Supply Camp Construction
-Level $1 Supply Camp Construction
+レベル{d}の補給キャンプ建設
 
 Maintenance of ancient buildings
-Maintenance of ancient buildings
+古建築物の維持管理
 
 Fleeing Man-eating Rat
-Fleeing Man-eating Rat
+逃げ惑う人食いネズミ
 
 Vicious Dog leader Duplicate
-Vicious Dog leader Duplicate
+ヴィシャスドッグリーダーデュプリケート
 
 Monica
-Monica
+モニカ
 
 Chef Kouno
-Chef Kouno
+河野課長
 
 Piano
-Piano
+計画
 
 Ceratops
-Ceratops
+ケラトプス
 
 Mi
-Mi
+ミ
 
 Fisherman Poseidon
-Fisherman Poseidon
+漁師ポセイドン
 
 Blacksmith
-Blacksmith
+鍛冶屋
 
 Audio Player
-Audio Player
+オーディオプレーヤー
 
 Gem Craftsman Jim
-Gem Craftsman Jim
+ジェムクラフトマン ジム
 
 Gang Tournament Messenger Gouken
-Gang Tournament Messenger Gouken
+ギャングトーナメント メッセンジャー剛健
 
 Village Chief Lorenzo
-Village Chief Lorenzo
+ロレンソ村長
 
 Mage Aratta
-Mage Aratta
+メイジ・アラッタ
 
 Villager Ginger Head
-Villager Ginger Head
+村人ジンジャーヘッド
 
 Townsfolk
-Townsfolk
+都民の皆様
 
 Maze Guard
-Maze Guard
+メイズガード
 
 Village Chief Datin
-Village Chief Datin
+村長ダティン
 
 Fleeing Demon Skeleton
-Fleeing Demon Skeleton
+逃げ惑う悪魔のスケルトン
 
 Almost-ripe rice spikelet
-Almost-ripe rice spikelet
+ほぼ完熟の稲穂
 
 Blood-Red Worm
-Blood-Red Worm
+ブラッドレッドワーム
 
 Mountain Stronghold Sentry
-Mountain Stronghold Sentry
+マウンテン ストロングホールド セントリー
 
 Drummer
-Drummer
+ドラマー
 
 General Paul
-General Paul
+ポール将軍
 
 Living Dead
-Living Dead
+リビングデッド
 
 Fleeing Boar Leader
-Fleeing Boar Leader
+逃げ出すイノシシリーダー
 
 Village Chief Melon Head
-Village Chief Melon Head
+村長 メロン頭
 
 Jewelry Merchant Mimi
-Jewelry Merchant Mimi
+ジュエリーマーチャント「ミミ
 
 confession room south gate
-confession room south gate
+コンフェッションルーム南門
 
 Inner hall Guard
-Inner hall Guard
+インナーホールガード
 
 Civilian Fanny
-Civilian Fanny
+シビリアンファニー
 
 Captain Cassi
-Captain Cassi
+キャプテン・カシ
 
 Nether Cave
-Nether Cave
+ネザーケイブ
 
 Breeding room Construction
-Breeding room Construction
+飼育室建設
 
 mixer
-mixer
+ミキサー
 
 Village Chief Konanna
-Village Chief Konanna
+コナンナ村長
 
 Iron Claw Cat
-Iron Claw Cat
+アイアンクローキャット
 
 ctrl
 ctrl
 
 Blue Stone Monster
-Blue Stone Monster
+ブルーストーンモンスター
 
 Garth Empire Envoy Sanmu
-Garth Empire Envoy Sanmu
+ガース帝国特使サンムー
 
 Potion Merchant
-Potion Merchant
+マーチャントポーション
 
 Re
 Re
 
 Locked door
-Locked door
+鍵付きドア
 
 Fleeing White Skeleton
-Fleeing White Skeleton
+逃げ惑う白い骸骨
 
 Sophie
-Sophie
+ソフィー
 
 Sentry Tower
-Sentry Tower
+セントリータワー
 
 courtyard gate
-courtyard gate
+中庭の門
 
 pudding
-pudding
+プディング
 
 Villager Mrs. Shen
-Villager Mrs. Shen
+村人 シェンさん
 
 CTRL
 CTRL
 
 stone slate
-stone slate
+石板
 
 Strong Bear
-Strong Bear
+ストロングベア
 
 Electronic Console
-Electronic Console
+電子コンソール
 
 Black Tiger
-Black Tiger
+ブラックタイガー
 
 Commander Aydar
-Commander Aydar
+アイダール司令官
 
 Ice maze Teleportation Circle
-Ice maze Teleportation Circle
+氷の迷路 テレポーテーションサークル
 
 Fleeing Man-eating Tree
-Fleeing Man-eating Tree
+逃げ惑う人食い木
 
 Demon Tiger duplicate
-Demon Tiger duplicate
+デーモンタイガー重複
 
 Rain of Arnebia
-Rain of Arnebia
+アルネビアの雨
 
 Gem Craftsman Narissa
-Gem Craftsman Narissa
+ジェムクラフトマンナリッサ
 
 Vicious Wolf Leader  duplicate
-Vicious Wolf Leader  duplicate
+Vicious Wolf リーダー重複
 
 Highland Construction
-Highland Construction
+ハイランド建設
 
 Flute Player
-Flute Player
+フルート奏者
 
 Chef Hasegawa
-Chef Hasegawa
+長谷川シェフ
 
 Ore Buyer Jordan
-Ore Buyer Jordan
+鉱石バイヤー ヨルダン
 
 Red Boar
-Red Boar
+レッドボア
 
 Fleeing Pointy Mouth Rat
-Fleeing Pointy Mouth Rat
+逃げ惑うとんがりマウスラット
 
 electronic lock
-electronic lock
+電子ロック
 
 Wandering Villager
-Wandering Villager
+さすらいの村人
 
 Fleeing giant Bear Leader
-Fleeing giant Bear Leader
+逃げる巨大クマリーダー
 
 Lake Construction
-Lake Construction
+レイク建設
 
 Monami
-Monami
+モナミ
 
 Ripe rice spikelet
-Ripe rice spikelet
+熟した稲穂
 
 Demon Skeleton duplicate
-Demon Skeleton duplicate
+デーモンスケルトン複製
 
 Grinder
-Grinder
+グラインダー
 
 Path Keeper
-Path Keeper
+パスキーパー
 
 war zone shop
-war zone shop
+戦場ヶ原町商店街
 
 Seed Keeper
-Seed Keeper
+シードキーパー
 
 Villager
-Villager
+村人
 
 Hell Fire Dragon
-Hell Fire Dragon
+ヘルファイヤー ドラゴン
 
 Civilian Zachary
-Civilian Zachary
+民間人ザカリー
 
 Pharmacy room Construction
-Pharmacy room Construction
+薬剤室工事
 
 Grand Duke Trini, lord of the city
-Grand Duke Trini, lord of the city
+大公トリニ、都の領主
 
 Messenger
-Messenger
+メッセンジャー
 
 Chimney
-Chimney
+チムニー
 
 Artillery stand
-Artillery stand
+砲台
 
 Civilian Aesop
-Civilian Aesop
+シビリアンイソップ
 
 Car door
-Car door
+車のドア
 
 Crystal Turret
-Crystal Turret
+クリスタルタレット
 
 Mechanism
-Mechanism
+メカニズム
 
 Crystal Slime
-Crystal Slime
+クリスタルスライム
 
 Villager Zodafir
-Villager Zodafir
+村人Zodafir
 
 Circular groove
-Circular groove
+円形グルーブ
 
 Soldier
-Soldier
+ソルジャー
 
 Villager Rice
-Villager Rice
+村人米
 
 Old Villager
-Old Villager
+旧村人
 
 Militiaman Ulan
-Militiaman Ulan
+ミリティアマン ウラン
 
 Demonized Death worm
-Demonized Death worm
+デモンストレイント・デスワーム
 
 Animal Shed
-Animal Shed
+アニマルシェッド
 
 Grocer Henry
-Grocer Henry
+食料品店ヘンリー
 
 Mutant Duck
-Mutant Duck
+ミュータントダック
 
 Herbal Garden Entrance
-Herbal Garden Entrance
+ハーバルガーデン入口
 
 River water
-River water
+河川水
 
 Test room south gate
-Test room south gate
+試験室南門
 
 Lake Entrance
-Lake Entrance
+湖の入り口
 
 Ice Stone
-Ice Stone
+アイスストーン
 
 door
-door
+で
 
 Elemental Crystal
-Elemental Crystal
+エレメンタル・クリスタル
 
 Instructor Hargard
-Instructor Hargard
+ハーガード教官
 
 Forger Ganjiang
-Forger Ganjiang
+ガンジャンフォージア
 
 Grass carp
-Grass carp
+草の鯉
 
 Demon Ape duplicate
-Demon Ape duplicate
+デーモンエイプの複製
 
 Smelting room Construction
-Smelting room Construction
+製錬室建設
 
 Heaven Jade
-Heaven Jade
+ヘブンジェイド
 
 secret  room north door
-secret  room north door
+秘密の部屋北口
 
 Guard Jack
-Guard Jack
+ガード・ジャック
 
 Keyboard Player
-Keyboard Player
+キーボード奏者
 
 Sharp Fang Wolf
-Sharp Fang Wolf
+シャープファングウルフ
 
 Townsfolk Mike
-Townsfolk Mike
+タウンズフォーク・マイク
 
 Villager Merlin
-Villager Merlin
+村人マーリン
 
 Senior Huntress
-Senior Huntress
+シニアハントレス
 
 Villager Mattes
-Villager Mattes
+ビレッジャー・マテス
 
 Lucadan
-Lucadan
+ルカダン
 
 Forger
-Forger
+鍛冶屋
 
 Kidnapped girl
-Kidnapped girl
+誘拐された少女
 
 Undersea treasure hunt
-Undersea treasure hunt
+海底の宝探し
 
 A letter
-A letter
+手紙
 
 Black Witch
-Black Witch
+黒魔女さん
 
 Little Girl
-Little Girl
+リトルガール
 
 Ansible Space-Time Storehouse
-Ansible Space-Time Storehouse
+Ansible 時空間貯蔵庫
 
 Mining Area Construction
-Mining Area Construction
+採掘場建設
 
 Mutant Rooster
-Mutant Rooster
+ミュータント・ルースター
 
 Strange Stone Ball
-Strange Stone Ball
+ストレンジストーンボール
 
 Cable Car manager
-Cable Car manager
+ケーブルカー担当
 
 Villager Charlene
-Villager Charlene
+村人シャルレーヌ
 
 Demonized Cat  Duplicate
-Demonized Cat  Duplicate
+悪魔のような猫の複製品
 
 Locked Stone Door
-Locked Stone Door
+ロックされた石の扉
 
 Wormhole teleportation Circle
-Wormhole teleportation Circle
+ワームホールテレポートサークル
 
 Information Board
-Information Board
+インフォメーションボード
 
 Combat Trainer Billy
-Combat Trainer Billy
+コンバットトレーナー ビリー
 
 Head of inner hall
-Head of inner hall
+インナーホールのヘッド
 
 Civilian Jasmine
-Civilian Jasmine
+シビリアンジャスミン
 
 Energy barrier
-Energy barrier
+エネルギーバリア
 
 Saxophone Player
-Saxophone Player
+サックス奏者
 
 Button
-Button
+ボタン
 
 Seven Treasures
-Seven Treasures
+七つの宝
 
 Old Mage
-Old Mage
+オールドメイジ
 
 Fleeing bat
-Fleeing bat
+逃亡コウモリ
 
 Gang Entrance
-Gang Entrance
+ギャングエントランス
 
 Mail custodian Starmark
-Mail custodian Starmark
+メールカストディアン Starmark
 
 Sound
-Sound
+サウンド
 
 Red Skeleton
-Red Skeleton
+レッドスケルトン
 
 Civilian Bohr
-Civilian Bohr
+シビリアンボーア
 
 Orc Chief
-Orc Chief
+オークの族長
 
 Demon Cheetah duplicate
-Demon Cheetah duplicate
+悪魔のチーター複製品
 
 Fleeing Colorful Boa
-Fleeing Colorful Boa
+逃げ惑うカラフルなボア
 
 Soul-Draining Evil Spirit
-Soul-Draining Evil Spirit
+ソウル・ドレイン・邪悪な魂
 
 Villager Old Jack
-Villager Old Jack
+村人 オールド・ジャック
 
 Fleeing Stone Troll
-Fleeing Stone Troll
+フライング・ストーン・トロール
 
 Villager Lucian
-Villager Lucian
+村人ルシアン
 
 Stone walls
-Stone walls
+石壁
 
 Gold Ring Snake
-Gold Ring Snake
+ゴールドリングスネーク
 
 Master's assistant
-Master's assistant
+マスターズ・アシスタント
 
 Big Iron Lock
-Big Iron Lock
+ビッグアイアンロック
 
 Stone Door
-Stone Door
+石の扉
 
 Trumpeter
-Trumpeter
+トランペッター
 
 Bass Player
-Bass Player
+ベースプレーヤー
 
 Gem Craftsman
-Gem Craftsman
+ジェムクラフトマン
 
 Secret door
-Secret door
+シークレット・バイ
 
 chestnut
-chestnut
+マロン
 
 Villager Little Jack
-Villager Little Jack
+村人リトル・ジャック
 
 Sentry Tower Construction
-Sentry Tower Construction
+セントリータワー建設
 
 Man-eating Tree Duplicate
-Man-eating Tree Duplicate
+人喰いの大木 複製
 
 Yellow key
-Yellow key
+イエローキー
 
 Soul-Snatching Evil Spirit
-Soul-Snatching Evil Spirit
+魂を奪う悪霊
 
 blood bat Duplicate
-blood bat Duplicate
+ブラッドバット 重複
 
 Ghost Monkey
-Ghost Monkey
+ゴースト・モンキー
 
 Black Panther
-Black Panther
+ブラックパンサー
 
 Guard Barr
-Guard Barr
+ガードバー
 
 Blue pearl
-Blue pearl
+ブルーパール
 
 Study Construction
-Study Construction
+スタディ構築
 
 Black Slime
-Black Slime
+ブラックスライム
 
 Fleeing blood bat
-Fleeing blood bat
+逃亡血液コウモリ
 
 Bat King Incarnate
-Bat King Incarnate
+コウモリの王様の化身
 
 Locked gate
-Locked gate
+ロックされたゲート
 
 Centipede
-Centipede
+ムカデ
 
 Material Storage Construction
-Material Storage Construction
+材料保管庫建設
 
 Yellow pearl
-Yellow pearl
+イエローパール
 
 Elf Elder
-Elf Elder
+エルフの長老
 
 Stone Button
-Stone Button
+石ボタン
 
 Graceful Mountain Teleportation circle
-Graceful Mountain Teleportation circle
+優美山テレポートサークル
 
 Cat-eating Rat
-Cat-eating Rat
+猫喰いネズミ
 
 Apothecary Zoma
-Apothecary Zoma
+アポセカリー ゾーマ
 
 Fisherman Paul
-Fisherman Paul
+フィッシャーマン・ポール
 
 Test room north door
-Test room north door
+テストルーム北側ドア
 
 research room south gate
-research room south gate
+研究室南門
 
 Henry
-Henry
+ヘンリー
 
 Artificer Kania
-Artificer Kania
+アーティフィサー カニア
 
 Young Man fetching water
-Young Man fetching water
+水汲みをしている若い男性
 
 Forger Yelda
-Forger Yelda
+フォルジャー・イエルダ
 
 hole
-hole
+穴
 
 Living Dead duplicate
-Living Dead duplicate
+リビングデッドの複製
 
 Civilian Wald
-Civilian Wald
+シビリアン・ワルド
 
 Locked courtyard gate
-Locked courtyard gate
+中庭のゲートの施錠
 
 Fleeing Demon Ape
-Fleeing Demon Ape
+逃げ惑う悪魔の猿
 
 Growing wheat head
-Growing wheat head
+成長する小麦の頭
 
 Chest
-Chest
+胸部
 
 Apothecary Phillips
-Apothecary Phillips
+アポセカリー フィリップス
 
 West encampment reinforced construction
-West encampment reinforced construction
+西側野営地補強工事
 
 Arnebia
-Arnebia
+アルネビア
 
 Jame
-Jame
+ジェイム
 
 Vampire Vine
-Vampire Vine
+ヴァンパイア・ヴァイン
 
 Armor Merchant Varney
-Armor Merchant Varney
+アーマー・マーチャント・ヴァーニー
 
 Artificer
-Artificer
+アーティフィサー
 
 Uncle Wang
-Uncle Wang
+王おじさん
 
 Red Slime
-Red Slime
+レッドスライム
 
 Demon Cave
-Demon Cave
+魔窟
 
 Fleeing Man-eating Grass
-Fleeing Man-eating Grass
+逃げ惑う人食い草
 
 Competition Host Chun Li
-Competition Host Chun Li
+コンペティション・ホスト Chun Li
 
 Instructor
-Instructor
+インストラクター
 
 Fleeing Cheetah
-Fleeing Cheetah
+逃亡するチーター
 
 Man-eating Dog
-Man-eating Dog
+人喰い犬
 
 Fleeing Soul-Draining Evil Spirit
-Fleeing Soul-Draining Evil Spirit
+逃げ出す魂消た悪霊
 
 dungeon  north door
-dungeon  north door
+ダンジョン北口
 
 Polypod
-Polypod
+ポリポッド
 
 Armor Merchant Jara
-Armor Merchant Jara
+アーマー・マーチャント・ジャラ
 
 Fleeing Demon Cheetah
-Fleeing Demon Cheetah
+逃げる悪魔のチーター
 
 Alien
-Alien
+エイリアン
 
 Guru Elder
-Guru Elder
+グル・エルダー
 
 Walking Dead
-Walking Dead
+ウォーキングデッド
 
 Sliver Ring Snake
-Sliver Ring Snake
+スライバーリングスネーク
 
 Herb Buyer Benson
-Herb Buyer Benson
+ハーブバイヤーベンソン
 
 Sol
-Sol
+ソル
 
 Panel
-Panel
+パネル
 
 Listen to notes
-Listen to notes
+ノートを聴く
 
 Sheriff Ralph
-Sheriff Ralph
+ラルフ保安官
 
 Medicine Storage
-Medicine Storage
+薬品庫
 
 Seed of the Wisdom Tree
-Seed of the Wisdom Tree
+知恵の木の実
 
 Bounty Warrior Rick
-Bounty Warrior Rick
+バウンティウォーリアーリック
 
 Caravan Master Solitury
-Caravan Master Solitury
+キャラバンマスター ソリテュリー
 
 Grumpy
-Grumpy
+グランプリー
 
 Hawk
-Hawk
+ホーク
 
 Dodge shells
-Dodge shells
+ダッジシェル
 
 Fleeing Black Tiger
-Fleeing Black Tiger
+逃げ惑うブラックタイガー
 
 Mining Area Entrance
-Mining Area Entrance
+鉱区入口
 
 Cyan Slime
-Cyan Slime
+シアンスライム
 
 Grey Stone Monster
-Grey Stone Monster
+グレイストーンモンスター
 
 Zombie
-Zombie
+ゾンビ
 
 Steel Fang Wolf
-Steel Fang Wolf
+鋼鉄の牙狼
 
 White Boar
-White Boar
+ホワイトボア
 
 Bloodthirsty Bat
-Bloodthirsty Bat
+ブラッドサースティ・バット
 
 Civilian Kitazawa
-Civilian Kitazawa
+シビリアン北沢
 
 Fleeing Zombie
-Fleeing Zombie
+フライングゾンビ
 
 Almost-ripe wheat head
-Almost-ripe wheat head
+ほぼ完熟の小麦の頭
 
 Demon Lion duplicate
-Demon Lion duplicate
+デーモンライオンの複製
 
 Hero List
-Hero List
+ヒーロー一覧
 
 Civilian Rancy
-Civilian Rancy
+シビリアンランシー
 
 control
-control
+制御
 
 Stove
-Stove
+ストーブ
 
 Fleeing Blood Fang Wolf
-Fleeing Blood Fang Wolf
+逃げ惑う血牙狼
 
 Clay Pig
-Clay Pig
+クレイピッグ
 
 Weapon Merchant Selmore
-Weapon Merchant Selmore
+武器商人セルモア
 
 Opened Chest
-Opened Chest
+開封済みチェスト
 
 Guitar Player
-Guitar Player
+ギター弾き語り
 
 Ankylosaurus
-Ankylosaurus
+アンキロザウルス
 
 Green pearl
-Green pearl
+グリーンパール
 
 Artificer Daisy
-Artificer Daisy
+アーティフィサー デイジー
 
 Fleeing macaque
-Fleeing macaque
+逃げ惑うマカク
 
 Bubble Cube Teleportation Circle
-Bubble Cube Teleportation Circle
+バブルキューブ テレポーテーションサークル
 
 White Tiger
-White Tiger
+ホワイトタイガー
 
 Shopkeeper Mappa
-Shopkeeper Mappa
+ショップキーパー・マッパ
 
 Blue Skeleton
-Blue Skeleton
+ブルースケルトン
 
 Wooden block
-Wooden block
+木製ブロック
 
 Herbal Garden Construction
-Herbal Garden Construction
+ハーバルガーデン建設
 
 Blacksmith Orisun
-Blacksmith Orisun
+鍛冶屋オリスン
 
 Fleeing vicious dog leader
-Fleeing vicious dog leader
+凶暴な犬のリーダーから逃げる
 
 training room  north door
-training room  north door
+トレーニングルーム北口
 
 Weapon Merchant Tony
-Weapon Merchant Tony
+武器商人Tony
 
 Fence gate
-Fence gate
+フェンスゲート
 
 Forest ranger
-Forest ranger
+フォレストレンジャー
 
 Silver Pig
-Silver Pig
+銀の豚
 
 Spider cave
-Spider cave
+クモの巣
 
 Village Chief Matsubi
-Village Chief Matsubi
+松木村長
 
 Baker
-Baker
+ベーカー
 
 Civilian Kirk
-Civilian Kirk
+シビリアン・カーク
 
 Armory
-Armory
+アーモリー
 
 dumpling
-dumpling
+ダンプリング
 
 cTRL
 cTRL
 
 Accounting desk
-Accounting desk
+会計デスク
 
 Kitchen Construction
-Kitchen Construction
+キッチン工事
 
 Washing and grinding room Construction
-Washing and grinding room Construction
+洗浄・研磨室 施工
 
 Green Slime
-Green Slime
+グリーンスライム
 
 Golden Mane Lion
-Golden Mane Lion
+黄金のたてがみライオン
 
 Demonized Worm King
-Demonized Worm King
+悪魔のようなワームキング
 
 Purple Slime
-Purple Slime
+パープルスライム
 
 Chaos Stone
-Chaos Stone
+カオスストーン
 
 militia captain Nusan
-militia captain Nusan
+武将ヌーサン
 
 Fruit tree
-Fruit tree
+果樹
 
 Magic keyboard player
-Magic keyboard player
+マジックキーボード奏者
 
 Girl
-Girl
+少女
 
 Space invaders
-Space invaders
+スペースインベーダー
 
 Anxious man
-Anxious man
+不安な人
 
 Ctrl
 Ctrl
 
 Fleeing Man-eating Dog
-Fleeing Man-eating Dog
+逃げる人食い犬
 
 Demon Bat
-Demon Bat
+デーモンバット
 
 Black T-Rex duplicate
-Black T-Rex duplicate
+ブラックT-REX複製品
 
 Bloodthirsty Evil Spirit
-Bloodthirsty Evil Spirit
+血に飢えた悪霊
 
 Peach
-Peach
+ピーチ
 
 Door Bolt
-Door Bolt
+ボルトで
 
 Ghoul Dog
-Ghoul Dog
+グール・ドッグ
 
 Control
-Control
+制御
 
 Mountain Stronghold Gate
-Mountain Stronghold Gate
+マウンテン ストロングホールド ゲート
 
 Branch
-Branch
+支店
 
 Alexia
-Alexia
+アレクシア
 
 Veteran Tom
-Veteran Tom
+ベテランのトム
 
 Road Sign
-Road Sign
+道路標識
 
 Mok
-Mok
+モク
 
 Civilian Virik
-Civilian Virik
+シビリアンビリック
 
 Silver Mane Lion
-Silver Mane Lion
+銀のたてがみライオン
 
 Scholar Eric
-Scholar Eric
+奨学生エリック
 
 Growing rice spikelet
-Growing rice spikelet
+稲穂の育成
 
 Gate Guard
-Gate Guard
+ゲートガード
 
 Teleportation Portal
-Teleportation Portal
+テレポーテーションポータル
 
 Villager Marilyn
-Villager Marilyn
+村人マリリン
 
 Master Kakarot
-Master Kakarot
+マスターカカロット
 
 Insecticide
-Insecticide
+殺虫剤
 
 Roots
-Roots
+ルーツ
 
 Wolf head mountain teleportation circle
-Wolf head mountain teleportation circle
+狼頭山テレポーテーションサークル
 
 East-pointing Arrow
-East-pointing Arrow
+東向きアロー
 
 Teleportation circle
-Teleportation circle
+テレポートサークル
 
 Villager Marge
-Villager Marge
+村人マルジュ
 
 Violent Bear
-Violent Bear
+バイオレントベア
 
 Giant puppets
-Giant puppets
+巨大なパペット
 
 Blacksmith Orc Dyson
-Blacksmith Orc Dyson
+鍛冶屋 オーク・ダイソン
 
 Caravan Leader Fantine
-Caravan Leader Fantine
+キャラバン隊長 ファンティーヌ
 
 Honor Guard {d}
-Honor Guard {d}
+オナーガード{d}
 
 Master Catherine
-Master Catherine
+カトリーヌ様
 
 Stone Troll duplicate
-Stone Troll duplicate
+ストーントロールの複製
 
 Colonel Demar
-Colonel Demar
+デマール大佐
 
 Pentagram Circle
-Pentagram Circle
+五芒星（ペンタグラム）サークル
 
 Civilian Slarry
-Civilian Slarry
+シビリアン・スラリー
 
 training room south gate
-training room south gate
+トレーニングルーム南門
 
 Gate; The key needs to be passed on to the tutor to open the door
-Gate; The key needs to be passed on to the tutor to open the door
+ゲート；鍵をチューターに渡して開錠する必要がある
 
 Barrier Magic circle
-Barrier Magic circle
+バリア魔法陣
 
 Imp duplicate
-Imp duplicate
+インプルーブド
 
 Caravan Crew Eva
-Caravan Crew Eva
+キャラバンクルー エヴァ
 
 Giant Bear Leader Duplicate
-Giant Bear Leader Duplicate
+ジャイアントベアリーダー複製品
 
 Blood Fang Wolf
-Blood Fang Wolf
+ブラッドファングウルフ
 
 Pointy Mouth Rat
-Pointy Mouth Rat
+ポインティマウス・ラット
 
 Artificer Mirena
-Artificer Mirena
+アーティフィサー ミレナ
 
 Scavenger dog
-Scavenger dog
+スカベンジャードッグ
 
 Gang Upgrading Construction
-Gang Upgrading Construction
+ギャングアップグレード工事
 
 Speed potion
-Speed potion
+スピードポーション
 
 Fleeing vicious wolf Leader 
-Fleeing vicious wolf Leader 
+凶暴なオオカミから逃げる リーダー
 
 research room north door
-research room north door
+研究室北側扉
 
 Civilian Lissandra
-Civilian Lissandra
+シビリアン リサンドラ
 
 King William III
-King William III
+キングウィリアム3世
 
 Fleeing Red Boar
-Fleeing Red Boar
+逃げ出す赤い猪
 
 Pharmacist
-Pharmacist
+薬剤師
 
 Dummy
-Dummy
+ダミー
 
 Mulberry tree
-Mulberry tree
+桑の木
 
 Pharmacist Mia
-Pharmacist Mia
+薬剤師ミア
 
 Kiki
-Kiki
+キキ
 
 Temple gate
-Temple gate
+寺院の門
 
 Combat Trainer Jimmy
-Combat Trainer Jimmy
+コンバットトレーナー・ジミー
 
 Aquaculture Buyer Luffy
-Aquaculture Buyer Luffy
+アクアカルチャーバイヤー ルフィ
 
 Fleeing Imp
-Fleeing Imp
+フライングインプ
 
 Pet Trainer Lacey
-Pet Trainer Lacey
+ペットトレーナー レイシー
 
 Bubble
-Bubble
+バブル
 
 Tree
-Tree
+木
 
 Stake
-Stake
+ステイク
 
 centipede Duplicate
-centipede Duplicate
+ムカデの複製
 
 Airship Administrator
-Airship Administrator
+飛行船管理者
 
 The Wraith Cave
-The Wraith Cave
+レイスの洞窟
 
 confession room north door
-confession room north door
+告解室北側扉
 
 Cowherd
-Cowherd
+カウエルド
 
 Villager Jyaria
-Villager Jyaria
+村人Jyaria
 
 Fleeing demon lion
-Fleeing demon lion
+逃げ惑う悪魔のライオン
 
 Man-eating Grass
-Man-eating Grass
+人喰い草
 
 Golden Tiger
-Golden Tiger
+ゴールデン・タイガー
 
 Usherette {d}
-Usherette {d}
+ユーシェレット{d}
 
 Civilian Cindy
-Civilian Cindy
+シビリアン シンディ
 
 Yellow Slime
-Yellow Slime
+イエロースライム
 
 Fleeing Blue Stone Monster
-Fleeing Blue Stone Monster
+逃げ出すブルーストーンモンスター
 
 Fleeing Demon Tiger
-Fleeing Demon Tiger
+逃げ惑う魔王虎
 
 Chef
-Chef
+主任
 
 Equipment Maker
-Equipment Maker
+装置メーカー
 
 Blue key
-Blue key
+ブルーキー
 
 Seabed Cloud Iron
-Seabed Cloud Iron
+海底雲鉄
 
 Leaf Monkey
-Leaf Monkey
+リーフモンキー
 
 Soul Storehouse
-Soul Storehouse
+ソウル・ストアハウス
 
 Shells
-Shells
+貝殻
 
 Grocer Vic
-Grocer Vic
+グローサー・ビック
 
 Marquis Sami, Lord of the City
-Marquis Sami, Lord of the City
+サミ侯爵、都市の領主
 
 White Skeleton
-White Skeleton
+ホワイトスケルトン
 
 Central Kingdom Envoy Daniel
-Central Kingdom Envoy Daniel
+中央イギリス特使ダニエル
 
 Civilian Mei
-Civilian Mei
+シビリアン・メイ

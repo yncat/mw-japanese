@@ -1,3 +1,6 @@
+translate_role:
+	python scripts/translate_common.py "japanese/more/role.txt"
+
 translate_item:
 	python scripts/translate_common.py "japanese/more/item.txt"
 
