@@ -1,3422 +1,3422 @@
 Gold Coin
-Gold Coin
+金貨
 
 Arnebia
-Arnebia
+アルネビア
 
 Resurrection Crystal
-Resurrection Crystal
+リザレクション・クリスタル
 
 Skill Protection Stone
-Skill Protection Stone
+スキルプロテクションストーン
 
 Hexagram Key
-Hexagram Key
+六芒星キー
 
 Romance Stone
-Romance Stone
+ロマンスストーン
 
 Lovebird Stone
-Lovebird Stone
+ラブバード・ストーン
 
 Eternity Stone
-Eternity Stone
+エタニティストーン
 
 Value Monthly Card
-Value Monthly Card
+バリューマンスリーカード
 
 {d}x experience acceleration card
-$1x experience acceleration card
+{d}xの経験値アクセラレーションカード
 
 Channel Card
-Channel Card
+チャンネルカード
 
 Channel group rename card
-Channel group rename card
+チャンネルグループ名変更カード
 
 Yin-Yang Water
-Yin-Yang Water
+陰陽水
 
 Blessed Pet Reset and Transfer Card
-Blessed Pet Reset and Transfer Card
+祝福のペットリセット・譲渡カード
 
 Player Rename Card
-Player Rename Card
+プレイヤー名変更カード
 
 Pet rename card
-Pet rename card
+ペットリネームカード
 
 Gang Rename Card
-Gang Rename Card
+ギャングリネームカード
 
 Gang Kill Order Token
-Gang Kill Order Token
+ギャングキルオーダートークン
 
 Gang Token
-Gang Token
+ギャングトークン
 
 Gang Environment Card-Greenery
-Gang Environment Card-Greenery
+ギャング環境カード-緑
 
 Gang Environment Card-Bridge and Stream
-Gang Environment Card-Bridge and Stream
+ギャング環境カード-ブリッジ＆ストリーム
 
 Gang Environment Card-Falling Leaves
-Gang Environment Card-Falling Leaves
+ギャング環境カード-落ち葉
 
 Gang Environment Card-Snowy Fortress
-Gang Environment Card-Snowy Fortress
+ギャング環境カード-スノーイーフォートレス
 
 Worthless Blood
-Worthless Blood
+無価値な血
 
 Lesser Blood
-Lesser Blood
+レッサーブラッド
 
 medium Blood
-medium Blood
+ミディアムブラッド
 
 Higher blood
-Higher blood
+高血糖
 
 Excellent Blood
-Excellent Blood
+エクセレントブラッド
 
 Premium Blood
-Premium Blood
+プレミアム・ブラッド
 
 Worthless Jerky
-Worthless Jerky
+無価値なジャーキー
 
 Lesser Jerky
-Lesser Jerky
+レッサー・ジャーキー
 
 Medium Jerky
-Medium Jerky
+ミディアムジャーキー
 
 Higher Jerky
-Higher Jerky
+ハイヤージャーキー
 
 Excellent Jerky
-Excellent Jerky
+エクセレントジャーキー
 
 Premium Jerky
-Premium Jerky
+プレミアム・ジャーキー
 
 Worthless Pelt
-Worthless Pelt
+無価値な毛皮
 
 Lesser Pelt
-Lesser Pelt
+レッサーペルト
 
 Medium Pelt
-Medium Pelt
+ミディアムペルト
 
 Higher Pelt
-Higher Pelt
+ハイヤーペイント
 
 Excellent Pelt
-Excellent Pelt
+エクセレントペルト
 
 Premium Pelt
-Premium Pelt
+プレミアム・ペルト
 
 Snakeskin
-Snakeskin
+スネークスキン
 
 Anaconda's Gall
-Anaconda's Gall
+アナコンダ・ギャル
 
 Insulating glue
-Insulating glue
+絶縁性接着剤
 
 Ironclad crystal
-Ironclad crystal
+鉄壁の結晶
 
 Glowstone
-Glowstone
+グローストーン
 
 Ebony Metal
-Ebony Metal
+エボニーメタル
 
 Suspicious Plating
-Suspicious Plating
+不審なメッキ
 
 Green cotton yarn
-Green cotton yarn
+緑の綿糸
 
 Red velvet
-Red velvet
+レッドベルベット
 
 Crystal Wolf Teeth
-Crystal Wolf Teeth
+クリスタルウルフティース
 
 Werewolf Soul Orb
-Werewolf Soul Orb
+ウェアウルフ・ソウルオーブ
 
 Crystal coral
-Crystal coral
+クリスタルコーラル
 
 Sea Spirit Soul Orb
-Sea Spirit Soul Orb
+海精ソウルオーブ
 
 Turquoise Metal
-Turquoise Metal
+ターコイズメタル
 
 White Bone Piece
-White Bone Piece
+ホワイトボーンピース
 
 Nether Fire
-Nether Fire
+ネザーファイヤー
 
 Lesser Demon Core
-Lesser Demon Core
+レッサーデーモンコア
 
 Glazed Diamond
-Glazed Diamond
+グレージングダイヤモンド
 
 Crystal horn
-Crystal horn
+クリスタルホーン
 
 Minotaur Soul Orb
-Minotaur Soul Orb
+ミノタウロス ソウルオーブ
 
 Blood of Source
-Blood of Source
+ソースの血
 
 Blood Spirit Soul Orb
-Blood Spirit Soul Orb
+ブラッドスピリット・ソウルオーブ
 
 Powerful magnet
-Powerful magnet
+強力マグネット
 
 Liquid metal
-Liquid metal
+リキッドメタル
 
 Silver white metal
-Silver white metal
+シルバーホワイトメタル
 
 Gel essence
-Gel essence
+ガソリンジェル
 
 Horseshoe stone
-Horseshoe stone
+馬蹄石
 
 Wind Chaser Soul Orb
-Wind Chaser Soul Orb
+ウィンドチェイサー・ソウルオーブ
 
 Medium Demon Essence
-Medium Demon Essence
+ミディアムデーモンエッセンス
 
 Lake Blue Diamond
-Lake Blue Diamond
+ブルーダイヤモンド湖
 
 Crystal ivory
-Crystal ivory
+クリスタルアイボリー
 
 Mammoth Soul Orb
-Mammoth Soul Orb
+マンモスソウルオーブ
 
 Seed of Blaze
-Seed of Blaze
+シードオブブレイズ
 
 Flame Spirit Soul Orb
-Flame Spirit Soul Orb
+フレイムスピリット・ソウルオーブ
 
 Bright Yellow Metal
-Bright Yellow Metal
+ブライトイエローメタル
 
 Dark matter crystal
-Dark matter crystal
+ダークマター結晶
 
 Flame Feather
-Flame Feather
+フレイムフェザー
 
 Fire-capped tit soul orb
-Fire-capped tit soul orb
+ファイアーキャップ・タイトソウルオーブ
 
 Earth Center Diamond
-Earth Center Diamond
+アースセンターダイヤモンド
 
 Eternal Star
-Eternal Star
+エターナルスター
 
 Higher Demon Core
-Higher Demon Core
+ハイヤーデーモンコア
 
 Dark Purple Gold
-Dark Purple Gold
+ダークパープルゴールド
 
 Spiral Golden Horn
-Spiral Golden Horn
+スパイラルゴールデンホーン
 
 Unicorn Soul Orb
-Unicorn Soul Orb
+ユニコーンソウルオーブ
 
 Polar Ice
-Polar Ice
+極地氷
 
 Glacier Giant Bear Soul Fragment
-Glacier Giant Bear Soul Fragment
+氷河の巨熊のソウルフラグメント
 
 Hexagon ice crystal
-Hexagon ice crystal
+六角形の氷の結晶
 
 Frost Spirit Soul Orb
-Frost Spirit Soul Orb
+フロストスピリット・ソウルオーブ
 
 Orb of Space-Time
-Orb of Space-Time
+時空間のオーブ
 
 Dimension Key
-Dimension Key
+ディメンションキー
 
 Bactrian camel's metatarsal
-Bactrian camel's metatarsal
+双峰駱駝の中足骨
 
 Alpaca's Pelt
-Alpaca's Pelt
+アルパカの毛皮
 
 Vulture's Claw
-Vulture's Claw
+ハゲタカの爪
 
 Golden Eagle's Wings
-Golden Eagle's Wings
+イヌワシの翼
 
 Sand Snake's Fang
-Sand Snake's Fang
+サンドスネークの牙
 
 Sand Snake's Scales
-Sand Snake's Scales
+サンドスネークの鱗
 
 Death Worm's Horn
-Death Worm's Horn
+デスワームの角
 
 Death Worm's Venom Sac
-Death Worm's Venom Sac
+デスワームのベノムサック
 
 Crested Penguin's Wings
-Crested Penguin's Wings
+クレステッドペンギンの翼
 
 Ring Seal's Paws
-Ring Seal's Paws
+リング・シールズ・ポーズ
 
 Sea Lion's Whiskers
-Sea Lion's Whiskers
+アシカのひげ
 
 Snow Leopard's Tail
-Snow Leopard's Tail
+ユキヒョウのしっぽ
 
 White Bear's Gall
-White Bear's Gall
+ホワイトベアーズ・ギャル
 
 Ice Lizard's Tail
-Ice Lizard's Tail
+アイスリザードの尻尾
 
 Ice Lizard's Tongue
-Ice Lizard's Tongue
+氷蜥蜴の舌
 
 Handmaiden's bracelet
-Handmaiden's bracelet
+ハンドメイドブレスレット
 
 Handmaiden's hairpin
-Handmaiden's hairpin
+ハンドメイドヘアピン
 
 Queen's Ice Orb
-Queen's Ice Orb
+クイーンズアイスオーブ
 
 Queen's Cold Jade
-Queen's Cold Jade
+女王の冷たい翡翠
 
 Gnome's pocket
-Gnome's pocket
+ノームのポケット
 
 Goblin's Bamboo Bow
-Goblin's Bamboo Bow
+ゴブリンの竹弓
 
 Dwarf elf's staff
-Dwarf elf's staff
+ドワーフエルフの杖
 
 Dark elf's dagger
-Dark elf's dagger
+ダークエルフの短剣
 
 Dwarf's Hammer
-Dwarf's Hammer
+ドワーフのハンマー
 
 Gnome Leader's Pocket
-Gnome Leader's Pocket
+ノームリーダーズポケット
 
 Goblin Leader's Bamboo Bow
-Goblin Leader's Bamboo Bow
+ゴブリンリーダーの竹弓
 
 Dwarf elf elder's staff
-Dwarf elf elder's staff
+ドワーフエルフ長老の杖
 
 Dark Elf Leader's Dagger
-Dark Elf Leader's Dagger
+ダークエルフリーダーズダガー
 
 Dwarf Leader's Hammer
-Dwarf Leader's Hammer
+ドワーフ・リーダーズ・ハンマー
 
 Elven King's Arrows
-Elven King's Arrows
+エルフの王様の矢
 
 Elven King's Phalanx
-Elven King's Phalanx
+エルフの王のファランクス
 
 Robot Fly's Antenna
-Robot Fly's Antenna
+ロボットフライのアンテナ
 
 Robot Bird's Wings
-Robot Bird's Wings
+ロボット鳥の翼
 
 Robot Dog's Tail
-Robot Dog's Tail
+ロボット犬のしっぽ
 
 Robot Cat's Ears
-Robot Cat's Ears
+ロボットキャッツイヤー
 
 Robot Dinosaur's Tooth
-Robot Dinosaur's Tooth
+ロボット恐竜の歯
 
 Robot Guard's Arm
-Robot Guard's Arm
+ロボットガードの腕
 
 Robot Guard's Breastplate
-Robot Guard's Breastplate
+ロボットガードの胸当て
 
 Flame Researcher's Nozzle
-Flame Researcher's Nozzle
+炎研究者用ノズル
 
 Bomb Researcher's Detonator
-Bomb Researcher's Detonator
+爆弾研究者の起爆装置
 
 The Doctor's Brain-Computer Chip
-The Doctor's Brain-Computer Chip
+ドクターズ・ブレイン・コンピューター・チップ
 
 The Doctor's Motor Runner
-The Doctor's Motor Runner
+ドクターズモーターランナー
 
 Cannibal's Skull's
-Cannibal's Skull's
+カニバルズ・スカルズ
 
 Cannibal Tooth
-Cannibal Tooth
+カニバル・トゥース
 
 Bloodthirsty Demon's Blood Core
-Bloodthirsty Demon's Blood Core
+血に飢えた悪魔のブラッドコア
 
 Bloodthirsty Demon's Spirit Orb
-Bloodthirsty Demon's Spirit Orb
+血に飢えた悪魔のスピリットオーブ
 
 Little Devil's Tears
-Little Devil's Tears
+小悪魔の涙
 
 Little Devil's Wings
-Little Devil's Wings
+小悪魔の翼
 
 Lightning Spirit's Electric Orb
-Lightning Spirit's Electric Orb
+ライトニングスピリットのエレクトリックオーブ
 
 Lightning Spirit's yin-yang Charm
-Lightning Spirit's yin-yang Charm
+ライトニングスピリットの陰陽師チャーム
 
 Thunder Beast's Thunder Core
-Thunder Beast's Thunder Core
+サンダービーストのサンダーコア
 
 Thunder Beast's Thunder Charm
-Thunder Beast's Thunder Charm
+サンダー・ビーストのサンダー・チャーム
 
 Two-Faced Demon's Man Face
-Two-Faced Demon's Man Face
+二刀流鬼の男顔
 
 Two-Faced Demon's Woman Face
-Two-Faced Demon's Woman Face
+二刀流の鬼の女顔
 
 Succubus's Eyeball
-Succubus's Eyeball
+サキュバスの眼球
 
 Succubus's Tongue
-Succubus's Tongue
+サキュバスの舌
 
 Thunder Lord's Broken palm
-Thunder Lord's Broken palm
+サンダーロードの折れた掌
 
 Thunder Lord's Patella
-Thunder Lord's Patella
+サンダーロードのパテラ
 
 Masked Knifeman's Machete
-Masked Knifeman's Machete
+マスクド・ナイフマンズ・マチェット
 
 Masked Knifeman's Mask
-Masked Knifeman's Mask
+マスクド・ナイフマンズ・マスク
 
 Masked Thrower's Boomerang
-Masked Thrower's Boomerang
+仮面投擲ブーメラン
 
 Masked Thrower's Mask
-Masked Thrower's Mask
+仮面投擲のマスク
 
 Aqua Witch's Crystal Staff
-Aqua Witch's Crystal Staff
+アクアウィッチのクリスタルスタッフ
 
 Aqua Witch's Dress
-Aqua Witch's Dress
+アクアウィッチドレス
 
 Fire Witch's Flame Staff
-Fire Witch's Flame Staff
+ファイヤーウィッチのフレイムスタッフ
 
 Fire Witch's Skirt
-Fire Witch's Skirt
+ファイヤーウィッチスカート
 
 Temptress's Scepter
-Temptress's Scepter
+テンプトレスセプター
 
 Temptress's Cape
-Temptress's Cape
+テンプレスのケープ
 
 Nightmare's Soul
-Nightmare's Soul
+ナイトメアズソウル
 
 Nightmare's Gemstone
-Nightmare's Gemstone
+ナイトメアーズジェムストーン
 
 Meteor Witch's Leather Vest
-Meteor Witch's Leather Vest
+メテオウィッチレザーベスト
 
 Meteor Witch's Leather Dress
-Meteor Witch's Leather Dress
+メテオウィッチのレザードレス
 
 Meteor Queen's Black Ribbon
-Meteor Queen's Black Ribbon
+メテオクィーンのブラックリボン
 
 Meteor Queen's Luminous Pearl
-Meteor Queen's Luminous Pearl
+メテオクイーンの夜光パール
 
 Apostle's Ears
-Apostle's Ears
+使徒の耳
 
 Apostle's Nose
-Apostle's Nose
+使徒の鼻
 
 Harpy's Wings
-Harpy's Wings
+ハーピーの翼
 
 Harpy's Claws
-Harpy's Claws
+ハーピーの爪
 
 Hag's Tongue
-Hag's Tongue
+ババアの舌
 
 Hag's Eyeball
-Hag's Eyeball
+ババアの目玉
 
 Black Witcher's Ribs
-Black Witcher's Ribs
+ブラックウィッチャーのリブ
 
 Black Witcher's Kidney
-Black Witcher's Kidney
+黒ウィッチャーの腎臓
 
 Death Knight's Leg Bone
-Death Knight's Leg Bone
+デスナイトの足骨
 
 Death Knight's Liver
-Death Knight's Liver
+デスナイトの肝臓
 
 Dark Messenger's Spine
-Dark Messenger's Spine
+ダークメッセンジャーの背骨
 
 Dark Messenger's Shoulder Bone
-Dark Messenger's Shoulder Bone
+ダークメッセンジャーズショルダーボーン
 
 Altar Guard's Heart
-Altar Guard's Heart
+祭壇守の心
 
 Alter Guard's Head
-Alter Guard's Head
+アルターガードの頭
 
 Dark Priest's Magic Core
-Dark Priest's Magic Core
+ダークプリーストのマジックコア
 
 Dark Priest's Wand
-Dark Priest's Wand
+ダークプリーストの杖
 
 Greenleaf Fish
-Greenleaf Fish
+グリーンリーフ フィッシュ
 
 Bigmouth Fish
-Bigmouth Fish
+ビッグマウス・フィッシュ
 
 Red Shrimp
-Red Shrimp
+レッドシュリンプ
 
 Crystal Fish
-Crystal Fish
+クリスタルフィッシュ
 
 Scallop
-Scallop
+スカラップ
 
 Pink Fish
-Pink Fish
+ピンクフィッシュ
 
 Barracuda
-Barracuda
+バラクーダ
 
 Rice Shrimp
-Rice Shrimp
+ライスシュリンプ
 
 Ice Crab
-Ice Crab
+アイスクラブ
 
 Milkfish
-Milkfish
+ミルクフィッシュ
 
 Bullfrog
-Bullfrog
+ウシガエル
 
 Blue Goldfish
-Blue Goldfish
+青い金魚
 
 Long-age Turtle
-Long-age Turtle
+ロングエイジタートル
 
 Mitten Crab
-Mitten Crab
+ミトンクラブ
 
 Flying Fish
-Flying Fish
+トビウオ
 
 Lobster
-Lobster
+ロブスター
 
 Map Turtle
-Map Turtle
+マップタートル
 
 Puffer Fish
-Puffer Fish
+フグ
 
 Swallowtail Fish
-Swallowtail Fish
+スワロウテイルフィッシュ
 
 Butterfly shell
-Butterfly shell
+バタフライシェル
 
 Crystal shrimp
-Crystal shrimp
+クリスタルシュリンプ
 
 Saw-Edged Blue Crab
-Saw-Edged Blue Crab
+鋸歯状ブルークラブ
 
 Water Rabbit
-Water Rabbit
+ウォーターラビット
 
 Rainbow Fish
-Rainbow Fish
+レインボーフィッシュ
 
 General Crab
-General Crab
+カニ全般
 
 Long-snouted Alligator
-Long-snouted Alligator
+ロングスナウテッドアリゲーター
 
 Golden Dragonfish
-Golden Dragonfish
+ゴールデン・ドラゴンフィッシュ
 
 Silver Dragonfish
-Silver Dragonfish
+シルバー・ドラゴンフィッシュ
 
 Big black shark
-Big black shark
+ブラックシャーク
 
 Ghost Octopus
-Ghost Octopus
+ゴーストオクトパス
 
 Wine Glass Jellyfish
-Wine Glass Jellyfish
+ワイングラス クラゲ
 
 Flame Starfish
-Flame Starfish
+フレイムスターフィッシュ
 
 Yellow pearl
-Yellow pearl
+イエローパール
 
 Green Pearl
-Green Pearl
+グリーンパール
 
 Blue pearl
-Blue pearl
+ブルーパール
 
 Licorice
-Licorice
+甘草（かんぞう
 
 Destruction Weeds
-Destruction Weeds
+破壊雑草
 
 Wild Chrysanthemum
-Wild Chrysanthemum
+野菊
 
 Spring grass
-Spring grass
+春草
 
 Acacia Bean
-Acacia Bean
+アカシア豆
 
 Lantern Flower
-Lantern Flower
+ランタンフラワー
 
 Dancing Grass
-Dancing Grass
+ダンシンググラス
 
 Albizia Flower
-Albizia Flower
+アルビジアの花
 
 Edelweiss
-Edelweiss
+エーデルワイス
 
 Vigna umbellata
-Vigna umbellata
+せいようびゃくれん
 
 Snowflake Bean
-Snowflake Bean
+スノーフレークビーン
 
 Centenarian Orchid
-Centenarian Orchid
+センテナリアンオーキッド
 
 Sunflower
-Sunflower
+サンフラワー
 
 Rose
-Rose
+ローズ
 
 Mimosa
-Mimosa
+ミモザ
 
 Golden bean
-Golden bean
+金時豆
 
 Maltiflower
-Maltiflower
+マルティフラワー
 
 Honeysuckle
-Honeysuckle
+ハニーサックル
 
 Immy Flower
-Immy Flower
+イミー・フラワー
 
 Prunella
-Prunella
+プルネラ
 
 Saffron
-Saffron
+サフラン
 
 Ghost Needle
-Ghost Needle
+ゴーストニードル
 
 Devil flower
-Devil flower
+悪魔の花
 
 Fox charm flower
-Fox charm flower
+フォックスチャームフラワー
 
 Trumpet Creeper
-Trumpet Creeper
+トランペットクリーパー
 
 Snake Vine
-Snake Vine
+スネークバイン
 
 Ice Flake Grass
-Ice Flake Grass
+アイスフレークグラス
 
 Flame Flower
-Flame Flower
+フレイムフラワー
 
 Twin Flower
-Twin Flower
+ツインフラワー
 
 Soul Revival Grass
-Soul Revival Grass
+ソウル・リバイバル・グラス
 
 Blood Vine
-Blood Vine
+ブラッド・ヴァイン
 
 Ice Nine-Leaf Lotus
-Ice Nine-Leaf Lotus
+アイスナインリーフロータス
 
 Sugar-loving Earthworm
-Sugar-loving Earthworm
+砂糖好きのミミズ
 
 Destiny Cicada
-Destiny Cicada
+デスティニーセミ
 
 Music Bamboo Worm
-Music Bamboo Worm
+ミュージック・バンブー・ワーム
 
 Iron ore
-Iron ore
+鉄鉱石
 
 Copper ore
-Copper ore
+銅鉱石
 
 Silica ore
-Silica ore
+シリカ鉱石
 
 Flint
-Flint
+フリント
 
 Green Crystal ore
-Green Crystal ore
+緑水晶鉱
 
 Primal Stone
-Primal Stone
+プライマルストーン
 
 Silver ore
-Silver ore
+銀鉱石
 
 Flame ore
-Flame ore
+焔硝石
 
 Blue crystal ore
-Blue crystal ore
+青色結晶鉱
 
 Ice ore
-Ice ore
+氷鉱石
 
 Lanthanum ore
-Lanthanum ore
+ランタン鉱石
 
 Red Crystal ore
-Red Crystal ore
+紅水晶鉱
 
 Dark Green ore
-Dark Green ore
+ダークグリーン鉱石
 
 Gold ore
-Gold ore
+金鉱石
 
 Vajra Ore
-Vajra Ore
+金剛石
 
 Thorium ore
-Thorium ore
+トリウム鉱石
 
 Black Crystal ore
-Black Crystal ore
+黒水晶鉱
 
 Black Iron ore
-Black Iron ore
+黒色鉄鉱石
 
 Mythril ore
-Mythril ore
+ミスリル鉱石
 
 Purple Crystal ore
-Purple Crystal ore
+紫水晶鉱
 
 Violet Gold ore
-Violet Gold ore
+バイオレットゴールド鉱石
 
 Magic Iron ore
-Magic Iron ore
+マジック鉄鉱石
 
 Fine Gold ore
-Fine Gold ore
+微細金鉱
 
 Rainbow Crystal ore
-Rainbow Crystal ore
+レインボークリスタル鉱石
 
 Blood ore
-Blood ore
+血鉱
 
 White Crystal ore
-White Crystal ore
+白色結晶鉱
 
 Fire Crystal
-Fire Crystal
+ファイアクリスタル
 
 Ambergris Crystal
-Ambergris Crystal
+アンバーグリス・クリスタル
 
 Elven Tear
-Elven Tear
+エルヴンティア
 
 Seabed Cloud Iron
-Seabed Cloud Iron
+海底雲鉄
 
 Ice Stone
-Ice Stone
+アイスストーン
 
 Elemental Crystal
-Elemental Crystal
+エレメンタル・クリスタル
 
 Primordial Iron
-Primordial Iron
+原始鉄
 
 Chaos Stone
-Chaos Stone
+カオスストーン
 
 Heaven Jade
-Heaven Jade
+ヘブンジェイド
 
 Compensation Chest
-Compensation Chest
+コンペンセーションチェスト
 
 Black Shipwreck Chest
-Black Shipwreck Chest
+ブラック・シップレック・チェスト
 
 Green Shipwreck Chest
-Green Shipwreck Chest
+グリーン・シップレック・チェスト
 
 Red Shipwreck Chest
-Red Shipwreck Chest
+レッド・シップレック・チェスト
 
 blue Shipwreck Chest
-blue Shipwreck Chest
+ブルー・シップレック・チェスト
 
 purple Shipwreck Chest
-purple Shipwreck Chest
+紫色の難破船チェスト
 
 Gang Tournament Chest
-Gang Tournament Chest
+ギャングトーナメントチェスト
 
 Black Herbal Chest
-Black Herbal Chest
+ブラックハーバルチェスト
 
 Green Herbal Chest
-Green Herbal Chest
+グリーンハーバルチェスト
 
 red Herbal Chest
-red Herbal Chest
+レッドハーバルチェスト
 
 blue Herbal Chest
-blue Herbal Chest
+ブルーハーバルチェスト
 
 Purple Herbal Chest
-Purple Herbal Chest
+パープルハーバルチェスト
 
 Contribution Chest
-Contribution Chest
+寄贈用チェスト
 
 Black Earth God Chest
-Black Earth God Chest
+ブラックアースゴッドチェスト
 
 Green Earth God Chest
-Green Earth God Chest
+グリーンアース ゴッド チェスト
 
 Red Earth God Chest
-Red Earth God Chest
+赤土の神櫃
 
 Blue Earth God Chest
-Blue Earth God Chest
+ブルーアース ゴッド チェスト
 
 Purple Earth God Chest
-Purple Earth God Chest
+パープル・アース・ゴッド・チェスト
 
 Level 15 New Year Chest
-Level 15 New Year Chest
+レベル15 新年の宝箱
 
 Level 3 Mystery Chest
-Level 3 Mystery Chest
+レベル3ミステリー・チェスト
 
 Festive Silver-Silk Red Envelope
-Festive Silver-Silk Red Envelope
+フェスティブシルバーシルクレッドエンベロープ
 
 Festive Gold-Foil Red Envelope
-Festive Gold-Foil Red Envelope
+金箔入り赤の祝儀袋
 
 Festive Diamond-Inlaid Red Envelope
-Festive Diamond-Inlaid Red Envelope
+ダイヤモンドをあしらった赤い封筒。
 
 Wedding Gift Package
-Wedding Gift Package
+ウェディングギフトパッケージ
 
 Exquisite Wedding Gift Package
-Exquisite Wedding Gift Package
+結婚式の引き出物として最適なパッケージ
 
 Deluxe Wedding Gift Package
-Deluxe Wedding Gift Package
+デラックス・ウェディング・ギフト・パッケージ
 
 Firecracker
-Firecracker
+ファイアクラッカー
 
 Gift Balloon
-Gift Balloon
+ギフトバルーン
 
 Fun Capsule Toy
-Fun Capsule Toy
+楽しいカプセル玩具
 
 Birthday Music Box
-Birthday Music Box
+バースデーオルゴール
 
 Church Large Fireworks
-Church Large Fireworks
+教会大花火
 
 Noble Large Fireworks
-Noble Large Fireworks
+ノーブル大花火
 
 Royal Large Fireworks
-Royal Large Fireworks
+ロイヤル大花火
 
 Church Fireworks
-Church Fireworks
+教会の花火
 
 Noble Fireworks
-Noble Fireworks
+ノーブル・ファイアワークス
 
 Royal Fireworks
-Royal Fireworks
+ロイヤル花火
 
 New Year Fireworks
-New Year Fireworks
+新春花火
 
 Beautiful Gift Box
-Beautiful Gift Box
+美しいギフトボックス
 
 Team Gift Box
-Team Gift Box
+チームギフトボックス
 
 Gang Gift Box
-Gang Gift Box
+ギャングギフトボックス
 
 Mist God's Blessing
-Mist God's Blessing
+ミスト 神のご加護
 
 Red Envelope
-Red Envelope
+赤い封筒
 
 Large Red Envelope
-Large Red Envelope
+赤の大型エンベロープ
 
 New Year Gift Box
-New Year Gift Box
+ニューイヤーギフトボックス
 
 Spring Festival Gift Box
-Spring Festival Gift Box
+春祭りギフトボックス
 
 Festival Gift Box
-Festival Gift Box
+フェスティバルギフトボックス
 
 Glazed Treasure Box
-Glazed Treasure Box
+釉薬の宝箱
 
 Moonlight Treasure Box
-Moonlight Treasure Box
+ムーンライト・トレジャー・ボックス
 
 Temple Treasure Box
-Temple Treasure Box
+神殿の宝箱
 
 Abyss Demon Box
-Abyss Demon Box
+アビスデーモンボックス
 
 Sealed Demon Box
-Sealed Demon Box
+封印された悪魔の箱
 
 Universe Bag
-Universe Bag
+ユニバースバッグ
 
 Enhanced Lucky Chest
-Enhanced Lucky Chest
+強化されたラッキーチェスト
 
 Gem Shard Pack
-Gem Shard Pack
+ジェムシャードパック
 
 Level {d} Bash Skill Crystal
-Level $1 Bash Skill Crystal
+レベル｛d｝についてバッシュスキルクリスタル
 
 Level {d} Cleave Crystal
-Level $1 Cleave Crystal
+レベル{d}の薙ぎ払いクリスタル
 
 Level {d} Sweep Attack Crystal
-Level $1 Sweep Attack Crystal
+レベル{d}のスイープアタッククリスタル
 
 Level {d} Armor Break Crystal
-Level $1 Armor Break Crystal
+レベル{d}のアーマーブレイク・クリスタル
 
 Wind Step Crystal
-Wind Step Crystal
+ウィンドステップ・クリスタル
 
 Swallow Dance Crystal
-Swallow Dance Crystal
+スワロー・ダンス・クリスタル
 
 Level {d} Execute Crystal
-Level $1 Execute Crystal
+レベル｛d｝についてクリスタルの実行
 
 Level {d} Taunt Attack Crystal
-Level $1 Taunt Attack Crystal
+レベル{d}のタウントアタッククリスタル
 
 Level {d} Rupture Crystal
-Level $1 Rupture Crystal
+レベル{d}のラプチャー・クリスタル
 
 Level {d} Lethal Strike Crystal
-Level $1 Lethal Strike Crystal
+レベル{d}のリーサルストライク・クリスタル
 
 Command Cry Crystal
-Command Cry Crystal
+コマンドクライスクリスタル
 
 Level {d} Valiant Strike Crystal
-Level $1 Valiant Strike Crystal
+レベル{d}のヴァリアントストライク・クリスタル
 
 Level {d} Reckless Strike Crystal
-Level $1 Reckless Strike Crystal
+レベル{d}の無謀な一撃の結晶
 
 Level {d} Flesh Cleave Crystal
-Level $1 Flesh Cleave Crystal
+レベル{d}の肉薙ぎクリスタル
 
 Level {d} Giant Strike Crystal
-Level $1 Giant Strike Crystal
+レベル{d}のジャイアントストライククリスタル
 
 Level {d} Thunderous Blow Crystal
-Level $1 Thunderous Blow Crystal
+レベル{d}のサンダーブロー・クリスタル
 
 Haste Crystal
-Haste Crystal
+ヘイストクリスタル
 
 Level {d} Bloodthirsty Crystal
-Level $1 Bloodthirsty Crystal
+レベル{d}のブラッドサースティ・クリスタル
 
 Taunt Crystal
-Taunt Crystal
+タウントクリスタル
 
 Ignore the Pain Crystal
-Ignore the Pain Crystal
+痛みの結晶を無視する
 
 Reckless Crystal
-Reckless Crystal
+無謀なクリスタル
 
 Challenge Cry Crystal
-Challenge Cry Crystal
+チャレンジクライスクリスタル
 
 Level {d} Vengeance Crystal
-Level $1 Vengeance Crystal
+レベル{d}の復讐のクリスタル
 
 Battle Roar Crystal
-Battle Roar Crystal
+バトルロアクリスタル
 
 Level {d} Blade Strike Crystal
-Level $1 Blade Strike Crystal
+レベル{d}のブレードストライク・クリスタル
 
 Level {d} Rapid Sting Crystal
-Level $1 Rapid Sting Crystal
+レベル{d}のラピッドスティングクリスタル
 
 Level {d} Fan of Knives Crystal
-Level $1 Fan of Knives Crystal
+レベル{d}のナイフの扇子クリスタル
 
 Level {d} Puncture Crystal
-Level $1 Puncture Crystal
+レベル{d}のパンクチャー・クリスタル
 
 Level {d} Leap Gouge Crystal
-Level $1 Leap Gouge Crystal
+レベル{d}のリープガウチ・クリスタル
 
 Shadow Steps Crystal
-Shadow Steps Crystal
+シャドウ・ステップス・クリスタル
 
 Level {d} Kidney Strike Crystal
-Level $1 Kidney Strike Crystal
+レベル{d}のキッドニーストライククリスタル
 
 Level {d} Kidney Strike Crystal
-Level $1 Kidney Strike Crystal
+レベル{d}のキッドニーストライククリスタル
 
 Scorn Crystal
-Scorn Crystal
+スコーン・クリスタル
 
 Level {d} Shattering Moon Crystal
-Level $1 Shattering Moon Crystal
+レベル｛d｝について砕け散る月の水晶
 
 Void Shift Crystal
-Void Shift Crystal
+ボイドシフトクリスタル
 
 Level {d} Arcane Shot Crystal
-Level $1 Arcane Shot Crystal
+レベル{d}のアーケインショット・クリスタル
 
 Level {d} Aimed Shot Crystal
-Level $1 Aimed Shot Crystal
+レベル｛d｝についてエイムドショット・クリスタル
 
 Level {d} Multi Shot Crystal
-Level $1 Multi Shot Crystal
+レベル｛d｝についてマルチショットクリスタル
 
 Vine Trap Crystal
-Vine Trap Crystal
+バイン・トラップ・クリスタル
 
 Level {d} Marked Shot Crystal
-Level $1 Marked Shot Crystal
+レベル{d}。マークドショット・クリスタル
 
 Level {d} Concussive Shot Crystal
-Level $1 Concussive Shot Crystal
+レベル{d}のコンカッシブ・ショット・クリスタル
 
 Turtle Guardian Crystal
-Turtle Guardian Crystal
+タートルガーディアンクリスタル
 
 Level {d} Rapid Arrows Crystal
-Level $1 Rapid Arrows Crystal
+レベル{d}のラピッドアローズクリスタル
 
 Level {d} Burst Shot Crystal
-Level $1 Burst Shot Crystal
+レベル{d}のバーストショットクリスタル
 
 Tranquility Aura Crystal
-Tranquility Aura Crystal
+トランクィリティ オーラ クリスタル
 
 Level {d} Magic Sphere Crystal
-Level $1 Magic Sphere Crystal
+レベル{d}のマジック・スフィア・クリスタル
 
 Level {d} Ice Lance Crystal
-Level $1 Ice Lance Crystal
+レベル{d} アイスランス・クリスタル
 
 Level {d} Ice Storm Crystal
-Level $1 Ice Storm Crystal
+レベル{d} アイスストームクリスタル
 
 Level {d} Ice Arrow Crystal
-Level $1 Ice Arrow Crystal
+レベル{d} アイスアロークリスタル
 
 Level {d} Frost Nova Crystal
-Level $1 Frost Nova Crystal
+レベル{d}のフロスト・ノヴァ・クリスタル
 
 Icicle Crystal
-Icicle Crystal
+アイシクルクリスタル
 
 Teleportation Crystal
-Teleportation Crystal
+テレポーテーションクリスタル
 
 Blizzard Crystal
-Blizzard Crystal
+ブリザード・クリスタル
 
 Chilling Frost Crystal
-Chilling Frost Crystal
+チリングフロストクリスタル
 
 Cold Winter Crystal
-Cold Winter Crystal
+冬の冷たい水晶
 
 Level {d} Fireball Crystal
-Level $1 Fireball Crystal
+レベル{d}の火の玉クリスタル
 
 Level {d} Fire Impact Crystal
-Level $1 Fire Impact Crystal
+レベル{d}のファイアインパクトクリスタル
 
 Level {d} Fire Surge Crystal
-Level $1 Fire Surge Crystal
+レベル{d}のファイアーサージクリスタル
 
 Invisibility Crystal
-Invisibility Crystal
+インビジブルクリスタル
 
 Level {d} Pyroblast Crystal
-Level $1 Pyroblast Crystal
+レベル{d}のパイロブラスト・クリスタル
 
 Ignition Crystal
-Ignition Crystal
+イグニッションクリスタル
 
 Level {d} Blazing Storm Crystal
-Level $1 Blazing Storm Crystal
+レベル{d}のブレイジングストームクリスタル
 
 Level {d} Sear Crystal
-Level $1 Sear Crystal
+レベル｛d｝についてシアー・クリスタル
 
 Scorch Crystal
-Scorch Crystal
+スコーチクリスタル
 
 Level {d} Retribution Crystal
-Level $1 Retribution Crystal
+レベル{d}の報復の水晶
 
 Level {d} Mind Whip Crystal
-Level $1 Mind Whip Crystal
+レベル{d}のマインド・ウィップ・クリスタル
 
 Level {d} Holy Light Wave Crystal
-Level $1 Holy Light Wave Crystal
+レベル{d} 聖光波動水晶
 
 Recover Crystal
-Recover Crystal
+クリスタルを回収する
 
 Level {d} Divine Fire Crystal
-Level $1 Divine Fire Crystal
+レベル{d}のディバインファイアクリスタル
 
 Divine Protection Crystal
-Divine Protection Crystal
+ディヴァイン・プロテクション・クリスタル
 
 Holy Light Crystal
-Holy Light Crystal
+ホーリーライトクリスタル
 
 Level {d} Divine Nova Crystal
-Level $1 Divine Nova Crystal
+レベル{d}のディヴァイン・ノヴァ・クリスタル
 
 Group Dispel Crystal
-Group Dispel Crystal
+グループ・ディスペル・クリスタル
 
 Resurrection Skill Crystal
-Resurrection Skill Crystal
+リザレクション・スキルクリスタル
 
 Level {d} Shadow Arrow Crystal
-Level $1 Shadow Arrow Crystal
+レベル{d}のシャドーアロークリスタル
 
 Level {d} Corrosion Spell Crystal
-Level $1 Corrosion Spell Crystal
+レベル{d}の腐食の呪文結晶
 
 Level {d} Skeleton Explosion Crystal
-Level $1 Skeleton Explosion Crystal
+レベル{d}のスケルトンエクスプロージョン クリスタル
 
 Healing Surge Crystal
-Healing Surge Crystal
+ヒーリングサージクリスタル
 
 Level {d} Incessant Pain Crystal
-Level $1 Incessant Pain Crystal
+レベル{d} インセッシェント・ペイン・クリスタル
 
 Break the Chain Crystal
-Break the Chain Crystal
+ブレイク・ザ・チェーン クリスタル
 
 Soul Purify Crystal
-Soul Purify Crystal
+ソウル・ピュリファイ・クリスタル
 
 Level {d} Dead Toxin Crystal
-Level $1 Dead Toxin Crystal
+レベル{d}のデッドトキシンクリスタル
 
 Spiritual Totem Crystal
-Spiritual Totem Crystal
+スピリチュアルトーテムクリスタル
 
 Soul Returnal Crystal
-Soul Returnal Crystal
+ソウルリターナルクリスタル
 
 Bash Skill Crystal Shard
-Bash Skill Crystal Shard
+バッシュスキル クリスタルシャード
 
 Execute Crystal Shard
-Execute Crystal Shard
+クリスタルシャードの実行
 
 Sweep Attack Skill Crystal Shard
-Sweep Attack Skill Crystal Shard
+スイープアタックスキル クリスタルシャード
 
 Rupture Skill Crystal Shard
-Rupture Skill Crystal Shard
+ラプチャー・スキル クリスタル・シャード
 
 Valiant Strike Skill Crystal Shard
-Valiant Strike Skill Crystal Shard
+ヴァリアントストライクスキルクリスタルシャード
 
 Bloodthirsty Skill Crystal Shard
-Bloodthirsty Skill Crystal Shard
+ブラッドサースティースキルクリスタルシャード
 
 Flesh Cleave Skill Crystal Shard
-Flesh Cleave Skill Crystal Shard
+肉薙ぎスキル クリスタルシャード
 
 Thunderous Blow Skill Crystal Shard
-Thunderous Blow Skill Crystal Shard
+雷撃スキル クリスタルシャード
 
 Blade Strike Skill Crystal Shard
-Blade Strike Skill Crystal Shard
+ブレードストライクスキルクリスタルシャード
 
 Fan of Knives Skill Crystal Shard
-Fan of Knives Skill Crystal Shard
+ファンオブナイフスキル クリスタルシャード
 
 Leap Gouge Skill Crystal Shard
-Leap Gouge Skill Crystal Shard
+リープガウジングスキル クリスタルシャード
 
 Kidney Strike Skill Crystal Shard
-Kidney Strike Skill Crystal Shard
+キドニーストライクスキルクリスタルシャード
 
 Arcane Shot Skill Crystal Shard
-Arcane Shot Skill Crystal Shard
+アーケインショットスキルクリスタルシャード
 
 Multi Shot Skill Crystal Shard
-Multi Shot Skill Crystal Shard
+マルチショットスキルクリスタルシャード
 
 Rapid Arrows Skill Crystal Shard
-Rapid Arrows Skill Crystal Shard
+ラピッドアローズスキルクリスタルシャード
 
 Marked Shot Skill Crystal Shard
-Marked Shot Skill Crystal Shard
+マークドショットスキルクリスタルシャード
 
 Magic Sphere Skill Crystal Shard
-Magic Sphere Skill Crystal Shard
+マジック・スフィア・スキル クリスタル・シャード
 
 Ice Storm Skill Crystal Shard
-Ice Storm Skill Crystal Shard
+アイスストームスキルクリスタルシャード
 
 Ice Arrow Skill Crystal Shard
-Ice Arrow Skill Crystal Shard
+アイスアロースキル クリスタルシャード
 
 Frost Nova Skill Crystal Shard
-Frost Nova Skill Crystal Shard
+フロストノヴァスキルクリスタルシャード
 
 Fireball Skill Crystal Shard
-Fireball Skill Crystal Shard
+ファイアーボールスキル クリスタルシャード
 
 Fire Surge Skill Crystal Shard
-Fire Surge Skill Crystal Shard
+ファイアーサージスキルクリスタルシャード
 
 Pyroblast Skill Crystal Shard
-Pyroblast Skill Crystal Shard
+パイロブラストスキル クリスタルシャード
 
 Blazing Storm Skill Crystal Shard
-Blazing Storm Skill Crystal Shard
+ブレイジングストームスキルクリスタルシャード
 
 Retribution Skill Crystal Shard
-Retribution Skill Crystal Shard
+報復スキル クリスタルシャード
 
 Holy Light Wave Skill Crystal Shard
-Holy Light Wave Skill Crystal Shard
+聖光波スキル クリスタルシャード
 
 Divine Nova Skill Crystal Shard
-Divine Nova Skill Crystal Shard
+ディバインノヴァスキルクリスタルシャード
 
 Divine Fire Skill Crystal Shard
-Divine Fire Skill Crystal Shard
+ディバインファイアスキルクリスタルシャード
 
 Shadow Arrow Skill Crystal Shard
-Shadow Arrow Skill Crystal Shard
+シャドーアロースキルクリスタルシャード
 
 Skeleton Explosion Skill Crystal Shard
-Skeleton Explosion Skill Crystal Shard
+スケルトンエクスプロージョン スキル クリスタルシャード
 
 Dead Toxin Skill Crystal Shard
-Dead Toxin Skill Crystal Shard
+デッドトキシンスキル クリスタルシャード
 
 Incessant Pain Skill Crystal Shard
-Incessant Pain Skill Crystal Shard
+インセサントペインスキルクリスタルシャード
 
 Level {d} Ruby Shard
-Level $1 Ruby Shard
+レベル{d}のルビー・シャード
 
 Level {d} Ruby
-Level $1 Ruby
+レベル{d} ルビー
 
 Level {d} Sapphire Shard
-Level $1 Sapphire Shard
+レベル{d}のサファイア・シャード
 
 Level {d} Sapphire
-Level $1 Sapphire
+レベル{d}のサファイア
 
 Level {d} Tiger Eye Stone Shard
-Level $1 Tiger Eye Stone Shard
+レベル{d}のタイガーアイの石の欠片
 
 Level {d} Tiger Eye Stone
-Level $1 Tiger Eye Stone
+レベル{d} タイガーアイの石
 
 Level {d} Opal Shard
-Level $1 Opal Shard
+レベル{d}のオパール・シャード
 
 Level {d} Opal
-Level $1 Opal
+レベル{d} オパール
 
 Level {d} Spinel Shard
-Level $1 Spinel Shard
+レベル{d}のスピネル・シャード
 
 Level {d} Spinel
-Level $1 Spinel
+レベル{d}のスピネル
 
 Level {d} Aquamarine Shard
-Level $1 Aquamarine Shard
+レベル{d}のアクアマリン・シャード
 
 Level {d} Aquamarine
-Level $1 Aquamarine
+レベル｛d｝についてアクアマリン
 
 Level {d} Garnet Shard
-Level $1 Garnet Shard
+レベル{d}のガーネット・シャード
 
 Level {d} Garnet
-Level $1 Garnet
+レベル｛d｝についてガーネット
 
 Level {d} Blond Jade Shard
-Level $1 Blond Jade Shard
+レベル{d}の金色の翡翠の欠片
 
 Level {d} Blond Jade
-Level $1 Blond Jade
+レベル｛d｝についてブロンドジェイド
 
 Level {d} Grape Stone Shard
-Level $1 Grape Stone Shard
+レベル{d}の葡萄石の欠片
 
 Level {d} Grape Stone
-Level $1 Grape Stone
+レベル｛d｝についてグレープストーン
 
 Level {d} Olivine Shard
-Level $1 Olivine Shard
+レベル{d}のオリヴィン・シャード
 
 Level {d} Olivine
-Level $1 Olivine
+レベル｛d｝についてオリビン
 
 Level {d} Topaz Shard
-Level $1 Topaz Shard
+レベル{d} トパーズシャード
 
 Level {d} Topaz
-Level $1 Topaz
+レベル{d} トパーズ
 
 Level {d} Obsidian Shard
-Level $1 Obsidian Shard
+レベル{d}の黒曜石の欠片
 
 Level {d} Obsidian
-Level $1 Obsidian
+レベル{d}の黒曜石
 
 Level {d} Sunlight Stone Shard
-Level $1 Sunlight Stone Shard
+レベル{d}の陽光の石の欠片
 
 Level {d} Sunlight Stone
-Level $1 Sunlight Stone
+レベル{d}の陽光石
 
 Level {d} Moonstone Shard
-Level $1 Moonstone Shard
+レベル{d}のムーンストーン・シャード
 
 Level {d} Moonstone
-Level $1 Moonstone
+レベル{d}のムーンストーン
 
 Level {d} Turquoise Shard
-Level $1 Turquoise Shard
+レベル{d} ターコイズ・シャード
 
 Level {d} Turquoise
-Level $1 Turquoise
+レベル{d} ターコイズ
 
 Weapon Enhance Crystal Shard
-Weapon Enhance Crystal Shard
+武器強化 クリスタルシャード
 
 Level {d} Weapon Enhance Crystal
-Level $1 Weapon Enhance Crystal
+レベル{d}の武器強化クリスタル
 
 Equipment Enhance Crystal Shard
-Equipment Enhance Crystal Shard
+装備強化 クリスタルシャード
 
 Level {d} Equipment Enhance Crystal
-Level $1 Equipment Enhance Crystal
+レベル｛d｝について装備強化クリスタル
 
 Gem Protection Rune
-Gem Protection Rune
+ジェムプロテクションルーン
 
 Socket Protection Stone
-Socket Protection Stone
+ソケット保護石
 
 Weapon Enhance Boost Rune
-Weapon Enhance Boost Rune
+武器強化ブーストルーン
 
 Equipment Enhance Boost Rune
-Equipment Enhance Boost Rune
+装備強化ブーストルーン
 
 Weapon Enhance Protection Rune
-Weapon Enhance Protection Rune
+武器強化保護ルーン
 
 Equipment Enhance Protection Rune
-Equipment Enhance Protection Rune
+装備強化の護符ルーン
 
 Pale Jade Crystal
-Pale Jade Crystal
+ペールジェイドクリスタル
 
 Violet Haze Crystal
-Violet Haze Crystal
+ヴァイオレットヘイズクリスタル
 
 Cannonball
-Cannonball
+キャノンボール
 
 Key
-Key
+キー
 
 Metal Plate
-Metal Plate
+メタルプレート
 
 Enchanted Bead
-Enchanted Bead
+エンチャンテッドビーズ
 
 Kumiss
-Kumiss
+クミス
 
 Ore
-Ore
+鉱石
 
 Barr's Letter
-Barr's Letter
+バーの手紙
 
 Silk
-Silk
+シルク
 
 Merlin's Letter
-Merlin's Letter
+マーリンの手紙
 
 Snow Leopard Leather Coat
-Snow Leopard Leather Coat
+スノーレオパードレザーコート
 
 Tiger Mountain Pass
-Tiger Mountain Pass
+タイガーマウンテン・パス
 
 Bandit Hideout Key
-Bandit Hideout Key
+バンディット・ハイドアウト・キー
 
 Octorium
-Octorium
+オクトリウム
 
 Fruit of the Wisdom Tree
-Fruit of the Wisdom Tree
+知恵の木の実
 
 Seed of the Wisdom Tree
-Seed of the Wisdom Tree
+知恵の木の実
 
 Potions
-Potions
+ポーション
 
 Weapon
-Weapon
+武器
 
 White Bear's Pelt
-White Bear's Pelt
+ホワイトベアーの毛皮
 
 Wolf's Head
-Wolf's Head
+ウルフズヘッド
 
 Frostbite Ointment
-Frostbite Ointment
+凍傷軟膏
 
 Packed Licorice
-Packed Licorice
+パックド・リコリス
 
 Water of Moonlight River
-Water of Moonlight River
+月光河の水
 
 Stone Ball
-Stone Ball
+ストーンボール
 
 Wedding Dress
-Wedding Dress
+ウエディングドレス
 
 Cicada Robe
-Cicada Robe
+セミの羽衣
 
 Antidote
-Antidote
+解毒剤
 
 Empty iron bucket
-Empty iron bucket
+空の鉄バケツ
 
 Iron Bucket
-Iron Bucket
+鉄バケツ
 
 wound-healing powder
-wound-healing powder
+傷薬
 
 Clay Block
-Clay Block
+粘土ブロック
 
 Iron Bucket
-Iron Bucket
+鉄バケツ
 
 Raw Milk
-Raw Milk
+生乳
 
 Forage
-Forage
+飼料
 
 Raw Milk
-Raw Milk
+生乳
 
 Blue key
-Blue key
+ブルーキー
 
 Yellow key
-Yellow key
+イエローキー
 
 White key
-White key
+ホワイトキー
 
 Black key
-Black key
+黒鍵
 
 Red crystal stone
-Red crystal stone
+紅水晶石
 
 Green crystal stone
-Green crystal stone
+緑色の水晶石
 
 Blue crystal stone
-Blue crystal stone
+ブルークリスタル・ストーン
 
 Penetration Ring
-Penetration Ring
+ペネトレーションリング
 
 Reward order
-Reward order
+特典のご注文
 
 Punishment order
-Punishment order
+処罰命令
 
 Fertilizer
-Fertilizer
+肥料
 
 C4 Explosive
-C4 Explosive
+C4爆薬
 
 magnetic card
-magnetic card
+磁気カード
 
 Beast's head
-Beast's head
+ビーストの頭
 
 Beast's Leg
-Beast's Leg
+ビーストレッグ
 
 Probe Stick
-Probe Stick
+サンプルスティック
 
 Spirit Crystal
-Spirit Crystal
+スピリットクリスタル
 
 Orb of Benevolence
-Orb of Benevolence
+博愛のオーブ
 
 Magic Stand
-Magic Stand
+マジックスタンド
 
 Secret Letter of the Moon Princess
-Secret Letter of the Moon Princess
+月姫のシークレットレター
 
 Carpenter's family letter
-Carpenter's family letter
+カーペンターズ・ファミリー・レター
 
 Secret Letter of the Master Antino
-Secret Letter of the Master Antino
+アンティーノ様の密書
 
 Lord Garcina's Token
-Lord Garcina's Token
+ガルシナ卿のトークン
 
 Ice bead
-Ice bead
+アイスビーズ
 
 Peach
-Peach
+ピーチ
 
 Black Comb
-Black Comb
+ブラックコーム
 
 Stallone's Head
-Stallone's Head
+スタローンの頭
 
 Secret Letter of the High Priest Theo
-Secret Letter of the High Priest Theo
+大僧正テオの密書
 
 Purchase order
-Purchase order
+発注書
 
 Contract
-Contract
+契約
 
 Family Letter to Sailor Ron
-Family Letter to Sailor Ron
+セーラ・ロンへの家族への手紙
 
 Wheat Head
-Wheat Head
+ウィートヘッド
 
 Bait
-Bait
+餌
 
 Rice Spikelet
-Rice Spikelet
+ライススパイクレット
 
 Grass carp
-Grass carp
+草の鯉
 
 Medical Supply
-Medical Supply
+メディカルサプライ
 
 Large brick
-Large brick
+大型レンガ
 
 Unprocessed brick
-Unprocessed brick
+未加工レンガ
 
 Perfect brick
-Perfect brick
+パーフェクトブリック
 
 Unidentified cannonball
-Unidentified cannonball
+正体不明の砲弾
 
 Water Monster's Egg
-Water Monster's Egg
+ウォーターモンスターの卵
 
 Water Convex Lens
-Water Convex Lens
+水中用コンベックスレンズ
 
 Full Note
-Full Note
+フルノート
 
 Semi Note
-Semi Note
+セミノート
 
 Loofah seedling
-Loofah seedling
+ヘチマの苗
 
 Pea seed
-Pea seed
+エンドウ豆の種
 
 Cross
-Cross
+クロス
 
 Shining Cross
-Shining Cross
+シャイニングクロス
 
 Canned spinach
-Canned spinach
+ほうれん草の缶詰
 
 Rice Cracker
-Rice Cracker
+米菓
 
 potatoes
-potatoes
+ポテト
 
 Tomato
-Tomato
+トマト
 
 Chestnut
-Chestnut
+チェスナット
 
 Mashed potatoes
-Mashed potatoes
+マッシュポテト
 
 Tomato juice
-Tomato juice
+トマトジュース
 
 Chestnut powder
-Chestnut powder
+チェスナット粉
 
 Crispy potato and vegetable pie
-Crispy potato and vegetable pie
+カリッとしたポテトと野菜のパイ
 
 Bronze fruit
-Bronze fruit
+ブロンズ果実
 
 Silver fruit
-Silver fruit
+銀色の果実
 
 Gold Fruit
-Gold Fruit
+ゴールドフルーツ
 
 Platinum fruit
-Platinum fruit
+プラチナフルーツ
 
 Star Diamond Fruit
-Star Diamond Fruit
+スターダイヤモンドフルーツ
 
 Dough
-Dough
+生地
 
 Pie
-Pie
+パイ
 
 Festive Bronze Gift Package
-Festive Bronze Gift Package
+フェスティブ・ブロンズ・ギフト・パッケージ
 
 Festive Silver Gift Package
-Festive Silver Gift Package
+フェスティブシルバーギフトパッケージ
 
 Festive Gold Gift Package
-Festive Gold Gift Package
+フェスティブ・ゴールド・ギフト・パッケージ
 
 Festive Platinum Gift Package
-Festive Platinum Gift Package
+フェスティブ・プラチナ・ギフト・パッケージ
 
 Festive Star Diamond Gift Package
-Festive Star Diamond Gift Package
+フェスティブ・スター・ダイヤモンド・ギフト・パッケージ
 
 Dragon-Moth Double Jade
-Dragon-Moth Double Jade
+ドラゴンモス ダブルジェイド
 
 lightning rod
-lightning rod
+かみなりよけ
 
 Magic Fossil
-Magic Fossil
+マジックフォッシル
 
 Identification Scroll
-Identification Scroll
+アイデンティフィケーションスクロール
 
 Common fossil
-Common fossil
+共通化石
 
 Damaged Cube
-Damaged Cube
+ダメージキューブ
 
 Interdimensional Cube
-Interdimensional Cube
+異次元キューブ
 
 Golden Rice dumpling seed
-Golden Rice dumpling seed
+ゴールデンライスダンプリングの種
 
 Colorful Golden Rice Dumpling
-Colorful Golden Rice Dumpling
+カラフルな黄金色のライスダンプリング
 
 BBQ Pork Seed
-BBQ Pork Seed
+BBQポークシード
 
 BBQ Pork bun
-BBQ Pork bun
+BBQポークパン
 
 Phantom Ice Crystal
-Phantom Ice Crystal
+ファントムアイスクリスタル
 
 Time Bomb
-Time Bomb
+時限爆弾
 
 Godmother Zoira's Magic Charm
-Godmother Zoira's Magic Charm
+ゴッドマザーゾイラの魔法のお守り
 
 Godmother Zoira's Seal Letter
-Godmother Zoira's Seal Letter
+ゴッドマザーゾイラのシールレター
 
 Templar Knight's Letter
-Templar Knight's Letter
+テンプル騎士団の手紙
 
 Exploration data
-Exploration data
+探査データ
 
 Hunting net
-Hunting net
+ハンティング・ネット
 
 Mojito
-Mojito
+モヒート
 
 Delicate Fruit
-Delicate Fruit
+デリケートフルーツ
 
 Hunting Medal
-Hunting Medal
+ハンティングメダル
 
 Hunting Gift Package
-Hunting Gift Package
+ハンティング・ギフト・パッケージ
 
 Hunting Pass
-Hunting Pass
+ハンティング・パス
 
 Samael Emblem
-Samael Emblem
+サマエルエンブレム
 
 Fish Gelatin
-Fish Gelatin
+フィッシュゼラチン
 
 Five-Nuts Filling
-Five-Nuts Filling
+5つのナッツのフィリング
 
 Crust
-Crust
+クラスト
 
 Egg
-Egg
+卵
 
 Osmanthus wine
-Osmanthus wine
+キンモクセイ酒
 
 Five-Nuts Mooncake
-Five-Nuts Mooncake
+五目月餅
 
 Wind Chaser Soul Fragment
-Wind Chaser Soul Fragment
+ウィンドチェイサー・ソウルフラグメント
 
 Knight Code
-Knight Code
+ナイトコード
 
 Refined Iron
-Refined Iron
+精製鉄
 
 Spear
-Spear
+スピア
 
 Shield
-Shield
+シールド
 
 Armor
-Armor
+アーマー
 
 Equipment
-Equipment
+装置
 
 Tinder
-Tinder
+ティンダー
 
 Silver Cross
-Silver Cross
+シルバークロス
 
 Flash Bomb
-Flash Bomb
+フラッシュボム
 
 Great Dragon Valley Bar
-Great Dragon Valley Bar
+グレートドラゴンバレーバー
 
 Dragon Village Token
-Dragon Village Token
+ドラゴン村トークン
 
 Christmas stockings
-Christmas stockings
+クリスマス・ストッキング
 
 Colorful Shard Pack
-Colorful Shard Pack
+カラフルシャードパック
 
 Snowball
-Snowball
+雪だるま
 
 Hat
-Hat
+帽子
 
 Scarf
-Scarf
+スカーフ
 
 Broom
-Broom
+ブルーム
 
 Marbles
-Marbles
+ビー玉
 
 Button
-Button
+ボタン
 
 Stones
-Stones
+石材
 
 Little snowman
-Little snowman
+小さな雪だるま
 
 Christmas gift box
-Christmas gift box
+クリスマスギフトボックス
 
 Magnet
-Magnet
+マグネット
 
 Dragon Power Stone
-Dragon Power Stone
+ドラゴンパワー・ストーン
 
 Remote Control Bomb
-Remote Control Bomb
+リモコン爆弾
 
 Remote Control
-Remote Control
+リモコン
 
 Energy Shield
-Energy Shield
+エナジーシールド
 
 Apple
-Apple
+アップル
 
 Chocolate Popsicle
-Chocolate Popsicle
+チョコレートアイスキャンデー
 
 Butter Popsicle
-Butter Popsicle
+バターアイスキャンデー
 
 Chocolate ice cream
-Chocolate ice cream
+チョコレートアイスクリーム
 
 Butter ice cream
-Butter ice cream
+バターアイスクリーム
 
 Candy
-Candy
+キャンディ
 
 Rat Tooth Shovel
-Rat Tooth Shovel
+ネズミの歯型スコップ
 
 Jumping Spring
-Jumping Spring
+ジャンピングスプリング
 
 dumpling
-dumpling
+ダンプリング
 
 Cat ears
-Cat ears
+猫耳
 
 Nian Monster's Demon Crystal
-Nian Monster's Demon Crystal
+ニャンモンスターの魔水晶
 
 Wish Blessing
-Wish Blessing
+ウィッシュブレス
 
 Fortune Blessing
-Fortune Blessing
+フォーチュンブレス
 
 Peace Blessing
-Peace Blessing
+ピースブレス
 
 Luck Blessing
-Luck Blessing
+運の恵み
 
 Happiness Blessing
-Happiness Blessing
+ハピネス・ブレッシング
 
 Packaged Rice Ball
-Packaged Rice Ball
+パッケージおにぎり
 
 sesame rice ball
-sesame rice ball
+ごまおにぎり
 
 peanut rice ball
-peanut rice ball
+ピーナッツライス・ボール
 
 Zoira's earring
-Zoira's earring
+ゾイラのイヤリング
 
 Zoira's earring
-Zoira's earring
+ゾイラのイヤリング
 
 Purified water
-Purified water
+精製水
 
 Earth Magic Stone
-Earth Magic Stone
+アースマジックストーン
 
 Water Magic Stone
-Water Magic Stone
+ウォーターマジックストーン
 
 Fire Magic Stone
-Fire Magic Stone
+ファイアーマジックストーン
 
 Wind Magic Stone
-Wind Magic Stone
+風の魔法石
 
 Wood
-Wood
+木材
 
 Insecticide
-Insecticide
+殺虫剤
 
 Ghost vacuum cleaner
-Ghost vacuum cleaner
+ゴースト掃除機
 
 Control Button
-Control Button
+操作ボタン
 
 Time Bomb
-Time Bomb
+時限爆弾
 
 Fatal Tenderness
-Fatal Tenderness
+致命的なやわらかさ
 
 Beauty of the Forest
-Beauty of the Forest
+森の美
 
 Midnight Kiss
-Midnight Kiss
+ミッドナイト・キス
 
 Satisfied Morning
-Satisfied Morning
+満足な朝
 
 Bones of the mutant skeleton
-Bones of the mutant skeleton
+ミュータント骨格の骨
 
 Black Magic Antidote
-Black Magic Antidote
+黒魔術の解毒剤
 
 Ghost
-Ghost
+ゴースト
 
 Intelligence letter
-Intelligence letter
+インテリジェンス・レター
 
 Rock
-Rock
+ロック
 
 Clown Box
-Clown Box
+ピエロボックス
 
 Grimace Cookie
-Grimace Cookie
+グリマスクッキー
 
 Bookmark Badge
-Bookmark Badge
+ブックマークバッジ
 
 Sabre Badge
-Sabre Badge
+セイバーバッジ
 
 Cross Badge
-Cross Badge
+クロスバッジ
 
 Soul Bottle
-Soul Bottle
+ソウルボトル
 
 Axe
-Axe
+アックス
 
 Divine Light Orb
-Divine Light Orb
+ディバインライトオーブ
 
 Iron Wire
-Iron Wire
+鉄線
 
 Black Rock
-Black Rock
+ブラックロック
 
 White Rock
-White Rock
+ホワイトロック
 
 Remote Control Bomb
-Remote Control Bomb
+リモコン爆弾
 
 Remote Control
-Remote Control
+リモコン
 
 Demining Stick
-Demining Stick
+地雷除去棒
 
 Scissors
-Scissors
+シザース
 
 Note
-Note
+備考
 
 Note
-Note
+備考
 
 Master's Pendant
-Master's Pendant
+マスターズペンダント
 
 Cherub Illustration
-Cherub Illustration
+ケルビムイラスト
 
 Colorful Golden Rice Dumpling
-Colorful Golden Rice Dumpling
+カラフルな黄金色のライスダンプリング
 
 Beast King Demon General's Blood
-Beast King Demon General's Blood
+獣王魔将軍の血
 
 Candy
-Candy
+キャンディ
 
 Blue Ice Crystal
-Blue Ice Crystal
+ブルーアイスクリスタル
 
 Werebear Commander's Head
-Werebear Commander's Head
+ウィーアーコマンダーズヘッド
 
 Concentrated Fire Source Crystal
-Concentrated Fire Source Crystal
+濃縮火源水晶
 
 Silver Cross
-Silver Cross
+シルバークロス
 
 Small Red Potion
-Small Red Potion
+スモールレッドポーション
 
 Medium Red Potion
-Medium Red Potion
+ミディアムレッドポーション
 
 Large Red Potion
-Large Red Potion
+赤い大きなポーション
 
 Super Red Potion
-Super Red Potion
+スーパーレッドポーション
 
 Plasma
-Plasma
+プラズマ
 
 Potent Plasma
-Potent Plasma
+ポテントプラズマ
 
 Serum Protein
-Serum Protein
+血清タンパク
 
 Hemoglobin
-Hemoglobin
+ヘモグロビン
 
 Small Blue Potion
-Small Blue Potion
+ブルーポーション（小
 
 Medium Blue Potion
-Medium Blue Potion
+ミディアムブルーポーション
 
 Large Blue Potion
-Large Blue Potion
+ブルーポーション（大
 
 Super  Blue Potion
-Super  Blue Potion
+スーパーブルーポーション
 
 Magic Potion
-Magic Potion
+マジックポーション
 
 Potent Magic Potion
-Potent Magic Potion
+ポーテントマジックポーション
 
 Mist Potion
-Mist Potion
+ミストポーション
 
 Mist Essence
-Mist Essence
+ミストエッセンス
 
 Chicken Drumstick
-Chicken Drumstick
+チキンドラムスティック
 
 Steak
-Steak
+ステーキ
 
 Ham
-Ham
+ハム
 
 Pie
-Pie
+パイ
 
 Burrito
-Burrito
+ブリトー
 
 Pizza
-Pizza
+ピザ
 
 Hot Dog
-Hot Dog
+ホットドッグ
 
 Sandwich
-Sandwich
+サンドイッチ
 
 Hamburger
-Hamburger
+ハンブルク
 
 Coco
-Coco
+ココ
 
 Coffee
-Coffee
+コーヒー
 
 Tea
-Tea
+お茶
 
 Orange Juice
-Orange Juice
+オレンジジュース
 
 Grapefruit Juice
-Grapefruit Juice
+グレープフルーツジュース
 
 Lemonade
-Lemonade
+レモネード
 
 Raspberry Juice
-Raspberry Juice
+ラズベリージュース
 
 Plum Juice
-Plum Juice
+プラムジュース
 
 Blueberry Juice
-Blueberry Juice
+ブルーベリージュース
 
 Arena Power Pill
-Arena Power Pill
+アリーナパワーピル
 
 Arena Iron Stone Pill
-Arena Iron Stone Pill
+アリーナ アイアンストーンピル
 
 Tactical Power Pill
-Tactical Power Pill
+タクティカルパワーピル
 
 Tactical Iron Stone Pill
-Tactical Iron Stone Pill
+タクティカルアイアンストーンピル
 
 Pet Small Red Potion
-Pet Small Red Potion
+ペット用スモールレッドポーション
 
 Pet Medium Red Potion
-Pet Medium Red Potion
+ペット用ミディアムレッドポーション
 
 Pet Large Red Potion
-Pet Large Red Potion
+ペット用大型レッドポーション
 
 Pet Super Red Potion
-Pet Super Red Potion
+ペット用スーパーレッドポーション
 
 Pet Plasma
-Pet Plasma
+ペットプラズマ
 
 Pet Potent Plasma
-Pet Potent Plasma
+ペット用ポテントプラズマ
 
 Pet Albumin
-Pet Albumin
+ペット用アルブミン
 
 Pet globulin
-Pet globulin
+ペットグロブリン
 
 Pet Small Blue Potion
-Pet Small Blue Potion
+ペット用スモールブルーポーション
 
 Pet Medium Blue Potion
-Pet Medium Blue Potion
+ペット用ミディアムブルーポーション
 
 Pet Large Blue Potion
-Pet Large Blue Potion
+ペット用大型ブルーポーション
 
 Pet Super Blue Potion
-Pet Super Blue Potion
+ペット用スーパーブルーポーション
 
 Bone Cookie
-Bone Cookie
+ボーンクッキー
 
 Fine Bone Cookie
-Fine Bone Cookie
+ファインボーンクッキー
 
 Bone Marrow Soup
-Bone Marrow Soup
+骨髄のスープ
 
 Potent Bone Marrow Soup
-Potent Bone Marrow Soup
+骨髄のポタージュスープ
 
 Pet Meat Cube
-Pet Meat Cube
+ペット用ミートキューブ
 
 Pet Jerky
-Pet Jerky
+ペット用ジャーキー
 
 Pet Sausage
-Pet Sausage
+ペット用ソーセージ
 
 Pet Pie
-Pet Pie
+ペットパイ
 
 Pet Burrito
-Pet Burrito
+ペットブリトー
 
 Pet Pizza
-Pet Pizza
+ペット用ピザ
 
 Pet Hot Dog
-Pet Hot Dog
+ペット用ホットドッグ
 
 Pet Sandwich
-Pet Sandwich
+ペット用サンドイッチ
 
 Pet Hamburger
-Pet Hamburger
+ペットハンバーガー
 
 Pet Peach Juice
-Pet Peach Juice
+ペット用ピーチジュース
 
 Pet Mango Juice
-Pet Mango Juice
+ペットマンゴージュース
 
 Pet Apple Juice
-Pet Apple Juice
+ペット用アップルジュース
 
 Pet Orange Juice
-Pet Orange Juice
+ペット用オレンジジュース
 
 Pet Grapefruit Juice
-Pet Grapefruit Juice
+ペット用グレープフルーツジュース
 
 Pet Lemonade
-Pet Lemonade
+ペット用レモネード
 
 Pet Raspberry Juice
-Pet Raspberry Juice
+ペット用ラズベリージュース
 
 Pet Plum Juice
-Pet Plum Juice
+ペット用梅ジュース
 
 Pet Blueberry Juice
-Pet Blueberry Juice
+ペット用ブルーベリージュース
 
 Pet Rice Roll
-Pet Rice Roll
+ペット用ライスロール
 
 Lesser Frog Soul Stone
-Lesser Frog Soul Stone
+レッサーフロッグ・ソウルストーン
 
 Medium Frog Soul Stone
-Medium Frog Soul Stone
+ミディアム・フロッグ・ソウルストーン
 
 Higher Frog Soul Stone
-Higher Frog Soul Stone
+ハイアーフロッグソウルストーン
 
 Pure Frog Soul Stone
-Pure Frog Soul Stone
+ピュアフロッグ・ソウルストーン
 
 Brilliant Frog Soul Stone
-Brilliant Frog Soul Stone
+ブリリアントフロッグソウルストーン
 
 Lesser Beetle Soul Stone
-Lesser Beetle Soul Stone
+レッサービートルのソウルストーン
 
 Medium Beetle Soul Stone
-Medium Beetle Soul Stone
+ミディアムビートルのソウルストーン
 
 Higher Beetle Soul Stone
-Higher Beetle Soul Stone
+ハイヤービートルのソウルストーン
 
 Pure Beetle Soul Stone
-Pure Beetle Soul Stone
+ピュアビートル・ソウルストーン
 
 Brilliant Beetle Soul Stone
-Brilliant Beetle Soul Stone
+ブリリアントビートル・ソウルストーン
 
 Lesser Golden Rooster Soul Stone
-Lesser Golden Rooster Soul Stone
+小金酉魂石
 
 Medium Golden Rooster Soul Stone
-Medium Golden Rooster Soul Stone
+ミディアム ゴールデン ルースター ソウルストーン
 
 Higher Golden Rooster Soul Stone
-Higher Golden Rooster Soul Stone
+ハイヤー ゴールデン ルースター ソウル ストーン
 
 Pure Golden Rooster Soul Stone
-Pure Golden Rooster Soul Stone
+ピュアゴールデンルースターソウルストーン
 
 Brilliant Golden Rooster Soul Stone
-Brilliant Golden Rooster Soul Stone
+ブリリアント ゴールデン ルースター ソウル ストーン
 
 Lesser Duck Soul Stone
-Lesser Duck Soul Stone
+レッサーダックのソウルストーン
 
 Medium Duck Soul Stone
-Medium Duck Soul Stone
+ミディアムダックのソウルストーン
 
 Higher Duck Soul Stone
-Higher Duck Soul Stone
+ハイヤーダック・ソウルストーン
 
 Pure Duck Soul Stone
-Pure Duck Soul Stone
+ピュアダック・ソウルストーン
 
 Brilliant Duck Soul Stone
-Brilliant Duck Soul Stone
+ブリリアントダックのソウルストーン
 
 Lesser Donkey Soul Stone
-Lesser Donkey Soul Stone
+レッサードンキのソウルストーン
 
 Medium Donkey Soul Stone
-Medium Donkey Soul Stone
+中型ロバのソウルストーン
 
 Higher Donkey Soul Stone
-Higher Donkey Soul Stone
+ハイヤー・ドンキー・ソウルストーン
 
 Pure Donkey Soul Stone
-Pure Donkey Soul Stone
+ピュア・ドンキー・ソウルストーン
 
 Brilliant Donkey Soul Stone
-Brilliant Donkey Soul Stone
+ブリリアントドンキー ソウルストーン
 
 Lesser Goat Soul Stone
-Lesser Goat Soul Stone
+レッサーゴート・ソウルストーン
 
 Medium Goat Soul Stone
-Medium Goat Soul Stone
+ミディアムゴート・ソウルストーン
 
 Higher Goat Soul Stone
-Higher Goat Soul Stone
+ハイヤーゴート・ソウルストーン
 
 Pure Goat Soul Stone
-Pure Goat Soul Stone
+ピュアゴートソウルストーン
 
 Brilliant Goat Soul Stone
-Brilliant Goat Soul Stone
+ブリリアントゴート・ソウルストーン
 
 Lesser Steed Soul Stone
-Lesser Steed Soul Stone
+レッサースティード・ソウルストーン
 
 Medium Steed Soul Stone
-Medium Steed Soul Stone
+ミディアムスティード・ソウルストーン
 
 Higher Steed Soul Stone
-Higher Steed Soul Stone
+ハイヤースティード・ソウルストーン
 
 Pure Steed Soul Stone
-Pure Steed Soul Stone
+ピュアスティード・ソウルストーン
 
 Brilliant Steed Soul Stone
-Brilliant Steed Soul Stone
+ブリリアントスティード・ソウルストーン
 
 Lesser Cattle Soul Stone
-Lesser Cattle Soul Stone
+レッサーキャトルソウルストーン
 
 Medium Cattle Soul Stone
-Medium Cattle Soul Stone
+ミディアムキャトルソウルストーン
 
 Higher Cattle Soul Stone
-Higher Cattle Soul Stone
+ハイヤーキャトルソウルストーン
 
 Pure Cattle Soul Stone
-Pure Cattle Soul Stone
+ピュアキャトルソウルストーン
 
 Brilliant Cattle Soul Stone
-Brilliant Cattle Soul Stone
+ブリリアントキャトルソウルストーン
 
 Lesser Shorthair Cat Soul Stone
-Lesser Shorthair Cat Soul Stone
+レッサーショートヘアキャットのソウルストーン
 
 Medium Shorthair Cat Soul Stone
-Medium Shorthair Cat Soul Stone
+ミディアムショートヘアキャット ソウルストーン
 
 Higher Shorthair Cat Soul Stone
-Higher Shorthair Cat Soul Stone
+ハイヤーショートヘアキャットソウルストーン
 
 Pure Shorthair Cat Soul Stone
-Pure Shorthair Cat Soul Stone
+ピュアショートヘアキャットソウルストーン
 
 Brilliant Shorthair Cat Soul Stone
-Brilliant Shorthair Cat Soul Stone
+ブリリアントショートヘアキャット・ソウルストーン
 
 Lesser Hound Soul Stone
-Lesser Hound Soul Stone
+レッサーハウンド・ソウルストーン
 
 Medium Hound Soul Stone
-Medium Hound Soul Stone
+ミディアムハウンド・ソウルストーン
 
 Higher Hound Soul Stone
-Higher Hound Soul Stone
+ハイヤーハウンド・ソウルストーン
 
 Pure Hound Soul Stone
-Pure Hound Soul Stone
+ピュアハウンド・ソウルストーン
 
 Brilliant Hound Soul Stone
-Brilliant Hound Soul Stone
+ブリリアントハウンド・ソウルストーン
 
 Lesser Curly Cat Soul Stone
-Lesser Curly Cat Soul Stone
+レッサーカーリーキャットのソウルストーン
 
 Medium Curly Cat Soul Stone
-Medium Curly Cat Soul Stone
+ミディアムカーリーキャットのソウルストーン
 
 Higher Curly Cat Soul Stone
-Higher Curly Cat Soul Stone
+ハイヤー カーリーキャット ソウルストーン
 
 Pure Curly Cat Soul Stone
-Pure Curly Cat Soul Stone
+ピュアカーリーキャットソウルストーン
 
 Brilliant Curly Cat Soul Stone
-Brilliant Curly Cat Soul Stone
+ブリリアントカーリーキャットのソウルストーン
 
 Lesser Shepard Dog Soul Stone
-Lesser Shepard Dog Soul Stone
+レッサーシェパード・ドッグ・ソウルストーン
 
 Medium Shepard Dog Soul Stone
-Medium Shepard Dog Soul Stone
+ミディアム・シェパード・ドッグ ソウル・ストーン
 
 Higher Shepard Dog Soul Stone
-Higher Shepard Dog Soul Stone
+ハイヤーシェパードドッグ・ソウルストーン
 
 Pure Shepard Dog Soul Stone
-Pure Shepard Dog Soul Stone
+ピュア シェパード ドッグ ソウル ストーン
 
 Brilliant Shepard Dog Soul Stone
-Brilliant Shepard Dog Soul Stone
+ブリリアント シェパード ドッグ ソウル ストーン
 
 Lesser Parrot Soul Stone
-Lesser Parrot Soul Stone
+コザクラインコのソウルストーン
 
 Medium Parrot Soul Stone
-Medium Parrot Soul Stone
+ミディアムインコのソウルストーン
 
 Higher Parrot Soul Stone
-Higher Parrot Soul Stone
+ハイヤーインコソウルストーン
 
 Pure Parrot Soul Stone
-Pure Parrot Soul Stone
+ピュアパロットソウルストーン
 
 Brilliant Parrot Soul Stone
-Brilliant Parrot Soul Stone
+ブリリアントパロットソウルストーン
 
 LesserLizard Soul Stone
-LesserLizard Soul Stone
+レッサーリザードのソウルストーン
 
 Medium Lizard Soul Stone
-Medium Lizard Soul Stone
+ミディアムリザードのソウルストーン
 
 Higher Lizard Soul Stone
-Higher Lizard Soul Stone
+ハイヤーリザード・ソウルストーン
 
 Pure Lizard Soul Stone
-Pure Lizard Soul Stone
+ピュアリザード・ソウルストーン
 
 Brilliant Lizard Soul Stone
-Brilliant Lizard Soul Stone
+ブリリアント・リザード・ソウルストーン
 
 Lesser Monkey Soul Stone
-Lesser Monkey Soul Stone
+レッサーモンキーのソウルストーン
 
 Medium Monkey Soul Stone
-Medium Monkey Soul Stone
+ミディアムモンキーソウルストーン
 
 Higher Monkey Soul Stone
-Higher Monkey Soul Stone
+ハイヤーモンキー・ソウル・ストーン
 
 Pure Monkey Soul Stone
-Pure Monkey Soul Stone
+ピュアモンキーソウルストーン
 
 Brilliant Monkey Soul Stone
-Brilliant Monkey Soul Stone
+ブリリアント・モンキー・ソウルストーン
 
 Lesser Eagle Soul Stone
-Lesser Eagle Soul Stone
+レッサーイーグルのソウルストーン
 
 Medium Eagle Soul Stone
-Medium Eagle Soul Stone
+ミディアムイーグルのソウルストーン
 
 Higher Eagle Soul Stone
-Higher Eagle Soul Stone
+ハイヤーイーグル・ソウル・ストーン
 
 Pure Eagle Soul Stone
-Pure Eagle Soul Stone
+ピュアイーグルソウルストーン
 
 Brilliant Eagle Soul Stone
-Brilliant Eagle Soul Stone
+ブリリアントイーグルのソウルストーン
 
 Lesser Hippo Soul Stone
-Lesser Hippo Soul Stone
+レッサーカバ・ソウルストーン
 
 Medium Hippo Soul Stone
-Medium Hippo Soul Stone
+ミディアムカバ・ソウルストーン
 
 Higher Hippo Soul Stone
-Higher Hippo Soul Stone
+ハイヤーカバのソウルストーン
 
 Pure Hippo Soul Stone
-Pure Hippo Soul Stone
+ピュアカバ・ソウルストーン
 
 Brilliant Hippo Soul Stone
-Brilliant Hippo Soul Stone
+ブリリアントカバ・ソウルストーン
 
 Lesser Boar Soul Stone
-Lesser Boar Soul Stone
+レッサーボアのソウルストーン
 
 Medium Boar Soul Stone
-Medium Boar Soul Stone
+中型亥のソウルストーン
 
 Higher Boar Soul Stone
-Higher Boar Soul Stone
+ハイヤーボアソウルストーン
 
 Pure Boar Soul Stone
-Pure Boar Soul Stone
+ピュアボアソウルストーン
 
 Brilliant boar Soul Stone
-Brilliant boar Soul Stone
+ブリリアントボアのソウルストーン
 
 Lesser Elephant Soul Stone
-Lesser Elephant Soul Stone
+レッサーエレファント・ソウルストーン
 
 Medium Elephant Soul Stone
-Medium Elephant Soul Stone
+ミディアムエレファントソウルストーン
 
 Higher Elephant Soul Stone
-Higher Elephant Soul Stone
+ハイヤーエレファントソウルストーン
 
 Pure Elephant Soul Stone
-Pure Elephant Soul Stone
+ピュアエレファントソウルストーン
 
 Brilliant Elephant Soul Stone
-Brilliant Elephant Soul Stone
+ブリリアントエレファントソウルストーン
 
 Lesser Brown Bear Soul Stone
-Lesser Brown Bear Soul Stone
+レッサーブラウンベアーのソウルストーン
 
 Medium Brown Bear Soul Stone
-Medium Brown Bear Soul Stone
+ミディアムブラウンベアーのソウルストーン
 
 Higher Brown Bear Soul Stone
-Higher Brown Bear Soul Stone
+ハイヤーブラウンベアーのソウルストーン
 
 Pure Brown Bear Soul Stone
-Pure Brown Bear Soul Stone
+ピュアブラウンベアーのソウルストーン
 
 Brilliant Brown Bear Soul Stone
-Brilliant Brown Bear Soul Stone
+ブリリアントブラウンベアーのソウルストーン
 
 Lesser Snow Wolf Soul Stone
-Lesser Snow Wolf Soul Stone
+小雪狼のソウルストーン
 
 Medium Snow Wolf Soul Stone
-Medium Snow Wolf Soul Stone
+中型スノーウルフ・ソウルストーン
 
 Higher Snow Wolf Soul Stone
-Higher Snow Wolf Soul Stone
+ハイヤー スノー ウルフ ソウル ストーン
 
 Pure Snow Wolf Soul Stone
-Pure Snow Wolf Soul Stone
+ピュアスノーウルフソウルストーン
 
 Brilliant Snow Wolf Soul Stone
-Brilliant Snow Wolf Soul Stone
+ブリリアントスノーウルフソウルストーン
 
 Lesser Lion Soul Stone
-Lesser Lion Soul Stone
+レッサーライオンソウルストーン
 
 Medium Lion Soul Stone
-Medium Lion Soul Stone
+ミディアムライオンソウルストーン
 
 Higher Lion Soul Stone
-Higher Lion Soul Stone
+ハイヤーライオン・ソウル・ストーン
 
 Pure Lion Soul Stone
-Pure Lion Soul Stone
+ピュアライオンソウルストーン
 
 Brilliant Lion Soul Stone
-Brilliant Lion Soul Stone
+ブリリアントライオンソウルストーン
 
 Lesser Cheetah Soul Stone
-Lesser Cheetah Soul Stone
+レッサーチーター・ソウルストーン
 
 Medium Cheetah Soul Stone
-Medium Cheetah Soul Stone
+ミディアム・チーター・ソウルストーン
 
 Higher Cheetah Soul Stone
-Higher Cheetah Soul Stone
+ハイヤーチーター・ソウル・ストーン
 
 Pure Cheetah Soul Stone
-Pure Cheetah Soul Stone
+ピュアチーター・ソウルストーン
 
 Brilliant Cheetah Soul Stone
-Brilliant Cheetah Soul Stone
+ブリリアントチーターソウルストーン
 
 Lesser Tiger Soul Stone
-Lesser Tiger Soul Stone
+レッサータイガー・ソウルストーン
 
 Medium Tiger Soul Stone
-Medium Tiger Soul Stone
+ミディアムタイガー・ソウルストーン
 
 Higher Tiger Soul Stone
-Higher Tiger Soul Stone
+ハイヤータイガー・ソウル・ストーン
 
 Pure Tiger Soul Stone
-Pure Tiger Soul Stone
+ピュアタイガーソウルストーン
 
 Brilliant Tiger Soul Stone
-Brilliant Tiger Soul Stone
+ブリリアントタイガー・ソウルストーン
 
 Wild Frog Soul Stone
-Wild Frog Soul Stone
+ワイルドフロッグ ソウルストーン
 
 Wild Beetle Soul Stone
-Wild Beetle Soul Stone
+ワイルドビートルのソウルストーン
 
 Wild Golden Rooster Soul Stone
-Wild Golden Rooster Soul Stone
+ワイルド・ゴールデン・ルースター・ソウルストーン
 
 Wild Duck Soul Stone
-Wild Duck Soul Stone
+ワイルド・ダック・ソウルストーン
 
 Wild Donkey Soul Stone
-Wild Donkey Soul Stone
+ワイルドドンキー ソウルストーン
 
 Wild Goat Soul Stone
-Wild Goat Soul Stone
+ワイルドゴート・ソウルストーン
 
 Wild Steed Soul Stone
-Wild Steed Soul Stone
+ワイルドスティード・ソウルストーン
 
 Wild Cattle Soul Stone
-Wild Cattle Soul Stone
+ワイルドキャトル ソウルストーン
 
 Wild Shorthair Cat Soul Stone
-Wild Shorthair Cat Soul Stone
+ワイルドショートヘアキャットのソウルストーン
 
 Wild Hound Soul Stone
-Wild Hound Soul Stone
+ワイルドハウンド・ソウルストーン
 
 Wild Curly Cat Soul Stone
-Wild Curly Cat Soul Stone
+ワイルドカーリーキャット ソウルストーン
 
 Wild Shepard Dog Soul Stone
-Wild Shepard Dog Soul Stone
+ワイルドシェパードドッグ ソウルストーン
 
 Wild Parrot Soul Stone
-Wild Parrot Soul Stone
+ワイルドインコのソウルストーン
 
 Wild Lizard Soul Stone
-Wild Lizard Soul Stone
+ワイルドリザードのソウルストーン
 
 Wild Monkey Soul Stone
-Wild Monkey Soul Stone
+野生の猿のソウルストーン
 
 Wild Eagle Soul Stone
-Wild Eagle Soul Stone
+ワイルドイーグルのソウルストーン
 
 Wild Hippo Soul Stone
-Wild Hippo Soul Stone
+ワイルドヒッポーのソウルストーン
 
 Wild Boar Soul Stone
-Wild Boar Soul Stone
+イノシシのソウルストーン
 
 Wild Elephant Soul Stone
-Wild Elephant Soul Stone
+ワイルド・エレファント・ソウルストーン
 
 Wild Brown Bear Soul Stone
-Wild Brown Bear Soul Stone
+ワイルドブラウンベアーのソウルストーン
 
 Wild Snow Wolf Soul Stone
-Wild Snow Wolf Soul Stone
+ワイルド・スノー・ウルフ・ソウルストーン
 
 Wild Lion Soul Stone
-Wild Lion Soul Stone
+ワイルドライオンソウルストーン
 
 Wild Cheetah Soul Stone
-Wild Cheetah Soul Stone
+ワイルドチーター・ソウルストーン
 
 Wild Tiger Soul Stone
-Wild Tiger Soul Stone
+ワイルドタイガー・ソウルストーン
 
 Ice Tiger Soul Stone
-Ice Tiger Soul Stone
+アイスタイガー・ソウル・ストーン
 
 Pixie Super Soul Stone
-Pixie Super Soul Stone
+ピクシー・スーパーソウルストーン
 
 Sprite Super Soul Stone
-Sprite Super Soul Stone
+スプライト・スーパーソウルストーン
 
 Goblin Super Soul Stone
-Goblin Super Soul Stone
+ゴブリンスーパーソウルストーン
 
 Slime Super Soul Stone
-Slime Super Soul Stone
+スライムスーパーソウルストーン
 
 Night Cat Soul Stone
-Night Cat Soul Stone
+ナイトキャット・ソウルストーン
 
 Cherub Super Soul Stone
-Cherub Super Soul Stone
+ケルビムスーパーソウルストーン
 
 Primary Warpath
-Primary Warpath
+プライマリーウォーパス
 
 Medium Warpath
-Medium Warpath
+ミディアムウォーパス
 
 Advanced Warpath
-Advanced Warpath
+アドバンスド・ウォーパス
 
 Super Warpath
-Super Warpath
+スーパーウォーパス
 
 Primary Determination
-Primary Determination
+一次判定
 
 Medium Determination
-Medium Determination
+中位判定
 
 Advanced Determination
-Advanced Determination
+高度な判断力
 
 Super Determination
-Super Determination
+スーパーディシジョン
 
 Primary Focus
-Primary Focus
+主要な焦点
 
 Medium Focus
-Medium Focus
+中焦点
 
 Advanced Focus
-Advanced Focus
+アドバンスト・フォーカス
 
 Super Focus
-Super Focus
+スーパーフォーカス
 
 Primary Spirit Lock
-Primary Spirit Lock
+プライマリースピリットロック
 
 Medium Spirit Lock
-Medium Spirit Lock
+ミディアムスピリットロック
 
 Advanced Spirit Lock
-Advanced Spirit Lock
+アドバンスト・スピリット・ロック
 
 Super Spirit Lock
-Super Spirit Lock
+スーパースピリット・ロック
 
 Primary Destruction
-Primary Destruction
+一次破壊
 
 Medium Destruction
-Medium Destruction
+中破
 
 Advanced Destruction
-Advanced Destruction
+アドバンスト・デストラクション
 
 Super Destruction
-Super Destruction
+スーパーデストラクション
 
 Primary Soul Turmoil
-Primary Soul Turmoil
+プライマリー・ソウル・タームオイル
 
 Medium Soul Turmoil
-Medium Soul Turmoil
+ミディアム ソウル ターモイル
 
 Advanced Soul Turmoil
-Advanced Soul Turmoil
+アドバンスト・ソウル ターモイル
 
 Super Soul Turmoil
-Super Soul Turmoil
+スーパーソウルタームオイル
 
 Primary Ferocious
-Primary Ferocious
+プライマリーフェローシャス
 
 Medium Ferocious
-Medium Ferocious
+ミディアムフェローシャス
 
 Advanced Ferocious
-Advanced Ferocious
+アドバンスド・フェローシャス
 
 Super Ferocious
-Super Ferocious
+スーパーフェローシャス
 
 Primary Demonize
-Primary Demonize
+プライマリーデモナイズ
 
 Medium Demonize
-Medium Demonize
+ミディアムデモナイズ
 
 Advanced Demonize
-Advanced Demonize
+アドバンストデモナイズ
 
 Super Demonize
-Super Demonize
+スーパーデモンズ
 
 Primary Fury
-Primary Fury
+プライマリー・フューリー
 
 Medium Fury
-Medium Fury
+ミディアムフューリー
 
 Advanced Fury
-Advanced Fury
+アドバンスドフューリー
 
 Super Fury
-Super Fury
+スーパーフューリー
 
 Primary Magic Maniac
-Primary Magic Maniac
+プライマリーマジックマニアック
 
 Medium Magic Maniac
-Medium Magic Maniac
+ミディアムマジックマニアック
 
 Advanced Magic Maniac
-Advanced Magic Maniac
+アドバンストマジックマニアック
 
 Super Magic Maniac
-Super Magic Maniac
+スーパーマジックマニアック
 
 Primary Fighter Form
-Primary Fighter Form
+プライマリーファイターフォーム
 
 Medium Fighter Form
-Medium Fighter Form
+中型戦闘機形態
 
 Advanced Fighter Form
-Advanced Fighter Form
+アドバンスド・ファイター・フォーム
 
 Super Fighter Form
-Super Fighter Form
+スーパーファイターフォーム
 
 Primary Energy Form
-Primary Energy Form
+一次エネルギー形態
 
 Medium Energy Form
-Medium Energy Form
+中型エネルギー形態
 
 Advanced Energy Form
-Advanced Energy Form
+アドバンスト・エナジー・フォーム
 
 Super Energy Form
-Super Energy Form
+スーパーエナジーフォーム
 
 Primary Unbreakable Form
-Primary Unbreakable Form
+アンブレイカブル・プライマリーフォーム
 
 Medium Unbreakable Form
-Medium Unbreakable Form
+中型アンブレイカブル・フォーム
 
 Advanced Unbreakable Form
-Advanced Unbreakable Form
+高度なアンブレイカブル・フォーム
 
 Super Unbreakable Form
-Super Unbreakable Form
+スーパーアンブレイカブルフォーム
 
 Primary Spiritual Form
-Primary Spiritual Form
+主な霊的形態
 
 Medium Spiritual Form
-Medium Spiritual Form
+ミディアムスピリチュアルフォーム
 
 Advanced Spiritual Form
-Advanced Spiritual Form
+上級者向けスピリチュアルフォーム
 
 Super Spiritual Form
-Super Spiritual Form
+スーパースピリチュアルフォーム
 
 Primary Steady Form
-Primary Steady Form
+プライマリー・ステディ・フォーム
 
 Medium Steady Form
-Medium Steady Form
+ミディアム・ステディ・フォーム
 
 Advanced Steady Form
-Advanced Steady Form
+アドバンスト・ステディ・フォーム
 
 Super Steady Form
-Super Steady Form
+スーパー・ステディ・フォーム
 
 Primary Concentration Form
-Primary Concentration Form
+一次集中フォーム
 
 Medium Concentration Form
-Medium Concentration Form
+中濃度フォーム
 
 Advanced Concentration Form
-Advanced Concentration Form
+アドバンスト・コンセントレーション・フォーム
 
 Super Concentration Form
-Super Concentration Form
+超高濃度フォーム
 
 Primary Hunt Form
-Primary Hunt Form
+プライマリーハントフォーム
 
 Medium Hunt Form
-Medium Hunt Form
+ミディアムハントフォーム
 
 Advanced Hunt Form
-Advanced Hunt Form
+アドバンスド・ハント・フォーム
 
 Super Hunt Form
-Super Hunt Form
+スーパーハントフォーム
 
 Primary Soul Chaser Form
-Primary Soul Chaser Form
+プライマリーソウルチェイサーフォーム
 
 Medium Soul Chaser Form
-Medium Soul Chaser Form
+ミディアムソウルチェイサーフォーム
 
 Advanced Soul Chaser Form
-Advanced Soul Chaser Form
+ソウル・チェイサー上級フォーム
 
 Super Soul Chaser Form
-Super Soul Chaser Form
+スーパーソウルチェイサーフォーム
 
 Primary Berserk Form
-Primary Berserk Form
+プライマリー・バーサーク・フォーム
 
 Medium Berserk Form
-Medium Berserk Form
+ミディアムベルセルクフォーム
 
 Advanced Berserk Form
-Advanced Berserk Form
+アドバンスド・バーサーク・フォーム
 
 Super Berserk Form
-Super Berserk Form
+スーパーベルセルク・フォーム
 
 Primary Demon Form
-Primary Demon Form
+主な悪魔の姿
 
 Medium Demon Form
-Medium Demon Form
+中悪魔フォーム
 
 Advanced Demon Form
-Advanced Demon Form
+アドバンスト・デーモンフォーム
 
 Super Demon Form
-Super Demon Form
+スーパーデーモンフォーム
 
 Small Plier
-Small Plier
+小型プライヤー
 
 Large Plier
-Large Plier
+大型プライヤー
 
 Alloy Plier
-Alloy Plier
+合金ペンチ
 
 Small Toolbox
-Small Toolbox
+小型工具箱
 
 Large Toolbox
-Large Toolbox
+大型工具箱
 
 Alloy Toolbox
 Alloy Toolbox
 
 Repair Scroll
-Repair Scroll
+リペアスクロール
 
 Advanced Repair Scroll
-Advanced Repair Scroll
+アドバンスト・リペア・スクロール
 
 Super Repair Scroll
-Super Repair Scroll
+スーパーリペアスクロール
 
 Iron Crystal Water
-Iron Crystal Water
+鉄の結晶水
 
 Iron Crystal Water (Condensed)
-Iron Crystal Water (Condensed)
+鉄結晶水（濃縮）
 
 Iron Crystal Water (Essence)
-Iron Crystal Water (Essence)
+鉄の結晶水（エッセンス）
 
 World Broadcast Card
-World Broadcast Card
+ワールドブロードキャストカード
 
 Map Broadcast Card
-Map Broadcast Card
+地図放送カード
 
 Nearby Broadcast Card
-Nearby Broadcast Card
+周辺放送カード
 
 Gang Broadcast Card
-Gang Broadcast Card
+ギャング放送カード
 
 New Year Greeting Card
-New Year Greeting Card
+年賀状
 
 Christmas Greeting Card
-Christmas Greeting Card
+クリスマス・グリーティングカード
 
 Spring Festival Greeting Card
-Spring Festival Greeting Card
+春節のグリーティングカード
 
 Greeting Card
-Greeting Card
+グリーティングカード
 
 Wedding Vow Card
-Wedding Vow Card
+結婚誓約書
 
 Wedding Blessing Card
-Wedding Blessing Card
+ウェディングブレスカード
 
 Hearthstone
-Hearthstone
+ハースストーン
 
 Memory Butterfly
-Memory Butterfly
+メモリーバタフライ
 
 Karon Village Teleportation stone
-Karon Village Teleportation stone
+カロン村テレポーテーションストーン
 
 Sunset City Teleportation stone
-Sunset City Teleportation stone
+サンセットシティーのテレポートストーン
 
 Giant rock City Teleportation stone
-Giant rock City Teleportation stone
+巨岩都市テレポートストーン
 
 White Sands City Teleportation stone
-White Sands City Teleportation stone
+ホワイトサンズシティ テレポートストーン
 
 Tulip City Teleportation stone
-Tulip City Teleportation stone
+チューリップシティ・テレポートストーン
 
 Moon City Teleportation stone
-Moon City Teleportation stone
+ムーンシティ・テレポートストーン
 
 holy blood city Teleportation stone
-holy blood city Teleportation stone
+聖なる血の街 テレポーテーションストーン
 
 gouging  knife  City Teleportation stone
-gouging  knife  City Teleportation stone
+ガウジングナイフ シティ テレポーテーションストーン
 
 Violet City Teleportation stone
-Violet City Teleportation stone
+ヴァイオレットシティ テレポートストーン
 
 Night City Teleportation stone
-Night City Teleportation stone
+ナイトシティ・テレポートストーン
 
 Soul Burial Village Teleportation stone
-Soul Burial Village Teleportation stone
+魂葬村テレポートストーン
 
 Plague Abyss Teleportation stone
-Plague Abyss Teleportation stone
+ペスト・アビス テレポートストーン
 
 Orchid woods Village Teleportation stone
-Orchid woods Village Teleportation stone
+オーキッドウッド村 テレポートストーン
 
 City of the Ancient tower Teleportation stone
-City of the Ancient tower Teleportation stone
+古代の塔の街 テレポートストーン
 
 mist gods Ruins Teleportation stone
-mist gods Ruins Teleportation stone
+ミストゴッド遺跡 テレポートストーン
 
 West Sealing Tower Teleportation stone
-West Sealing Tower Teleportation stone
+西封鎖塔テレポートストーン
 
 Hermit Camp Teleportation stone
-Hermit Camp Teleportation stone
+ハーミットキャンプ テレポートストーン
 
 East Sealing Tower Teleportation stone
-East Sealing Tower Teleportation stone
+東封鎖塔テレポートストーン
 
 portal of the demon world Teleportation stone
-portal of the demon world Teleportation stone
+魔界の扉 テレポーテーションストーン
 
 Central Kingdom Teleportation stone
-Central Kingdom Teleportation stone
+セントラルキングダム テレポーテーションストーン
 
 Loki Union  Teleportation stone
-Loki Union  Teleportation stone
+ロキユニオン テレポーテーションストーン
 
 Garth Empire Teleportation stone
-Garth Empire Teleportation stone
+ガース帝国 テレポーテーションストーン
 
 Spirit Teleportation stone
-Spirit Teleportation stone
+スピリット テレポーテーション ストーン
 
 Ruins Teleportation stone
-Ruins Teleportation stone
+遺跡 テレポーテーションストーン
 
 seal Teleportation stone
-seal Teleportation stone
+印鑑 テレポートストーン
 
 Platinum Teleportation stone
-Platinum Teleportation stone
+プラチナ テレポーテーションストーン
 
 Black Gold Teleportation stone
-Black Gold Teleportation stone
+ブラックゴールド・テレポートストーン
 
 Cherry Wedding Candy
-Cherry Wedding Candy
+チェリーウェディングキャンディ
 
 Strawberry Wedding Candy
-Strawberry Wedding Candy
+ストロベリーウェディングキャンディ
 
 Pearl Wedding Candy
-Pearl Wedding Candy
+パールウェディングキャンディ
 
 Milk Wedding Candy
-Milk Wedding Candy
+ミルクウェディングキャンディ
 
 White Chocolate Candy
-White Chocolate Candy
+ホワイトチョコレートキャンディ
 
 Chocolate Candy
-Chocolate Candy
+チョコレート・キャンディ
 
 Gouging Knife Strike Force
-Gouging Knife Strike Force
+ガウジングナイフ ストライクフォース
 
 Innocent Moon
-Innocent Moon
+イノセントムーン
 
 Bloody Holy Blood
-Bloody Holy Blood
+ブラッディ・ホーリー・ブラッド
 
 Free White Sand
-Free White Sand
+フリーホワイトサンド
 
 Princess William
-Princess William
+ウィリアム王女
 
 White Tulip
-White Tulip
+ホワイトチューリップ
 
 Pet Experience Pill (small)
-Pet Experience Pill (small)
+ペット体験ピル（小）
 
 Pet Experience Pill (medium)
-Pet Experience Pill (medium)
+ペット用体験ピル（中）
 
 Pet Experience Pill (large)
-Pet Experience Pill (large)
+ペット体験ピル（大）
 
 Pet Experience Pill (potent)
-Pet Experience Pill (potent)
+ペット体験ピル（ポーション）
 
 Skill Proficiency Pill (small)
-Skill Proficiency Pill (small)
+スキル熟練度ピル(小)
 
 Skill Proficiency Pill (medium)
-Skill Proficiency Pill (medium)
+スキル熟練度ピル(中)
 
 Skill Proficiency Pill (large)
-Skill Proficiency Pill (large)
+スキル熟練度ピル（大）
 
 Behemoth Beast Crystal
-Behemoth Beast Crystal
+ベヒーモス・ビーストクリスタル
 
 Behemoth Lord Beast Crystal
-Behemoth Lord Beast Crystal
+ベヒーモス卿ビーストクリスタル
 
 Thunderbird Crystal
-Thunderbird Crystal
+サンダーバードクリスタル
 
 Thunderbird Lord Crystal
-Thunderbird Lord Crystal
+サンダーバード・ロードクリスタル
 
 Wind Spirit Crystal
-Wind Spirit Crystal
+風の精クリスタル
 
 Super Wind Spirit Crystal
-Super Wind Spirit Crystal
+スーパーウィンドスピリットクリスタル
 
 Phantom Wyvern Crystal
-Phantom Wyvern Crystal
+ファントムワイバーンクリスタル
 
 Bluish White Horse Crystal
-Bluish White Horse Crystal
+青白い馬の結晶
 
 Bluish White Horse—Cloud Crystal
-Bluish White Horse—Cloud Crystal
+青白い馬雲水晶
 
 Nightmare Beast Crystal
-Nightmare Beast Crystal
+ナイトメアビーストクリスタル
 
 Nightmare of Ice Crystal
-Nightmare of Ice Crystal
+ナイトメア・オブ・アイスクリスタル
 
 Nightmare of Fire Crystal
-Nightmare of Fire Crystal
+ナイトメア・オブ・ファイア・クリスタル
 
 Nightmare of Blood Crystal
-Nightmare of Blood Crystal
+ナイトメア・オブ・ブラッドクリスタル
 
 Wind Chaser Crystal
-Wind Chaser Crystal
+ウィンドチェイサー・クリスタル
 
 Wind Chaser-Precipice Crystal
-Wind Chaser-Precipice Crystal
+ウィンドチェイサー-Precipice Crystal
 
 Wind Chaser-Shadow Crystal
-Wind Chaser-Shadow Crystal
+ウィンドチェイサー-シャドークリスタル
 
 Wind Chaser-Mist Crystal
-Wind Chaser-Mist Crystal
+ウィンドチェイサー-ミストクリスタル
 
 Small Wind Chaser Crystal
-Small Wind Chaser Crystal
+小型ウインドチェイサー・クリスタル
 
 Fire-Capped Tit Crystal
-Fire-Capped Tit Crystal
+ファイアーキャップ・タイトクリスタル
 
 Blue fire plume Crystal
-Blue fire plume Crystal
+ブルーファイヤープルーム クリスタル
 
 Black fire plume Crystal
-Black fire plume Crystal
+ブラックファイヤープルーム クリスタル
 
 White fire plume Crystal
-White fire plume Crystal
+ホワイトファイヤー プルーム クリスタル
 
 Unicorn Crystal
-Unicorn Crystal
+ユニコーン・クリスタル
 
 Unicorn—Lightning Crystal
-Unicorn—Lightning Crystal
+ユニコーン-ライトニングクリスタル
 
 Unicorn—Light Chaser Crystal
-Unicorn—Light Chaser Crystal
+ユニコーンライト チェイサー クリスタル
 
 Unicorn Lord Crystal
-Unicorn Lord Crystal
+ユニコーンロードクリスタル
 
 Rock Spirit Beast Crystal
-Rock Spirit Beast Crystal
+ロックスピリットビーストクリスタル
 
 Ice Scale Leopard Crystal
-Ice Scale Leopard Crystal
+アイススケールレオパードクリスタル
 
 Ghost baby Crystal
-Ghost baby Crystal
+ゴーストベイビー クリスタル
 
 Shadow Wolf Crystal
-Shadow Wolf Crystal
+シャドウウルフクリスタル
 
 Angel Baby Crystal
-Angel Baby Crystal
+エンジェルベビークリスタル
 
 Iron Beetle Crystal
-Iron Beetle Crystal
+アイアン・ビートル・クリスタル
 
 Firefly Crystal
-Firefly Crystal
+ホタルクリスタル
 
 Werewolf Crystal
-Werewolf Crystal
+ウェアウルフ・クリスタル
 
 Sea Spirit Crystal
-Sea Spirit Crystal
+シースピリットクリスタル
 
 Minotaur Crystal
-Minotaur Crystal
+ミノタウロス・クリスタル
 
 Blood spirit Crystal
-Blood spirit Crystal
+血精クリスタル
 
 Mammoth Crystal
-Mammoth Crystal
+マンモスクリスタル
 
 Flame Spirit Crystal
-Flame Spirit Crystal
+炎の精霊クリスタル
 
 Glacier Giant Bear Crystal
-Glacier Giant Bear Crystal
+グレイシャージャイアントベアクリスタル
 
 Polar Ice Bear Crystal
-Polar Ice Bear Crystal
+ホッキョクグマ・クリスタル
 
 Frost Spirit Crystal
-Frost Spirit Crystal
+フロストスピリットクリスタル

@@ -1,4 +1,8 @@
+translate_item:
+	python scripts/translate_common.py "japanese/more/item.txt"
+
 translate_fusion_beast:
+
 	python scripts/translate_common.py "japanese/more/fusion beast.txt"
 
 
