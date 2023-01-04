@@ -1,4 +1,8 @@
+translate_talent_skill:
+	python scripts/translate_common.py "japanese/more/talent skill.txt"
+
 translate_role:
+
 	python scripts/translate_common.py "japanese/more/role.txt"
 
 translate_item:

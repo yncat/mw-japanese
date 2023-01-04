@@ -1,428 +1,428 @@
 Snuggle
-Snuggle
+スナッグル
 
 Blood Transfusion
-Blood Transfusion
+輸血
 
 Mining
-Mining
+鉱業
 
 Collect Herbs
-Collect Herbs
+ハーブを採取する
 
 Fishing
-Fishing
+フィッシング
 
 Draw Blood
-Draw Blood
+採血
 
 Cut Flesh
-Cut Flesh
+カットフレッシュ
 
 Skinning
-Skinning
+スキニング
 
 Turtle Breath
-Turtle Breath
+タートルブレス
 
 Anti-Corrosion
-Anti-Corrosion
+耐腐食性
 
 Poison Immunity
-Poison Immunity
+ポイズンイミュニティ
 
 Combat Stance
-Combat Stance
+コンバットスタンス
 
 Cleave Combo
-Cleave Combo
+薙ぎ払いコンボ
 
 Powerful Leap Attack
-Powerful Leap Attack
+強力なリープアタック
 
 Fighting Expert
-Fighting Expert
+ファイティングエキスパート
 
 Defensive Stance
-Defensive Stance
+ディフェンススタンス
 
 Sturdy Sentry
-Sturdy Sentry
+頑丈なセントリー
 
 Defensive Barrier
-Defensive Barrier
+ディフェンスバリア
 
 Precise Block
-Precise Block
+精密ブロック
 
 Severe Wound
-Severe Wound
+重度傷害
 
 Sixth Sense
-Sixth Sense
+シックスセンス
 
 Rampage Stance
-Rampage Stance
+ランペイジスタンス
 
 Cruel
-Cruel
+残酷
 
 Enrage
-Enrage
+エンラージ
 
 Unruly Rage
-Unruly Rage
+Unruly Rage（アンルーリーレイジ
 
 Defensive Stance
-Defensive Stance
+ディフェンススタンス
 
 Sturdy Sentry
-Sturdy Sentry
+頑丈なセントリー
 
 Defensive Barrier
-Defensive Barrier
+ディフェンスバリア
 
 Ancestral Protection
-Ancestral Protection
+祖先の保護
 
 Ruthless
-Ruthless
+冷酷
 
 Strength of Giant
-Strength of Giant
+巨人の強さ
 
 Assassin's Determination
-Assassin's Determination
+アサシンの決意
 
 Mental Barrier
-Mental Barrier
+メンタルバリア
 
 Seal Fate
-Seal Fate
+シールフェイト
 
 Executioner
-Executioner
+エグゼキューショナー
 
 Blind Faith
-Blind Faith
+盲信
 
 Shadow Blade
-Shadow Blade
+シャドウブレード
 
 Shadow of Erosion
-Shadow of Erosion
+シャドウ・オブ・エロージョン
 
 Hatred
-Hatred
+憎しみ
 
 Deadly Attack
-Deadly Attack
+デッドリーアタック
 
 Ruthless Strike
-Ruthless Strike
+無慈悲な一撃
 
 Aspect of the Wild
-Aspect of the Wild
+アスペクト オブ ザ ワイルド
 
 Survival Expert
-Survival Expert
+サバイバルエキスパート
 
 Wild Rage
-Wild Rage
+ワイルドレイジ
 
 Call of the Wilderness
-Call of the Wilderness
+荒野の呼び声
 
 Aspect of the Monkey
-Aspect of the Monkey
+猿の側面
 
 Sniper Training
-Sniper Training
+スナイパーの訓練
 
 Steady Hands
-Steady Hands
+ステディハンズ
 
 Hunter's Mark
-Hunter's Mark
+ハンターズ・マーク
 
 Aspect of the Cheetah
-Aspect of the Cheetah
+チーターの側面
 
 Aspect of the Hawk
-Aspect of the Hawk
+タカの側面
 
 Ice Lineage
-Ice Lineage
+アイスリネージ
 
 Desolate Winter
-Desolate Winter
+荒涼とした冬
 
 Ice Finger
-Ice Finger
+アイスフィンガー
 
 Chilling Cold
-Chilling Cold
+冷やし中華
 
 Cold Lineage
-Cold Lineage
+コールドリネージ
 
 Freezing Cold
-Freezing Cold
+凍てつく寒さ
 
 Crisp Wisdom
-Crisp Wisdom
+さわやかな知恵
 
 Ice Spirit
-Ice Spirit
+アイススピリット
 
 Frost Armor
-Frost Armor
+フロストアーマー
 
 Frost Lineage
-Frost Lineage
+フロスト系統
 
 Elven Fire
-Elven Fire
+エルヴンファイアー
 
 Enhanced Fireworks
-Enhanced Fireworks
+打ち上げ花火の強化
 
 Blazing Combo
-Blazing Combo
+ブレイジングコンボ
 
 Blessing of Flame
-Blessing of Flame
+炎の祝福
 
 Hellfire
-Hellfire
+ヘルファイア
 
 Energized Fireball
-Energized Fireball
+エナジャイズド・ファイアボール
 
 Mana Expert
-Mana Expert
+マナエキスパート
 
 Heart of Heat
-Heart of Heat
+熱の心臓
 
 Elven Dance
-Elven Dance
+エルヴン・ダンス
 
 Flame Combo
-Flame Combo
+フレイムコンボ
 
 Justice
-Justice
+ジャスティス
 
 Holy Light Echo
-Holy Light Echo
+ホーリーライトエコー
 
 Wisdom
-Wisdom
+知恵
 
 Skilled Healer
-Skilled Healer
+スキルドヒーラー
 
 Shelter
-Shelter
+シェルター
 
 Divine Whip
-Divine Whip
+ディバインウィップ
 
 Confession
-Confession
+告白
 
 Divine Reincarnation
-Divine Reincarnation
+神聖なる輪廻転生
 
 Holy Light Protection
-Holy Light Protection
+聖なる光の保護
 
 Ring of Life
-Ring of Life
+リング・オブ・ライフ
 
 Soul Link
-Soul Link
+ソウルリンク
 
 Enhanced Explosion
-Enhanced Explosion
+エンハンスドエクスプロージョン
 
 Rushing Tide
-Rushing Tide
+ラッシングタイド
 
 Dead Toxin Surge
-Dead Toxin Surge
+デッドトキシンサージ
 
 Soul Harmony
-Soul Harmony
+ソウル・ハーモニー
 
 Spiritual Concentration
-Spiritual Concentration
+精神的な集中力
 
 Extensive Heal
-Extensive Heal
+エクステンシブヒール
 
 Soul Insight
-Soul Insight
+ソウル・インサイト
 
 Wrath of Wraith
-Wrath of Wraith
+レイスの怒り
 
 Jungle Perseverance
-Jungle Perseverance
+ジャングルの忍耐
 
 Imperious
-Imperious
+インペリアー
 
 Focus
-Focus
+フォーカス
 
 Ravage
-Ravage
+ラベッジ
 
 Havoc
-Havoc
+ハボック
 
 Anger
-Anger
+怒り
 
 Brutal
-Brutal
+ブルータル
 
 Shielded
-Shielded
+シールド付き
 
 Dexterous
-Dexterous
+器用な方
 
 Tough
-Tough
+タフ
 
 Tai chi
-Tai chi
+太極拳
 
 Havoc (Aggressive)
-Havoc (Aggressive)
+ハボック(アグレッシブ)
 
 Tough (Aggressive)
-Tough (Aggressive)
+タフ（アグレッシブ）
 
 Tai chi (Aggressive)
-Tai chi (Aggressive)
+太極拳（アグレッシブ）
 
 Focus (Defensive)
-Focus (Defensive)
+フォーカス(防御)
 
 Ravage (Defensive)
-Ravage (Defensive)
+ラヴェッジ（ディフェンス）
 
 Havoc (Defensive)
-Havoc (Defensive)
+ハボック(ディフェンス)
 
 Anger (Defensive)
-Anger (Defensive)
+アンガー（防御）
 
 Brutal (Defensive)
-Brutal (Defensive)
+ブルータル（ディフェンス）
 
 Dexterous (Defensive)
-Dexterous (Defensive)
+デクセラス（ディフェンス）
 
 Tough (Defensive)
-Tough (Defensive)
+タフ(防御的)
 
 Tai chi (Defensive)
-Tai chi (Defensive)
+太極拳(ディフェンス)
 
 Focus (Aggressive)
-Focus (Aggressive)
+フォーカス(アグレッシブ)
 
 Ravage (Aggressive)
-Ravage (Aggressive)
+ラヴェッジ（アグレッシブ）
 
 Brutal (Aggressive)
-Brutal (Aggressive)
+Brutal（アグレッシブ）
 
 Anger (Aggressive)
-Anger (Aggressive)
+怒り（アグレッシブ）
 
 Tough (Aggressive)-2
-Tough (Aggressive)-2
+タフ（アグレッシブ）-2
 
 Ravage (Defensive)-2
-Ravage (Defensive)-2
+ラベッジ(防御)-2
 
 Havoc (Defensive)-2
-Havoc (Defensive)-2
+ハボック(防御)-2
 
 Brutal (Defensive)-2
-Brutal (Defensive)-2
+ブルータル（防御）-2
 
 Dexterous (Defensive)-2
-Dexterous (Defensive)-2
+器用（防御）-2
 
 Tough (Defensive)-2
-Tough (Defensive)-2
+タフネス（防御）-2
 
 Tai chi (Defensive)-2
-Tai chi (Defensive)-2
+太極拳（ディフェンス）-2
 
 Ravage (Aggressive)-2
-Ravage (Aggressive)-2
+ラヴェッジ（アグレッシブ）-2
 
 Havoc (Aggressive)-3
-Havoc (Aggressive)-3
+ハボック（アグレッシブ）-3
 
 Anger (Aggressive)
-Anger (Aggressive)
+怒り（アグレッシブ）
 
 Tough (Aggressive)-3
-Tough (Aggressive)-3
+タフ（アグレッシブ）-3
 
 Tai chi (Aggressive)-2
-Tai chi (Aggressive)-2
+太極拳（攻）-2
 
 Ravage (Defensive)-3
-Ravage (Defensive)-3
+ラベッジ（ディフェンス）-3
 
 Havoc (Defensive)-3
-Havoc (Defensive)-3
+ハボック（ディフェンス）-3
 
 Anger (Defensive)-2
-Anger (Defensive)-2
+怒り(防御)-2
 
 Dexterous (Defensive)-3
-Dexterous (Defensive)-3
+器用（ディフェンス）-3
 
 Tough (Defensive)-3
-Tough (Defensive)-3
+タフネス（ディフェンス）-3
 
 Tai chi (Defensive)-3
-Tai chi (Defensive)-3
+太極拳（ディフェンス）-3
 
 Focus (Aggressive)-2
-Focus (Aggressive)-2
+フォーカス(アグレッシブ)-2
 
 Ravage (Aggressive)-3
-Ravage (Aggressive)-3
+ラヴェッジ（アグレッシブ）-3
 
 Havoc (Aggressive)-4
-Havoc (Aggressive)-4
+ハボック（アグレッシブ）-4
 
 Tough (Aggressive)-4
-Tough (Aggressive)-4
+タフ（アグレッシブ）-4
 
 Ravage (Defensive)-4
-Ravage (Defensive)-4
+ラベッジ(防御)-4
 
 Havoc (Defensive)-4
-Havoc (Defensive)-4
+ハボック（ディフェンス）-4
 
 Brutal (Defensive)-3
-Brutal (Defensive)-3
+ブルータル（ディフェンス）-3
 
 Dexterous (Defensive)-4
-Dexterous (Defensive)-4
+器用（ディフェンス）-4
 
 Tough (Defensive)-4
-Tough (Defensive)-4
+タフネス（ディフェンス）-4
