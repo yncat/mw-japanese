@@ -1,131 +1,131 @@
 Behemoth Beast
-Behemoth Beast
+ベヒーモス・ビースト
 
 Behemoth Lord Beast
-Behemoth Lord Beast
+ベヒーモス卿ビースト
 
 Thunderbird
-Thunderbird
+サンダーバード
 
 Thunderbird Lord
-Thunderbird Lord
+サンダーバード・ロード
 
 Wind Spirit Guardian
-Wind Spirit Guardian
+風の精霊の守護者
 
 Super Wind Spirit Guardian
-Super Wind Spirit Guardian
+スーパーウィンドスピリットガーディアン
 
 Phantom Wyvern
-Phantom Wyvern
+ファントムワイバーン
 
 Bluish White Horse
-Bluish White Horse
+青白い馬
 
 Bluish White Horse—Cloud
-Bluish White Horse—Cloud
+青白い馬雲
 
 Nightmare Beast
-Nightmare Beast
+ナイトメア・ビースト
 
 Nightmare of Ice
-Nightmare of Ice
+ナイトメア・オブ・アイス
 
 Nightmare of Fire
-Nightmare of Fire
+ナイトメア・オブ・ファイヤー
 
 Nightmare of Blood
-Nightmare of Blood
+ナイトメア・オブ・ブラッド
 
 Wind Chaser
-Wind Chaser
+ウインドチェイサー
 
 Wind Chaser—Precipice
-Wind Chaser—Precipice
+ウィンドチェイサー-Precipice
 
 Wind Chaser—Shadow
-Wind Chaser—Shadow
+ウィンドチェイサー＝シャドウ
 
 Wind Chaser—Mist
-Wind Chaser—Mist
+ウィンドチェイサーミスト
 
 Small Wind Chaser
-Small Wind Chaser
+小型ウインドチェイサー
 
 Fire-Capped Tit
-Fire-Capped Tit
+ファイアーキャップティット
 
 Blue fire plume
-Blue fire plume
+ブルーファイヤーフェザー
 
 Black fire plume
-Black fire plume
+黒い火の粉
 
 White fire plume
-White fire plume
+白色ファイヤープルーム
 
 Unicorn
-Unicorn
+ユニコーン
 
 Unicorn—Lightning
-Unicorn—Lightning
+ユニコーン-ライトニング
 
 Unicorn—Light Chaser
-Unicorn—Light Chaser
+ユニコーンライトチェイサー
 
 Unicorn Lord
-Unicorn Lord
+ユニコーン・ロード
 
 Rock Spirit Beast Guardian
-Rock Spirit Beast Guardian
+ロックスピリットビーストガーディアン
 
 Ice Scale Leopard
-Ice Scale Leopard
+アイススケールレオパード
 
 Ghost baby Guardian
-Ghost baby Guardian
+ゴーストベイビー ガーディアン
 
 Shadow Wolf
-Shadow Wolf
+シャドウウルフ
 
 Angel Baby Guardian
-Angel Baby Guardian
+エンジェルベイビーガーディアン
 
 Iron Beetle
-Iron Beetle
+アイアンビートル
 
 Firefly
-Firefly
+ホタル
 
 Werewolf
-Werewolf
+ウェアウルフ
 
 Sea Spirit Guardian
-Sea Spirit Guardian
+海の精ガーディアン
 
 Minotaur
-Minotaur
+ミノタウロス
 
 Blood spirit guardian
-Blood spirit guardian
+血盟守護神
 
 Mammoth
-Mammoth
+マンモス
 
 Flame Spirit Guardian
-Flame Spirit Guardian
+炎の精霊の守護者
 
 Glacier Giant Bear
-Glacier Giant Bear
+グレイシャー・ジャイアント・ベア
 
 Polar Ice Bear
-Polar Ice Bear
+ホッキョクグマ
 
 Frost Spirit Guardian
-Frost Spirit Guardian
+フロストスピリットガーディアン
 
 Radiation-proof armor
-Radiation-proof armor
+耐放射線性アーマー
 
 Bullfinch
-Bullfinch
+ブルフィンチ

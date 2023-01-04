@@ -1,3 +1,7 @@
+translate_fusion_beast:
+	python scripts/translate_common.py "japanese/more/fusion beast.txt"
+
+
 translate_equipment:
 	python scripts/translate_common.py "japanese/more/equipment.txt"
 
