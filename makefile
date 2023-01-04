@@ -1,6 +1,7 @@
-.PHONY: init translate
+translate_mapname:
+	python scripts/translate_mapname.py japanese/mapname.txt
 
-translate:
+translate_terrain:
 	python scripts/translate_terrain.py japanese/terrain.txt
 
 init:
