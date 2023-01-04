@@ -1,4 +1,8 @@
+translate_equipment:
+	python scripts/translate_common.py "japanese/more/equipment.txt"
+
 translate_combat_skill:
+
 	python scripts/translate_common.py "japanese/more/combat skill.txt"
 
 translate_basic:

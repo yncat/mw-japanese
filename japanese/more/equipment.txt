@@ -1,3557 +1,3557 @@
 cudgel
-cudgel
+こん棒
 
 bamboo bow
-bamboo bow
+笹竜胆
 
 straw hat
-straw hat
+麦わら帽子
 
 mahogany necklace
-mahogany necklace
+マホガニー・ネックレス
 
 tulle cape
-tulle cape
+チュールケープ
 
 cotton clothes
-cotton clothes
+めんぷく
 
 Bark Belt
-Bark Belt
+バークベルト
 
 straw sandals
-straw sandals
+わらじ
 
 linen trousers
-linen trousers
+麻ズボン
 
 mahogany bracelet
-mahogany bracelet
+マホガニー・ブレスレット
 
 mahogany ring (left)
-mahogany ring (left)
+マホガニーリング（左）
 
 mahogany ring (right)
-mahogany ring (right)
+マホガニーリング（右）
 
 iron sword
-iron sword
+鉄剣
 
 iron hammer
-iron hammer
+鉄鎚
 
 dagger
-dagger
+短剣
 
 wooden bow
-wooden bow
+木弓
 
 Ivy Staff
-Ivy Staff
+アイビースタッフ
 
 Ivy Scepter
-Ivy Scepter
+アイビーセプター
 
 bronze helmet
-bronze helmet
+銅兜
 
 Golden necklace
-Golden necklace
+ゴールデンネックレス
 
 Bronze Shoulders
-Bronze Shoulders
+ブロンズショルダー
 
 bronze armor
-bronze armor
+銅鎧
 
 Bronze Belt
-Bronze Belt
+ブロンズベルト
 
 Bronze Boots
-Bronze Boots
+ブロンズブーツ
 
 Bronze Leggings
-Bronze Leggings
+ブロンズレギンス
 
 gold bracelet
-gold bracelet
+ゴールドブレスレット
 
 gold ring (left)
-gold ring (left)
+金の指輪（左）
 
 gold ring (right)
-gold ring (right)
+金の指輪（右）
 
 silk hat
-silk hat
+シルクハット
 
 jade necklace
-jade necklace
+ジェードネックレス
 
 silk cape
-silk cape
+シルクのケープ
 
 silk robe
-silk robe
+きぬのころも
 
 silk belt
-silk belt
+絹の帯
 
 silk boots
-silk boots
+絹長靴
 
 silk pants
-silk pants
+シルクパンツ
 
 jade bracelet
-jade bracelet
+翡翠の腕輪
 
 jade ring (left)
-jade ring (left)
+翡翠の指輪（左）
 
 jade ring (right)
-jade ring (right)
+翡翠の指輪（右）
 
 Sword of Fighter
-Sword of Fighter
+ソード・オブ・ファイター
 
 machete of Berserker
-machete of Berserker
+バーサーカーのマチェーテ
 
 Blade of Killer
-Blade of Killer
+ブレイド・オブ・キラー
 
 Bow of chaser
-Bow of chaser
+チェイサーの弓
 
 Staff of Wisdom
-Staff of Wisdom
+知恵の杖
 
 Staff of Nature
-Staff of Nature
+自然界のスタッフ
 
 Scepter of Mercy
-Scepter of Mercy
+セプター オブ マーシー
 
 Scepter of Bones
-Scepter of Bones
+セプターオブボーンズ
 
 soft pouch
-soft pouch
+ソフトポーチ
 
 fighter Helm
-fighter Helm
+ファイターヘルム
 
 fighter 's Courage
-fighter 's Courage
+ファイターズ勇気
 
 fighter  Shoulders
-fighter  Shoulders
+ファイターズショルダー
 
 fighter  Armor
-fighter  Armor
+ファイターアーマー
 
 fighter  Waistguard
-fighter  Waistguard
+ファイターウエストガード
 
 fighter  Boots
-fighter  Boots
+ファイターズブーツ
 
 fighter  Legplates
-fighter  Legplates
+ファイターズレッグプレート
 
 fighter  Bracers
-fighter  Bracers
+ファイターブレーカー
 
 fighter  ring (left)
-fighter  ring (left)
+ファイターズリング
 
 fighter  ring (right)
-fighter  ring (right)
+ファイターズリング
 
 Berserker Helm
-Berserker Helm
+ベルセルクヘルメット
 
 Berserker's power
-Berserker's power
+バーサーカーの力
 
 Berserker Shoulders
-Berserker Shoulders
+バーサーカーショルダー
 
 Berserker Armor
-Berserker Armor
+バーサークアーマー
 
 Berserker Waistguard
-Berserker Waistguard
+ベルセルク・ウエストガード
 
 Berserker Boots
-Berserker Boots
+バーサーカーブーツ
 
 Berserker Legplates
-Berserker Legplates
+バーサークレッグプレート
 
 Berserker Bracers
-Berserker Bracers
+バーサーカーブレイカー（Berserker Bracers
 
 Berserker Ring (Left)
-Berserker Ring (Left)
+ベルセルク・リング（左）
 
 Berserker Ring (right)
-Berserker Ring (right)
+バーサーカーリング（右）
 
 killer Mask
-killer Mask
+キラーマスク
 
 killer's lethality
-killer's lethality
+殺傷力
 
 killer Cloak
-killer Cloak
+キラー・クローク
 
 killer Armor
-killer Armor
+キラーアーマー
 
 killer Waistguard
-killer Waistguard
+キラーウエストガード
 
 killer Boots
-killer Boots
+キラーブーツ
 
 killer Leggings
-killer Leggings
+キラーレギンス
 
 killer Gloves
-killer Gloves
+キラーグローブ
 
 Killing Ring (Left)
-Killing Ring (Left)
+キリング（左）
 
 Killing Ring (Right)
-Killing Ring (Right)
+キリング(右)
 
 chaser Hat
-chaser Hat
+チェイサーハット
 
 chaser's gaze
-chaser's gaze
+追手門
 
 chaser Cloak
-chaser Cloak
+チェイサークローク
 
 chaser jacket
-chaser jacket
+チェイサージャケット
 
 chaser Waistguard
-chaser Waistguard
+チェイサーウエストガード
 
 chaser Riding Boots
-chaser Riding Boots
+チェイサー・ライディング・ブーツ
 
 chaser Leather Pants
-chaser Leather Pants
+チェイサーレザーパンツ
 
 chaser Gauntlets
-chaser Gauntlets
+チェイサーガントレット
 
 Eagle eye ring (left)
-Eagle eye ring (left)
+イーグルアイリング（左）
 
 Eagle eye ring (right)
-Eagle eye ring (right)
+イーグルアイリング（右）
 
 Wisdom Hat
-Wisdom Hat
+ウィズダム・ハット
 
 magic from Wisdom
-magic from Wisdom
+叡智の魔法
 
 Wisdom Cloak
-Wisdom Cloak
+ウィズダム・マント
 
 Wisdom Robe
-Wisdom Robe
+ウィズダム・ローブ
 
 Wisdom Belt
-Wisdom Belt
+ウィズダム・ベルト
 
 Wisdom Boots
-Wisdom Boots
+ウィズダムブーツ
 
 Wisdom Pants
-Wisdom Pants
+ウィズダム・パンツ
 
 Wisdom bracelet
-Wisdom bracelet
+ウィズダム・ブレスレット
 
 Wisdom Ring (left)
-Wisdom Ring (left)
+ウィズダム・リング（左）
 
 Wisdom Ring (right)
-Wisdom Ring (right)
+ウィズダム・リング（右）
 
 colorful wreath
-colorful wreath
+カラフル・リース
 
 breath of nature
-breath of nature
+てんき
 
 Leaf wings
-Leaf wings
+葉の羽
 
 green robe
-green robe
+りょくしょくふく
 
 vine Belt
-vine Belt
+つるベルト
 
 lotus Boots
-lotus Boots
+蓮の靴
 
 green hakama
-green hakama
+緑袴
 
 nature bracelet
-nature bracelet
+ネイチャーブレスレット
 
 nature ring (left)
-nature ring (left)
+ネイチャーリング
 
 nature ring (right)
-nature ring (right)
+ネイチャーリング（右）
 
 charity Hat
-charity Hat
+チャリティハット
 
 forgiving from heart
-forgiving from heart
+心許し
 
 benevolence Cloak
-benevolence Cloak
+慈悲のマント
 
 Fraternity Robe
-Fraternity Robe
+フラタニティローブ
 
 Kindness Girdle
-Kindness Girdle
+優しさガードル
 
 Compassion Boots
-Compassion Boots
+コンパッションブーツ
 
 Fraternity Leggings
-Fraternity Leggings
+フラタニティレギンス
 
 loving Bracelet
-loving Bracelet
+ラビングブレスレット
 
 loving ring (left)
-loving ring (left)
+愛の輪
 
 loving ring (right)
-loving ring (right)
+愛の輪
 
 Skull Mask
-Skull Mask
+スカルマスク
 
 odor of decay
-odor of decay
+腐臭
 
 Corpse Cloak
-Corpse Cloak
+コープスマント
 
 Carrion Tabard
-Carrion Tabard
+カリオンタバード
 
 shroud belt
-shroud belt
+シュラウドベルト
 
 Zombie Boots
-Zombie Boots
+ゾンビブーツ
 
 Skeleton Leggings
-Skeleton Leggings
+スケルトンレギンス
 
 Bone Bracelet
-Bone Bracelet
+ボーンブレスレット
 
 Bone Ring (left)
-Bone Ring (left)
+ボーンリング（左）
 
 Bone Ring (right)
-Bone Ring (right)
+ボーンリング（右）
 
 Ocean Roaring
-Ocean Roaring
+海の咆哮
 
 Mountain Crushing
-Mountain Crushing
+山の粉砕
 
 Shadow Kissing
-Shadow Kissing
+シャドーキッス
 
 Wind Dancing
-Wind Dancing
+ウィンドダンシング
 
 Ice Sighing
-Ice Sighing
+氷のため息
 
 Fire Enveloping
-Fire Enveloping
+防火区画
 
 Light Weaving
-Light Weaving
+ライトウィービング
 
 Soul Sucking
-Soul Sucking
+ソウル・サッキング
 
 Fencer helmet
-Fencer helmet
+フェンサーヘルメット
 
 Fencer's Heart
-Fencer's Heart
+フェンサーズハート
 
 Fencer Shoulder Guard
-Fencer Shoulder Guard
+フェンサーショルダーガード
 
 Fencer Armor
-Fencer Armor
+フェンサーアーマー
 
 Fencer waist guard
-Fencer waist guard
+フェンサーウエストガード
 
 Fencer boots
-Fencer boots
+フェンサーブーツ
 
 Fencer Legplates
-Fencer Legplates
+フェンサーレッグプレート
 
 Fencer Bracers
-Fencer Bracers
+フェンサーブレーカー
 
 Fencer Ring (Left)
-Fencer Ring (Left)
+フェンサーリング（左）
 
 Fencer Ring (Right)
-Fencer Ring (Right)
+フェンサーリング（右）
 
 Gladiator Helmet
-Gladiator Helmet
+グラディエーターヘルメット
 
 Pulse of Gladiator
-Pulse of Gladiator
+グラディエーターパルス
 
 Gladiator Shoulders
-Gladiator Shoulders
+グラディエーターショルダー
 
 Gladiator Armor
-Gladiator Armor
+グラディエーターアーマー
 
 Gladiator Waistguard
-Gladiator Waistguard
+グラディエーター・ウエストガード
 
 Gladiator Boots
-Gladiator Boots
+グラディエーターブーツ
 
 Gladiator Legplates
-Gladiator Legplates
+グラディエーターレッグプレート
 
 Gladiator Bracers
-Gladiator Bracers
+グラディエーターブレーカー
 
 Gladiator ring (Left)
-Gladiator ring (Left)
+グラディエーターリング（左）
 
 Gladiator ring (Right)
-Gladiator ring (Right)
+グラディエーターリング（右）
 
 Tearer mask
-Tearer mask
+ティーラーマスク
 
 Judgment Of Tearer
-Judgment Of Tearer
+ジャッジメント オブ ティーラー
 
 Tearer Cloak
-Tearer Cloak
+ティアラ・マント
 
 tearer suit
-tearer suit
+テーラーメード・スーツ
 
 tearer Belt
-tearer Belt
+ティアラベルト
 
 tearer Boots
-tearer Boots
+ティアラブーツ
 
 tearer Leggings
-tearer Leggings
+ティアレギンス
 
 tearer Gloves
-tearer Gloves
+ティアラグローブ
 
 tearer Ring (Left)
-tearer Ring (Left)
+ティアラリング（左）
 
 tearer Ring (Right)
-tearer Ring (Right)
+ティアラリング（右）
 
 Windrunner Hood
-Windrunner Hood
+ウィンドランナーフード
 
 Windrunner's Harvest
-Windrunner's Harvest
+ウィンドランナーの収穫
 
 Windrunner Cloak
-Windrunner Cloak
+ウィンドランナークローク
 
 Windrunner Armor
-Windrunner Armor
+ウィンドランナーアーマー
 
 Windrunner Belt
-Windrunner Belt
+ウィンドランナーベルト
 
 Windrunner Boots
-Windrunner Boots
+ウィンドランナーブーツ
 
 Windrunner Leather Pants
-Windrunner Leather Pants
+ウィンドランナーレザーパンツ
 
 Windrunner Gauntlets
-Windrunner Gauntlets
+ウィンドランナー ガントレット
 
 Windrunner ring (Left)
-Windrunner ring (Left)
+ウィンドランナーリング（左）
 
 Windrunner ring (Right)
-Windrunner ring (Right)
+ウィンドランナーリング（右）
 
 Freezing cap
-Freezing cap
+フリージングキャップ
 
 Freezing pendant
-Freezing pendant
+フリージングペンダント
 
 Freezing Cloak
-Freezing Cloak
+フリージングマント
 
 Freezing Robe
-Freezing Robe
+フリージングローブ
 
 Freezing Belt
-Freezing Belt
+フリージングベルト
 
 Freezing boots
-Freezing boots
+フリージングブーツ
 
 Freezing Leggings
-Freezing Leggings
+フリージングレギンス
 
 Freezing Bracelet
-Freezing Bracelet
+フリージング・ブレスレット
 
 Freezing ring (Left)
-Freezing ring (Left)
+フリージングリング（左）
 
 Freezing ring (Right)
-Freezing ring (Right)
+フリージングリング（右）
 
 Flaming headband
-Flaming headband
+炎のカチューシャ
 
 Flaming Pendant
-Flaming Pendant
+炎のペンダント
 
 Flaming Cloak
-Flaming Cloak
+フレイムマント
 
 Flaming Robe
-Flaming Robe
+炎のローブ
 
 Flaming Belt
-Flaming Belt
+フレーミングベルト
 
 Flaming Boots
-Flaming Boots
+フレイミングブーツ
 
 Flaming Leggings
-Flaming Leggings
+炎のレギンス
 
 Flaming Bracelet
-Flaming Bracelet
+炎のブレスレット
 
 Flaming ring (Left)
-Flaming ring (Left)
+炎のリング（左）
 
 Flaming ring (Left)
-Flaming ring (Left)
+炎のリング（左）
 
 Radiant Hood
-Radiant Hood
+ラディアントフード
 
 Radiant Pendant
-Radiant Pendant
+放射性物質
 
 Radiant Cloak
-Radiant Cloak
+ラディアントマント
 
 Radiant Tabard
-Radiant Tabard
+ラディアントタバード
 
 Radiant Belt
-Radiant Belt
+ラジアントベルト
 
 Radiant Boots
-Radiant Boots
+ラディアントブーツ
 
 Radiant Leggings
-Radiant Leggings
+ラディアントレギンス
 
 Radiant Bracelet
-Radiant Bracelet
+ラディアントブレスレット
 
 Radiant Ring (Left)
-Radiant Ring (Left)
+ラディアントリング（左）
 
 Radiant Ring (Right)
-Radiant Ring (Right)
+ラディアントリング（右）
 
 Ghost Mask
-Ghost Mask
+ゴーストマスク
 
 Ghost Pendant
-Ghost Pendant
+ゴーストペンダント
 
 Ghost Cloak
-Ghost Cloak
+ゴーストマント
 
 Ghost Robe
-Ghost Robe
+ゴーストローブ
 
 Ghost Belt
-Ghost Belt
+ゴーストベルト
 
 Ghost Boots
-Ghost Boots
+ゴーストブーツ
 
 Ghost Leggings
-Ghost Leggings
+ゴーストレギンス
 
 Ghost Bracelet
-Ghost Bracelet
+ゴーストブレスレット
 
 Ghost Ring (Left)
-Ghost Ring (Left)
+ゴーストリング（左）
 
 Ghost Ring (Right)
-Ghost Ring (Right)
+ゴーストリング（右）
 
 Solemn Oath
-Solemn Oath
+厳粛なる誓い
 
 Savage invader
-Savage invader
+野蛮な侵略者
 
 Grief Bringer
-Grief Bringer
+グリーフブリンガー
 
 Mutant Slayer
-Mutant Slayer
+ミュータントスレイヤー
 
 Frost Sorrow
-Frost Sorrow
+フロスト・ソロー
 
 Scorching Torch
-Scorching Torch
+灼熱のトーチ
 
 Praying seraph
-Praying seraph
+祈りのセラフ
 
 Griffin Claw
-Griffin Claw
+グリフィンクロー
 
 hot bag
-hot bag
+ホットバッグ
 
 Honor Helm
-Honor Helm
+オナーヘルメット
 
 Honor Pendant
-Honor Pendant
+オナーペンダント
 
 Honor Shoulders
-Honor Shoulders
+オナーショルダー
 
 Honor Armor
-Honor Armor
+オナーアーマー
 
 Honor Belt
-Honor Belt
+オナーベルト
 
 Honor Boots
-Honor Boots
+オナーブーツ
 
 Honor Legplates
-Honor Legplates
+オナーレッグプレート
 
 Honorable Bracers
-Honorable Bracers
+名誉あるブレーカー
 
 Honor Ring (Left)
-Honor Ring (Left)
+オナーリング（左）
 
 Honor Ring (Right)
-Honor Ring (Right)
+オナーリング（右）
 
 Barbarian Helm
-Barbarian Helm
+バーバリアンヘルメット
 
 Barbarian Pendant
-Barbarian Pendant
+バーバリアンペンダント
 
 Barbarian Shoulders
-Barbarian Shoulders
+バーバリアン・ショルダー
 
 Barbarian Heavy Armor
-Barbarian Heavy Armor
+バーバリアンヘビーアーマー
 
 Barbarian Waistguard
-Barbarian Waistguard
+バーバリアンウエストガード
 
 Barbarian Boots
-Barbarian Boots
+バーバリアンブーツ
 
 Barbarian Legplates
-Barbarian Legplates
+バーバリアンレッグプレート
 
 Barbarian Bracers
-Barbarian Bracers
+バーバリアンブレーカー
 
 Barbarian Ring (Left)
-Barbarian Ring (Left)
+バーバリアンリング（左）
 
 Barbarian Ring (Right)
-Barbarian Ring (Right)
+バーバリアンリング（右）
 
 ascetic mask
-ascetic mask
+瞑想面
 
 Ascetic Pendant
-Ascetic Pendant
+アセンティックペンダント
 
 Ascetic cloak
-Ascetic cloak
+袈裟懸けのマント
 
 Ascetic Suit
-Ascetic Suit
+アセンティック・スーツ
 
 Ascetic Belt
-Ascetic Belt
+アセンブリーベルト
 
 Ascetic Boots
-Ascetic Boots
+アスケティックブーツ
 
 Ascetic Leggings
-Ascetic Leggings
+アスケティックレギンス
 
 Ascetic Gloves
-Ascetic Gloves
+アセンティックグローブ
 
 Ascetic ring (Left)
-Ascetic ring (Left)
+アセンティックリング（左）
 
 Ascetic ring (Right)
-Ascetic ring (Right)
+アセンティックリング（右）
 
 Raider Hat
-Raider Hat
+レイダーハット
 
 Raider Pendant
-Raider Pendant
+レイダー中
 
 Raider Cape
-Raider Cape
+レイダーケープ
 
 Raider Leather Armor
-Raider Leather Armor
+レイダーレザーアーマー
 
 Raider Belt
-Raider Belt
+レイダーベルト
 
 Raider Boots
-Raider Boots
+レイダーブーツ
 
 Raider Leather Pants
-Raider Leather Pants
+レイダーレザーパンツ
 
 Raider Gauntlets
-Raider Gauntlets
+レイダーガントレット
 
 Raider Ring (Left)
-Raider Ring (Left)
+レイダーリング（左）
 
 Raider Ring (Right)
-Raider Ring (Right)
+レイダーリング（右）
 
 Frost Helm
-Frost Helm
+フロストヘルメット
 
 Frost pendant
-Frost pendant
+フロストペンダント
 
 Frost shawl
-Frost shawl
+フロストショール
 
 Frost Armor
-Frost Armor
+フロストアーマー
 
 Frost Belt
-Frost Belt
+フロストベルト
 
 Frost Boots
-Frost Boots
+フロストブーツ
 
 Frost Leggings
-Frost Leggings
+フロストレギンス
 
 Frost Bracelet
-Frost Bracelet
+フロストブレスレット
 
 Frost Ring (Left)
-Frost Ring (Left)
+フロストリング（左）
 
 Frost Ring (Right)
-Frost Ring (Right)
+フロストリング（右）
 
 wildfire helmet
-wildfire helmet
+やまがたろう
 
 Wildfire Pendant
-Wildfire Pendant
+ワイルドファイア ペンダント
 
 Wildfire Cloak
-Wildfire Cloak
+ワイルドファイアマント
 
 Wildfire Armor
-Wildfire Armor
+ワイルドファイアアーマー
 
 Wildfire Belt
-Wildfire Belt
+ワイルドファイア・ベルト
 
 Wildfire Boots
-Wildfire Boots
+ワイルドファイアブーツ
 
 Wildfire Leggings
-Wildfire Leggings
+ワイルドファイアレギンス
 
 wildfire bracelets
-wildfire bracelets
+山火事ブレス
 
 wildfire ring (Left)
-wildfire ring (Left)
+やまびこリング（左）
 
 wildfire ring (Right)
-wildfire ring (Right)
+やまびこリング（右）
 
 angel halo
-angel halo
+エンジェル・ハロー
 
 Angel's Tears
-Angel's Tears
+エンジェルズ・ティアーズ
 
 Angel Wings
-Angel Wings
+エンジェルウィング
 
 Angel Clothes
-Angel Clothes
+天使の衣服
 
 Angel Girdle
-Angel Girdle
+エンジェルガードル
 
 Angel Boots
-Angel Boots
+エンジェルブーツ
 
 Angel Leggings
-Angel Leggings
+天使のレギンス
 
 angel bracelet
-angel bracelet
+エンジェル・ブレスレット
 
 Angel ring (Left)
-Angel ring (Left)
+エンジェルリング（左）
 
 angel ring (Right)
-angel ring (Right)
+エンジェルリング（右）
 
 Lich Mask
-Lich Mask
+リッチマスク
 
 Legacy of the Lich
-Legacy of the Lich
+レガシー・オブ・ザ・リッチ
 
 Lich Cloak
-Lich Cloak
+リッチマント
 
 Lich Tabard
-Lich Tabard
+ライトタバード
 
 Lich Belt
-Lich Belt
+リッチベルト
 
 Lich Boots
-Lich Boots
+リッチブーツ
 
 Lich Leggings
-Lich Leggings
+リッチレギンス
 
 Lich Bracelet
-Lich Bracelet
+リッチブレスレット
 
 Lich Ring (Left)
-Lich Ring (Left)
+リッチリング(左)
 
 Lich Ring (Right)
-Lich Ring (Right)
+リッチリング（右）
 
 Ribcracker
-Ribcracker
+リブクラッカー
 
 Tornado Scourge
-Tornado Scourge
+トルネードスカージ
 
 Invisible Claw
-Invisible Claw
+インビジブルクロー
 
 Heart Hitter
-Heart Hitter
+ハートヒッター
 
 Pelting Hail
-Pelting Hail
+ペッティングヘイル
 
 Thousands Blast
-Thousands Blast
+千本桜
 
 Inspire Scepter
-Inspire Scepter
+インスパイアセプター
 
 Terror Scepter
-Terror Scepter
+テラーセプター
 
 Champion Helm
-Champion Helm
+チャンピオンヘルム
 
 Champion Pendant
-Champion Pendant
+チャンピオンの期間
 
 Champion Shoulders
-Champion Shoulders
+チャンピオンショルダー
 
 Champion armor
-Champion armor
+チャンピオンアーマー
 
 champion belt
-champion belt
+チャンピオンベルト
 
 Champion Boots
-Champion Boots
+チャンピオンブーツ
 
 Champion Legplates
-Champion Legplates
+チャンピオンレッグプレート
 
 Champion bracers
-Champion bracers
+チャンピオン・ブレーカー
 
 Champion ring (Left)
-Champion ring (Left)
+チャンピオンリング（左）
 
 Champion ring (Right)
-Champion ring (Right)
+チャンピオンリング（右）
 
 Rampage Helm
-Rampage Helm
+ランペイジヘルメット
 
 Rampage Pendant
-Rampage Pendant
+暴れまわる時代
 
 Rampage Pauldrons
-Rampage Pauldrons
+ランペイジポールドロン
 
 Rampage Armor
-Rampage Armor
+ランペイジ・アーマー
 
 Rampage Belt
-Rampage Belt
+ランペイジベルト
 
 Rampage Boots
-Rampage Boots
+Rampage ブーツ
 
 Rampage Legplates
-Rampage Legplates
+ランペイジ・レッグプレート
 
 Rampage Bracers
-Rampage Bracers
+暴れん坊将軍ブレーカー
 
 Rampage ring (Left)
-Rampage ring (Left)
+ランペイジのリング（左）
 
 Rampage ring (Right)
-Rampage ring (Right)
+ランペイジのリング（右）
 
 Stealth Mask
-Stealth Mask
+ステルスマスク
 
 Stealth Pendant
-Stealth Pendant
+ステルスペンダント
 
 Stealth Cloak
-Stealth Cloak
+ステルスマント
 
 Stealth Suit
-Stealth Suit
+ステルススーツ
 
 Stealth Belt
-Stealth Belt
+ステルスベルト
 
 Stealth Boots
-Stealth Boots
+ステルスブーツ
 
 Stealth shorts
-Stealth shorts
+ステルスショーツ
 
 Stealth Gloves
-Stealth Gloves
+ステルスグローブ
 
 Stealth Ring (Left)
-Stealth Ring (Left)
+ステルスリング（左）
 
 Stealth Ring (Right)
-Stealth Ring (Right)
+ステルスリング（右）
 
 sniper hat
-sniper hat
+スナイパーは
 
 Sniper Pendant
-Sniper Pendant
+スナイパーペンダント
 
 sniper cape
-sniper cape
+狙撃兵のマント
 
 Sniper armor
-Sniper armor
+スナイパーアーマー
 
 Sniper Belt
-Sniper Belt
+スナイパーベルト
 
 sniper boots
-sniper boots
+ぼうぎょぐつ
 
 Sniper Leggings
-Sniper Leggings
+スナイパーレギンス
 
 Sniper Bracers
-Sniper Bracers
+スナイパーブレーカー
 
 sniper ring (left)
-sniper ring (left)
+スナイパーリング（左）
 
 sniper ring (right)
-sniper ring (right)
+スナイパーリング（右）
 
 Blizzard Hat
-Blizzard Hat
+ブリザードハット
 
 Blizzard Charm
-Blizzard Charm
+ブリザードチャーム
 
 Blizzard Cloak
-Blizzard Cloak
+ブリザードマント
 
 Blizzard Robe
-Blizzard Robe
+ブリザードローブ
 
 Blizzard Belt
-Blizzard Belt
+ブリザードベルト
 
 Blizzard Boots
-Blizzard Boots
+ブリザードブーツ
 
 Blizzard Leggings
-Blizzard Leggings
+ブリザードレギンス
 
 Blizzard Bracelet
-Blizzard Bracelet
+ブリザード・ブレスレット
 
 Blizzard Ring (Left)
-Blizzard Ring (Left)
+ブリザードリング（左）
 
 blizzard ring (Right)
-blizzard ring (Right)
+ブリザードリング（右）
 
 Firestorm Crown
-Firestorm Crown
+ファイアーストーム・クラウン
 
 Fire Storm Pendant
-Fire Storm Pendant
+ファイアーストーム ペンダント
 
 Firestorm Cloak
-Firestorm Cloak
+ファイアーストーム・マント
 
 Firestorm Tabard
-Firestorm Tabard
+ファイアーストーム タバード
 
 Firestorm Belt
-Firestorm Belt
+ファイアーストーム・ベルト
 
 Firestorm Boots
-Firestorm Boots
+ファイアーストーム・ブーツ
 
 Firestorm Leggings
-Firestorm Leggings
+ファイアーストーム・レギンス
 
 Firestorm Bracelet
-Firestorm Bracelet
+ファイアーストーム ブレスレット
 
 Firestorm ring (Left)
-Firestorm ring (Left)
+ファイアーストーム・リング（左）
 
 Firestorm ring (Right)
-Firestorm ring (Right)
+ファイアーストーム・リング（右）
 
 Sermon Hood
-Sermon Hood
+サーモン・フッド
 
 Sermon Pendant
-Sermon Pendant
+期間中の説教
 
 Sermon cloak
-Sermon cloak
+説教用マント
 
 Sermon Tabard
-Sermon Tabard
+説教タバード
 
 Sermon Belt
-Sermon Belt
+サーモンベルト
 
 Sermon boots
-Sermon boots
+サーモンブーツ
 
 Sermon Leggings
-Sermon Leggings
+説教レギンス
 
 Sermon bracelet
-Sermon bracelet
+サーモンブレスレット
 
 Sermon ring (Left)
-Sermon ring (Left)
+サーモンリング（左）
 
 Sermon ring (Right)
-Sermon ring (Right)
+サーモンリング（右）
 
 Horror mask
-Horror mask
+ホラーマスク
 
 Horror Orb
-Horror Orb
+ホラーオーブ
 
 Horror cloak
-Horror cloak
+ホラーマント
 
 Horror Robe
-Horror Robe
+ホラーローブ
 
 Horror Belt
-Horror Belt
+ホラーベルト
 
 Horror Boots
-Horror Boots
+ホラーブーツ
 
 Horror Leggings
-Horror Leggings
+ホラーレギンス
 
 Horror bracelets
-Horror bracelets
+ホラーブレスレット
 
 Horror ring (left)
-Horror ring (left)
+ホラーリング（左）
 
 Horror ring (right)
-Horror ring (right)
+ホラーリング（右）
 
 Royal Victory
-Royal Victory
+ロイヤルビクトリー
 
 Lethal Warhammer
-Lethal Warhammer
+リーサル・ウォーハンマー
 
 Bloodletting razor	
-Bloodletting razor	
+血抜きカミソリ
 
 Hydra crossbow
-Hydra crossbow
+ヒドラクロスボウ
 
 Sealing Moon
-Sealing Moon
+封印の月
 
 eruption Magma
-eruption Magma
+噴火 マグマ
 
 Pure Wisdom
-Pure Wisdom
+純粋な知恵
 
 mummy Curse
-mummy Curse
+ミイラの呪い
 
 weightless sack
-weightless sack
+ウェイトレス・バッグ
 
 hero helmet
-hero helmet
+英雄ヘルメット
 
 hero pendant
-hero pendant
+ヒーローペンダント
 
 Hero Pauldrons
-Hero Pauldrons
+ヒーローポールドロン
 
 Hero Armor
-Hero Armor
+ヒーローアーマー
 
 Hero Belt
-Hero Belt
+ヒーローベルト
 
 Hero Boots
-Hero Boots
+ヒーローブーツ
 
 Hero Legplates
-Hero Legplates
+ヒーローレッグプレート
 
 Heroic Bracers
-Heroic Bracers
+ヒロイックブレーカー
 
 Hero ring (left)
-Hero ring (left)
+ヒーローリング（左）
 
 Hero ring (right)
-Hero ring (right)
+ヒーローリング（右）
 
 Sentinel Helm
-Sentinel Helm
+センチネルヘルム
 
 Sentinel Pendant
-Sentinel Pendant
+センチネル・ペンダント
 
 Sentinel Pauldrons
-Sentinel Pauldrons
+センチネルポールドロン
 
 Sentinel Armor
-Sentinel Armor
+センチネル アーマー
 
 Sentinel Belt
-Sentinel Belt
+センチネルベルト
 
 Sentinel boots
-Sentinel boots
+センチネル・ブーツ
 
 Sentinel Legplates
-Sentinel Legplates
+センチネル・レッグプレート
 
 Sentinel Bracers
-Sentinel Bracers
+センチネル・ブレイサー
 
 Sentinel ring (left)
-Sentinel ring (left)
+センチネル・リング（左）
 
 Sentinel ring (right)
-Sentinel ring (right)
+センチネル・リング（右）
 
 Executioner Mask
-Executioner Mask
+エグゼキューショナーマスク
 
 Executioner Pendant
-Executioner Pendant
+エグゼキューショナーペンダント
 
 Executioner Cloak
-Executioner Cloak
+処刑人マント
 
 Executioner Suit
-Executioner Suit
+処刑人スーツ
 
 Executioner Belt
-Executioner Belt
+エグゼキューショナーベルト
 
 Executioner Boots
-Executioner Boots
+エグゼキューショナーブーツ
 
 Executioner Shorts
-Executioner Shorts
+エグゼキューショナーショーツ
 
 Executioner Gloves
-Executioner Gloves
+処刑人グローブ
 
 executioner ring (left)
-executioner ring (left)
+刑戮の指輪（左）
 
 executioner ring (right)
-executioner ring (right)
+刑戮の指輪（右）
 
 Penetrator helmet
-Penetrator helmet
+ペネトレータヘルメット
 
 Penetrator Pendant
-Penetrator Pendant
+ペネトレータペンダント
 
 Penetrator shawl
-Penetrator shawl
+ペネトレータショール
 
 Penetrator Leather Armor
-Penetrator Leather Armor
+ペネトレーターレザーアーマー
 
 Penetrator Belt
-Penetrator Belt
+ペネトレーターベルト
 
 Penetrator boots
-Penetrator boots
+ペネトレーターブーツ
 
 Penetrator Leather Pants
-Penetrator Leather Pants
+ペネトレーターレザーパンツ
 
 Penetrator Bracers
-Penetrator Bracers
+ペネトレーターブレーカー
 
 Penetrator ring (left)
-Penetrator ring (left)
+ペネトレーターリング（左）
 
 Penetrator ring (right)
-Penetrator ring (right)
+ペネトレーターリング（右）
 
 Glacier Helmet
-Glacier Helmet
+グレイシャー・ヘルメット
 
 Glacier Pendant
-Glacier Pendant
+グレイシャー・ペンダント
 
 Glacier Cloak
-Glacier Cloak
+グレイシャーマント
 
 Glacier Armor
-Glacier Armor
+グレイシャーアーマー
 
 Glacier Belt
-Glacier Belt
+グレイシャーベルト
 
 Glacier Boots
-Glacier Boots
+グレイシャー・ブーツ
 
 Glacier Leggings
-Glacier Leggings
+グレイシャー・レギンス
 
 Glacier Bracelet
-Glacier Bracelet
+グラシエ・ブレスレット
 
 glacier ring (left)
-glacier ring (left)
+氷河環
 
 glacier ring (right)
-glacier ring (right)
+氷河環
 
 Volcano helmet
-Volcano helmet
+火山用ヘルメット
 
 Volcano Orb
-Volcano Orb
+ボルケーノオーブ
 
 Volcano Cape
-Volcano Cape
+火山岬
 
 Volcano Armor
-Volcano Armor
+ボルケーノ・アーマー
 
 Volcano Belt
-Volcano Belt
+ボルケーノベルト
 
 Volcano boots
-Volcano boots
+ボルケーノブーツ
 
 Volcano Leggings
-Volcano Leggings
+ボルケーノレギンス
 
 Volcano bracelet
-Volcano bracelet
+ボルケーノ・ブレスレット
 
 Volcano ring (left)
-Volcano ring (left)
+ボルケーノリング（左）
 
 Volcano ring (right)
-Volcano ring (right)
+ボルケーノリング（右）
 
 Saint Helmet
-Saint Helmet
+セイントヘルメット
 
 Saint Orb
-Saint Orb
+セイントオーブ
 
 Saint cloak
-Saint cloak
+聖なるマント
 
 Saint Robe
-Saint Robe
+セイントローブ
 
 Saint Belt
-Saint Belt
+セイントベルト
 
 Saint boots
-Saint boots
+セイントブーツ
 
 Saint Leggings
-Saint Leggings
+セイントレギンス
 
 Saint bracelet
-Saint bracelet
+セイントブレスレット
 
 Saint ring (left)
-Saint ring (left)
+セイントリング（左）
 
 Saint ring (right)
-Saint ring (right)
+セイントリング（右）
 
 Toxin mask
-Toxin mask
+トキシンマスク
 
 Toxin Magic Beads
-Toxin Magic Beads
+トキシンマジックビーズ
 
 Toxin cloak
-Toxin cloak
+毒素マント
 
 Toxin Robe
-Toxin Robe
+トキシン・ローブ
 
 Toxin Belt
-Toxin Belt
+毒素ベルト
 
 Toxin boots
-Toxin boots
+トクシンブーツ
 
 Toxin Leggings
-Toxin Leggings
+トキシン・レギンス
 
 Toxin bracelet
-Toxin bracelet
+トキシン・ブレスレット
 
 Toxin ring (left)
-Toxin ring (left)
+トキシン・リング（左）
 
 Toxin ring (right)
-Toxin ring (right)
+トキシン・リング（右）
 
 Broken Sky
-Broken Sky
+ブロークンスカイ
 
 Lost Eternity
-Lost Eternity
+ロストエタニティ
 
 Dragon Scale
-Dragon Scale
+ドラゴンスケール
 
 Star Fury
-Star Fury
+スターフューリー
 
 Desolate Snow
-Desolate Snow
+荒涼とした雪
 
 Black Smoke
-Black Smoke
+ブラックスモーク
 
 Redemption finger
-Redemption finger
+リデンプションフィンガー
 
 Demon Spine
-Demon Spine
+デーモンスパイン
 
 Pioneer Helm
-Pioneer Helm
+パイオニアヘルメット
 
 Pioneer Pendant
-Pioneer Pendant
+パイオニアペンダント
 
 Pioneer Shoulders
-Pioneer Shoulders
+パイオニアショルダー
 
 Pioneer Armor
-Pioneer Armor
+パイオニアアーマー
 
 Pioneer Belt
-Pioneer Belt
+パイオニアベルト
 
 Pioneer Boots
-Pioneer Boots
+パイオニアブーツ
 
 Pioneer Legplates
-Pioneer Legplates
+パイオニアレッグプレート
 
 Pioneer Bracers
-Pioneer Bracers
+パイオニアブレーカー
 
 Pioneer Ring (Left)
-Pioneer Ring (Left)
+パイオニアリング（左）
 
 Pioneer Ring (Right)
-Pioneer Ring (Right)
+パイオニアリング（右）
 
 Giant Helm
-Giant Helm
+巨大ヘルメット
 
 giant pendant
-giant pendant
+いにしえの巨人
 
 Giant Pauldrons
-Giant Pauldrons
+ジャイアントポールドロン
 
 Giant Armor
-Giant Armor
+ジャイアントアーマー
 
 Giant Belt
-Giant Belt
+ジャイアントベルト
 
 Giant Boots
-Giant Boots
+ジャイアントブーツ
 
 Giant Legplates
-Giant Legplates
+ジャイアントレッグプレート
 
 Giant Bracers
-Giant Bracers
+ジャイアントブレーカー
 
 giant ring (left)
-giant ring (left)
+きょだいりん
 
 Giant Ring (Right)
-Giant Ring (Right)
+ジャイアント・リング（右）
 
 Reaper Mask
-Reaper Mask
+リーパーマスク
 
 Reaper Pendant
-Reaper Pendant
+リーパーペンダント
 
 Reaper Cloak
-Reaper Cloak
+リーパー・マント
 
 Reaper Suit	
-Reaper Suit	
+リーパースーツ
 
 Reaper Belt
-Reaper Belt
+リーパーベルト
 
 Reaper Boots
-Reaper Boots
+リーパーブーツ
 
 Reaper Shorts
-Reaper Shorts
+リーパーショーツ
 
 Reaper Gloves
-Reaper Gloves
+リーパーグローブ
 
 reaper ring (left)
-reaper ring (left)
+リーパーリング
 
 reaper ring (right)
-reaper ring (right)
+リーパー・リング（右）
 
 Destroyer Hat
-Destroyer Hat
+デストロイヤーハット
 
 Destroyer Pendant
-Destroyer Pendant
+デストロイヤーペンダント
 
 Destroyer Cape
-Destroyer Cape
+デストロイヤーケープ
 
 Destroyer Armor
-Destroyer Armor
+デストロイヤーアーマー
 
 Destroyer Belt
-Destroyer Belt
+デストロイヤーベルト
 
 Destroyer Boots
-Destroyer Boots
+デストロイヤーブーツ
 
 Destroyer Pants
-Destroyer Pants
+デストロイヤーパンツ
 
 Destroyer Gauntlets
-Destroyer Gauntlets
+デストロイヤーガントレット
 
 Destroyer ring (left)
-Destroyer ring (left)
+デストロイヤーリング（左）
 
 Destroyer ring (right)
-Destroyer ring (right)
+デストロイヤーリング（右）
 
 Winter helmet
-Winter helmet
+冬用ヘルメット
 
 Winter Pendant
-Winter Pendant
+ウィンターペンダント
 
 winter cloak
-winter cloak
+冬用外套
 
 Winter armor
-Winter armor
+冬用防寒具
 
 Winter Belt
-Winter Belt
+冬用ベルト
 
 winter boots
-winter boots
+防寒靴
 
 Winter Leggings
-Winter Leggings
+冬用レギンス
 
 Winter bracelet
-Winter bracelet
+ウィンターブレスレット
 
 Winter ring (left)
-Winter ring (left)
+冬のリング（左）
 
 Winter ring (right)
-Winter ring (right)
+冬のリング（右）
 
 Inferno helmet
-Inferno helmet
+インフェルノヘルメット
 
 Inferno Pendant
-Inferno Pendant
+インフェルノ・ペンダント
 
 Inferno cape
-Inferno cape
+インフェルノマント
 
 Inferno Armor
-Inferno Armor
+インフェルノアーマー
 
 Inferno Belt
-Inferno Belt
+インフェルノベルト
 
 Inferno boots
-Inferno boots
+インフェルノブーツ
 
 Inferno Leggings
-Inferno Leggings
+インフェルノレギンス
 
 Inferno bracelet
-Inferno bracelet
+インフェルノブレスレット
 
 Inferno ring (left)
-Inferno ring (left)
+インフェルノリング（左）
 
 Inferno ring (right)
-Inferno ring (right)
+インフェルノリング（右）
 
 Revival headband
-Revival headband
+リバイバルヘッドバンド
 
 Revival Pendant
-Revival Pendant
+リバイバル中
 
 Revival cape
-Revival cape
+リバイバルケープ
 
 Revival Robe
-Revival Robe
+リバイバルローブ
 
 Revival Belt
-Revival Belt
+リバイバルベルト
 
 Revival boots
-Revival boots
+リバイバルブーツ
 
 Revival Leggings
-Revival Leggings
+リバイバルレギンス
 
 Revival bracelet
-Revival bracelet
+リバイバルブレスレット
 
 Revival ring (left)
-Revival ring (left)
+リバイバルリング（左）
 
 Revival ring (right)
-Revival ring (right)
+リバイバルリング（右）
 
 Undead mask
-Undead mask
+アンデッドマスク
 
 Undead Pendant
-Undead Pendant
+アンデッドペンダント
 
 Undead Cloak
-Undead Cloak
+アンデッドマント
 
 Undead Tabard
-Undead Tabard
+アンデッドタバード
 
 Undead Belt
-Undead Belt
+アンデッドベルト
 
 Undead Boots
-Undead Boots
+アンデッドブーツ
 
 Undead Leggings
-Undead Leggings
+アンデッドレギンス
 
 Undead bracelet
-Undead bracelet
+アンデッドブレスレット
 
 Undead Ring (Left)
-Undead Ring (Left)
+アンデッドリング(左)
 
 Undead Ring (Right)
-Undead Ring (Right)
+アンデッドリング（右）
 
 Evil Purger
-Evil Purger
+イービルパージャー
 
 Thor Hammer
-Thor Hammer
+トールハンマー
 
 Revenge Tooth
-Revenge Tooth
+リベンジトゥース
 
 Phoenix Longbow
-Phoenix Longbow
+フェニックス ロングボウ
 
 Poseidon Trident
-Poseidon Trident
+ポセイドン・トライデント
 
 Burning Corona
-Burning Corona
+バーニングコロナ
 
 Salvation Cross
-Salvation Cross
+救世十字
 
 Death Scythe
-Death Scythe
+デスサイス
 
 Realm Pack
-Realm Pack
+レルムパック
 
 Saviour helmet
-Saviour helmet
+セイバーヘルメット
 
 Saviour Pendant
-Saviour Pendant
+セイバーペンダント
 
 Saviour Shoulders
-Saviour Shoulders
+セイバーショルダー
 
 Saviour Battlegear
-Saviour Battlegear
+セイバーバトレジャー
 
 Saviour Waistguard
-Saviour Waistguard
+セイバーウエストガード
 
 Saviour boots
-Saviour boots
+セイバーブーツ
 
 Saviour Legplates
-Saviour Legplates
+セイバーレッグプレート
 
 Saviour Bracers
-Saviour Bracers
+セイバーブレーカー
 
 Saviour ring (left)
-Saviour ring (left)
+セイバーリング（左）
 
 Saviour ring (right)
-Saviour ring (right)
+セイバーリング（右）
 
 Patronus helmet
-Patronus helmet
+守護霊ヘルメット
 
 Patronus Pendant
-Patronus Pendant
+守護霊ペンダント
 
 Patronus Pauldrons
-Patronus Pauldrons
+守護霊ポールドロン
 
 Patronus Armor
-Patronus Armor
+パトロナスアーマー
 
 Patronus Waist
-Patronus Waist
+守護霊ウエスト
 
 Patronus boots
-Patronus boots
+守護神ブーツ
 
 Patronus Legplates
-Patronus Legplates
+守護霊レッグプレート
 
 Patronus Bracers
-Patronus Bracers
+守護霊ブレーカー
 
 Patronus ring (left)
-Patronus ring (left)
+守護霊リング（左）
 
 Patronus ring (right)
-Patronus ring (right)
+守護霊の指輪（右）
 
 Slaughterer Mask
-Slaughterer Mask
+虐殺の仮面
 
 Slaughterer Pendant
-Slaughterer Pendant
+屠殺人ペンダント
 
 Slaughterer Cloak
-Slaughterer Cloak
+殺戮者マント
 
 Slaughterer Suit
-Slaughterer Suit
+屠殺人スーツ
 
 Slaughterer Belt
-Slaughterer Belt
+屠殺者ベルト
 
 Slaughterer Boots
-Slaughterer Boots
+スローターブーツ
 
 Slaughterer Trousers
-Slaughterer Trousers
+スローターパンツ
 
 Slaughterer Gloves
-Slaughterer Gloves
+スローターグローブ
 
 Slaughterer Ring (Left)
-Slaughterer Ring (Left)
+屠殺者リング（左）
 
 Slaughterer Ring (Right)
-Slaughterer Ring (Right)
+屠殺者リング（右）
 
 Dominator hat
-Dominator hat
+ドミネーターハット
 
 Dominator Pendant
-Dominator Pendant
+ドミネーターペンダント
 
 Dominator Shawl
-Dominator Shawl
+ドミネーターショール
 
 Dominator Armor
-Dominator Armor
+ドミネーターアーマー
 
 Dominator Belt
-Dominator Belt
+ドミネーターベルト
 
 Dominator Boots
-Dominator Boots
+ドミネーターブーツ
 
 Dominator Leggings
-Dominator Leggings
+ドミネーターレギンス
 
 Dominator Gauntlets
-Dominator Gauntlets
+ドミネーターガントレット
 
 Dominator ring (left)
-Dominator ring (left)
+ドミネーターリング（左）
 
 Dominator ring (right)
-Dominator ring (right)
+ドミネーターリング（右）
 
 Tsunami crown
-Tsunami crown
+ツナミクラウン
 
 Tsunami Pendant
-Tsunami Pendant
+津波ペンダント
 
 Tsunami cape
-Tsunami cape
+津波岬
 
 Tsunami Tabard
-Tsunami Tabard
+津波タバード
 
 Tsunami Belt
-Tsunami Belt
+津波ベルト
 
 Tsunami boots
-Tsunami boots
+津波用ブーツ
 
 Tsunami Leggings
-Tsunami Leggings
+津波レギンス
 
 Tsunami bracelet
-Tsunami bracelet
+津波ブレスレット
 
 Tsunami ring left hand
-Tsunami ring left hand
+津波リング 左手
 
 Tsunami ring right hand
-Tsunami ring right hand
+津波リング 右手
 
 Sunfire Cap
-Sunfire Cap
+サンファイアキャップ
 
 Sunfire Charm
-Sunfire Charm
+サンファイアチャーム
 
 Sunfire Cloak
-Sunfire Cloak
+サンファイアマント
 
 Sunfire Robe
-Sunfire Robe
+サンファイアローブ
 
 Sunfire Belt
-Sunfire Belt
+サンファイヤーベルト
 
 Sunfire boots
-Sunfire boots
+サンファイアブーツ
 
 Sunfire Leggings
-Sunfire Leggings
+サンファイアレギンス
 
 Sunfire bracelet
-Sunfire bracelet
+サンファイアブレスレット
 
 Sunfire ring (left)
-Sunfire ring (left)
+サンファイアのリング（左）
 
 Sunfire Ring (Right)
-Sunfire Ring (Right)
+サンファイアリング（右）
 
 Celestial Halo
-Celestial Halo
+セレスティアルヘイロー
 
 Celestial pendant
-Celestial pendant
+天体ペンダント
 
 Celestial Wings
-Celestial Wings
+天空の翼
 
 Celestial robe
-Celestial robe
+天衣
 
 Celestial Girdle
-Celestial Girdle
+セレスティアルガードル
 
 Celestial Boots
-Celestial Boots
+セレスティアルブーツ
 
 Celestial Leggings
-Celestial Leggings
+セレスティアルレギンス
 
 Celestial bracelet
-Celestial bracelet
+セレスティアル・ブレスレット
 
 Celestial ring (left)
-Celestial ring (left)
+天輪（左）
 
 Celestial ring (right)
-Celestial ring (right)
+天輪（右）
 
 Sacrifice Mask
-Sacrifice Mask
+サクリファイスマスク
 
 Sacrifice Pendant
-Sacrifice Pendant
+生け贄の間
 
 Sacrifice Cloak
-Sacrifice Cloak
+生贄のマント
 
 Sacrifice Tabard
-Sacrifice Tabard
+サクリファイス・タバード
 
 Sacrifice belt
-Sacrifice belt
+サクリファイスベルト
 
 Sacrifice boots
-Sacrifice boots
+サクリファイスブーツ
 
 Sacrifice Leggings
-Sacrifice Leggings
+サクリファイスレギンス
 
 Sacrifice bracelet
-Sacrifice bracelet
+サクリファイス・ブレスレット
 
 Sacrifice ring (left)
-Sacrifice ring (left)
+サクリファイスリング（左）
 
 Sacrifice ring (right)
-Sacrifice ring (right)
+サクリファイスリング（右）
 
 War badge {d}
-War badge $1
+ウォーバッジ{d}
 
 _Arena lzs0lzs2250lzs1lzsGold medal
-_Arena lzs0lzs2250lzs1lzsGold medal
+Arena lzs0lzs2250lzs1lzsGold メダル
 
 _Arena lzs0lzs2249lzs1lzsSilver medal
-_Arena lzs0lzs2249lzs1lzsSilver medal
+Arena lzs0lzs2249lzs1lzsSilver medal
 
 _Arena lzs0lzs2248lzs1lzsBlue medal
-_Arena lzs0lzs2248lzs1lzsBlue medal
+アリーナ lzs0lzs2248lzs1lzs 青いメダル
 
 _Arena lzs0lzs2247lzs1lzsWhite medal
-_Arena lzs0lzs2247lzs1lzsWhite medal
+アリーナ lzs0lzs2247lzs1lzs ホワイトメダル
 
 _Arena Outstanding
-_Arena Outstanding
+アリーナ・アウトスタンディング
 
 Arena medal
-Arena medal
+アリーナメダル
 
 _Tactical lzs0lzs2250lzs1lzsGold medal
-_Tactical lzs0lzs2250lzs1lzsGold medal
+戦術的なlzs0lzs2250lzs1lzsGoldメダル
 
 _Tactical lzs0lzs2249lzs1lzsSilver medal
-_Tactical lzs0lzs2249lzs1lzsSilver medal
+タクティカルシルバーメダル
 
 _Tactical lzs0lzs2248lzs1lzsBlue medal
-_Tactical lzs0lzs2248lzs1lzsBlue medal
+戦術的な lzs0lzs2248lzs1lzsBlue メダル
 
 _Tactical lzs0lzs2247lzs1lzsWhite medal
-_Tactical lzs0lzs2247lzs1lzsWhite medal
+戦術的な lzs0lzs2247lzs1lzs ホワイトメダル
 
 _Tactical Outstanding
-_Tactical Outstanding
+_戦術的な卓越性
 
 Tactical medal
-Tactical medal
+タクティカルメダル
 
 One Star Attack Medal
-One Star Attack Medal
+ワンスター・アタック・メダル
 
 Two Star Attack Medal
-Two Star Attack Medal
+二つ星アタックメダル
 
 Three Star Attack Medal
-Three Star Attack Medal
+スリースター・アタック・メダル
 
 Four Star Attack Medal
-Four Star Attack Medal
+フォースターアタックメダル
 
 Five Star Attack Medal
-Five Star Attack Medal
+ファイブスター・アタック・メダル
 
 Medal of the demon Hunting boy
-Medal of the demon Hunting boy
+鬼狩りの少年のメダル
 
 Medal of the Demon Chasing girl
-Medal of the Demon Chasing girl
+悪魔を追う少女メダル
 
 Medal of adored by Female Soldiers
-Medal of adored by Female Soldiers
+女性兵士の憧れのメダル
 
 Medal of loved by the Counts
-Medal of loved by the Counts
+伯爵家に愛されたメダル
 
 Princess's Kiss
-Princess's Kiss
+プリンセスのキス
 
 Prince's Tears
-Prince's Tears
+王子の涙
 
 White skeleton
-White skeleton
+ホワイトスケルトン
 
 Bloody Skeleton
-Bloody Skeleton
+ブラッディスケルトン
 
 Undead Skeleton
-Undead Skeleton
+アンデッドスケルトン
 
 Demon Skeleton
-Demon Skeleton
+デーモン・スケルトン
 
 Gold medal of Hunting
-Gold medal of Hunting
+狩猟の金メダル
 
 Silver medal of Hunting
-Silver medal of Hunting
+ハンティング銀メダル
 
 Blue medal of Hunting
-Blue medal of Hunting
+狩猟の青いメダル
 
 White medal of Hunting
-White medal of Hunting
+ハンティングのホワイトメダル
 
 Expert of Hunting
-Expert of Hunting
+狩猟の達人
 
 Apprentice of Hunting
-Apprentice of Hunting
+狩猟の見習い
 
 gold wedding ring
-gold wedding ring
+金婚指輪
 
 Platinum wedding ring
-Platinum wedding ring
+プラチナマリッジリング
 
 lzs0lzs2243lzs1lzsdiamond wedding ring
 lzs0lzs2243lzs1lzsdiamond wedding ring
 
 Tutor Medal
-Tutor Medal
+チューターメダル
 
 Benevolent Medal
-Benevolent Medal
+ベネボレン・メダル
 
 Kindhearted Medal
-Kindhearted Medal
+親切なメダル
 
 Renowned Medal
-Renowned Medal
+有名なメダル
 
 Master Medal
-Master Medal
+マスターメダル
 
 Contribution Medal
-Contribution Medal
+貢献メダル
 
 Mist god Emblem
-Mist god Emblem
+霧の神エンブレム
 
 Crispy potato and vegetable pie
-Crispy potato and vegetable pie
+カリッとしたポテトと野菜のパイ
 
 concentric knot
-concentric knot
+同心円の結び目
 
 Five-Nuts Osmanthus Cake
-Five-Nuts Osmanthus Cake
+5種のナッツのオスマンサスケーキ
 
 Festival Medal
-Festival Medal
+フェスティバルメダル
 
 Great iron sword
-Great iron sword
+大鉄剣
 
 Epic iron sword
-Epic iron sword
+エピックアイアンソード
 
 Heavenly iron sword
-Heavenly iron sword
+天の鉄剣
 
 Godbless iron sword
-Godbless iron sword
+ゴッドブレスアイアンソード
 
 Great iron hammer
-Great iron hammer
+グレートアイアンハンマー
 
 Epic iron hammer
-Epic iron hammer
+エピックアイアンハンマー
 
 Heavenly iron hammer
-Heavenly iron hammer
+天の鉄槌
 
 Godbless iron hammer
-Godbless iron hammer
+ゴッドブレスアイアンハンマー
 
 Great dagger
-Great dagger
+グレートダガー
 
 Epic dagger
-Epic dagger
+エピックダガー
 
 Heavenly dagger
-Heavenly dagger
+天の邪鬼
 
 Godbless dagger
-Godbless dagger
+ゴッドブレスダガー
 
 Great wooden bow
-Great wooden bow
+木製の素晴らしい弓
 
 Epic wooden bow
-Epic wooden bow
+エピックウッドボウ
 
 Heavenly wooden bow
-Heavenly wooden bow
+天の木弓
 
 Godbless wooden bow
-Godbless wooden bow
+ゴッドブレスウッドボウ
 
 Great Ivy Staff
-Great Ivy Staff
+素晴らしいアイビー・スタッフ
 
 Epic Ivy Staff
-Epic Ivy Staff
+エピック・アイビー・スタッフ
 
 Heavenly Ivy Staff
-Heavenly Ivy Staff
+ヘブンリーアイビー スタッフ
 
 Godbless Ivy Staff
-Godbless Ivy Staff
+ゴッドブレス・アイビー・スタッフ
 
 Great Ivy Scepter
-Great Ivy Scepter
+グレートアイビーセプター
 
 Epic Ivy Scepter
-Epic Ivy Scepter
+エピックアイビーセプター
 
 Heavenly Ivy Scepter
-Heavenly Ivy Scepter
+ヘブンリーアイビーセプター
 
 Godbless Ivy Scepter
-Godbless Ivy Scepter
+ゴッドブレス・アイビー・セプター
 
 Great bronze Set
-Great bronze Set
+グレートブロンズセット
 
 Epic bronze Set
-Epic bronze Set
+エピックブロンズセット
 
 Heavenly bronze Set
-Heavenly bronze Set
+ヘブンリーブロンズセット
 
 Godbless bronze Set
-Godbless bronze Set
+ゴッドブレスブロンズセット
 
 Great silk Set
-Great silk Set
+グレートシルクセット
 
 Epic silk Set
-Epic silk Set
+エピックシルクセット
 
 Heavenly silk Set
-Heavenly silk Set
+ヘブンリーシルクセット
 
 Godbless silk Set
-Godbless silk Set
+ゴッドブレスシルクセット
 
 Great Sword of Fighter
-Great Sword of Fighter
+ファイターズの大剣
 
 Epic Sword of Fighter
-Epic Sword of Fighter
+エピック ソード オブ ファイター
 
 Heavenly Sword of Fighter
-Heavenly Sword of Fighter
+ファイターズの天剣
 
 Godbless Sword of Fighter
-Godbless Sword of Fighter
+ゴッドブレス ソード オブ ファイター
 
 Great machete of Berserker
-Great machete of Berserker
+バーサーカーの大鉈
 
 Epic machete of Berserker
-Epic machete of Berserker
+バーサーカーのエピックマチェット
 
 Heavenly machete of Berserker
-Heavenly machete of Berserker
+バーサーカーの天鉈（てんなた
 
 Godbless machete of Berserker
-Godbless machete of Berserker
+ゴッドブレスマチェットオブバーサーカー
 
 Great Blade of Killer
-Great Blade of Killer
+グレートブレードオブキラー
 
 Epic Blade of Killer
-Epic Blade of Killer
+エピックブレードオブキラー
 
 Heavenly Blade of Killer
-Heavenly Blade of Killer
+キラーの天剣
 
 Godbless Blade of Killer
-Godbless Blade of Killer
+ゴッドブレスブレードオブキラー
 
 Great Bow of chaser
-Great Bow of chaser
+グレートボウ・オブ・チェイサー
 
 Epic Bow of chaser
-Epic Bow of chaser
+エピック・ボウ・オブ・チェイサー
 
 Heavenly Bow of chaser
-Heavenly Bow of chaser
+チェイサーの天弓
 
 Godbless Bow of chaser
-Godbless Bow of chaser
+ゴッドブレス・ボウ・オブ・チェイサー
 
 Great Staff of Wisdom
-Great Staff of Wisdom
+智恵の大杖
 
 Epic Staff of Wisdom
-Epic Staff of Wisdom
+エピック・スタッフ・オブ・ウィズダム
 
 Heavenly Staff of Wisdom
-Heavenly Staff of Wisdom
+天の叡智の杖
 
 Godbless Staff of Wisdom
-Godbless Staff of Wisdom
+ゴッドブレス・スタッフ・オブ・ウィズダム
 
 Great Staff of Nature
-Great Staff of Nature
+自然界の偉大なスタッフ
 
 Epic Staff of Nature
-Epic Staff of Nature
+エピック・スタッフ・オブ・ネイチャー
 
 Heavenly Staff of Nature
-Heavenly Staff of Nature
+自然界の天の杖
 
 Godbless Staff of Nature
-Godbless Staff of Nature
+ゴッドブレス・スタッフ・オブ・ネイチャー
 
 Great Scepter of Mercy
-Great Scepter of Mercy
+グレートセプターオブマーシー
 
 Epic Scepter of Mercy
-Epic Scepter of Mercy
+エピックセプターオブマーシー
 
 Heavenly Scepter of Mercy
-Heavenly Scepter of Mercy
+慈悲の天の杖
 
 Godbless Scepter of Mercy
-Godbless Scepter of Mercy
+ゴッドブレスセプターオブマーシー
 
 Great Scepter of Bones
-Great Scepter of Bones
+グレートセプターオブボーンズ
 
 Epic Scepter of Bones
-Epic Scepter of Bones
+エピックセプターオブボーンズ
 
 Heavenly Scepter of Bones
-Heavenly Scepter of Bones
+骨の天笏
 
 Godbless Scepter of Bones
-Godbless Scepter of Bones
+ゴッドブレス・セプター・オブ・ボーンズ
 
 Great fighter Set
-Great fighter Set
+グレートファイターズセット
 
 Epic fighter Set
-Epic fighter Set
+エピックファイターセット
 
 Heavenly fighter Set
-Heavenly fighter Set
+ヘブンリーファイターセット
 
 Godbless fighter Set
-Godbless fighter Set
+ゴッドブレスファイターセット
 
 Great Berserker Set
-Great Berserker Set
+グレートバーサーカーセット
 
 Epic Berserker Set
-Epic Berserker Set
+エピックバーサーカーセット
 
 Heavenly Berserker Set
-Heavenly Berserker Set
+ヘブンリーバーサーカーセット
 
 Godbless Berserker Set
-Godbless Berserker Set
+ゴッドブレス・バーサークセット
 
 Great killer Set
-Great killer Set
+グレートキラーセット
 
 Epic killer Set
-Epic killer Set
+エピックキラーセット
 
 Heavenly killer Set
-Heavenly killer Set
+ヘブンリーキラーセット
 
 Godbless killer Set
-Godbless killer Set
+ゴッドブレスキラーセット
 
 Great chaser Set
-Great chaser Set
+グレートチェイサーセット
 
 Epic chaser Set
-Epic chaser Set
+エピックチェイサーセット
 
 Heavenly chaser Set
-Heavenly chaser Set
+ヘブンリーチェイサーセット
 
 Godbless chaser Set
-Godbless chaser Set
+ゴッドブレスチェイサーセット
 
 Great Wisdom Set
-Great Wisdom Set
+大智慧セット
 
 Epic Wisdom Set
-Epic Wisdom Set
+エピック・ウィズダム・セット
 
 Heavenly Wisdom Set
-Heavenly Wisdom Set
+天の知恵セット
 
 Godbless Wisdom Set
-Godbless Wisdom Set
+ゴッドブレス・ウィズダム・セット
 
 Great colorful Set
-Great colorful Set
+素晴らしいカラフルなセット
 
 Epic colorful Set
-Epic colorful Set
+エピックカラフルセット
 
 Heavenly colorful Set
-Heavenly colorful Set
+天の彩りセット
 
 Godbless colorful Set
-Godbless colorful Set
+ゴッドブレスカラフルセット
 
 Great charity Set
-Great charity Set
+グレートチャリティーセット
 
 Epic charity Set
-Epic charity Set
+エピックチャリティーセット
 
 Heavenly charity Set
-Heavenly charity Set
+天の邪鬼セット
 
 Godbless charity Set
-Godbless charity Set
+ゴッドブレスチャリティーセット
 
 Great Skull Set
-Great Skull Set
+グレートスカルセット
 
 Epic Skull Set
-Epic Skull Set
+エピック・スカル・セット
 
 Heavenly Skull Set
-Heavenly Skull Set
+ヘブンリースカルセット
 
 Godbless Skull Set
-Godbless Skull Set
+ゴッドブレスドクロセット
 
 Great Ocean Roaring
-Great Ocean Roaring
+大海原の咆哮
 
 Epic Ocean Roaring
-Epic Ocean Roaring
+壮大な海の咆哮
 
 Heavenly Ocean Roaring
-Heavenly Ocean Roaring
+天の海の咆哮
 
 Godbless Ocean Roaring
-Godbless Ocean Roaring
+ゴッドブレス オーシャン ローリング
 
 Great Mountain Crushing
-Great Mountain Crushing
+グレートマウンテン・クラッシング
 
 Epic Mountain Crushing
-Epic Mountain Crushing
+エピック・マウンテン・クラッシュ
 
 Heavenly Mountain Crushing
-Heavenly Mountain Crushing
+天王山クラッシング
 
 Godbless Mountain Crushing
-Godbless Mountain Crushing
+ゴッドブレス・マウンテン・クラッシング
 
 Great Shadow Kissing
-Great Shadow Kissing
+グレートシャドウキス
 
 Epic Shadow Kissing
-Epic Shadow Kissing
+エピックシャドウキス
 
 Heavenly Shadow Kissing
-Heavenly Shadow Kissing
+ヘブンリーシャドウキス
 
 Godbless Shadow Kissing
-Godbless Shadow Kissing
+ゴッドブレス・シャドーキス
 
 Great Wind Dancing
-Great Wind Dancing
+グレートウィンドダンシング
 
 Epic Wind Dancing
-Epic Wind Dancing
+エピックウィンドダンシング
 
 Heavenly Wind Dancing
-Heavenly Wind Dancing
+天風舞う
 
 Godbless Wind Dancing
-Godbless Wind Dancing
+ゴッドブレス・ウィンド・ダンシング
 
 Great Ice Sighing
-Great Ice Sighing
+グレートアイスのため息
 
 Epic Ice Sighing
-Epic Ice Sighing
+エピックアイスのため息
 
 Heavenly Ice Sighing
-Heavenly Ice Sighing
+天の氷のため息
 
 Godbless Ice Sighing
-Godbless Ice Sighing
+ゴッドブレス・アイス・サーフィング
 
 Great Fire Enveloping
-Great Fire Enveloping
+大火災エンベロープ
 
 Epic Fire Enveloping
-Epic Fire Enveloping
+エピック・ファイヤー・エンベロープ
 
 Heavenly Fire Enveloping
-Heavenly Fire Enveloping
+天火包囲網
 
 Godbless Fire Enveloping
-Godbless Fire Enveloping
+ゴッドブレス・ファイア・エンベロープ
 
 Great Light Weaving
-Great Light Weaving
+グレートライト ウィービング
 
 Epic Light Weaving
-Epic Light Weaving
+エピックライトウィービング
 
 Heavenly Light Weaving
-Heavenly Light Weaving
+天の光織物
 
 Godbless Light Weaving
-Godbless Light Weaving
+ゴッドブレス・ライト・ウィービング
 
 Great Soul Sucking
-Great Soul Sucking
+グレートソウルサッキング
 
 Epic Soul Sucking
-Epic Soul Sucking
+エピック・ソウルサッキング
 
 Heavenly Soul Sucking
-Heavenly Soul Sucking
+天の魂吸い取り
 
 Godbless Soul Sucking
-Godbless Soul Sucking
+ゴッドブレス・ソウルサッキング
 
 Great Fencer Set
-Great Fencer Set
+グレートフェンサーセット
 
 Epic Fencer Set
-Epic Fencer Set
+エピックフェンサーセット
 
 Heavenly Fencer Set
-Heavenly Fencer Set
+ヘブンリーフェンサーセット
 
 Godbless Fencer Set
-Godbless Fencer Set
+ゴッドブレスフェンサーセット
 
 Great Gladiator Set
-Great Gladiator Set
+グレートグラディエーターセット
 
 Epic Gladiator Set
-Epic Gladiator Set
+エピックグラディエーターセット
 
 Heavenly Gladiator Set
-Heavenly Gladiator Set
+ヘブンリーグラディエーターセット
 
 Godbless Gladiator Set
-Godbless Gladiator Set
+ゴッドブレスグラディエーターセット
 
 Great Tearer Set
-Great Tearer Set
+グレートティーラーセット
 
 Epic Tearer Set
-Epic Tearer Set
+エピックティーラーセット
 
 Heavenly Tearer Set
-Heavenly Tearer Set
+ヘブンリーティーラーセット
 
 Godbless Tearer Set
-Godbless Tearer Set
+ゴッドブレスティーラーセット
 
 Great Windrunner Set
-Great Windrunner Set
+グレートウィンドランナーセット
 
 Epic Windrunner Set
-Epic Windrunner Set
+エピックウィンドランナーセット
 
 Heavenly Windrunner Set
-Heavenly Windrunner Set
+ヘブンリーウィンドランナーセット
 
 Godbless Windrunner Set
-Godbless Windrunner Set
+ゴッドブレス・ウィンドランナーセット
 
 Great Freezing Set
-Great Freezing Set
+グレートフリージングセット
 
 Epic Freezing Set
-Epic Freezing Set
+エピックフリージングセット
 
 Heavenly Freezing Set
-Heavenly Freezing Set
+ヘブンリーフリージングセット
 
 Godbless Freezing Set
-Godbless Freezing Set
+ゴッドブレスフリージングセット
 
 Great Flaming Set
-Great Flaming Set
+グレートフレイミングセット
 
 Epic Flaming Set
-Epic Flaming Set
+エピックフレイミングセット
 
 Heavenly Flaming Set
-Heavenly Flaming Set
+天燃セット
 
 Godbless Flaming Set
-Godbless Flaming Set
+ゴッドブレス フレイミングセット
 
 Great Radiant Set
-Great Radiant Set
+グレートラディアントセット
 
 Epic Radiant Set
-Epic Radiant Set
+エピック・ラディアントセット
 
 Heavenly Radiant Set
-Heavenly Radiant Set
+ヘブンリーラディアントセット
 
 Godbless Radiant Set
-Godbless Radiant Set
+ゴッドブレス ラディアントセット
 
 Great Ghost Set
-Great Ghost Set
+グレートゴーストセット
 
 Epic Ghost Set
-Epic Ghost Set
+エピックゴーストセット
 
 Heavenly Ghost Set
-Heavenly Ghost Set
+天の邪鬼セット
 
 Godbless Ghost Set
-Godbless Ghost Set
+ゴッドブレスゴーストセット
 
 Great Solemn Oath
-Great Solemn Oath
+大いなる誓い
 
 Epic Solemn Oath
-Epic Solemn Oath
+エピック・ソレム・オース
 
 Heavenly Solemn Oath
-Heavenly Solemn Oath
+てんしょうこうせい
 
 Godbless Solemn Oath
-Godbless Solemn Oath
+神の祝福を受けた厳粛な誓い
 
 Great Savage invader
-Great Savage invader
+グレートサベージインベーダー
 
 Epic Savage invader
-Epic Savage invader
+エピック・サベージ・インベーダー
 
 Heavenly Savage invader
-Heavenly Savage invader
+天の邪鬼の侵略者
 
 Godbless Savage invader
-Godbless Savage invader
+ゴッドブレスサベージインベーダー
 
 Great Grief Bringer
-Great Grief Bringer
+グレートグリーフブリンガー
 
 Epic Grief Bringer
-Epic Grief Bringer
+エピック・グリーフ・ブリンガー
 
 Heavenly Grief Bringer
-Heavenly Grief Bringer
+天の悲哀をもたらす者
 
 Godbless Grief Bringer
-Godbless Grief Bringer
+ゴッドブレス・グリーフブリンガー
 
 Great Mutant Slayer
-Great Mutant Slayer
+グレートミュータントスレイヤー
 
 Epic Mutant Slayer
-Epic Mutant Slayer
+エピックミュータントスレイヤー
 
 Heavenly Mutant Slayer
-Heavenly Mutant Slayer
+ヘブンリーミュータントスレイヤー
 
 Godbless Mutant Slayer
-Godbless Mutant Slayer
+ゴッドブレス・ミュータント・スレイヤー
 
 Great Frost Sorrow
-Great Frost Sorrow
+大霜の嘆き
 
 Epic Frost Sorrow
-Epic Frost Sorrow
+エピックフロストソロー
 
 Heavenly Frost Sorrow
-Heavenly Frost Sorrow
+天の霜の悲しみ
 
 Godbless Frost Sorrow
-Godbless Frost Sorrow
+ゴッドブレス フロスト ソロウ
 
 Great Scorching Torch
-Great Scorching Torch
+大焦熱トーチ
 
 Epic Scorching Torch
-Epic Scorching Torch
+エピック・スコーチング・トーチ
 
 Heavenly Scorching Torch
-Heavenly Scorching Torch
+天の灼熱の松明
 
 Godbless Scorching Torch
-Godbless Scorching Torch
+ゴッドブレス・スコーチング・トーチ
 
 Great Praying seraph
-Great Praying seraph
+グレートプライングセラフ
 
 Epic Praying seraph
-Epic Praying seraph
+エピック・プライング・セラフ
 
 Heavenly Praying seraph
-Heavenly Praying seraph
+天の祈りセラフ
 
 Godbless Praying seraph
 Godbless Praying seraph
 
 Great Griffin Claw
-Great Griffin Claw
+グレートグリフィンクロー
 
 Epic Griffin Claw
-Epic Griffin Claw
+エピック・グリフィン・クロー
 
 Heavenly Griffin Claw
-Heavenly Griffin Claw
+ヘブンリーグリフィンクロー
 
 Godbless Griffin Claw
-Godbless Griffin Claw
+ゴッドブレス・グリフィン・クロー
 
 Great Honor Set
-Great Honor Set
+グレートオナーセット
 
 Epic Honor Set
-Epic Honor Set
+エピックオナーセット
 
 Heavenly Honor Set
-Heavenly Honor Set
+天の誉れセット
 
 Godbless Honor Set
-Godbless Honor Set
+ゴッドブレス・オナーセット
 
 Great Barbarian Set
-Great Barbarian Set
+グレートバーバリアンセット
 
 Epic Barbarian Set
-Epic Barbarian Set
+エピックバーバリアンセット
 
 Heavenly Barbarian Set
-Heavenly Barbarian Set
+天の邪鬼セット
 
 Godbless Barbarian Set
-Godbless Barbarian Set
+ゴッドブレス・バーバリアンセット
 
 Great ascetic Set
-Great ascetic Set
+大行者セット
 
 Epic ascetic Set
-Epic ascetic Set
+壮大な修行セット
 
 Heavenly ascetic Set
-Heavenly ascetic Set
+天の邪鬼セット
 
 Godbless ascetic Set
-Godbless ascetic Set
+神出鬼没の行者セット
 
 Great Raider Set
-Great Raider Set
+グレートレイダーセット
 
 Epic Raider Set
-Epic Raider Set
+エピック・レイダー・セット
 
 Heavenly Raider Set
-Heavenly Raider Set
+ヘブンリーレイダーセット
 
 Godbless Raider Set
-Godbless Raider Set
+ゴッドブレスレイダーセット
 
 Great Frost Set
-Great Frost Set
+グレートフロストセット
 
 Epic Frost Set
-Epic Frost Set
+エピックフロストセット
 
 Heavenly Frost Set
-Heavenly Frost Set
+ヘブンリーフロストセット
 
 Godbless Frost Set
-Godbless Frost Set
+ゴッドブレスフロストセット
 
 Great wildfire Set
-Great wildfire Set
+グレートワイルドファイアセット
 
 Epic wildfire Set
-Epic wildfire Set
+壮大な山火事セット
 
 Heavenly wildfire Set
-Heavenly wildfire Set
+天の邪鬼セット
 
 Godbless wildfire Set
-Godbless wildfire Set
+ゴッドブレス・ワイルドファイアセット
 
 Great angel Set
-Great angel Set
+グレートエンジェルセット
 
 Epic angel Set
-Epic angel Set
+エピックエンジェルセット
 
 Heavenly angel Set
-Heavenly angel Set
+天国の天使セット
 
 Godbless angel Set
-Godbless angel Set
+ゴッドブレス・エンジェルセット
 
 Great Lich Set
-Great Lich Set
+グレートリッチセット
 
 Epic Lich Set
-Epic Lich Set
+エピック・リッチ・セット
 
 Heavenly Lich Set
-Heavenly Lich Set
+ヘブンリーリッチセット
 
 Godbless Lich Set
-Godbless Lich Set
+ゴッドブレス・リッチセット
 
 Great Ribcracker
-Great Ribcracker
+グレートリブクラッカー
 
 Epic Ribcracker
-Epic Ribcracker
+エピック・リブクラッカー
 
 Heavenly Ribcracker
-Heavenly Ribcracker
+天国のリブクラッカー
 
 Godbless Ribcracker
-Godbless Ribcracker
+ゴッドブレス・リブクラッカー
 
 Great Tornado Scourge
-Great Tornado Scourge
+グレートトルネードスカージ
 
 Epic Tornado Scourge
-Epic Tornado Scourge
+エピック・トルネード・スカージ
 
 Heavenly Tornado Scourge
-Heavenly Tornado Scourge
+ヘブンリー トルネード スカージ
 
 Godbless Tornado Scourge
-Godbless Tornado Scourge
+ゴッドブレス・トルネード・スカージ
 
 Great Invisible Claw
-Great Invisible Claw
+グレートインビジブルクロー
 
 Epic Invisible Claw
-Epic Invisible Claw
+エピックインビジブルクロー
 
 Heavenly Invisible Claw
-Heavenly Invisible Claw
+ヘブンリーインビジブルクロー
 
 Godbless Invisible Claw
-Godbless Invisible Claw
+ゴッドブレスインビジブルクロー
 
 Great Heart Hitter
-Great Heart Hitter
+グレートハートヒッター
 
 Epic Heart Hitter
-Epic Heart Hitter
+エピックハートヒッター
 
 Heavenly Heart Hitter
-Heavenly Heart Hitter
+ヘブンリーハートヒッター
 
 Godbless Heart Hitter
-Godbless Heart Hitter
+ゴッドブレスハートヒッター
 
 Great Pelting Hail
-Great Pelting Hail
+大粒のあられ
 
 Epic Pelting Hail
-Epic Pelting Hail
+エピックペルティングヘイル
 
 Heavenly Pelting Hail
-Heavenly Pelting Hail
+天の雹
 
 Godbless Pelting Hail
-Godbless Pelting Hail
+ゴッドブレスペルティングヘイル
 
 Great Thousands Blast
-Great Thousands Blast
+大千秋楽
 
 Epic Thousands Blast
-Epic Thousands Blast
+壮大な千のブラスト
 
 Heavenly Thousands Blast
-Heavenly Thousands Blast
+天地人ブラスト
 
 Godbless Thousands Blast
-Godbless Thousands Blast
+ゴッドブレス千本ブラスト
 
 Great Inspire Scepter
-Great Inspire Scepter
+グレートインスパイアセプター
 
 Epic Inspire Scepter
-Epic Inspire Scepter
+エピックインスパイアセプター
 
 Heavenly Inspire Scepter
-Heavenly Inspire Scepter
+ヘブンリーインスパイアセプター
 
 Godbless Inspire Scepter
-Godbless Inspire Scepter
+ゴッドブレス・インスパイア・セプター
 
 Great Terror Scepter
-Great Terror Scepter
+グレートテラーセプター
 
 Epic Terror Scepter
-Epic Terror Scepter
+エピックテラーセプター
 
 Heavenly Terror Scepter
-Heavenly Terror Scepter
+ヘブンリーテラーセプター
 
 Godbless Terror Scepter
-Godbless Terror Scepter
+ゴッドブレス・テラーセプター
 
 Great Champion Set
-Great Champion Set
+グレートチャンピオンセット
 
 Epic Champion Set
-Epic Champion Set
+エピックチャンピオンセット
 
 Heavenly Champion Set
-Heavenly Champion Set
+天下分け目のチャンピオンセット
 
 Godbless Champion Set
-Godbless Champion Set
+ゴッドブレス・チャンピオンセット
 
 Great Rampage Set
-Great Rampage Set
+大暴れセット
 
 Epic Rampage Set
-Epic Rampage Set
+エピックランペイジセット
 
 Heavenly Rampage Set
-Heavenly Rampage Set
+ヘブンリーランペイジセット
 
 Godbless Rampage Set
-Godbless Rampage Set
+ゴッドブレス・ランペイジセット
 
 Great Stealth Set
-Great Stealth Set
+グレートステルスセット
 
 Epic Stealth Set
-Epic Stealth Set
+エピックステルスセット
 
 Heavenly Stealth Set
-Heavenly Stealth Set
+ヘブンリーステルスセット
 
 Godbless Stealth Set
-Godbless Stealth Set
+ゴッドブレスステルスセット
 
 Great sniper Set
-Great sniper Set
+スナイパーセット
 
 Epic sniper Set
-Epic sniper Set
+エピックスナイパーセット
 
 Heavenly sniper Set
-Heavenly sniper Set
+ヘブンリースナイパーセット
 
 Godbless sniper Set
-Godbless sniper Set
+ゴッドブレス・スナイパーセット
 
 Great Blizzard Set
-Great Blizzard Set
+グレートブリザードセット
 
 Epic Blizzard Set
-Epic Blizzard Set
+エピック・ブリザード・セット
 
 Heavenly Blizzard Set
-Heavenly Blizzard Set
+ヘブンリーブリザードセット
 
 Godbless Blizzard Set
-Godbless Blizzard Set
+ゴッドブレスブリザードセット
 
 Great Firestorm Set
-Great Firestorm Set
+グレートファイヤーストームセット
 
 Epic Firestorm Set
-Epic Firestorm Set
+エピックファイアストームセット
 
 Heavenly Firestorm Set
-Heavenly Firestorm Set
+ヘブンリーファイアストームセット
 
 Godbless Firestorm Set
-Godbless Firestorm Set
+ゴッドブレス ファイアストーム セット
 
 Great Sermon Set
-Great Sermon Set
+グレートサーモンセット
 
 Epic Sermon Set
-Epic Sermon Set
+エピック・サーモン・セット
 
 Heavenly Sermon Set
-Heavenly Sermon Set
+天国の説教セット
 
 Godbless Sermon Set
-Godbless Sermon Set
+ゴッドブレス・サーモン・セット
 
 Great Horror Set
-Great Horror Set
+グレートホラーセット
 
 Epic Horror Set
-Epic Horror Set
+エピック・ホラー・セット
 
 Heavenly Horror Set
-Heavenly Horror Set
+ヘブンリーホラーセット
 
 Godbless Horror Set
-Godbless Horror Set
+ゴッドブレスホラーセット
 
 Great Royal Victory
-Great Royal Victory
+ロイヤル大勝利
 
 Epic Royal Victory
-Epic Royal Victory
+エピックロイヤルビクトリー
 
 Heavenly Royal Victory
-Heavenly Royal Victory
+ヘブンリーロイヤルビクトリー
 
 Godbless Royal Victory
-Godbless Royal Victory
+ゴッドブレスロイヤルビクトリー
 
 Great Lethal Warhammer
-Great Lethal Warhammer
+グレートリーサル・ウォーハンマー
 
 Epic Lethal Warhammer
-Epic Lethal Warhammer
+エピックリーサルウォーハンマー
 
 Heavenly Lethal Warhammer
-Heavenly Lethal Warhammer
+ヘブンリーリーサル ウォーハンマー
 
 Godbless Lethal Warhammer
-Godbless Lethal Warhammer
+ゴッドブレス・リーサル・ウォーハンマー
 
 Great Bloodletting razor	
-Great Bloodletting razor	
+大血管カミソリ
 
 Epic Bloodletting razor	
-Epic Bloodletting razor	
+エピック ブラッドレッティング カミソリ
 
 Heavenly Bloodletting razor	
-Heavenly Bloodletting razor	
+天地人カミソリ
 
 Godbless Bloodletting razor	
-Godbless Bloodletting razor	
+ゴッドブレス・ブラッドレッティング・カミソリ
 
 Great Hydra crossbow
-Great Hydra crossbow
+グレートヒドラクロスボウ
 
 Epic Hydra crossbow
-Epic Hydra crossbow
+エピックヒドラクロスボウ
 
 Heavenly Hydra crossbow
-Heavenly Hydra crossbow
+ヘブンリーヒドラクロスボウ
 
 Godbless Hydra crossbow
-Godbless Hydra crossbow
+ゴッドブレス・ヒドラ・クロスボウ
 
 Great Sealing Moon
-Great Sealing Moon
+グレートシーリングムーン
 
 Epic Sealing Moon
-Epic Sealing Moon
+エピック・シーリング・ムーン
 
 Heavenly Sealing Moon
-Heavenly Sealing Moon
+天の封印の月
 
 Godbless Sealing Moon
-Godbless Sealing Moon
+ゴッドブレス シーリングムーン
 
 Great eruption Magma
-Great eruption Magma
+大噴火 マグマ
 
 Epic eruption Magma
-Epic eruption Magma
+壮大な噴火 マグマ
 
 Heavenly eruption Magma
-Heavenly eruption Magma
+天空噴火 マグマ
 
 Godbless eruption Magma
-Godbless eruption Magma
+ゴッドブレス噴出しマグマ
 
 Great Pure Wisdom
-Great Pure Wisdom
+大いなる純粋な知恵
 
 Epic Pure Wisdom
-Epic Pure Wisdom
+エピック・ピュア・ウィズダム
 
 Heavenly Pure Wisdom
-Heavenly Pure Wisdom
+天真爛漫な叡智
 
 Godbless Pure Wisdom
-Godbless Pure Wisdom
+ゴッドブレス・ピュアウィズダム
 
 Great mummy Curse
-Great mummy Curse
+グレートマミーカース
 
 Epic mummy Curse
-Epic mummy Curse
+エピックミイラの呪い
 
 Heavenly mummy Curse
-Heavenly mummy Curse
+ヘブンリーマミー・カース
 
 Godbless mummy Curse
-Godbless mummy Curse
+ゴッドブレス・マミー・カース
 
 Great hero Set
-Great hero Set
+大英雄セット
 
 Epic hero Set
-Epic hero Set
+エピックヒーローセット
 
 Heavenly hero Set
-Heavenly hero Set
+ヘブンリーヒーローセット
 
 Godbless hero Set
-Godbless hero Set
+ゴッドブレスヒーローセット
 
 Great Sentinel Set
-Great Sentinel Set
+グレートセンチネルセット
 
 Epic Sentinel Set
-Epic Sentinel Set
+エピックセンチネルセット
 
 Heavenly Sentinel Set
-Heavenly Sentinel Set
+ヘブンリーセンチネルセット
 
 Godbless Sentinel Set
-Godbless Sentinel Set
+ゴッドブレスセンチネルセット
 
 Great Executioner Set
-Great Executioner Set
+グレートエクセキューショナーセット
 
 Epic Executioner Set
-Epic Executioner Set
+エピックエグゼキューショナーセット
 
 Heavenly Executioner Set
-Heavenly Executioner Set
+天の処刑人セット
 
 Godbless Executioner Set
-Godbless Executioner Set
+ゴッドブレス処刑人セット
 
 Great Penetrator Set
-Great Penetrator Set
+グレートペネトレーターセット
 
 Epic Penetrator Set
-Epic Penetrator Set
+エピックペネトレーターセット
 
 Heavenly Penetrator Set
-Heavenly Penetrator Set
+天国ペネトレータセット
 
 Godbless Penetrator Set
-Godbless Penetrator Set
+ゴッドブレスペネトレーターセット
 
 Great Glacier Set
-Great Glacier Set
+グレートグラシエセット
 
 Epic Glacier Set
-Epic Glacier Set
+エピックグラシエセット
 
 Heavenly Glacier Set
-Heavenly Glacier Set
+ヘブンリーグラシエセット
 
 Godbless Glacier Set
-Godbless Glacier Set
+ゴッドブレスグラシエセット
 
 Great Volcano Set
-Great Volcano Set
+グレートボルケーノセット
 
 Epic Volcano Set
-Epic Volcano Set
+エピックボルケーノセット
 
 Heavenly Volcano Set
-Heavenly Volcano Set
+天空の火山セット
 
 Godbless Volcano Set
-Godbless Volcano Set
+ゴッドブレスボルケーノセット
 
 Great Saint Set
-Great Saint Set
+グレートセイントセット
 
 Epic Saint Set
-Epic Saint Set
+エピックセイントセット
 
 Heavenly Saint Set
-Heavenly Saint Set
+ヘブンリーセイントセット
 
 Godbless Saint Set
-Godbless Saint Set
+ゴッドブレスセイントセット
 
 Great Toxin Set
-Great Toxin Set
+グレートトキシンセット
 
 Epic Toxin Set
-Epic Toxin Set
+エピックトキシンセット
 
 Heavenly Toxin Set
-Heavenly Toxin Set
+ヘブンリー トクシン セット
 
 Godbless Toxin Set
-Godbless Toxin Set
+ゴッドブレス・トクシンセット
 
 Great Broken Sky
-Great Broken Sky
+グレートブロークンスカイ
 
 Epic Broken Sky
-Epic Broken Sky
+エピック・ブロークン・スカイ
 
 Heavenly Broken Sky
-Heavenly Broken Sky
+天の割れ目
 
 Godbless Broken Sky
-Godbless Broken Sky
+ゴッドブレス・ブロークン・スカイ
 
 Great Lost Eternity
-Great Lost Eternity
+グレートロストエタニティ
 
 Epic Lost Eternity
-Epic Lost Eternity
+エピック・ロスト・エタニティ
 
 Heavenly Lost Eternity
-Heavenly Lost Eternity
+ヘブンリー・ロスト・エタニティ
 
 Godbless Lost Eternity
-Godbless Lost Eternity
+ゴッドブレス・ロスト・エタニティ
 
 Great Dragon Scale
-Great Dragon Scale
+グレートドラゴンスケール
 
 Epic Dragon Scale
-Epic Dragon Scale
+エピックドラゴンスケール
 
 Heavenly Dragon Scale
-Heavenly Dragon Scale
+天竜鱗
 
 Godbless Dragon Scale
-Godbless Dragon Scale
+ゴッドブレスドラゴンスケール
 
 Great Star Fury
-Great Star Fury
+グレートスターフューリー
 
 Epic Star Fury
-Epic Star Fury
+エピック・スターフューリー
 
 Heavenly Star Fury
-Heavenly Star Fury
+ヘブンリースターフューリー
 
 Godbless Star Fury
-Godbless Star Fury
+ゴッドブレス・スターフューリー
 
 Great Desolate Snow
-Great Desolate Snow
+荒涼とした大雪
 
 Epic Desolate Snow
-Epic Desolate Snow
+壮大な荒涼とした雪
 
 Heavenly Desolate Snow
-Heavenly Desolate Snow
+天の荒涼とした雪
 
 Godbless Desolate Snow
-Godbless Desolate Snow
+ゴッドブレス・デゾレート・スノー
 
 Great Black Smoke
-Great Black Smoke
+グレートブラックスモーク
 
 Epic Black Smoke
-Epic Black Smoke
+エピックブラックスモーク
 
 Heavenly Black Smoke
-Heavenly Black Smoke
+ヘブンリーブラックスモーク
 
 Godbless Black Smoke
-Godbless Black Smoke
+ゴッドブレス・ブラック・スモーク
 
 Great Redemption finger
-Great Redemption finger
+グレートリデンプションフィンガー
 
 Epic Redemption finger
-Epic Redemption finger
+エピック・リデンプション・フィンガー
 
 Heavenly Redemption finger
-Heavenly Redemption finger
+天赦指
 
 Godbless Redemption finger
-Godbless Redemption finger
+ゴッドブレス・リデンプション・フィンガー
 
 Great Demon Spine
-Great Demon Spine
+大魔王の背骨
 
 Epic Demon Spine
-Epic Demon Spine
+エピック デーモンスパイン
 
 Heavenly Demon Spine
-Heavenly Demon Spine
+天の邪鬼の背骨
 
 Godbless Demon Spine
-Godbless Demon Spine
+ゴッドブレス・デモン・スパイン
 
 Great Pioneer Set
-Great Pioneer Set
+グレートパイオニアセット
 
 Epic Pioneer Set
-Epic Pioneer Set
+エピックパイオニアセット
 
 Heavenly Pioneer Set
-Heavenly Pioneer Set
+天国のパイオニアセット
 
 Godbless Pioneer Set
-Godbless Pioneer Set
+ゴッドブレス・パイオニア・セット
 
 Great Giant Set
-Great Giant Set
+大巨人セット
 
 Epic Giant Set
-Epic Giant Set
+エピックジャイアントセット
 
 Heavenly Giant Set
-Heavenly Giant Set
+天の邪鬼セット
 
 Godbless Giant Set
-Godbless Giant Set
+ゴッドブレスジャイアントセット
 
 Great Reaper Set
-Great Reaper Set
+グレートリーパーセット
 
 Epic Reaper Set
-Epic Reaper Set
+エピックリーパーセット
 
 Heavenly Reaper Set
-Heavenly Reaper Set
+天国の死神セット
 
 Godbless Reaper Set
-Godbless Reaper Set
+ゴッドブレスリーパーセット
 
 Great Destroyer Set
-Great Destroyer Set
+グレートデストロイヤーセット
 
 Epic Destroyer Set
-Epic Destroyer Set
+エピック・デストロイヤーセット
 
 Heavenly Destroyer Set
-Heavenly Destroyer Set
+ヘブンリーデストロイヤーセット
 
 Godbless Destroyer Set
-Godbless Destroyer Set
+ゴッドブレス・デストロイヤーセット
 
 Great Winter Set
-Great Winter Set
+グレートウィンターセット
 
 Epic Winter Set
-Epic Winter Set
+エピックウィンターセット
 
 Heavenly Winter Set
-Heavenly Winter Set
+ヘブンリーウィンターセット
 
 Godbless Winter Set
-Godbless Winter Set
+ゴッドブレスウィンターセット
 
 Great Inferno Set
-Great Inferno Set
+グレートインフェルノセット
 
 Epic Inferno Set
-Epic Inferno Set
+エピックインフェルノセット
 
 Heavenly Inferno Set
-Heavenly Inferno Set
+ヘブンリーインフェルノセット
 
 Godbless Inferno Set
-Godbless Inferno Set
+ゴッドブレス・インフェルノセット
 
 Great Revival Set
-Great Revival Set
+大復活セット
 
 Epic Revival Set
-Epic Revival Set
+エピック・リバイバル・セット
 
 Heavenly Revival Set
-Heavenly Revival Set
+ヘブンリーリバイバルセット
 
 Godbless Revival Set
-Godbless Revival Set
+ゴッドブレス・リバイバルセット
 
 Great Undead Set
-Great Undead Set
+グレートアンデッドセット
 
 Epic Undead Set
-Epic Undead Set
+エピックアンデッドセット
 
 Heavenly Undead Set
-Heavenly Undead Set
+ヘブンリーアンデッドセット
 
 Godbless Undead Set
-Godbless Undead Set
+ゴッドブレスアンデッドセット
 
 Great Evil Purger
-Great Evil Purger
+グレートイーブルパージャー
 
 Epic Evil Purger
-Epic Evil Purger
+エピック・イヴィル・パージャー
 
 Heavenly Evil Purger
-Heavenly Evil Purger
+天邪鬼パージャー
 
 Godbless Evil Purger
-Godbless Evil Purger
+ゴッドブレス イビルパージャー
 
 Great Thor Hammer
-Great Thor Hammer
+グレート・トール・ハンマー
 
 Epic Thor Hammer
-Epic Thor Hammer
+エピック・ソーハンマー
 
 Heavenly Thor Hammer
-Heavenly Thor Hammer
+ヘブンリー トールハンマー
 
 Godbless Thor Hammer
-Godbless Thor Hammer
+ゴッドブレス・ソーハンマー
 
 Great Revenge Tooth
-Great Revenge Tooth
+グレートリベンジトゥース
 
 Epic Revenge Tooth
-Epic Revenge Tooth
+エピック・リベンジ・トゥース
 
 Heavenly Revenge Tooth
-Heavenly Revenge Tooth
+天国のリベンジ歯
 
 Godbless Revenge Tooth
-Godbless Revenge Tooth
+ゴッドブレス・リベンジ・トゥース
 
 Great Phoenix Longbow
-Great Phoenix Longbow
+グレートフェニックスロングボウ
 
 Epic Phoenix Longbow
-Epic Phoenix Longbow
+エピック フェニックス ロングボウ
 
 Heavenly Phoenix Longbow
-Heavenly Phoenix Longbow
+ヘブンリーフェニックス ロングボウ
 
 Godbless Phoenix Longbow
-Godbless Phoenix Longbow
+ゴッドブレスフェニックス ロングボウ
 
 Great Poseidon Trident
-Great Poseidon Trident
+グレートポセイドン・トライデント
 
 Epic Poseidon Trident
-Epic Poseidon Trident
+エピック ポセイドン トライデント
 
 Heavenly Poseidon Trident
-Heavenly Poseidon Trident
+天空のポセイドン・トライデント
 
 Godbless Poseidon Trident
-Godbless Poseidon Trident
+ゴッドブレス・ポセイドン・トライデント
 
 Great Burning Corona
-Great Burning Corona
+グレートバーニングコロナ
 
 Epic Burning Corona
-Epic Burning Corona
+エピックバーニングコロナ
 
 Heavenly Burning Corona
-Heavenly Burning Corona
+天燃コロナ
 
 Godbless Burning Corona
-Godbless Burning Corona
+ゴッドブレスバーニングコロナ
 
 Great Salvation Cross
-Great Salvation Cross
+大救世教団
 
 Epic Salvation Cross
-Epic Salvation Cross
+エピック・サルベーション・クロス
 
 Heavenly Salvation Cross
-Heavenly Salvation Cross
+天の救いの十字架
 
 Godbless Salvation Cross
-Godbless Salvation Cross
+ゴッドブレス・サルベーション・クロス
 
 Great Death Scythe
-Great Death Scythe
+大鎌
 
 Epic Death Scythe
-Epic Death Scythe
+エピック・デス・サイス
 
 Heavenly Death Scythe
-Heavenly Death Scythe
+天の死神の大鎌
 
 Godbless Death Scythe
-Godbless Death Scythe
+ゴッドブレス・デス・サイス
 
 Great Saviour Set
-Great Saviour Set
+グレートセイバーセット
 
 Epic Saviour Set
-Epic Saviour Set
+エピックセイバーセット
 
 Heavenly Saviour Set
-Heavenly Saviour Set
+ヘブンリーセイバーセット
 
 Godbless Saviour Set
-Godbless Saviour Set
+ゴッドブレス・セイバーセット
 
 Great Patronus Set
-Great Patronus Set
+大守護神セット
 
 Epic Patronus Set
-Epic Patronus Set
+エピックパトローナスセット
 
 Heavenly Patronus Set
-Heavenly Patronus Set
+天の守護神セット
 
 Godbless Patronus Set
-Godbless Patronus Set
+ゴッドブレスパトローナスセット
 
 Great Slaughterer Set
-Great Slaughterer Set
+大殺界セット
 
 Epic Slaughterer Set
-Epic Slaughterer Set
+エピック・スロータラーセット
 
 Heavenly Slaughterer Set
-Heavenly Slaughterer Set
+天の屠蘇器セット
 
 Godbless Slaughterer Set
-Godbless Slaughterer Set
+ゴッドブレス・スロータラーセット
 
 Great Dominator Set
-Great Dominator Set
+グレートドミネーターセット
 
 Epic Dominator Set
-Epic Dominator Set
+エピックドミネーターセット
 
 Heavenly Dominator Set
-Heavenly Dominator Set
+天のドミネーターセット
 
 Godbless Dominator Set
-Godbless Dominator Set
+ゴッドブレスドミネーターセット
 
 Great Tsunami Set
-Great Tsunami Set
+大津波セット
 
 Epic Tsunami Set
-Epic Tsunami Set
+エピックツナミセット
 
 Heavenly Tsunami Set
-Heavenly Tsunami Set
+天の鼓動セット
 
 Godbless Tsunami Set
-Godbless Tsunami Set
+ゴッドブレス・ツナミセット
 
 Great Sunfire Set
-Great Sunfire Set
+グレートサンファイアセット
 
 Epic Sunfire Set
-Epic Sunfire Set
+エピック・サンファイアセット
 
 Heavenly Sunfire Set
-Heavenly Sunfire Set
+ヘブンリーサンファイアセット
 
 Godbless Sunfire Set
-Godbless Sunfire Set
+ゴッドブレス・サンファイアセット
 
 Great Celestial Set
-Great Celestial Set
+グレートセレスティアルセット
 
 Epic Celestial Set
-Epic Celestial Set
+エピック セレスティアル セット
 
 Heavenly Celestial Set
-Heavenly Celestial Set
+ヘブンリーセレスティアルセット
 
 Godbless Celestial Set
-Godbless Celestial Set
+ゴッドブレス・セレスティアルセット
 
 Great Sacrifice Set
-Great Sacrifice Set
+グレートサクリファイスセット
 
 Epic Sacrifice Set
-Epic Sacrifice Set
+エピック・サクリファイス・セット
 
 Heavenly Sacrifice Set
-Heavenly Sacrifice Set
+天のいけにえセット
 
 Godbless Sacrifice Set
-Godbless Sacrifice Set
+ゴッドブレス・サクリファイスセット
