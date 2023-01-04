@@ -1,1673 +1,1673 @@
 Bash
-Bash
+バッシュ
 
 Cleave
-Cleave
+薙ぎ払う
 
 Execute
-Execute
+実行する
 
 Sweep Attack
-Sweep Attack
+スイープアタック
 
 Whirlwind Slash
-Whirlwind Slash
+ワールウィンドスラッシュ
 
 Wind Step
-Wind Step
+ウインドステップ
 
 Swallow Dance
-Swallow Dance
+スワロー・ダンス
 
 Formless
-Formless
+フォームレス
 
 Leap Slash
-Leap Slash
+リープススラッシュ
 
 Rip and Tear
-Rip and Tear
+リップ＆ティア
 
 Suppress
-Suppress
+サプレス
 
 Hamstring
-Hamstring
+ハムストリングス
 
 Armor Break
-Armor Break
+アーマーブレイク
 
 Rupture
-Rupture
+破裂
 
 Battle Cry
-Battle Cry
+バトルクライ
 
 Command Cry
-Command Cry
+コマンドクライ
 
 Taunt Attack
-Taunt Attack
+タウントアタック
 
 Challenge Cry
-Challenge Cry
+チャレンジクライ
 
 Lethal Strike
-Lethal Strike
+リーサルストライク
 
 Valiant Strike
-Valiant Strike
+ヴァリアントストライク
 
 Reckless Strike
-Reckless Strike
+レックレスストライク
 
 Bloodthirsty
-Bloodthirsty
+ブラッドサースティ
 
 Flesh Cleave
-Flesh Cleave
+肉薙ぎ払い
 
 Rampage Hack
-Rampage Hack
+ランペイジハック
 
 Haste
-Haste
+ヘイスト
 
 Ignore the Pain
-Ignore the Pain
+痛みを無視する
 
 Furious Recovery
-Furious Recovery
+猛烈な回復力
 
 Ancestral Hammer
-Ancestral Hammer
+アンセストラルハンマー
 
 Earthshaking Stomp
-Earthshaking Stomp
+アースシェイキング・ストンプ
 
 Vengeance
-Vengeance
+リベンジ
 
 Thunderous Blow
-Thunderous Blow
+カミナリ・ブロー
 
 Giant Strike
-Giant Strike
+ジャイアントストライク
 
 Berserk Roar
-Berserk Roar
+バーサークロアー
 
 Battle Roar
-Battle Roar
+バトルロアー
 
 Taunt
-Taunt
+タント
 
 Reckless
-Reckless
+無謀
 
 Blade Strike
-Blade Strike
+ブレードストライク
 
 Rapid Sting
-Rapid Sting
+ラピッドスティング
 
 Fan of Knives
-Fan of Knives
+ナイフのファン
 
 Blade Fury Dance
-Blade Fury Dance
+ブレードフューリーダンス
 
 Shadow Steps
-Shadow Steps
+シャドウ・ステップス
 
 Leap Gouge
-Leap Gouge
+リープガウジング
 
 Relentless Slash
-Relentless Slash
+リレントレススラッシュ
 
 Sap
-Sap
+樹液
 
 Puncture
-Puncture
+パンク
 
 Piercing Shriek
-Piercing Shriek
+ピアッシング・シュリーク
 
 Void Shift
-Void Shift
+ボイドシフト
 
 Scorn
-Scorn
+軽蔑
 
 Dark Quake
-Dark Quake
+ダーククエイク
 
 Kidney Strike
-Kidney Strike
+キドニーストライク
 
 Shadow Cloak
-Shadow Cloak
+シャドウマント
 
 Shattering Moon
-Shattering Moon
+シャタリングムーン
 
 Slit Throat
-Slit Throat
+スリットスロート
 
 Poison Blade
-Poison Blade
+ポイズンブレード
 
 Arcane Shot
-Arcane Shot
+アーケインショット
 
 Aimed Shot
-Aimed Shot
+エイムドショット
 
 Multi Shot
-Multi Shot
+マルチショット
 
 Rapid Arrows
-Rapid Arrows
+ラピッドアローズ
 
 Marked Shot
-Marked Shot
+マークショット
 
 Burst Shot
-Burst Shot
+バーストショット
 
 Bull's Eye
-Bull's Eye
+ブルズアイ
 
 Concussive Shot
-Concussive Shot
+コンカッシブショット
 
 Throw Hunting Net
-Throw Hunting Net
+投擲用ハンティングネット
 
 Tar Trap
-Tar Trap
+タールトラップ
 
 Vine Trap
-Vine Trap
+ヴァイントラップ
 
 Turtle Guardian
-Turtle Guardian
+タートルガーディアン
 
 Strong-Arm Aura
-Strong-Arm Aura
+ストロングアームオーラ
 
 Tranquility Aura
-Tranquility Aura
+トランクィリティオーラ
 
 Viper Sting
-Viper Sting
+バイパースティング
 
 Adder Sting
-Adder Sting
+アダー・スティング
 
 Scorpion Sting
-Scorpion Sting
+スコーピオンスティング
 
 Escape
-Escape
+エスケープ
 
 Magic Sphere
-Magic Sphere
+マジック・スフィア
 
 Ice Lance
-Ice Lance
+アイスランス
 
 Ice Storm
-Ice Storm
+アイスストーム
 
 Ice Orb
-Ice Orb
+アイスオーブ
 
 Aqua Jet
-Aqua Jet
+アクアジェット
 
 Blizzard
-Blizzard
+ブリザード
 
 Ice Arrow
-Ice Arrow
+アイスアロー
 
 Icicle
-Icicle
+アイシクル
 
 Frost Nova
-Frost Nova
+フロストノヴァ
 
 Cold Winter
-Cold Winter
+寒い冬
 
 Ice Barrier
-Ice Barrier
+アイスバリア
 
 Ice Shield
-Ice Shield
+アイスシールド
 
 Winter Horn
-Winter Horn
+ウィンターホーン
 
 Crushed Ice Fetters
-Crushed Ice Fetters
+クラッシュドアイスフェッター
 
 Chilling Frost
-Chilling Frost
+凍てつく霜
 
 Dispel Magic
-Dispel Magic
+ディスペル・マジック
 
 Teleportation
-Teleportation
+テレポーテーション
 
 Teleportation Portal
-Teleportation Portal
+テレポーテーションポータル
 
 Retract the Barrier
-Retract the Barrier
+バリアフリー
 
 Fireball
-Fireball
+ファイアボール
 
 Fire Impact
-Fire Impact
+火災の影響
 
 Fire Surge
-Fire Surge
+ファイヤーサージ
 
 Sear
-Sear
+シアー
 
 Pyroblast
-Pyroblast
+パイロブラスト
 
 Blazing Storm
-Blazing Storm
+ブレイジングストーム
 
 Magma
-Magma
+マグマ
 
 Dragon's Breath
-Dragon's Breath
+ドラゴンズブレス
 
 Elven Ascension
-Elven Ascension
+エルヴンアセンション
 
 Lava Armor
-Lava Armor
+ラヴァアーマー
 
 Scorch
-Scorch
+スコーチ
 
 Purification
-Purification
+精製
 
 Ignition
-Ignition
+イグニッション
 
 Magic Shield
-Magic Shield
+マジックシールド
 
 Invisibility
-Invisibility
+インビジビリティ
 
 Critical Blaze
-Critical Blaze
+クリティカルブレイズ
 
 Elven Teleportation
-Elven Teleportation
+エルフのテレポーテーション
 
 Elven Teleportation Portal
-Elven Teleportation Portal
+エルフのテレポーテーションポータル
 
 Retribution
-Retribution
+リトリビューション
 
 Holy Light Wave
-Holy Light Wave
+ホーリーライトウェーブ
 
 Divine Nova
-Divine Nova
+ディバインノヴァ
 
 Concentrated Will
-Concentrated Will
+濃縮された意志
 
 Divine Fire
-Divine Fire
+ディバインファイア
 
 Heal
-Heal
+ヒール
 
 Recover
-Recover
+回復する
 
 Healing Prayers
-Healing Prayers
+癒しの祈り
 
 Light of Miracles
-Light of Miracles
+ライト・オブ・ミラクル
 
 Divine Anthem
-Divine Anthem
+神曲
 
 Resurrection
-Resurrection
+復活
 
 Holy Light
-Holy Light
+聖なる光
 
 Group Dispel
-Group Dispel
+グループディスペル
 
 Spiral Blast
-Spiral Blast
+スパイラルブラスト
 
 Divine Protection
-Divine Protection
+ディバイン・プロテクション
 
 Soul of Redemption
-Soul of Redemption
+ソウル・オブ・リデンプション
 
 Requiem
-Requiem
+レクイエム
 
 Mind Whip
-Mind Whip
+マインド・ウィップ
 
 Shadow Arrow
-Shadow Arrow
+シャドーアロー
 
 Skeleton Explosion
-Skeleton Explosion
+スケルトンエクスプロージョン
 
 Dead Toxin
-Dead Toxin
+デッドトキシン
 
 Corrosion Spell
-Corrosion Spell
+腐食の呪文
 
 Incessant Pain
-Incessant Pain
+絶え間ないパン
 
 Healing Wave
-Healing Wave
+ヒーリングウェーブ
 
 Healing Surge
-Healing Surge
+ヒーリングサージ
 
 Healing Fountain Totem
-Healing Fountain Totem
+ヒーリングファウンテン トーテム
 
 Healing Chain
-Healing Chain
+ヒーリングチェーン
 
 Healing Tide Totem
-Healing Tide Totem
+ヒーリングタイド トーテム
 
 Soul Returnal
-Soul Returnal
+ソウルリターナル
 
 Soul Purify
-Soul Purify
+ソウル・ピュリファイ
 
 Summon Spirit
-Summon Spirit
+霊を召喚する
 
 Undead Grip
-Undead Grip
+アンデッドグリップ
 
 Break the Chain
-Break the Chain
+ブレイク・ザ・チェーン
 
 Undying Resolve
-Undying Resolve
+不滅の決心
 
 Spiritual Totem
-Spiritual Totem
+スピリチュアル・トータム
 
 Undead Ensnare
-Undead Ensnare
+アンデッド・エンスネア
 
 Transfix
-Transfix
+トランスフィクス
 
 Crystal Cannonball
-Crystal Cannonball
+クリスタルキャノンボール
 
 Crystal Light Wave
-Crystal Light Wave
+クリスタルライトウェーブ
 
 Cannon
-Cannon
+キャノン
 
 Fire Breath
-Fire Breath
+ファイヤーブレス
 
 Bomb
-Bomb
+爆弾
 
 Rolling Stone
-Rolling Stone
+ローリングストーン
 
 C4 Explosive
-C4 Explosive
+C4爆薬
 
 Abyss
-Abyss
+奈落の底
 
 Summon Robots
-Summon Robots
+ロボット召喚
 
 Dialog Control
-Dialog Control
+ダイアログコントロール
 
 Magic Cannon
-Magic Cannon
+マジックキャノン
 
 Transform
-Transform
+トランスフォーム
 
 Throw water monster egg
-Throw water monster egg
+ウォーターモンスターの卵を投げる
 
 Mine Explosion
-Mine Explosion
+地雷爆発
 
 Tear and Bite
-Tear and Bite
+ティア・アンド・バイト
 
 Full-Note Attack
-Full-Note Attack
+フルノートアタック
 
 Semitone Attack
-Semitone Attack
+セミトーンアタック
 
 Fire Cannon
-Fire Cannon
+ファイヤーキャノン
 
 Load Ammunition
-Load Ammunition
+弾薬の装填
 
 Self Repair
-Self Repair
+セルフリペア
 
 Crash
-Crash
+クラッシュ
 
 Summon Zombie Guard
-Summon Zombie Guard
+ゾンビガードの召喚
 
 Preparing Anti-Aircraft Cannon
-Preparing Anti-Aircraft Cannon
+対空砲の準備
 
 Invisible Cannon
-Invisible Cannon
+インビジブルキャノン
 
 Super Taunt
-Super Taunt
+スーパータウント
 
 Explosion
-Explosion
+爆発
 
 Pig Push Rolling Stones
-Pig Push Rolling Stones
+ピッグプッシュ・ローリングストーンズ
 
 Electric Current
-Electric Current
+電流
 
 Throw Bomb
-Throw Bomb
+スローボム
 
 Alarm
-Alarm
+アラーム
 
 Thunder
-Thunder
+サンダー
 
 Deceleration Net
-Deceleration Net
+減速ネット
 
 Vortex
-Vortex
+ボルテックス
 
 Surrender
-Surrender
+サレンダー
 
 Attract
-Attract
+アトラクト
 
 Flash Bomb
-Flash Bomb
+フラッシュボム
 
 Summon Undead
-Summon Undead
+アンデッドの召喚
 
 Knock on Window
-Knock on Window
+窓をノックする
 
 Slam
-Slam
+スラム
 
 Channeling Stone Rampage
-Channeling Stone Rampage
+チャネリングストーンランペイジ
 
 Stone Rampage
-Stone Rampage
+ストーン・ランペイジ
 
 Strong Throw
-Strong Throw
+ストロングスロー
 
 Teleport Bomb
-Teleport Bomb
+テレポートボム
 
 Throw Grenade
-Throw Grenade
+手榴弾を投げる
 
 Catapult
-Catapult
+カタパルト
 
 Laser Cannon
-Laser Cannon
+レーザーキャノン
 
 Laser
-Laser
+レーザー
 
 Roll
-Roll
+ロール
 
 Boulder Smash
-Boulder Smash
+ボルダースマッシュ
 
 Shooting
-Shooting
+撮影
 
 Hay Cutter
-Hay Cutter
+ヘイカッター
 
 Summon Demon
-Summon Demon
+デーモン召喚
 
 Dark Heal
-Dark Heal
+ダークヒール
 
 Soul Drain
-Soul Drain
+ソウルドレイン
 
 Avalanche
-Avalanche
+アバランチ
 
 Kick
-Kick
+キック
 
 Piercing Kick
-Piercing Kick
+ピアッシングキック
 
 Ram
-Ram
+ラム
 
 Croissant Knife
-Croissant Knife
+クロワッサンナイフ
 
 Elusive Kick
-Elusive Kick
+エルーシブキック
 
 Horn Knife
-Horn Knife
+ホーンナイフ
 
 Magic Marbles
-Magic Marbles
+魔法のビー玉
 
 Magic Beam
-Magic Beam
+マジックビーム
 
 Bark
-Bark
+吠える
 
 Angry Bite
-Angry Bite
+アングリーバイト
 
 Scratch
-Scratch
+スクラッチ
 
 Meow Punch
-Meow Punch
+ニャーパンチ
 
 Swoop
-Swoop
+急降下
 
 Stab
-Stab
+スタッフ
 
 Whip
-Whip
+ホイップ
 
 Spank
-Spank
+スパンク
 
 Whirlwind Palm
-Whirlwind Palm
+つむじ風パーム
 
 Intimidate
-Intimidate
+威嚇
 
 Ice and Snow
-Ice and Snow
+氷と雪
 
 Scarlet Flame
-Scarlet Flame
+スカーレット・フレイム
 
 Tiger Tail Whip
-Tiger Tail Whip
+タイガーテイルウィップ
 
 Spray Water
-Spray Water
+スプレー水
 
 Ice Sword
-Ice Sword
+アイスソード
 
 Breath
-Breath
+ブレス
 
 Chilling Breath
-Chilling Breath
+チリングブレス
 
 Throw
-Throw
+投げる
 
 Blow Dart
-Blow Dart
+ブローダート
 
 Iron Scissors
-Iron Scissors
+アイアンシザース
 
 Arm Knife
-Arm Knife
+アームナイフ
 
 Leave Boomerang
-Leave Boomerang
+ブーメランを残す
 
 Nut Bomb
-Nut Bomb
+ナッツボム
 
 Sandstorm
-Sandstorm
+サンドストーム
 
 Peck
-Peck
+ペック
 
 Claw Hook
-Claw Hook
+クローフック
 
 Slap
-Slap
+スラップ
 
 Magic Flames
-Magic Flames
+マジックフレイムス
 
 Elven Magic
-Elven Magic
+エルヴン マジック
 
 Elven Song
-Elven Song
+エルフの歌
 
 Spit Bubbles
-Spit Bubbles
+スピットバブル
 
 Water Bomb
-Water Bomb
+水爆
 
 Ice Ball
-Ice Ball
+アイスボール
 
 Crescent Crystal Boomerang
-Crescent Crystal Boomerang
+三日月クリスタルブーメラン
 
 Moonlight Crystal Retribution
-Moonlight Crystal Retribution
+ムーンライトクリスタル リトリビューション
 
 Punch of Heaven
-Punch of Heaven
+パンチ・オブ・ヘブン
 
 Divine Arrow
-Divine Arrow
+ディバインアロー
 
 Base Attack
-Base Attack
+ベースアタック
 
 Pounce and Bite
-Pounce and Bite
+パウンズ・アンド・バイト
 
 Poisonous Fang
-Poisonous Fang
+ポイズンファング
 
 Poisonous Fog
-Poisonous Fog
+毒のある霧
 
 Hit
-Hit
+ヒット
 
 Doom Beam
-Doom Beam
+ドゥームビーム
 
 Hack
-Hack
+ハック
 
 Blow Nose
-Blow Nose
+ブローノーズ
 
 Swooping Peck
-Swooping Peck
+スウーピングペック
 
 Swooping Claw
-Swooping Claw
+スウーピングクロー
 
 Great Waves
-Great Waves
+グレートウェーブ
 
 Water Arrow
-Water Arrow
+ウォーターアロー
 
 Undercurrent Impact
-Undercurrent Impact
+アンダーカレント インパクト
 
 Undercurrent Surge
-Undercurrent Surge
+過電流サージ
 
 Venom
-Venom
+ヴェノム
 
 Spit
-Spit
+唾液
 
 Wind Blade
-Wind Blade
+ウィンドブレード
 
 Collide
-Collide
+コライド
 
 Meteor Shower
-Meteor Shower
+流星群
 
 Falling Meteor
-Falling Meteor
+落下流星
 
 Silvermoon Machete
-Silvermoon Machete
+シルバームーン マチェーテ
 
 Crescent Boomerang
-Crescent Boomerang
+クレセントブーメラン
 
 Meteor Hammer
-Meteor Hammer
+メテオハンマー
 
 Repel
-Repel
+撃退
 
 Dark Invasion
-Dark Invasion
+ダークインベージョン
 
 Dark Baptism
-Dark Baptism
+ダークバプテスマ
 
 Dark Explosion
-Dark Explosion
+ダークエクスプロージョン
 
 Electric Arc
-Electric Arc
+エレクトリックアーク
 
 Electric Shock
-Electric Shock
+電気ショック
 
 Throw Boulder
-Throw Boulder
+スロウボルダー
 
 Dark Judgment
-Dark Judgment
+ダークジャッジメント
 
 Needle Sting
-Needle Sting
+ニードルスティング
 
 Electro Needle
-Electro Needle
+エレクトロ・ニードル
 
 Flame Cage
-Flame Cage
+フレイムケージ
 
 Tornado Blade
-Tornado Blade
+トルネードブレード
 
 Electric Cage
-Electric Cage
+電動ケージ
 
 Devastating Thunder
-Devastating Thunder
+デバステーティングサンダー
 
 Elemental Bomb
-Elemental Bomb
+エレメンタルボム
 
 Bite
-Bite
+噛む
 
 Suck Blood
-Suck Blood
+血を吸う
 
 Poke
-Poke
+ポーク
 
 Scare
-Scare
+怖さ
 
 Incandescent Fireball
-Incandescent Fireball
+白熱ファイアボール
 
 Black Storm
-Black Storm
+ブラックストーム
 
 Storm Cage
-Storm Cage
+ストームケージ
 
 Dark Flame Blast
-Dark Flame Blast
+ダークフレイムブラスト
 
 Dark Flame Storm
-Dark Flame Storm
+ダークフレイムストーム
 
 Dark Flame Cage
-Dark Flame Cage
+ダークフレイムケージ
 
 Sigh of Death
-Sigh of Death
+死の吐息
 
 Discharge
-Discharge
+排出量
 
 Lightning Hurricane
-Lightning Hurricane
+ライトニングハリケーン
 
 Electric Armor
-Electric Armor
+エレクトリックアーマー
 
 Heavy Hammer
-Heavy Hammer
+ヘビーハンマー
 
 Vomit Attack
-Vomit Attack
+嘔吐攻撃
 
 Fire Needles
-Fire Needles
+ファイヤーニードル
 
 Flying Feathers
-Flying Feathers
+フライングフェザーズ
 
 Act Cute
-Act Cute
+アクト・キュート
 
 Nature's Grace
-Nature's Grace
+自然の恵み
 
 Demonic Hellfire
-Demonic Hellfire
+魔界の地獄絵図
 
 Bondage Serpent
-Bondage Serpent
+ボンテージサーペント
 
 Life Plunder
-Life Plunder
+人生奪取
 
 Hydrotherapy
-Hydrotherapy
+ハイドロセラピー
 
 Blinding Dart
-Blinding Dart
+ブラインディングダート
 
 Sprint
-Sprint
+スプリント
 
 Cleave-Sword
-Cleave-Sword
+クリーブソード
 
 Fire Blade
-Fire Blade
+ファイヤーブレード
 
 Black Fireball
-Black Fireball
+ブラックファイヤーボール
 
 Verdict
-Verdict
+評決
 
 Shock Wave
-Shock Wave
+衝撃波
 
 Dark Holy Light
-Dark Holy Light
+ダークホーリーライト
 
 Dark Barrier
-Dark Barrier
+ダークバリア
 
 Bloody Roar
-Bloody Roar
+ブラッディローア
 
 Frenzy
-Frenzy
+フレンジー
 
 Cleave-Knife
-Cleave-Knife
+クレーヴナイフ
 
 Holy Light Slash
-Holy Light Slash
+ホーリーライトスラッシュ
 
 Cross Slash
-Cross Slash
+クロススラッシュ
 
 Holy Light Heal
-Holy Light Heal
+ホーリーライトヒール
 
 Cleave-Sword (increase attack speed)
-Cleave-Sword (increase attack speed)
+薙刀（攻撃速度アップ）
 
 Thunder Slash
-Thunder Slash
+サンダー・スラッシュ
 
 Snowy Purgatory
-Snowy Purgatory
+雪の煉獄
 
 Blade of Judgment
-Blade of Judgment
+ブレード・オブ・ジャッジメント
 
 Roar
-Roar
+轟音
 
 Dark Prayer
-Dark Prayer
+闇の祈り
 
 Dark Blood Curse
-Dark Blood Curse
+ダークブラッドカース
 
 Fire Blast
-Fire Blast
+ファイアーブラスト
 
 Burn Books
-Burn Books
+バーンブックス
 
 Breath of Dragon
-Breath of Dragon
+ブレスオブドラゴン
 
 Sharp Mind
-Sharp Mind
+シャープマインド
 
 Fireball Bombardment
-Fireball Bombardment
+火球砲撃
 
 Puncture Throw
-Puncture Throw
+パンクチャー・スロー
 
 Lightning Throwing Knife
-Lightning Throwing Knife
+ライトニングスローイングナイフ
 
 Flower of Death
-Flower of Death
+死の花
 
 Bloody Wrath
-Bloody Wrath
+ブラッディ・ウラース
 
 Rising Dragon Punch·昏迷
-Rising Dragon Punch·昏迷
+ライジングドラゴンパンチ-昏迷
 
 Rising Dragon Punch-Normal
-Rising Dragon Punch-Normal
+ライジングドラゴンパンチ-ノーマル
 
 Scorching Flame Fist-1
-Scorching Flame Fist-1
+灼熱炎拳-1
 
 Scorching Flame Fist-2
-Scorching Flame Fist-2
+灼熱炎拳-2
 
 Scorching Flame Fist-3
-Scorching Flame Fist-3
+灼熱炎拳-3
 
 Scorching Flame Fist-4
-Scorching Flame Fist-4
+灼熱の炎拳-4
 
 Scorching Flame Fist-5
-Scorching Flame Fist-5
+灼熱の炎拳-5
 
 Scorching Flame Fist-Over
-Scorching Flame Fist-Over
+灼熱火炎フィストオーバー
 
 Flying Kick
-Flying Kick
+フライングキック
 
 Firestorm Kick
-Firestorm Kick
+ファイアストームキック
 
 Burning Flame-{d}%
-Burning Flame-$1%
+バーニングフレイム{d}%。
 
 Scorching Earth
-Scorching Earth
+灼熱の大地
 
 Cross Light Slash
-Cross Light Slash
+クロスライトスラッシュ
 
 Dragon Slash
-Dragon Slash
+ドラゴンスラッシュ
 
 Valiant Leap
-Valiant Leap
+ヴァリアント・リープ
 
 Blade of Light-{d}
-Blade of Light-$1
+ブレード・オブ・ライト-{d}
 
 Gravity Aura
-Gravity Aura
+グラビティオーラ
 
 Nine-Headed Dragon Slash
-Nine-Headed Dragon Slash
+九頭龍斬り
 
 Nine-Headed Dragon Slash-{d}
-Nine-Headed Dragon Slash-$1
+九頭龍斬り-{d}。
 
 Nine-Headed Dragon Slash-over
-Nine-Headed Dragon Slash-over
+九頭龍スラッシュオーバー
 
 Arc Slash
-Arc Slash
+アークスラッシュ
 
 Dash Strike
-Dash Strike
+ダッシュ・ストライク
 
 Shining Steel
-Shining Steel
+シャイニングスチール
 
 Punishment
-Punishment
+罰
 
 Divine Retribution
-Divine Retribution
+てんばつてきめん
 
 Holy Sword Light Cannon
-Holy Sword Light Cannon
+聖剣ライトキャノン
 
 Healing
-Healing
+ヒーリング
 
 True Word-Shield
-True Word-Shield
+トゥルー・ワード・シールド
 
 Punishment Aura
-Punishment Aura
+罰ゲームオーラ
 
 Golden Fortitude
-Golden Fortitude
+黄金の不屈の精神
 
 Summon Hound
-Summon Hound
+サモンハウンド
 
 Call for Help
-Call for Help
+ヘルプを呼び出す
 
 Wish-Ice Cave
-Wish-Ice Cave
+ウィッシュアイスケイブ
 
 Yin-Yang Sword
-Yin-Yang Sword
+陰陽剣
 
 Yin-Yang Sword-Ensnare
-Yin-Yang Sword-Ensnare
+陰陽刀・エンセナール
 
 See-Through Light
-See-Through Light
+シースルーライト
 
 Karate Chop
-Karate Chop
+空手チョップ
 
 Made of Steel
-Made of Steel
+スチール製
 
 Overwhelm
-Overwhelm
+オーバーヒート
 
 Crashing Thunderclap
-Crashing Thunderclap
+クラッシュサンダークラップ
 
 Magic Gourd Attack
-Magic Gourd Attack
+魔法ひょうたんアタック
 
 Magic Gourd-Heartbreak Spell
-Magic Gourd-Heartbreak Spell
+魔法ひょうたん-ハートブレイク・スペル
 
 Scorpion Tail
-Scorpion Tail
+スコーピオン・テイル
 
 Iron Pliers
-Iron Pliers
+鉄製ペンチ
 
 Steel Chop
-Steel Chop
+スチールチョップ
 
 Throw Weapons
-Throw Weapons
+投擲武器
 
 Mold-Stinky Five Poison Soup
-Mold-Stinky Five Poison Soup
+カビ臭い五毒スープ
 
 Black Sand Fan
-Black Sand Fan
+黒砂扇
 
 Poisonous Shot
-Poisonous Shot
+ポイゾナスショット
 
 Ultrasonic Attack
-Ultrasonic Attack
+超音波攻撃
 
 Knock
-Knock
+ノック
 
 Charm Beam
-Charm Beam
+チャームビーム
 
 Death Shock
-Death Shock
+デスショック
 
 King's Verdict
-King's Verdict
+王様の評決
 
 Sticky Bubble Gum
-Sticky Bubble Gum
+スティッキーバブルガム
 
 Fish Hook Boomerang
-Fish Hook Boomerang
+フィッシュフックブーメラン
 
 Throw Harpoon
-Throw Harpoon
+スローハープーン
 
 Whirlwind Claw
-Whirlwind Claw
+ワールウィンドクロー
 
 Throw Sand
-Throw Sand
+砂を投げる
 
 Dark Seal
-Dark Seal
+ダークシール
 
 Explosive Hammer
-Explosive Hammer
+エクスプロージョンハンマー
 
 Crumbs Fetters
-Crumbs Fetters
+クラムスフェッター
 
 Might of the Pharaoh
-Might of the Pharaoh
+ファラオの力
 
 Pharaoh's Curse
-Pharaoh's Curse
+ファラオの呪い
 
 Spray Poison
-Spray Poison
+スプレーポイズン
 
 Chaos Phantom Coin
-Chaos Phantom Coin
+カオスファントムコイン
 
 Magic Weakening Beam
-Magic Weakening Beam
+魔法弱体化ビーム
 
 Healing Flame
-Healing Flame
+ヒーリングフレイム
 
 Claw Strike
-Claw Strike
+クローストライク
 
 Shoting
-Shoting
+撮影
 
 Energy Sphere
-Energy Sphere
+エナジースフィア
 
 Spinning Air
-Spinning Air
+回転する空気
 
 Arcane Missiles
-Arcane Missiles
+アーケイン・ミサイル
 
 Mini Fireball
-Mini Fireball
+ミニファイヤーボール
 
 Shadow Sphere
-Shadow Sphere
+シャドウスフィア
 
 Ground Thorns
-Ground Thorns
+グラウンドソーン
 
 Air Cannon
-Air Cannon
+エアーキャノン
 
 Water Dragon Wave
-Water Dragon Wave
+ウォータードラゴンウェーブ
 
 Dark Curse
-Dark Curse
+ダークカース
 
 Phantom Meteor Hammer
-Phantom Meteor Hammer
+ファントムメテオハンマー
 
 Hammer Strike
-Hammer Strike
+ハンマーストライク
 
 Throw Gum
-Throw Gum
+スローガム
 
 Throw Mud Ball
-Throw Mud Ball
+マッドボールを投げる
 
 Inject HP Potion
-Inject HP Potion
+HPポーションを注入する
 
 Super Bubbles
-Super Bubbles
+スーパーシャボン玉
 
 Deep sea Vortex
-Deep sea Vortex
+深海の渦
 
 Vine Ensnare
-Vine Ensnare
+ヴァイン・エンスネア
 
 Long Jump
-Long Jump
+走幅跳
 
 Earth Shatter
-Earth Shatter
+アースシャター
 
 Deadly Crescent Javelin
-Deadly Crescent Javelin
+デッドリークレセントジャベリン
 
 Life Resurgence (Fallen)
-Life Resurgence (Fallen)
+ライフ・リザレクション（フォールン）
 
 Throw Snowball
-Throw Snowball
+雪玉を投げる
 
 Ice Blade
-Ice Blade
+アイスブレード
 
 Demon Ray
-Demon Ray
+デーモンレイ
 
 Machine-Gun Burst
-Machine-Gun Burst
+マシンガン・バースト
 
 Snipe
-Snipe
+スナイプ
 
 Bondage Ensnare
-Bondage Ensnare
+ボンテージ・エンスネア
 
 Lightsaber
-Lightsaber
+ライトセーバー
 
 Spinning Cut
-Spinning Cut
+スピニングカット
 
 Place Bomb
-Place Bomb
+プレイスボム
 
 Throw Butter
-Throw Butter
+バターを投げる
 
 Blood Curse
-Blood Curse
+血の呪い
 
 Death Rays
-Death Rays
+デスレイ
 
 True-Dark Invasion
-True-Dark Invasion
+トゥルーダーク・インベージョン
 
 Tree Gouge
-Tree Gouge
+ツリーガウジング
 
 Rolling Green Wave
-Rolling Green Wave
+ローリング・グリーンウェーブ
 
 Scorpion Stinger
-Scorpion Stinger
+スコーピオンスティンガー
 
 Flying Head Attack
-Flying Head Attack
+フライングヘッドアタック
 
 Devour
-Devour
+デヴァー
 
 Joker Magic Tricks
-Joker Magic Tricks
+ジョーカー・マジック
 
 Joker Throwing Knife
-Joker Throwing Knife
+ジョーカー・スローイングナイフ
 
 Banshee's Kiss
-Banshee's Kiss
+バンシーズ・キス
 
 Cannibalism
-Cannibalism
+カニバリズム
 
 Suck
-Suck
+吸う
 
 Throw Stone
-Throw Stone
+スロウストーン
 
 Gravel Scatter
-Gravel Scatter
+グラベル・スキャッター
 
 Catch Insect
-Catch Insect
+虫を捕まえる
 
 Pester
-Pester
+ペスター
 
 Spray Spores
-Spray Spores
+スプレー胞子
 
 Wooden cross Boomerang
-Wooden cross Boomerang
+木製クロス ブーメラン
 
 Rapier Nose
-Rapier Nose
+ラピアノーズ
 
 Strong Claw
-Strong Claw
+ストロングクロー
 
 Elusive
-Elusive
+エラい人
 
 Flying Notes
-Flying Notes
+フライングノート
 
 Hellfire
-Hellfire
+ヘルファイア
 
 Strong laser cannon
-Strong laser cannon
+強力なレーザーキャノン
 
 Endless Chill
-Endless Chill
+エンドレス チル
 
 Puppetry
-Puppetry
+人形劇
 
 Binding Chain
-Binding Chain
+バインドチェーン
 
 Shrinking Turtle
-Shrinking Turtle
+シュリンキング・タートル
 
 Spore bullet
-Spore bullet
+スポーア弾
 
 Run Mo Run
-Run Mo Run
+ラン・モ・ラン
 
 Caesar's Claw
-Caesar's Claw
+シーザーの爪
 
 Ancient Toxin
-Ancient Toxin
+古代の毒素
 
 Raining Arrows
-Raining Arrows
+雨の矢
 
 Gravity Arrow
-Gravity Arrow
+グラビティ・アロー
 
 Concussive Arrow
-Concussive Arrow
+コンカッシブアロー
 
 Pouring Arrows
-Pouring Arrows
+アローを注ぐ
 
 Black Flame Bomb
-Black Flame Bomb
+ブラックフレイムボム
 
 B Field
-B Field
+Bフィールド
 
 Energy Blade
-Energy Blade
+エナジーブレード
 
 Divine Guard
-Divine Guard
+ディバインガード
 
 Fang Stab
-Fang Stab
+キャッチロッド
 
 Red Eye Ray
-Red Eye Ray
+レッドアイ・レイ
 
 Preparing Summon Demon
-Preparing Summon Demon
+デーモン召喚の準備
 
 Stomp
-Stomp
+ストンプ
 
 Horn Stab
-Horn Stab
+ホーンロッド
 
 Electric Barrier
-Electric Barrier
+電気バリア
 
 Spiral Water Arrow
-Spiral Water Arrow
+スパイラルウォーターアロー
 
 Laser Sword
-Laser Sword
+レーザーソード
 
 Lethal Canon
-Lethal Canon
+リーサルキャノン
 
 AT Field
-AT Field
+ATフィールド
 
 Ultimate Electric Current
-Ultimate Electric Current
+究極の電流
 
 Electric Storm
-Electric Storm
+エレクトリックストーム
 
 Bar Sweep
-Bar Sweep
+バースイープ
 
 Mighty Ocean-Quieting Bar
-Mighty Ocean-Quieting Bar
+マイティーオーシャン・クワイティング・バー
 
 Protection Charm
-Protection Charm
+プロテクションチャーム
 
 Mighty Monkey King
-Mighty Monkey King
+マイティ・モンキー・キング
 
 Pyre
-Pyre
+パイア
 
 72 Forms
-72 Forms
+72 フォーム
 
 Fire Laser
-Fire Laser
+ファイヤーレーザー
 
 Sleeping Incense
-Sleeping Incense
+眠り香
 
 Ghost Kill
-Ghost Kill
+ゴースト・キル
 
 Gallows
-Gallows
+ギャローズ
 
 Void Blade
-Void Blade
+ボイドブレード
 
 Heart-Piercing Tooth
-Heart-Piercing Tooth
+心臓に突き刺さるような歯
 
 Blade Spiral
-Blade Spiral
+ブレードスパイラル
 
 Thunder Blast Strike
-Thunder Blast Strike
+サンダーブラストストライク
 
 Thunderbolt Slash
-Thunderbolt Slash
+サンダーボルトスラッシュ
 
 Thunder Star Strike
-Thunder Star Strike
+サンダー・スター・ストライク
 
 Axe Sweep
-Axe Sweep
+アックス・スイープ
 
 Nets Above and Snares Below
-Nets Above and Snares Below
+上にネット、下にスネア
 
 Barbaric Intimidation
-Barbaric Intimidation
+蛮勇の威圧
 
 Toxic Shot
-Toxic Shot
+トキシックショット
 
 Electric Shots
-Electric Shots
+エレクトリックショット
 
 Rolling Thunder
-Rolling Thunder
+ローリングサンダー
 
 Paralyzing Thunderbolt
-Paralyzing Thunderbolt
+パラライジングサンダーボルト
 
 Wrath of Thunder
-Wrath of Thunder
+雷の怒り
 
 Thunderous Firestorm
-Thunderous Firestorm
+カミナリ・ファイアストーム
 
 Sneaky Counterattack
-Sneaky Counterattack
+卑劣な反撃
 
 Rake Sweep
-Rake Sweep
+レーキ・スウィープ
 
 Meaty Trampoline
-Meaty Trampoline
+ミーティートランポリン
 
 Captive Moment
-Captive Moment
+Captive Moment（キャプティブ・モーメント
 
 Chain Frost
-Chain Frost
+チェーンフロスト
 
 Frost Star
-Frost Star
+フロストスター
 
 Frost Armor
-Frost Armor
+フロストアーマー
 
 Black Meteor
-Black Meteor
+ブラックメテオ
 
 Starburst Blast
-Starburst Blast
+スターバーストブラスト
 
 Meteor Firestorm
-Meteor Firestorm
+メテオファイアストーム
 
 Death Ray
-Death Ray
+デスレイ
 
 Hell Howl
-Hell Howl
+ヘルハウル
 
 Hell Blood Curse
-Hell Blood Curse
+地獄の血の呪い
 
 Object Shift
-Object Shift
+オブジェクトシフト
 
 Life Resurgence
-Life Resurgence
+ライフ・リザレクション
 
 Ghost Shield
-Ghost Shield
+ゴースト・シールド
 
 Dragon Claw Rip
-Dragon Claw Rip
+ドラゴンクローリップ
 
 Dragon Tail
-Dragon Tail
+ドラゴンテール
 
 Cataclysm
-Cataclysm
+カタクリスム
 
 Might of the Beast
-Might of the Beast
+マイト・オブ・ザ・ビースト
 
 Dragon Roar
-Dragon Roar
+ドラゴン・ロア
 
 Aegis Protection
-Aegis Protection
+イージスプロテクション
 
 Ice Fog
-Ice Fog
+アイスフォグ
 
 Polar Ice Spirit
-Polar Ice Spirit
+極地の氷の精
 
 Snake King Roar
-Snake King Roar
+蛇王の咆哮
 
 Ice Mist Dragon
-Ice Mist Dragon
+アイスミストドラゴン
 
 Summon Ancient Dragon Guards
-Summon Ancient Dragon Guards
+エンシェントドラゴンガードの召喚
 
 Ultimate-Dragon Soar
-Ultimate-Dragon Soar
+アルティメット・ドラゴン・ソア
 
 Ancient Dragon Tide
-Ancient Dragon Tide
+エンシェント・ドラゴン・タイド
 
 Primordial Power
-Primordial Power
+原初の力
 
 Trident
-Trident
+トライデント
 
 Summon Guards
-Summon Guards
+サーモンガード
 
 Binding
-Binding
+バインディング
 
 Dark Realm
-Dark Realm
+ダーク・レルム
 
 Leaping Bash
-Leaping Bash
+リーピングバッシュ
 
 Crescent Slash
-Crescent Slash
+クレセントスラッシュ
 
 Black Meteor-Magic
-Black Meteor-Magic
+ブラックメテオマジック
 
 Falling Meteor-magic
-Falling Meteor-magic
+フォールディング・メテオ・マジック
 
 Meteor Firestorm-Magic
-Meteor Firestorm-Magic
+メテオファイアストーム-マジック
 
 Fire
-Fire
+火災
